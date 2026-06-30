@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Psychedelic Science — Daily Research Feed | Cepda</title>
+  <meta name="description" content="A daily, automatically curated feed of new psychedelic research and news, by Cepda (Center for Psykedelisk Dannelse)." />
+  <style>
+    :root {
+      --bg: #0f1117;
+      --card: #181b24;
+      --border: #272b37;
+      --text: #e8eaf0;
+      --muted: #9aa0b0;
+      --accent: #b58cff;
+      --accent-2: #6fd6c4;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.55;
+    }
+    header {
+      padding: 3rem 1.25rem 2rem;
+      text-align: center;
+      background: radial-gradient(120% 100% at 50% 0%, rgba(181,140,255,0.18), transparent 60%);
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 {
+      margin: 0 0 .4rem;
+      font-size: 1.9rem;
+      letter-spacing: -0.02em;
+      background: linear-gradient(90deg, var(--accent), var(--accent-2));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    header p { margin: .2rem auto; color: var(--muted); max-width: 38rem; font-size: .98rem; }
+    .meta { margin-top: 1rem; font-size: .82rem; color: var(--muted); }
+    .lang-wrap { margin-top: 1.25rem; }
+    .lang-wrap label { font-size: .8rem; color: var(--muted); margin-right: .5rem; }
+    select#lang {
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: .45rem .7rem;
+      font-size: .9rem;
+      cursor: pointer;
+    }
+    select#lang:hover { border-color: var(--accent); }
+    main { max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.25rem 1.35rem;
+      margin-bottom: 1rem;
+      transition: border-color .15s ease, transform .15s ease;
+    }
+    .card:hover { border-color: var(--accent); transform: translateY(-1px); }
+    .card h2 { margin: 0 0 .5rem; font-size: 1.12rem; line-height: 1.35; }
+    .card h2 a { color: var(--text); text-decoration: none; }
+    .card h2 a:hover { color: var(--accent); }
+    .source { font-size: .8rem; color: var(--accent-2); margin-bottom: .6rem; font-weight: 600; }
+    .summary { color: var(--text); font-size: .96rem; margin: 0; }
+    .read { display: inline-block; margin-top: .85rem; font-size: .85rem; color: var(--accent); text-decoration: none; }
+    .read:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 2rem 1.25rem 3rem; color: var(--muted); font-size: .82rem; border-top: 1px solid var(--border); }
+    footer a { color: var(--accent); text-decoration: none; }
+    .empty { text-align: center; color: var(--muted); padding: 3rem 1rem; }
+    .disclaimer { font-style: italic; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Psychedelic Science</h1>
+    <p id="tagline">A daily, automatically curated feed of new research and news on psychedelics.</p>
+    <div class="lang-wrap">
+      <label for="lang" id="lang-label">Language</label>
+      <select id="lang" aria-label="Choose language"></select>
+    </div>
+    <p class="meta" id="meta">Loading…</p>
+  </header>
+
+  <main id="feed">
+    <div class="empty">Loading the feed…</div>
+  </main>
+
+  <footer>
+    <p>By <a href="https://cepda.dk" target="_blank" rel="noopener">Cepda — Center for Psykedelisk Dannelse</a>.</p>
+    <p class="disclaimer" id="disclaimer">Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC) and may contain errors. Always check the original source.</p>
+  </footer>
+
+  <script>
+    const LANGS = [
+      { code: "en", name: "English" },
+      { code: "da", name: "Dansk" },
+    ];
+
+    const UI = {
+      en: {
+        label: "Language",
+        tagline: "A daily, automatically curated feed of new research and news on psychedelics.",
+        updated: "Last updated",
+        articles: "articles",
+        read: "Read the original source →",
+        empty: "The feed is being prepared — check back after the first run.",
+        disclaimer: "Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC) and may contain errors. Always check the original source.",
+        locale: "en-GB",
+      },
+      da: {
+        label: "Sprog",
+        tagline: "Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.",
+        updated: "Senest opdateret",
+        articles: "artikler",
+        read: "Læs den oprindelige kilde →",
+        empty: "Feedet forberedes — kom tilbage efter første kørsel.",
+        disclaimer: "Resuméerne genereres med AI fra offentlige kilder (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC) og kan indeholde fejl. Tjek altid den oprindelige kilde.",
+        locale: "da-DK",
+      },
+    };
+
+    const DEFAULT_LANG = "en";
+    let currentLang = localStorage.getItem("cepda_feed_lang") || DEFAULT_LANG;
+    if (!UI[currentLang]) currentLang = DEFAULT_LANG;
+    let feedData = { generated_at: "", items: [] };
+
+    function fmtDate(iso, locale) {
+      if (!iso) return "";
+      const d = new Date(iso);
+      if (isNaN(d)) return iso;
+      return d.toLocaleDateString(locale || "en-GB", { year: "numeric", month: "short", day: "numeric" });
+    }
+
+    function summaryFor(item, lang) {
+      if (item.summaries) return item.summaries[lang] || item.summaries.en || "";
+      return item.summary || "";
+    }
+
+    function render() {
+      const t = UI[currentLang];
+      document.documentElement.lang = currentLang;
+      document.getElementById("tagline").textContent = t.tagline;
+      document.getElementById("lang-label").textContent = t.label;
+      document.getElementById("disclaimer").textContent = t.disclaimer;
+
+      const meta = document.getElementById("meta");
+      const feed = document.getElementById("feed");
+      const items = feedData.items || [];
+
+      meta.textContent =
+        (feedData.generated_at
+          ? t.updated + " " + fmtDate(feedData.generated_at, t.locale) + " · "
+          : "") +
+        items.length + " " + t.articles;
+
+      if (!items.length) {
+        feed.innerHTML = '<div class="empty">' + t.empty + "</div>";
+        return;
+      }
+
+      feed.innerHTML = items
+        .map(
+          (it) => `
+        <article class="card">
+          <div class="source">${it.source || ""}${it.date ? " · " + it.date : ""}</div>
+          <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
+          <p class="summary">${summaryFor(it, currentLang)}</p>
+          <a class="read" href="${it.url}" target="_blank" rel="noopener">${t.read}</a>
+        </article>`
+        )
+        .join("");
+    }
+
+    const sel = document.getElementById("lang");
+    sel.innerHTML = LANGS.map((l) => `<option value="${l.code}">${l.name}</option>`).join("");
+    sel.value = currentLang;
+    sel.addEventListener("change", () => {
+      currentLang = sel.value;
+      localStorage.setItem("cepda_feed_lang", currentLang);
+      render();
+    });
+
+    fetch("./data/feed.json?cb=" + Date.now())
+      .then((r) => r.json())
+      .then((data) => {
+        feedData = data;
+        render();
+      })
+      .catch((err) => {
+        document.getElementById("feed").innerHTML =
+          '<div class="empty">Could not load the feed. Please try again later.</div>';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
