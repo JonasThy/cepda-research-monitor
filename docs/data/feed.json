@@ -1,1 +1,60 @@
-{"generated_at": "", "items": []}
+{
+  "generated_at": "2026-07-02T13:24:28.134929+00:00",
+  "items": [
+    {
+      "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
+      "source": "PubMed",
+      "date": "2026-Jun",
+      "summaries": {
+        "en": "A narrative review examining psychedelics as potential therapeutic agents for autism spectrum disorder. While psychedelics modulate serotonergic and glutamatergic signaling and enhance neuroplasticity, current evidence does not support treatment of core ASD symptoms. However, emerging evidence suggests potential benefits for associated comorbidities like anxiety and emotional dysregulation, particularly with psilocybin and ketamine. The review discusses mechanistic rationale and ethical challenges in translating these findings to clinical practice.",
+        "da": "Et narrativt review, der undersøger psykedelika som potentielle terapeutiske agenser ved autismespektrumforstyrrelser. Selvom psykedelika modulerer serotonergt og glutamatergt signalering og øger neuroplasticitet, støtter nuværende evidens ikke behandling af kernegymnastiske symptomer. Dog viser stigende evidens potentielle fordele for ledsagende komorbiditet som angst og følelsesmæssig dysregulation, især med psilocybin og ketamin. Reviewet diskuterer mekanistisk rationale og etiske udfordringer ved klinisk translation."
+      },
+      "added_at": "2026-07-02T13:23:59.512442+00:00"
+    },
+    {
+      "title": "Modeled Long-Term Effects of Psilocybin on Dynamic Activity and Effective Connectivity of Fronto-Striatal-Thalamic Circuits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42381187/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A computational modeling study of resting-state fMRI data from psilocybin-naive volunteers examined long-term brain mechanisms following a single high dose. Results showed increased fronto-striatal-thalamic circuit activity 4 weeks post-administration, driven by reduced structure-function coupling and shifts in information flow patterns. Modeling linked these changes to serotonergic and dopaminergic receptor effects, suggesting psilocybin enhances circuit flexibility through decreased cortical top-down control.",
+        "da": "En computationel modelleringsstudie af hviletilstands-fMRI-data fra psykedelika-naive frivillige undersøgte langtidsmekanismer i hjernen efter en enkelt høj dosis psilocybin. Resultater viste øget aktivitet i fronto-striatal-thalamus-kredsløb 4 uger efter administration, drevet af reduceret struktur-funktionskoblng og skift i informationsflowmønstre. Modellering forbandt disse ændringer til serotonerge og dopaminerge receptoreffekter og tyder på, at psilocybin øger kredsløbsfleksibilitet gennem reduceret cortical top-down-kontrol."
+      },
+      "added_at": "2026-07-02T13:23:59.512442+00:00"
+    },
+    {
+      "title": "Investigating the impact of serotonergic psychedelic drugs, MDMA and ketamine on social cognition in psychiatric disorders: A scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380668/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A scoping review of 20 studies examined how ketamine, MDMA, psilocybin, LSD, and ayahuasca affect social cognition in psychiatric disorders. Findings suggest ketamine and psilocybin may modulate facial emotion processing in depression, while MDMA showed improvements in self-awareness and self-compassion in PTSD. Evidence indicates psychedelics could modulate social cognition processes, though direct evidence of clinical benefit remains limited.",
+        "da": "Et scoping review af 20 studier undersøgte, hvordan ketamin, MDMA, psilocybin, LSD og ayahuasca påvirker social kognition ved psykiatriske lidelser. Resultaterne tyder på, at ketamin og psilocybin kan modulere behandling af ansigtsudtryk ved depression, mens MDMA viste forbedringer i selvbevidsthed og selvmedlidenhed ved PTSD. Evidensen indikerer, at psykedelika kunne modulere sociale kognitiv processer, selvom direkte bevis for klinisk benefit er begrænset."
+      },
+      "added_at": "2026-07-02T13:23:59.512442+00:00"
+    },
+    {
+      "title": "Study Protocol for \"Exploring the safety and therapeutic potential of psilocybin in the treatment of anorexia nervosa in adolescents and young adults\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378255/",
+      "source": "PubMed",
+      "date": "2026",
+      "summaries": {
+        "en": "The psiAN study is a phase IIa randomized controlled trial investigating psilocybin-assisted therapy for treatment-resistant anorexia nervosa in adolescents and young adults (16-35 years). Participants receive either two 25 mg psilocybin doses with psychological support plus standard treatment, or standard treatment alone. Primary outcomes assess safety and tolerability; secondary outcomes measure eating disorder symptom severity, relapse rates, mood, and well-being through 12-month follow-up. Neurobiological mechanisms are explored via fMRI and biomarkers.",
+        "da": "Undersøgelsen psiAN er et fase IIa randomiseret kontrolleret forsøg, der udforsker psykedelika-assisteret terapi for behandlingsresistent anoreksia nervosa hos unge (16-35 år). Deltagere modtager enten to doser á 25 mg psykedelika med psykologisk støtte plus standardbehandling eller kun standardbehandling. Primære resultater vurderer sikkerhed og tolerabilitet; sekundære resultater måler spiseforstyrrelses-symptomer, tilbagefald og velbefindende gennem 12 måneders opfølgning. Neurologiske mekanismer undersøges via hjernescanning og biomarkører."
+      },
+      "added_at": "2026-07-02T13:23:59.512442+00:00"
+    },
+    {
+      "title": "Esketamine multi-omic biomarker evaluation in major depressive disorder (EMBER-MDD): concept, objectives and methodologies of a non-clinical investigator-initiated study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377483/",
+      "source": "PubMed",
+      "date": "2026-Jun",
+      "summaries": {
+        "en": "EMBER-MDD is a non-interventional, in-vitro study analyzing biospecimens from ~420 adults with major depressive disorder to identify multi-omic biomarkers associated with treatment resistance and response to esketamine nasal spray versus treatment as usual. Using genomics, epigenomics, transcriptomics, and proteomics/metabolomics on blood samples collected at baseline and during/after treatment, the study aims to discover molecular signatures predicting treatment outcomes.",
+        "da": "EMBER-MDD er en ikke-interventionel in-vitro-undersøgelse, der analyserer biologiske prøver fra cirka 420 voksne med alvorlig depression for at identificere multi-omiske biomarkører forbundet med behandlingsresistens og respons på esketamin-næsespray versus standard behandling. Ved hjælp af genomik, epigenomik, transkriptomik og proteomik/metabolomik på blodprøver indsamlet før og under/efter behandling sigter studiet på at opdage molekylære signaturer, der forudsiger behandlingsresultater."
+      },
+      "added_at": "2026-07-02T13:23:59.512442+00:00"
+    }
+  ]
+}
