@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-07-03T13:23:52.131510+00:00",
+  "generated_at": "2026-07-04T11:54:27.127880+00:00",
   "items": [
+    {
+      "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Ibogaine, a naturally occurring alkaloid, shows therapeutic promise for substance use disorders, trauma, mood disorders, and suicidality, but clinical development faces safety and regulatory challenges. Researchers propose two complementary strategies: developing ibogaine analogs that preserve broad polypharmacological effects while reducing safety risks, and creating selective 'bespoke' compounds targeting specific conditions like opioid use disorder or PTSD. The review evaluates evidence for each approach and discusses trade-offs regarding safety, efficacy, and scalability, emphasizing the critical role of pharmacogenetics and individual variability in treatment outcomes.",
+        "da": "Ibogain, et naturligt alkaloid, viser terapeutisk potentiale for stoffmisbrug, trauma, humørstoornelser og selvmordsfaren, men klinisk udvikling møder sikkerhed og regulatoriske udfordringer. Forskere foreslår to komplementære strategier: udvikling af ibogain-analoga, der bevarer bredt virkende effekter samtidig med at reducere sikkerhedsrisici, og skabelse af selektive 'skræddersyede' forbindelser målrettet specifikke tilstande som opioid-afhængighed eller PTSD. Reviewet evaluerer evidens for hver tilgang og diskuterer kompromiser vedrørende sikkerhed, effektivitet og skalerbarhed, med vægt på farmakogenetik og individuel variation."
+      },
+      "added_at": "2026-07-04T11:54:16.001954+00:00"
+    },
+    {
+      "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This review examines mitochondrial dysfunction and neuroinflammation as central mechanisms in major depressive disorder (MDD). Mitochondrial abnormalities—including impaired energy production, compromised quality control, and redox imbalance—activate inflammatory pathways, creating a self-reinforcing cycle. Conventional antidepressants gradually restore mitochondrial function, while rapid-acting agents like ketamine trigger acute metabolic reprogramming. Emerging evidence supports mitochondria-targeted interventions, including antioxidants, metabolic modulators, and psychedelics, as therapeutically promising approaches.",
+        "da": "Dette review undersøger mitokondriefunktionsforstyrrelser og neuroinflamation som centrale mekanismer i depression. Mitokondriefejl—herunder nedsat energiproduktion, påvirket kvalitetskontrol og redox-ubalance—aktiverer inflammatoriske veje og skaber en selvforstærkende cykel. Konventionelle antidepressiva genopretter gradvist mitokondriefunktion, mens hurtigvirkende midler som ketamin udløser akut metabolsk omprogrammering. Stigende evidens understøtter mitokondrie-målrettede interventioner, inklusiv antioxidanter, metabolske modulatorer og psykedelika, som terapeutisk lovende tilgange."
+      },
+      "added_at": "2026-07-04T11:54:16.001954+00:00"
+    },
+    {
+      "title": "Rapid clinical improvement after intravenous ketamine in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398266/",
+      "source": "PubMed",
+      "date": "2026-Jun",
+      "summaries": {
+        "en": "Case report documenting rapid clinical improvement in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome following intravenous ketamine administration. The case illustrates ketamine's potential therapeutic effects in complex comorbid presentations resistant to conventional antidepressant treatment.",
+        "da": "Casusrapport, der dokumenterer hurtig klinisk forbedring hos en adolescent med behandlingsresistent depression, svær overvægt og pseudo-Cushings syndrom efter intravenøs ketamin. Casusen illustrerer ketamins potentielle terapeutiske effekt ved komplekse komorbiditeter, der er resistente over for konventionel antidepressiv behandling."
+      },
+      "added_at": "2026-07-04T11:54:16.001954+00:00"
+    },
     {
       "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
