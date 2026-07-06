@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-07-05T12:05:01.615035+00:00",
+  "generated_at": "2026-07-06T17:30:48.037657+00:00",
   "items": [
+    {
+      "title": "Ketamine alters the aperiodic EEG exponent in major depression: implications for cortical E/I balance and treatment prediction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403511/",
+      "source": "PubMed",
+      "date": "2026",
+      "summaries": {
+        "en": "A placebo-controlled study of 24 MDD patients examined whether subanesthetic ketamine modulates the EEG aperiodic exponent, a potential biomarker of cortical excitation-inhibition balance. Patients received IV ketamine (0.54 mg/kg) with resting-state EEG recorded pre-, during, and 24h post-infusion. Ketamine significantly reduced the aperiodic exponent across scalp regions. Higher pretreatment occipital exponent values predicted treatment response (≥33% symptom reduction). These findings suggest the aperiodic exponent may serve as a non-invasive biomarker for predicting ketamine response in treatment-resistant depression.",
+        "da": "Et placebo-kontrolleret studie med 24 MDD-patienter undersøgte, om subanæstetisk ketamin modulerer EEG's aperiodiske eksponent, en potentiel biomarkør for kortikalbalance mellem eksitation og inhibition. Patienterne fik IV ketamin (0,54 mg/kg) med EEG-måling før, under og 24 timer efter infusion. Ketamin reducerede signifikant den aperiodiske eksponent på tværs af skalpen. Højere præbehandlings-eksponentværdier i okciputalregionen forudsagde behandlingssvar (≥33% symptomreduktion). Disse fund tyder på, at den aperiodiske eksponent kan fungere som en ikke-invasiv biomarkør til forudsigelse af ketamins effekt ved behandlingsresistent depression."
+      },
+      "added_at": "2026-07-06T17:30:34.468583+00:00"
+    },
+    {
+      "title": "Effectiveness and safety of repeat dose subcutaneous ketamine for treatment-resistant depression, and the impact of prior ketamine treatment: open label extension of the KADS study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403004/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Open-label extension of the KADS trial evaluated repeated subcutaneous ketamine for treatment-resistant depression. 130 participants received a 4-week course of racemic ketamine (0.5–0.9 mg/kg twice-weekly). Response rates were modest: 30% at treatment end and 17% at 4-week follow-up. Prior ketamine exposure showed transient reduced initial response but similar long-term outcomes. Over 50% achieved less than 25% symptom reduction, suggesting limited effectiveness in this population.",
+        "da": "Open-label extension af KADS-studiet evaluerede gentagen subkutan ketamin til behandlingsresistent depression. 130 deltagere modtog et 4-ugers forløb med racemisk ketamin (0,5–0,9 mg/kg to gange ugentligt). Responsrater var modest: 30% ved behandlingens afslutning og 17% ved 4-ugers opfølgning. Tidligere ketamin-eksponering viste forbigående reduceret initialrespons men lignende langsigtede resultater. Over 50% opnåede mindre end 25% symptomreduktion, hvilket tyder på begrænset effektivitet i denne population."
+      },
+      "added_at": "2026-07-06T17:30:34.468583+00:00"
+    },
+    {
+      "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This study examined kynurenine pathway metabolites as potential biomarkers for ketamine response in treatment-resistant depression. Thirty patients received six intravenous ketamine infusions over three weeks, with serum metabolites measured at baseline, day 3, and day 18. Higher baseline kynurenic acid levels were associated with greater symptom improvement on the Montgomery-Åsberg Depression Rating Scale, suggesting the kynurenine pathway may help identify patients most likely to benefit from ketamine treatment.",
+        "da": "Studiet undersøgte kynurenin-stofvekselsproduker som potentielle biomarkører for ketamins virkning ved behandlingsresistent depression. Tredive patienter modtog seks intravenøse ketamin-infusioner over tre uger, med målinger af serum-stofveksler på dag 1, dag 3 og dag 18. Højere basale niveauer af kynurensyre var forbundet med større symptomforbedring på Montgomery-Åsberg Depression Rating Scale, hvilket indikerer, at kynurenin-stofvekselen kan hjælpe med at identificere patienter, der mest sandsynligt vil profitere af ketamin-behandling."
+      },
+      "added_at": "2026-07-06T17:30:34.468583+00:00"
+    },
     {
       "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",
