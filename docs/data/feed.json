@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-07-08T12:08:29.526774+00:00",
+  "generated_at": "2026-07-09T16:18:35.277199+00:00",
   "items": [
+    {
+      "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422525/",
+      "source": "PubMed",
+      "date": "2026",
+      "summaries": {
+        "en": "This qualitative study embedded in an open-label pilot trial examined 14 participants' experiences of ketamine-assisted psychotherapy (KAP) for methamphetamine use disorder through semi-structured interviews. Thematic analysis identified four key themes: pragmatic openness to treatment after prior limited success, importance of relational safety and clinical support, reduced emotional reactivity following ketamine sessions, and translation of psychological shifts into behavioural change. Findings illuminate perceived mechanisms and acceptability of KAP for this undertreated condition.",
+        "da": "Dette kvalitative studie, indlejret i et åbent pilotstudie, undersøgte 14 deltageres erfaringer med ketamin-assisteret psykoterapi (KAP) for metamfetaminbrug gennem semi-strukturerede interviews. Tematisk analyse identificerede fire centrale temaer: pragmatisk åbenhed over for behandling efter tidligere begrænset succes, betydningen af relationel sikkerhed og klinisk support, reduceret følelsesmæssig reaktivitet efter ketaminsessioner og omsætning af psykologiske skift til adfærdsændringer. Fundet belyser oplevede virkningsmekanismer og acceptabilitet af KAP for denne undertreatet tilstand."
+      },
+      "added_at": "2026-07-09T16:18:20.008601+00:00"
+    },
+    {
+      "title": "Psychedelics in Mental Health: Opportunities and Challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421650/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A Brain and Behavior special issue examines psychedelics and substance-assisted therapies for treatment-resistant depression, PTSD, and substance use disorders. While early efficacy trials show promise, key questions persist regarding mechanisms, psychological support, safety, and ethics. The collection emphasizes that psychedelic therapy extends beyond pharmacology: therapeutic relationships, preparation, integration, and cultural context significantly shape outcomes. Contributors stress that subjective experience and meaning-making are central to therapeutic change, not incidental features.",
+        "da": "Et særnummer af Brain and Behavior undersøger psykedelika og stoffassisteret terapi for behandlingsresistent depression, PTSD og stoffmisbrug. Selvom tidlige effektivitetsstudier viser lovende resultater, gennemgår området store udfordringer omkring mekanismer, psykologisk support, sikkerhed og etik. Samlingen understreger, at psykedelika-terapi går ud over farmakologi: terapeutiske relationer, forberedelse, integration og kulturel kontekst former væsentligt resultaterne. Bidragyderne fremhæver, at subjektiv erfaring og meningsudvikling er centrale for terapeutisk forandring."
+      },
+      "added_at": "2026-07-09T16:18:20.008601+00:00"
+    },
+    {
+      "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420418/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Multi-centre PET study using Bayesian re-analysis examining serotonin 1B receptor binding following ketamine and electroconvulsive therapy. Both treatments showed convergent increases in receptor binding, suggesting shared neurobiological mechanisms despite different administration routes. Findings support the role of serotonergic systems in treatment response for depression.",
+        "da": "Multi-center PET-studie med Bayesiansk re-analyse af serotoninbinding til 1B-receptorer efter ketamin og elektrokonvulsiv terapi. Begge behandlinger viste sammenfaldende stigning i receptorbinding, hvilket tyder på delte neurobiologiske mekanismer på trods af forskellige administrationsveje. Resultaterne understøtter serotonerge systemers rolle i behandlingsrespons ved depression."
+      },
+      "added_at": "2026-07-09T16:18:20.008601+00:00"
+    },
+    {
+      "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420418/",
+      "source": "EuropePMC (Denmark)",
+      "date": "2026-07-08",
+      "summaries": {
+        "en": "Multi-centre PET study (n=222) using [11C]AZ10419369 examined serotonin 1B receptor binding in depression patients before and after ketamine (n=19), placebo (n=10), or ECT (n=13). Hierarchical Bayesian analysis revealed significant increases in binding following ketamine (6.4%, 95% CI: 3.1-9.6%) and ECT (9.3%, 95% CI: 4.3-14.2%), both distinguishable from placebo. Changes were independent of symptom improvement, suggesting serotonergic mechanisms may contribute to these treatments' antidepressive effects.",
+        "da": "Multicenterstudie (n=222) med PET-scanning [11C]AZ10419369 undersøgte serotoninbindinger hos depressionspatienters før og efter ketamin (n=19), placebo (n=10) eller ECT (n=13). Hierarkisk Bayesiansk analyse viste signifikante stigninger i bindinger efter ketamin (6,4%, 95% CI: 3,1-9,6%) og ECT (9,3%, 95% CI: 4,3-14,2%), begge skelnes fra placebo. Ændringer var uafhængige af symptomforbedring, hvilket antyder, at serotonerge mekanismer kan bidrage til disse behandlingers antidepressive effekter."
+      },
+      "added_at": "2026-07-09T16:18:20.008601+00:00"
+    },
     {
       "title": "CSF galanin and noradrenaline downregulation by psilocybin therapy in major depressive disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42414566/",
