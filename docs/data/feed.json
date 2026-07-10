@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-09T16:18:35.277199+00:00",
+  "generated_at": "2026-07-10T16:07:27.148464+00:00",
   "items": [
+    {
+      "title": "Psychedelics and the thalamocortical system: A scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This scoping review (PRISMA method) synthesizes preclinical and clinical evidence on psychedelics' effects on the thalamocortical system. Psychedelics show therapeutic promise for depression, trauma, OCD, and other conditions. Since psychiatric disorders like schizophrenia and autism involve thalamocortical alterations, understanding how psychedelics (NMDA antagonists, 5-HT2A agonists, iboga alkaloids) modulate this system is crucial for both neurobiology and clinical applications.",
+        "da": "Dette scoping review (PRISMA-metoden) opsummerer præklinisk og klinisk evidens for psykedelikas effekter på det thalamocorticale system. Psykedelika viser terapeutisk potentiale for depression, trauma, OCD og andre tilstande. Da psykiatriske lidelser som skizofreni og autisme involverer thalamocorticale ændringer, er forståelse af hvordan psykedelika (NMDA-antagonister, 5-HT2A-agonister, iboga-alkaloider) modulerer dette system afgørende for neurobiologi og klinisk praksis."
+      },
+      "added_at": "2026-07-10T16:07:18.583495+00:00"
+    },
+    {
+      "title": "Personality changes following first-time psychedelic use in college students in Germany.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426381/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A one-year longitudinal study of 102 first-time psychedelic users and 1066 never-users among Berlin university students examined personality changes using the Big Five Inventory. First-time users showed small relative increases in Openness and decreases in Conscientiousness, though effects were attenuated after adjusting for confounders (Openness p=0.06, Conscientiousness p=0.05, both FDR-adjusted p=0.16). Changes were not clearly distinct from first-time use of other illicit substances. Users with psychiatric diagnoses showed larger Neuroticism reductions. Results suggest modest personality shifts following first-time psychedelic use with limited causal interpretability.",
+        "da": "Et etårigt longitudinelt studie af 102 førstegangsbrugere af psykedelika og 1066 aldrig-brugere blandt Berlins universitetsstuderende undersøgte personlighedsændringer via Big Five Inventory. Førstegangsbrugere viste små relative stigninger i Åbenhed og fald i Samvittighedsfuldhed, selvom effekterne blev mindre efter justering for forstyrrelsesfaktorer (Åbenhed p=0,06, Samvittighedsfuldhed p=0,05, begge FDR-justeret p=0,16). Ændringer var ikke klart forskellige fra førstegangsbrugelse af andre illegale stoffer. Brugere med psykiatriske diagnoser viste større Neuroticism-reduktioner. Resultater tyder på beskedne personlighedsændringer efter førstegangs psykedelika-brug med begrænset kausal tolkbarhed."
+      },
+      "added_at": "2026-07-10T16:07:18.583495+00:00"
+    },
     {
       "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42422525/",
