@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-10T16:07:27.148464+00:00",
+  "generated_at": "2026-07-11T10:45:49.513889+00:00",
   "items": [
+    {
+      "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Treatment-resistant depression (TRD) requires novel interventions beyond conventional antidepressants. A recent review examines psilocybin-assisted therapy, which combines 5-HT2A receptor agonism with structured psychological support in supervised sessions. Early randomized trials show rapid symptom reduction and promising short-term remission rates, though evidence in TRD populations remains limited. Key questions persist: durability beyond weeks, safety of repeated dosing, and comparative efficacy versus established TRD treatments (esketamine, ECT, TMS). Modest sample sizes and short follow-up periods constrain current evidence.",
+        "da": "Behandlingsresistent depression (TRD) kræver nye interventioner ud over konventionelle antidepressiva. En recent review undersøger psykedelika-assisteret terapi, som kombinerer 5-HT2A-receptoragonisme med struktureret psykologisk support i overvågede sessioner. Tidlige randomiserede forsøg viser hurtig symptomreduktion og lovende kortsigtede remissionsrater, skønt evidensen i TRD-populationer forbliver begrænset. Vigtige spørgsmål består: varighed efter uger, sikkerhed ved gentagen dosering og sammenlignet effektivitet mod etablerede TRD-behandlinger (esketamin, ECT, TMS). Beskedne stikprøvestørrelser og kort opfølgning begrænser nuværende evidens."
+      },
+      "added_at": "2026-07-11T10:45:41.645213+00:00"
+    },
+    {
+      "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42432011/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A review examining how classical psychedelics (LSD, psilocybin, DMT, mescaline) and ketamine produce lasting neuroplastic changes through epigenetic mechanisms. The study synthesizes evidence on how these compounds alter DNA methylation, histone modifications, chromatin structure, and non-coding RNA dynamics. The authors propose that psychedelics modulate metabolic pathways affecting epigenetic cofactors, potentially driving persistent transcriptional changes and enhanced synaptic connectivity underlying their therapeutic effects, though direct causal evidence remains limited.",
+        "da": "En oversigt over, hvordan klassiske psykedelika (LSD, psilocybin, DMT, meskalin) og ketamin producerer varige neuroplastiske ændringer gennem epigenetiske mekanismer. Studiet syntetiserer evidens for, hvordan disse stoffer påvirker DNA-methylering, histonmodifikationer, kromatingstruktur og non-coding RNA-dynamik. Forfatterne foreslår, at psykedelika modulerer metaboliske veje, som påvirker epigenetiske kofaktorer, potentielt drivende vedvarende transkriptionelle ændringer og øget synaptisk forbindelse bag deres terapeutiske virkninger, selvom direkte kausal evidens mangler."
+      },
+      "added_at": "2026-07-11T10:45:41.645213+00:00"
+    },
     {
       "title": "Psychedelics and the thalamocortical system: A scoping review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
