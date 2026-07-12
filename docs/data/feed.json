@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-11T10:45:49.513889+00:00",
+  "generated_at": "2026-07-12T11:35:34.062491+00:00",
   "items": [
+    {
+      "title": "Brain-targeted epigenetic effects of two emerging psychoplastogens: ketamine & MDMA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436129/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A brain-epigenome-wide association study examined DNA methylation changes in clinical trial participants following ketamine (N=20) or MDMA (N=16) treatment. Repeated-measures linear mixed-effects models identified 405 and 346 significantly altered genes respectively, with enriched functional networks converging on neuroplasticity and neuroimmune regulation pathways. These findings demonstrate that psychedelics induce peripheral epigenetic changes relevant to psychiatric health mechanisms.",
+        "da": "Et hjerne-epigenomvidt associationsstudie undersøgte DNA-methyleringsændringer hos kliniske forsøgsdeltagere efter behandling med ketamin (N=20) eller MDMA (N=16). Gentagne målinger med lineære blandingsmodeller identificerede henholdsvis 405 og 346 signifikant ændrede gener med funktionelle netværk, der konvergerede på neuro­plasticitets- og neuroimmun-reguleringsveje. Resultaterne viser, at psykedelika inducerer perifere epigenetiske ændringer relevante for psykiatriske sundhedsmekanismer."
+      },
+      "added_at": "2026-07-12T11:35:26.237897+00:00"
+    },
+    {
+      "title": "Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436172/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A preliminary study (n=5) examined MDMA-assisted therapy for trauma symptoms related to discrimination using the Trauma Symptoms of Discrimination Scale (TSDS). Paired-samples t-test showed significant 38% reduction in TSDS scores post-treatment (t(4)=2.85, p=.046) with large effect size (Cohen's d=1.28). Participants reported marked improvements across diverse discrimination histories and racial/ethnic identities. Results suggest psychedelics-assisted therapy may effectively treat discrimination-related trauma in marginalized populations, though findings require replication in larger cohorts.",
+        "da": "En foreløbig undersøgelse (n=5) undersøgte MDMA-assisteret terapi for traumesymptomer relateret til diskrimination ved hjælp af Trauma Symptoms of Discrimination Scale (TSDS). Parret t-test viste signifikant 38% reduktion i TSDS-scorer efter behandling (t(4)=2,85, p=,046) med stor effektstørrelse (Cohen's d=1,28). Deltagere rapporterede markante forbedringer på tværs af forskelligartede diskriminationshistorier og etniske identiteter. Resultater tyder på, at psykedelika-assisteret terapi kan effektivt behandle diskriminationsrelateret trauma hos marginaliserede befolkningsgrupper, selvom resultaterne kræver replikering i større kohort."
+      },
+      "added_at": "2026-07-12T11:35:26.237897+00:00"
+    },
     {
       "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
