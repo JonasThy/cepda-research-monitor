@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-12T11:35:34.062491+00:00",
+  "generated_at": "2026-07-13T16:16:07.317641+00:00",
   "items": [
+    {
+      "title": "Enhancing plasticity to treat depression and other central nervous system diseases using event-driven pharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42438931/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Event-driven pharmacology (EDP) proposes that acute effects of plastogens—drugs causing transient receptor binding—drive sustained neuroplastic changes outlasting drug exposure. Unlike traditional occupancy-driven models targeting stable receptor occupancy, plastogens including ketamine and classical psychedelics produce long-lasting neural plasticity and metaplasticity from single or intermittent doses. This review suggests optimizing plastogens for conventional target occupancy may paradoxically reduce therapeutic benefits while increasing side effects, challenging standard psychopharmacology approaches to depression and CNS disorders.",
+        "da": "Event-driven farmakologi (EDP) foreslår, at akutte effekter af plasogener—stoffer med transiøre receptorbindinger—driver vedvarende neuroplastiske ændringer, der varer længere end stofeksponering. I modsætning til traditionelle modeller målrettet stabil receptorbesat, producerer plasogener som ketamin og klassiske psykedelika lang varende neuroplasticitet fra enkelte eller intermitterende doser. Denne artikel foreslår, at optimering af plasogener efter konventionel receptorbesat paradoksalt kan reducere terapeutiske fordele og øge bivirkninger, hvilket stiller spørgsmålstegn ved standardmetoder i psykofarmakologi for depression og CNS-sygdomme."
+      },
+      "added_at": "2026-07-13T16:15:55.590363+00:00"
+    },
+    {
+      "title": "FDA Issues Final Psychedelics Guidance, Schedules September Hearing on the Future of Psychedelic Therapies",
+      "url": "https://psychedelicalpha.com/news/fda-issues-final-psychedelics-guidance-schedules-september-hearing-on-the-future-of-psychedelic-therapies/",
+      "source": "Psychedelic Alpha",
+      "date": "Mon, 13 Ju",
+      "summaries": {
+        "en": "The FDA released final guidance in 2023 on clinical investigations of psychedelics, covering nonclinical research, chemistry, manufacturing, controls, clinical study design, and abuse potential assessment. After three years of stakeholder feedback review, the agency scheduled a September hearing to discuss the future of psychedelic therapies, signaling movement toward structured regulatory frameworks for this emerging field.",
+        "da": "FDA udsendte endelig vejledning i 2023 om kliniske undersøgelser af psykedelika, omfattende præklinisk forskning, kemi, produktion, kontrol, klinisk studiedesign og vurdering af misbrug. Efter tre års behandling af feedback fra interessenter planlagde myndigheden en septemberhøring om fremtiden for psykedelikaterapi, hvilket signalerer fremskridt mod strukturerede reguleringsrammer."
+      },
+      "added_at": "2026-07-13T16:15:55.590363+00:00"
+    },
     {
       "title": "Brain-targeted epigenetic effects of two emerging psychoplastogens: ketamine & MDMA.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436129/",
