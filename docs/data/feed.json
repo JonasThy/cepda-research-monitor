@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-07-15T12:06:50.254397+00:00",
+  "generated_at": "2026-07-16T12:11:36.924572+00:00",
   "items": [
+    {
+      "title": "Psilocybin's effect on human brain synaptic plasticity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A randomized study of 15 healthy participants examined whether a single psilocybin dose (0.3 mg/kg) increases synaptic density using [¹¹C]UCB-J PET imaging at baseline and one week post-dose. While no significant overall increase in synaptic vesicle density occurred, participants in a therapeutic-like setting reported more intense mystical experiences, greater psychological benefits, and larger synaptic density increases than those dosed in an MRI scanner. These results suggest environmental context modulates psilocybin's neuroplastic effects.",
+        "da": "En randomiseret undersøgelse af 15 raske deltagere undersøgte, om en enkelt psilocybin-dosis (0,3 mg/kg) øger synaptisk densitet ved hjælp af [¹¹C]UCB-J PET-billeddannelse ved baseline og en uge efter dosering. Selvom der ikke blev påvist signifikant samlet stigning i synaptisk vesikel-densitet, rapporterede deltagere i terapilignende miljø mere intense mystiske oplevelser, større psykologiske fordele og større stigning i synaptisk densitet end dem, der blev doseret i en MR-scanner. Resultaterne tyder på, at miljøkontekst modulerer psilocybins neuroplastiske virkninger."
+      },
+      "added_at": "2026-07-16T12:11:21.496095+00:00"
+    },
+    {
+      "title": "Ketamine use disorder: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42459236/",
+      "source": "PubMed",
+      "date": "2025-Sep",
+      "summaries": {
+        "en": "This case report documents ketamine use disorder in a clinical setting. The study presents clinical observations of ketamine dependence, contributing to the understanding of problematic use patterns and potential diagnostic criteria for ketamine use disorder.",
+        "da": "Denne kasuistik dokumenterer ketamin-misbrug i klinisk sammenhæng. Studiet præsenterer kliniske observationer af ketaminafhængighed og bidrager til forståelsen af problematiske brugsmønstre og potentielle diagnostiske kriterier for ketaminmisbrug."
+      },
+      "added_at": "2026-07-16T12:11:21.496095+00:00"
+    },
+    {
+      "title": "Psychedelics Trials and Outcomes- A Closer Look.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455590/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This PubMed article examines clinical trial outcomes for psychedelics, analyzing study designs and efficacy data across therapeutic applications. The review synthesizes evidence from multiple trials to evaluate safety and effectiveness profiles, providing a systematic overview of the current research landscape in psychedelic-assisted treatments.",
+        "da": "Denne PubMed-artikel undersøger kliniske forsøgsresultater med psykedelika og analyserer studiedesign og effektivitetsdata på tværs af terapeutiske anvendelser. Reviewet syntetiserer evidens fra multiple forsøg for at evaluere sikkerhed og effektivitet, og giver et systematisk overblik over det nuværende forskningslandskab inden for psykedelika-assisteret behandling."
+      },
+      "added_at": "2026-07-16T12:11:21.496095+00:00"
+    },
+    {
+      "title": "Psychedelics Trials and Outcomes-A Closer Look.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455578/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This PubMed-indexed review examines clinical trial methodologies and outcomes in psychedelic research. The article provides a systematic analysis of study designs used to evaluate therapeutic efficacy of psychedelics across psychiatric conditions, offering researchers and clinicians insights into evidence quality and trial standardization in the field.",
+        "da": "Dette PubMed-indekserede review undersøger kliniske forsøgsmetodologier og resultater inden for psykedelika-forskning. Artiklen giver en systematisk analyse af studiedesign anvendt til vurdering af psykedelikas terapeutiske effekt ved psykiatriske tilstande og tilbyder indsigt i evidenskvalitet og forsøgsstandardisering."
+      },
+      "added_at": "2026-07-16T12:11:21.496095+00:00"
+    },
+    {
+      "title": "From Schedule I to the Clinic-Insights Into Psychedelic Drug Development From GHB.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455552/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This viewpoint examines sodium oxybate (GHB) as a case study for how Schedule I substances, including psychedelics, can navigate regulatory pathways toward clinical approval. The analysis offers insights into potential development routes for psychedelic therapeutics.",
+        "da": "Denne artikel analyserer natriumoxybat (GHB) som eksempel på, hvordan Schedule I-stoffer, herunder psykedelika, kan følge regulatoriske veje mod klinisk godkendelse. Analysen belyser potentielle udviklingsveje for psykedelisk terapi."
+      },
+      "added_at": "2026-07-16T12:11:21.496095+00:00"
+    },
     {
       "title": "Micro-phenomenology of immersion and perceived presences under DMT.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42454183/",
