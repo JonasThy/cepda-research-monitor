@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-07-16T12:11:36.924572+00:00",
+  "generated_at": "2026-07-17T11:55:11.340696+00:00",
   "items": [
+    {
+      "title": "Integrated 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Study using neural stem cell-derived in vitro model investigated how serotonergic psychedelics promote neuroplasticity. Researchers tested tryptamines, phenethylamines, and ergolines alongside ketamine and TrkB agonists, measuring dendritogenesis, synaptogenesis, gene induction, and BDNF expression. TrkB silencing blocked dendritogenic effects of psychedelics, suggesting this pathway links acute effects to longer-term neuroplastic responses.",
+        "da": "Studie med in vitro-model udviklet fra neurale stamceller undersøgte, hvordan serotonerg psykedelika fremmer neuroplasticitet. Forskerne testede tryptaminer, phenethylaminer og ergolines sammen med ketamin og TrkB-agonister og målte dendritogenese, synaptogenese, genaktivering og BDNF-udtryk. TrkB-stilleslukning blokerede psykedelikas dendritogene effekter og tyder på, at denne vej forbinder akutte effekter til længerevarende neuroplastiske reaktioner."
+      },
+      "added_at": "2026-07-17T11:54:57.740774+00:00"
+    },
+    {
+      "title": "Serum brain-derived neurotrophic factor following oral esketamine in treatment-resistant depression: Results from a randomized placebo-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462931/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A randomized placebo-controlled trial examined serum BDNF levels in 54 treatment-resistant depression patients receiving six weeks of daily oral esketamine (90 mg/day) versus placebo. While the primary outcome showed no difference between groups, BDNF increased over time regardless of treatment condition. Notably, BDNF changes did not correlate with depression symptom improvement in the esketamine group, questioning BDNF as a biomarker for antidepressant response in this dosing regimen.",
+        "da": "Et randomiseret placebo-kontrolleret forsøg undersøgte serumkoncentrationer af BDNF hos 54 patienter med behandlingsresistent depression, der modtog seks ugers daglig oral esketamin (90 mg/dag) eller placebo. Selvom primærudfald viste ingen forskel mellem grupperne, steg BDNF over tid uafhængigt af behandling. Vigtigst: BDNF-ændringer korrelerede ikke med depressionsymptomer i esketamingruppen, hvilket sætter spørgsmålstegn ved BDNF som biomarkør for psykedelikas antidepressive effekt ved denne dosering."
+      },
+      "added_at": "2026-07-17T11:54:57.740774+00:00"
+    },
+    {
+      "title": "UK's regulatory and legislative double standards in the treatment of psychedelics and drugs for assisted suicide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464460/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This editorial examines regulatory inconsistencies in UK drug policy. It argues that assisted suicide medications would receive expedited approval despite limited evidence, while psychedelics face restrictive scheduling despite promising international clinical research. The author advocates for consistent regulatory standards: assisted suicide drugs should undergo standard approval procedures, and psychedelics should be rescheduled to facilitate further clinical investigation.",
+        "da": "Dette redaktionelt stykke undersøger regulatoriske inkonsistenser i britisk narkotikapolitik. Det argumenterer for, at medicin til assisteret selvmord ville modtage hurtigspor-godkendelse på trods af begrænset evidens, mens psykedelika møder restriktiv klassificering trods lovende international klinisk forskning. Forfatteren argumenterer for konsistente regulatoriske standarder: assisteret selvmord-medicin bør gennemgå standard godkendelsesprocedurer, og psykedelika bør omklassificeres for at facilitere yderligere klinisk undersøgelse."
+      },
+      "added_at": "2026-07-17T11:54:57.740774+00:00"
+    },
+    {
+      "title": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion",
+      "url": "https://psychedelicalpha.com/news/breaking-worlds-largest-pharmaceutical-company-eli-lilly-acquires-5-meo-dmt-developer-ataibeckley-for-up-to-3-8-billion/",
+      "source": "Psychedelic Alpha",
+      "date": "Thu, 16 Ju",
+      "summaries": {
+        "en": "Eli Lilly, a major pharmaceutical company, has acquired AtaiBeckley, a developer of 5-MeO-DMT-based therapeutics, for up to $3.8 billion. This acquisition reflects growing pharmaceutical interest in psychedelics as potential treatments, though clinical efficacy and regulatory pathways remain under investigation.",
+        "da": "Eli Lilly, et større medicinalselskab, har erhvervet AtaiBeckley, en udvikler af 5-MeO-DMT-baserede behandlinger, for op til 3,8 milliarder dollars. Opkøbet afspejler stigende farmaceutisk interesse i psykedelika som potentielle terapier, selvom klinisk effektivitet og regulatoriske veje stadig undersøges."
+      },
+      "added_at": "2026-07-17T11:54:57.740774+00:00"
+    },
     {
       "title": "Psilocybin's effect on human brain synaptic plasticity.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
