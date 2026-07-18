@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-07-17T11:55:11.340696+00:00",
+  "generated_at": "2026-07-18T10:50:49.887657+00:00",
   "items": [
+    {
+      "title": "Clinical guidance on the use of esketamine nasal spray for patients with treatment resistant depression: A European Delphi consensus report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468081/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A 3-round Delphi consensus panel of 30 European psychiatrists established clinical guidance for esketamine nasal spray in treatment-resistant depression. Key findings: modest symptom improvements during acute phase (4-12 weeks) justify continuation, particularly in patients with long disease duration or multiple prior treatment failures. Weekly 84 mg dosing is recommended to optimize outcomes. Continuation phase monitoring should track residual symptoms, functional recovery, and comorbidities. Dose escalation is supported for persistent residual symptoms, with maintenance treatment duration (≥12 months) depending on clinical worsening upon tapering.",
+        "da": "Et 3-runders Delphi-konsensuspanel af 30 europæiske psykiatere etablerede klinisk vejledning for esketamin-næsespray ved behandlingsresistent depression. Vigtige fund: beskedne symptomforbedringer i akut fase (4-12 uger) retfærdiggør fortsættelse, især hos patienter med lang sygdomsvarighed eller tidligere svigt på flere behandlinger. Ugentlig 84 mg dosering anbefales for at optimere resultater. Overvågning i fortsættelsesfasen bør fokusere på resterende symptomer, funktionel bedring og komorbiditeter. Doseskalering understøttes ved vedvarende restsymptomer, med vedligeholdelsestrategiens varighed (≥12 måneder) afhængig af klinisk forværring ved nedtrapning."
+      },
+      "added_at": "2026-07-18T10:50:35.185557+00:00"
+    },
+    {
+      "title": "Emerging pharmacological and neuromodulation interventions for suicidal ideation and behaviour.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468074/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A narrative review of 34 studies (22 pharmacological, 12 neuromodulation) examined emerging interventions for suicidal ideation and attempts. Controlled trials showed improvements within days to weeks, with some evidence suggesting effects independent of depression changes. NMDA-related drugs, opioid-system modulators, ayahuasca, and pimavanserin showed encouraging results, while vortioxetine and zolpidem showed smaller effects. Observational data supported associations with folic acid, benztropine, and testosterone initiation in transgender adults.",
+        "da": "Et narrativt review af 34 studier (22 farmakologiske, 12 neuromodulation) undersøgte nye interventioner mod suicidal ideation og selvmordsforsøg. Kontrollerede forsøg viste forbedringer inden for dage til uger, med delvist uafhængige effekter fra depression. NMDA-relaterede lægemidler, psykedelika, opioid-system modulatorer og pimavanserin viste lovende resultater, mens vortioxetin og zolpidem viste mindre effekter. Observationsdata understøttede sammenknytning med folinsyre, benztropin og testosteron hos transkønnede."
+      },
+      "added_at": "2026-07-18T10:50:35.185557+00:00"
+    },
+    {
+      "title": "Case Report: Intranasal esketamine and accelerated intermittent theta-burst stimulation for severe treatment-resistant depression with suicidal ideation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466185/",
+      "source": "PubMed",
+      "date": "2026",
+      "summaries": {
+        "en": "Case report of a 29-year-old woman with severe treatment-resistant depression and high-risk suicidal ideation treated with combined intranasal esketamine (84 mg) and accelerated intermittent theta-burst stimulation (10 sessions over 4 days, 6,000 pulses targeting left dorsolateral prefrontal cortex). Baseline depression scores: PHQ-9=15, HAMD=27, BDI=41. Following treatment, scores improved to PHQ-9=11, HAMD=20, BDI=28, with reported reduction in suicidal ideation. Two-week follow-up showed sustained improvement (PHQ-9=8, HAMD=17, BDI=23). Limited clinical reports exist on this combined accelerated inpatient approach in high-risk patients.",
+        "da": "Kasuistik af 29-årig kvinde med alvorlig behandlingsresistent depression og høj selvmordsmæssig risiko behandlet med kombineret intranasal esketamin (84 mg) og accelereret intermittent theta-burst stimulation (10 sessioner over 4 dage, 6.000 pulser mod venstre dorsolateral præfrontal cortex). Baseline depressionsscorer: PHQ-9=15, HAMD=27, BDI=41. Efter behandling forbedredes scorerne til PHQ-9=11, HAMD=20, BDI=28 med rapporteret reduktion i selvmordstanker. To-ugers opfølgning viste vedvarende forbedring (PHQ-9=8, HAMD=17, BDI=23). Begrænsede kliniske rapporter eksisterer om denne kombinerede accelererede indlæggelsestilgang hos højrisikopatienter."
+      },
+      "added_at": "2026-07-18T10:50:35.185557+00:00"
+    },
     {
       "title": "Integrated 5-HT",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
