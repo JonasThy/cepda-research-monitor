@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-07-18T10:50:49.887657+00:00",
+  "generated_at": "2026-07-21T12:14:18.607292+00:00",
   "items": [
+    {
+      "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477457/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Repeated adolescent exposure to 25C-NBOMe, a serotonergic psychedelic, induced lasting competitive avoidance in male rats, whereas adult exposure did not. Multisite neural recordings showed disrupted default mode network synchrony, particularly reduced theta coherence between ventral hippocampus and orbitofrontal cortex. Chemogenetic manipulation of this circuit causally linked the neural disruption to behavioral change, suggesting psychedelics during adolescence can durably alter social functioning through disrupted brain synchrony.",
+        "da": "Gentagen eksponering for psykedelikaet 25C-NBOMe under adolescensen fremkaldte varig konkurrenceafvigelse hos mandlige rotter, mens vokseneksponering ikke gjorde. Multisite neurale målinger viste forstyrret default mode network-synkronisering, særligt reduceret theta-kohærens mellem ventral hippocampus og orbitofrontal cortex. Kemogenetisk manipulation af denne kredsløb viste kausal sammenhæng mellem neurale forstyrrelser og adfærdsændringer, hvilket tyder på at psykedelika under adolescensen kan varigt ændre social funktionering."
+      },
+      "added_at": "2026-07-21T12:14:06.057704+00:00"
+    },
+    {
+      "title": "Antidepressant-like effects of ketamine involve CX",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477312/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A study investigating ketamine's antidepressant mechanisms reveals that CX pathways play a role in its rapid and sustained effects. As a non-competitive NMDA receptor antagonist, ketamine produces antidepressant responses faster than conventional treatments, though the molecular basis remained unclear. This research advances understanding of how psychedelics and dissociative compounds influence mood regulation at the cellular level.",
+        "da": "En undersøgelse af ketamins antidepressive virkningsmekanismer viser, at CX-veje spiller en rolle i dets hurtige og vedvarende effekter. Som ikke-konkurrencebegrænsende NMDA-receptorantagonist producerer ketamin antidepressiv respons hurtigere end konventionel behandling, selvom det molekylære grundlag tidligere var uklart. Forskningen øger forståelsen af, hvordan psykedelika og dissociative stoffer påvirker humørregulering på cellulært niveau."
+      },
+      "added_at": "2026-07-21T12:14:06.057704+00:00"
+    },
+    {
+      "title": "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477098/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A within-subject fMRI study (n=37) examined whether ketamine's analgesic and dissociative effects rely on distinct neural mechanisms. Participants received intravenous ketamine (0.4 mg/kg bolus + infusion) or placebo while experiencing calibrated thermal pain. Ketamine produced both analgesia and dissociation, but these effects showed separable neural signatures: pain relief correlated with reduced insula activity and pain-predictive patterns, while dissociation selectively involved decreased default mode network connectivity, suggesting analgesia does not require dissociation.",
+        "da": "En within-subject fMRI-undersøgelse (n=37) undersøgte, om ketamins analgetiske og dissociative effekter afhænger af forskellige neurale mekanismer. Deltagere modtog intravenøs ketamin (0,4 mg/kg bolus + infusion) eller placebo under kalibreret termisk smerte. Ketamin producerede både smertestilling og dissociation, men effekterne viste adskilte neurale signaturer: smertelindring korrelerede med reduceret insula-aktivitet og smerteprediktive mønstre, mens dissociation selektivt involverede nedsat default mode network-konnektivitet, hvilket tyder på, at smertestilling ikke kræver dissociation."
+      },
+      "added_at": "2026-07-21T12:14:06.057704+00:00"
+    },
     {
       "title": "Clinical guidance on the use of esketamine nasal spray for patients with treatment resistant depression: A European Delphi consensus report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42468081/",
@@ -625,17 +658,6 @@
       "summaries": {
         "en": "The psiAN study is a phase IIa randomized controlled trial investigating psilocybin-assisted therapy for treatment-resistant anorexia nervosa in adolescents and young adults (16-35 years). Participants receive either two 25 mg psilocybin doses with psychological support plus standard treatment, or standard treatment alone. Primary outcomes assess safety and tolerability; secondary outcomes measure eating disorder symptom severity, relapse rates, mood, and well-being through 12-month follow-up. Neurobiological mechanisms are explored via fMRI and biomarkers.",
         "da": "Undersøgelsen psiAN er et fase IIa randomiseret kontrolleret forsøg, der udforsker psykedelika-assisteret terapi for behandlingsresistent anoreksia nervosa hos unge (16-35 år). Deltagere modtager enten to doser á 25 mg psykedelika med psykologisk støtte plus standardbehandling eller kun standardbehandling. Primære resultater vurderer sikkerhed og tolerabilitet; sekundære resultater måler spiseforstyrrelses-symptomer, tilbagefald og velbefindende gennem 12 måneders opfølgning. Neurologiske mekanismer undersøges via hjernescanning og biomarkører."
-      },
-      "added_at": "2026-07-02T13:23:59.512442+00:00"
-    },
-    {
-      "title": "Esketamine multi-omic biomarker evaluation in major depressive disorder (EMBER-MDD): concept, objectives and methodologies of a non-clinical investigator-initiated study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42377483/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "EMBER-MDD is a non-interventional, in-vitro study analyzing biospecimens from ~420 adults with major depressive disorder to identify multi-omic biomarkers associated with treatment resistance and response to esketamine nasal spray versus treatment as usual. Using genomics, epigenomics, transcriptomics, and proteomics/metabolomics on blood samples collected at baseline and during/after treatment, the study aims to discover molecular signatures predicting treatment outcomes.",
-        "da": "EMBER-MDD er en ikke-interventionel in-vitro-undersøgelse, der analyserer biologiske prøver fra cirka 420 voksne med alvorlig depression for at identificere multi-omiske biomarkører forbundet med behandlingsresistens og respons på esketamin-næsespray versus standard behandling. Ved hjælp af genomik, epigenomik, transkriptomik og proteomik/metabolomik på blodprøver indsamlet før og under/efter behandling sigter studiet på at opdage molekylære signaturer, der forudsiger behandlingsresultater."
       },
       "added_at": "2026-07-02T13:23:59.512442+00:00"
     }
