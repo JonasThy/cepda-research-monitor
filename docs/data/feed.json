@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-07-24T12:07:09.831099+00:00",
+  "generated_at": "2026-07-25T11:03:41.775849+00:00",
   "items": [
+    {
+      "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498781/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This study used iPSC-derived cortical neurons from treatment-resistant depression patients and healthy controls to investigate rapid-acting antidepressants including ketamine metabolite HNK, psilocybin, LSD, and DOI. After 6 and 24 hours of exposure, bulk and single-cell RNA sequencing revealed that despite different pharmacological targets, all compounds showed highly correlated gene expression patterns, converging on inflammation, mTORC1 signaling, and cellular growth pathways. HNK demonstrated distinct cell-type-specific effects in excitatory neurons. Results were validated against CSF proteomics from ketamine-treated individuals.",
+        "da": "Studiet anvendte iPSC-afledt kortikale neuroner fra patienter med behandlingsresistent depression og raske kontroller til at undersøge hurtigtvirkende antidepressiva inklusiv ketamin-metabolit HNK, psilocybin, LSD og DOI. Efter 6 og 24 timers eksponering viste bulk og single-cell RNA-sekvensering, at alle stoffer på trods af forskellige farmakologiske måls havde højt korreleret genekspression, konvergerende på inflammations-, mTORC1-signalerings- og cellulær vækst-veje. HNK demonstrerede distinkte celletypespeficifikke effekter i excitatoric neuroner. Resultater blev valideret mod cerebrospinalvæske-proteomik fra ketamin-behandlede individer."
+      },
+      "added_at": "2026-07-25T11:03:23.454116+00:00"
+    },
+    {
+      "title": "MDMA as an early post-trauma intervention in a translational animal model of PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498117/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A controlled rat study (N=175) examined MDMA's potential to prevent PTSD when administered early after trauma. Predator scent stress-exposed rats received MDMA (2.5–10 mg/kg) or saline at 30 minutes or 24 hours post-trauma. The 10 mg/kg dose significantly reduced anxiety, startle response, and contextual fear when given early or delayed with cue pairing. This dose increased corticosterone, hippocampal glucocorticoid receptors, and markers of neuroplasticity (c-Fos, TPH2, oxytocin). Results suggest psychedelics may prevent chronic PTSD development through neurobiological mechanisms.",
+        "da": "Et kontrolleret rattestudie (N=175) undersøgte psykedelikas potentiale til at forebygge PTSD når det gives tidligt efter trauma. Rotter eksponeret for rovdyr-lugtstress fik MDMA (2,5–10 mg/kg) eller saltvandsløsning 30 minutter eller 24 timer efter trauma. Dosen på 10 mg/kg reducerede signifikant angst, startle-respons og kontekstuel frygt når det blev givet tidligt eller forsinket med signal-parring. Denne dosis øgede corticosteron, hippokampale glukokortikoid-receptorer og neuroplasticitetsmærkører (c-Fos, TPH2, oxytocin). Resultaterne tyder på, at psykedelika kan forebygge kronisk PTSD gennem neurobiologiske mekanismer."
+      },
+      "added_at": "2026-07-25T11:03:23.454116+00:00"
+    },
+    {
+      "title": "Targeting TLR4/PPARα-mediated neuroinflammation in the prefrontal cortex: S-ketamine and S-HNK rapidly alleviate depression-like behaviors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42497468/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This preclinical study investigated how S-ketamine and S-hydroxynorketamine (S-HNK) reduce depression-like behaviors in mice exposed to chronic social stress. Male C57BL/6J mice underwent chronic social defeat stress followed by drug treatment, with behavioral testing (sucrose preference, forced swim, social interaction) and neurochemical analysis. Both compounds rapidly reversed stress-induced depression-like behaviors and restored dopamine, serotonin, and norepinephrine levels in the prefrontal cortex. The mechanisms involved suppression of TLR4-mediated neuroinflammation and increased PPARα signaling, reducing pro-inflammatory cytokines (IL-1β, IL-6, TNF-α). Viral overexpression of TLR4 blocked these therapeutic effects, confirming TLR4 as a critical target.",
+        "da": "Dette dyreforsøg undersøgte, hvordan S-ketamin og S-hydroxynorketamin (S-HNK) reducerer depressionsagtige adfærdsmønstre hos mus udsatte for kronisk social stress. Mandlige C57BL/6J-mus blev underkastet kronisk social nederlagsstress efterfulgt af medicinalbehandling med adfærdstestning og neurochemisk analyse. Begge stoffer vendte hurtigt stress-inducerede depressionsagtige symptomer og gendannede dopamin-, serotonin- og noradrenalin-niveauer i præfrontal cortex. Mekanismerne omfattede suppression af TLR4-medieret neuroinflammation og øget PPARα-signalering, hvilket reducerede pro-inflammatoriske cytokiner. Viral overexpression af TLR4 blokerede disse terapeutiske effekter og bekræftede TLR4 som kritisk target."
+      },
+      "added_at": "2026-07-25T11:03:23.454116+00:00"
+    },
+    {
+      "title": "Real-World Effectiveness and Cost-Differential of Intranasal Esketamine Versus Intramuscular Ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42500270/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "A retrospective study of 179 Veterans with treatment-resistant depression compared intramuscular (IM) ketamine to intranasal (IN) esketamine across eight treatments. IM ketamine showed non-inferiority to IN esketamine for depression (PHQ-9 difference: 0.04 points) and PTSD symptoms, with comparable adverse events and hospitalizations. Notably, IM ketamine cost $647 per treatment course versus $6,069 for IN esketamine, suggesting it may be a cost-effective alternative expanding access to ketamine treatment.",
+        "da": "Et retrospektivt studie af 179 veteraner med behandlingsresistent depression sammenlignede intramuskulær (IM) ketamin med intranasal (IN) esketamin over otte behandlinger. IM ketamin var ikke-inferior til IN esketamin for depression (PHQ-9-forskel: 0,04 point) og PTSD-symptomer, med sammenlignelige bivirkninger og indlæggelser. Væsentligt kostede IM ketamin $647 pr. behandlingskursus mod $6.069 for IN esketamin, hvilket tyder på, at det kan være et omkostningseffektivt alternativ, der udvider adgangen til ketaminbehandling."
+      },
+      "added_at": "2026-07-25T11:03:23.454116+00:00"
+    },
     {
       "title": "Real-world outcomes of intranasal esketamine and intravenous ketamine induction therapy for treatment-resistant depression in a community clinic: a retrospective cohort study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42494735/",
@@ -616,50 +660,6 @@
         "da": "Preklinisk dyrestudium af enkeltstående Ayahuasca-administration på alkoholrecidiv. Efter 35 dages frivilligt ethanolforbrug og 9 dages deprivation modtog rotter Ayahuasca (2,72 mg/kg DMT plus β-carboliner) eller placebo. Behandlingen reducerede relapsslignende alkoholindtag og forbedrede angst- og depressionsagtig adfærd. Neurochemisk analyse viste øget dopamin, serotonin og BDNF i præfrontal cortex, hippocampus og striatum samt forbedret antioxidant-enzymaktivitet og reducerede oxidativt stress-markører. Resultater tyder på, at psykedelika kan påvirke multiple neurobiologiske mekanismer bag alkoholforfbrugsforstyrrelser."
       },
       "added_at": "2026-07-05T12:04:53.129556+00:00"
-    },
-    {
-      "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "Ibogaine, a naturally occurring alkaloid, shows therapeutic promise for substance use disorders, trauma, mood disorders, and suicidality, but clinical development faces safety and regulatory challenges. Researchers propose two complementary strategies: developing ibogaine analogs that preserve broad polypharmacological effects while reducing safety risks, and creating selective 'bespoke' compounds targeting specific conditions like opioid use disorder or PTSD. The review evaluates evidence for each approach and discusses trade-offs regarding safety, efficacy, and scalability, emphasizing the critical role of pharmacogenetics and individual variability in treatment outcomes.",
-        "da": "Ibogain, et naturligt alkaloid, viser terapeutisk potentiale for stoffmisbrug, trauma, humørstoornelser og selvmordsfaren, men klinisk udvikling møder sikkerhed og regulatoriske udfordringer. Forskere foreslår to komplementære strategier: udvikling af ibogain-analoga, der bevarer bredt virkende effekter samtidig med at reducere sikkerhedsrisici, og skabelse af selektive 'skræddersyede' forbindelser målrettet specifikke tilstande som opioid-afhængighed eller PTSD. Reviewet evaluerer evidens for hver tilgang og diskuterer kompromiser vedrørende sikkerhed, effektivitet og skalerbarhed, med vægt på farmakogenetik og individuel variation."
-      },
-      "added_at": "2026-07-04T11:54:16.001954+00:00"
-    },
-    {
-      "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "This review examines mitochondrial dysfunction and neuroinflammation as central mechanisms in major depressive disorder (MDD). Mitochondrial abnormalities—including impaired energy production, compromised quality control, and redox imbalance—activate inflammatory pathways, creating a self-reinforcing cycle. Conventional antidepressants gradually restore mitochondrial function, while rapid-acting agents like ketamine trigger acute metabolic reprogramming. Emerging evidence supports mitochondria-targeted interventions, including antioxidants, metabolic modulators, and psychedelics, as therapeutically promising approaches.",
-        "da": "Dette review undersøger mitokondriefunktionsforstyrrelser og neuroinflamation som centrale mekanismer i depression. Mitokondriefejl—herunder nedsat energiproduktion, påvirket kvalitetskontrol og redox-ubalance—aktiverer inflammatoriske veje og skaber en selvforstærkende cykel. Konventionelle antidepressiva genopretter gradvist mitokondriefunktion, mens hurtigvirkende midler som ketamin udløser akut metabolsk omprogrammering. Stigende evidens understøtter mitokondrie-målrettede interventioner, inklusiv antioxidanter, metabolske modulatorer og psykedelika, som terapeutisk lovende tilgange."
-      },
-      "added_at": "2026-07-04T11:54:16.001954+00:00"
-    },
-    {
-      "title": "Rapid clinical improvement after intravenous ketamine in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome: A case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42398266/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "Case report documenting rapid clinical improvement in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome following intravenous ketamine administration. The case illustrates ketamine's potential therapeutic effects in complex comorbid presentations resistant to conventional antidepressant treatment.",
-        "da": "Casusrapport, der dokumenterer hurtig klinisk forbedring hos en adolescent med behandlingsresistent depression, svær overvægt og pseudo-Cushings syndrom efter intravenøs ketamin. Casusen illustrerer ketamins potentielle terapeutiske effekt ved komplekse komorbiditeter, der er resistente over for konventionel antidepressiv behandling."
-      },
-      "added_at": "2026-07-04T11:54:16.001954+00:00"
-    },
-    {
-      "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "This narrative review examines psilocybin treatment as a potential transdiagnostic intervention for eating disorders and comorbid psychiatric conditions. Preliminary clinical evidence supports feasibility, safety, and therapeutic effects, with transdiagnostic benefits observed across comorbidities. Proposed mechanisms include serotonergic agonism and psychoplastogenic effects targeting shared vulnerabilities aligned with HiTOP and RDoC nosological frameworks.",
-        "da": "Denne narrative review undersøger psykedelika baseret på psilocybin som potentiel transdiagnostisk intervention for spiseforstyrrelser og komorbide psykiatriske tilstande. Foreløbige kliniske beviser støtter gennemførbarhed, sikkerhed og terapeutiske effekter med transdiagnostiske fordele på tværs af komorbiditeter. Foreslåede mekanismer inkluderer serotonergi og psykoplastogeniske effekter rettet mod delte sårbarhedsfaktorer i overensstemmelse med HiTOP og RDoC nosologiske rammer."
-      },
-      "added_at": "2026-07-03T13:23:39.401893+00:00"
     }
   ]
 }
