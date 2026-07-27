@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-26T11:44:35.249849+00:00",
+  "generated_at": "2026-07-27T16:02:32.845725+00:00",
   "items": [
+    {
+      "title": "Reply to \"Reading the Signal: What Psychedelic Trials in Depression Still Can't Tell Us\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42504702/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "This reply addresses methodological critiques of psychedelic depression trials. Without access to the full abstract, the response likely defends trial design choices and discusses what current evidence can and cannot establish regarding psychedelics' efficacy in treating depression.",
+        "da": "Dette svar behandler metodologiske kritikpunkter af psykedelika-forsøg ved depression. Uden adgang til det fulde abstract forsvarer svaret sandsynligvis valg af forsøgsdesign og diskuterer, hvad nuværende evidens kan og ikke kan fastslå om psykedelikas effektivitet ved depression."
+      },
+      "added_at": "2026-07-27T16:02:26.381740+00:00"
+    },
+    {
+      "title": "Q1 2026: Oregon Psilocybin Services Update",
+      "url": "https://psychedelicalpha.com/news/q1-2026-oregon-psilocybin-services-update/",
+      "source": "Psychedelic Alpha",
+      "date": "Mon, 27 Ju",
+      "summaries": {
+        "en": "Oregon Psilocybin Services released its first Q1 2026 dataset, covering January–March. The report provides data on product sales, client demographics and motivations, safety metrics, and key stakeholders in Oregon's regulated psilocybin services infrastructure. The comprehensive tracker offers insights into the state's operational framework for supervised psilocybin-assisted services.",
+        "da": "Oregon Psilocybin Services offentliggjorde sit første datasæt for Q1 2026, der dækker januar–marts. Rapporten indeholder data om produktsalg, klientdemografi og motivationer, sikkerhedsmålinger og vigtige aktører i Oregons infrastruktur for regulerede psykedelika-assisterede tjenester. Trackeren giver indsigt i statens operationelle rammeværk."
+      },
+      "added_at": "2026-07-27T16:02:26.381740+00:00"
+    },
     {
       "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42501650/",
@@ -638,28 +660,6 @@
         "da": "Open-label extension af KADS-studiet evaluerede gentagen subkutan ketamin til behandlingsresistent depression. 130 deltagere modtog et 4-ugers forløb med racemisk ketamin (0,5–0,9 mg/kg to gange ugentligt). Responsrater var modest: 30% ved behandlingens afslutning og 17% ved 4-ugers opfølgning. Tidligere ketamin-eksponering viste forbigående reduceret initialrespons men lignende langsigtede resultater. Over 50% opnåede mindre end 25% symptomreduktion, hvilket tyder på begrænset effektivitet i denne population."
       },
       "added_at": "2026-07-06T17:30:34.468583+00:00"
-    },
-    {
-      "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "This study examined kynurenine pathway metabolites as potential biomarkers for ketamine response in treatment-resistant depression. Thirty patients received six intravenous ketamine infusions over three weeks, with serum metabolites measured at baseline, day 3, and day 18. Higher baseline kynurenic acid levels were associated with greater symptom improvement on the Montgomery-Åsberg Depression Rating Scale, suggesting the kynurenine pathway may help identify patients most likely to benefit from ketamine treatment.",
-        "da": "Studiet undersøgte kynurenin-stofvekselsproduker som potentielle biomarkører for ketamins virkning ved behandlingsresistent depression. Tredive patienter modtog seks intravenøse ketamin-infusioner over tre uger, med målinger af serum-stofveksler på dag 1, dag 3 og dag 18. Højere basale niveauer af kynurensyre var forbundet med større symptomforbedring på Montgomery-Åsberg Depression Rating Scale, hvilket indikerer, at kynurenin-stofvekselen kan hjælpe med at identificere patienter, der mest sandsynligt vil profitere af ketamin-behandling."
-      },
-      "added_at": "2026-07-06T17:30:34.468583+00:00"
-    },
-    {
-      "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "This secondary analysis of a randomized, double-blind, midazolam-controlled trial examined high-order brain interactions (HOI) in 30 late-life veterans with treatment-resistant depression following ketamine infusion (0.1-0.5 mg/kg, n=18) or midazolam control (n=12). EEG-derived O-information—a metric capturing synergistic and redundant interactions across brain regions—showed temporally dynamic alterations, with maximal effects in the alpha-band at 1 hour (Cohen's d=2.57). Greater increases in 24-hour alpha redundancy correlated with symptom improvement at day 7 (β=69.31, q=0.05), suggesting HOI may serve as a neural marker of ketamine response in late-life treatment-resistant depression.",
-        "da": "Denne sekundæranalyse af et randomiseret, dobbeltblindet, midazolam-kontrolleret forsøg undersøgte højordens hjernefunktioner hos 30 ældre veteraner med behandlingsresistent depression efter ketamininfusion (0,1-0,5 mg/kg, n=18) eller midazolam-kontrol (n=12). EEG-afledt O-information—et mål for synergistiske og redundante interaktioner mellem hjernregioner—viste tidligt dynamiske ændringer med maksimale effekter i alpha-båndet efter 1 time (Cohen's d=2,57). Større stigning i 24-timers alpha-redundans var forbundet med symptomforbedring på dag 7 (β=69,31, q=0,05), hvilket antyder, at psykedelika kan være en neural markør for ketamin-respons."
-      },
-      "added_at": "2026-07-05T12:04:53.129556+00:00"
     }
   ]
 }
