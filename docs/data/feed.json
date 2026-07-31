@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-07-30T12:57:50.742117+00:00",
+  "generated_at": "2026-07-31T13:17:48.450545+00:00",
   "items": [
+    {
+      "title": "Safety, feasibility, and preliminary clinical outcomes of psilocybin-assisted therapy for veterans with severe, treatment-resistant PTSD: an open-label pilot clinical trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533157/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "summaries": {
+        "en": "Open-label pilot trial evaluating psilocybin-assisted therapy (PAT) for 12 U.S. military veterans with severe, treatment-resistant PTSD. Participants received two psilocybin sessions (15mg and 25mg) with approximately 16 hours of therapy over 2-3 weeks. Primary outcomes assessed safety and suicidal ideation; secondary outcomes measured PTSD symptom severity. Study conducted at Center for Psychedelic Drug Research and Education, Columbus, OH.",
+        "da": "Åben pilot-studie af psykedelika-assisteret terapi (PAT) hos 12 amerikanske militærveteraner med alvorlig, behandlingsresistent PTSD. Deltagerne modtog to psykedelika-sessioner (15mg og 25mg) med ca. 16 timers terapi over 2-3 uger. Primære endepunkter målte sikkerhed og selvmordstanker; sekundære endepunkter målte PTSD-symptomers sværhedsgrad. Studiet gennemført på Center for Psychedelic Drug Research and Education i Columbus, OH."
+      },
+      "added_at": "2026-07-31T13:17:19.739679+00:00"
+    },
+    {
+      "title": "A retrospective report of a ketamine-augmented, transdiagnostic psychiatric outpatient psychotherapy program.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42534113/",
+      "source": "PubMed",
+      "date": "2026-Feb",
+      "summaries": {
+        "en": "Retrospective chart review (N=56) of a Canadian outpatient program combining sublingual ketamine with transdiagnostic psychotherapy for Veterans with comorbid depression, anxiety, and PTSD. Four standardized measures showed significant symptom reductions and improved quality of life post-treatment, particularly in moderate-to-severe cases. Results suggest ketamine may enhance neuroplasticity while intensive therapy increases engagement and resilience, though lack of control group limits conclusions.",
+        "da": "Retrospektiv journalgennemgang (N=56) af et canadisk ambulant program, der kombinerer sublingual ketamin med tværdiagnostisk psykoterapi for veteraner med komorbid depression, angst og PTSD. Fire standardiserede målinger viste signifikant symptomreduktion og forbedret livskvalitet efter behandling, især ved moderat-svær symptomatik. Resultaterne tyder på, at ketamin kan øge neuroplasticitet, mens intensiv terapi øger engagement og resiliens, selvom mangel på kontrolgruppe begrænser konklusionerne."
+      },
+      "added_at": "2026-07-31T13:17:19.739679+00:00"
+    },
+    {
+      "title": "Toward a definition of treatment-resistant posttraumatic stress disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42534095/",
+      "source": "PubMed",
+      "date": "2026-Feb",
+      "summaries": {
+        "en": "This systematic review of 55 studies examines definitions of treatment-resistant PTSD (TR-PTSD). Researchers found substantial variation in how TR-PTSD is defined across studies investigating pharmacological (n=19), psychosocial (n=16), psychedelic-assisted (n=7), and emerging treatments (n=13). Results were mixed, with some interventions reducing symptoms significantly while others showed limited efficacy. The authors propose standardized criteria considering adherence, treatment delivery, comorbidities, and mechanisms of action to improve clinical decision-making.",
+        "da": "Denne systematiske oversigt over 55 studier undersøger defini­tioner af behandlingsresistent PTSD (TR-PTSD). Forskerne fandt betydelig variation i, hvordan TR-PTSD defineres på tværs af studier, der undersøgte farmakologiske (n=19), psykosociale (n=16), psykedelika-assisterede (n=7) og nye behandlinger (n=13). Resultaterne var blandede – nogle interventioner reducerede symptomer betydeligt, mens andre viste begrænset effekt. Forfatterne foreslår standardiserede kriterier, der tager hensyn til compliance, behandlingsudførelse, komorbiditeter og virkningsmekanismer."
+      },
+      "added_at": "2026-07-31T13:17:19.739679+00:00"
+    },
+    {
+      "title": "Psychedelics for military and Veteran communities? Research, practice, and policy considerations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42534011/",
+      "source": "PubMed",
+      "date": "2023-Dec",
+      "summaries": {
+        "en": "This article examines the therapeutic potential of psychedelics for military personnel and veterans, addressing research evidence, clinical applications, and policy frameworks. The authors consider both the promise of psychedelics in treating trauma-related conditions and the unique considerations required for military populations.",
+        "da": "Artiklen undersøger psykedelikas terapeutiske potentiale for militært personel og veteraner, med fokus på forskningsresultater, klinisk praksis og politiske rammer. Forfatterne vurderer både mulighederne for psykedelika i behandling af traumarelaterede tilstande og særlige hensyn for militære populationer."
+      },
+      "added_at": "2026-07-31T13:17:19.739679+00:00"
+    },
+    {
+      "title": "Peer support and psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533979/",
+      "source": "PubMed",
+      "date": "2023-Dec",
+      "summaries": {
+        "en": "This article examines peer support's role in medically and non-medically supervised psychedelic administration. The authors review existing peer-support frameworks from psychedelic and Veteran communities, comparing core competencies to identify synergies and training gaps. As psychedelic-assisted psychotherapy and state services expand, trained facilitators are essential. The work clarifies psychedelic peership—when experienced individuals facilitate others' sessions—and highlights further needs in training and supervision.",
+        "da": "Artiklen undersøger peer supports rolle i medicinskt og ikke-medicinskt superviseret psykedelika-administration. Forfatterne gennemgår eksisterende peer-support-frameworks fra psykedelika- og veterancommunities og sammenligner kernekompetencer for at identificere synergier og træningsgab. Efterhånden som psykedelika-assisteret psykoterapi og statslige services ekspanderer, er uddannede facilitatorer væsentlige. Arbejdet præciserer psykedelika-peership – når erfarne personer faciliterer andres sessioner – og fremhæver yderligere behov indenfor træning og supervision."
+      },
+      "added_at": "2026-07-31T13:17:19.739679+00:00"
+    },
     {
       "title": "Sex-dependent effects of psychedelics: review of evidence from rodent models.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42528876/",
@@ -605,61 +660,6 @@
         "da": "En foreløbig undersøgelse (n=5) undersøgte MDMA-assisteret terapi for traumesymptomer relateret til diskrimination ved hjælp af Trauma Symptoms of Discrimination Scale (TSDS). Parret t-test viste signifikant 38% reduktion i TSDS-scorer efter behandling (t(4)=2,85, p=,046) med stor effektstørrelse (Cohen's d=1,28). Deltagere rapporterede markante forbedringer på tværs af forskelligartede diskriminationshistorier og etniske identiteter. Resultater tyder på, at psykedelika-assisteret terapi kan effektivt behandle diskriminationsrelateret trauma hos marginaliserede befolkningsgrupper, selvom resultaterne kræver replikering i større kohort."
       },
       "added_at": "2026-07-12T11:35:26.237897+00:00"
-    },
-    {
-      "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "Treatment-resistant depression (TRD) requires novel interventions beyond conventional antidepressants. A recent review examines psilocybin-assisted therapy, which combines 5-HT2A receptor agonism with structured psychological support in supervised sessions. Early randomized trials show rapid symptom reduction and promising short-term remission rates, though evidence in TRD populations remains limited. Key questions persist: durability beyond weeks, safety of repeated dosing, and comparative efficacy versus established TRD treatments (esketamine, ECT, TMS). Modest sample sizes and short follow-up periods constrain current evidence.",
-        "da": "Behandlingsresistent depression (TRD) kræver nye interventioner ud over konventionelle antidepressiva. En recent review undersøger psykedelika-assisteret terapi, som kombinerer 5-HT2A-receptoragonisme med struktureret psykologisk support i overvågede sessioner. Tidlige randomiserede forsøg viser hurtig symptomreduktion og lovende kortsigtede remissionsrater, skønt evidensen i TRD-populationer forbliver begrænset. Vigtige spørgsmål består: varighed efter uger, sikkerhed ved gentagen dosering og sammenlignet effektivitet mod etablerede TRD-behandlinger (esketamin, ECT, TMS). Beskedne stikprøvestørrelser og kort opfølgning begrænser nuværende evidens."
-      },
-      "added_at": "2026-07-11T10:45:41.645213+00:00"
-    },
-    {
-      "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42432011/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "A review examining how classical psychedelics (LSD, psilocybin, DMT, mescaline) and ketamine produce lasting neuroplastic changes through epigenetic mechanisms. The study synthesizes evidence on how these compounds alter DNA methylation, histone modifications, chromatin structure, and non-coding RNA dynamics. The authors propose that psychedelics modulate metabolic pathways affecting epigenetic cofactors, potentially driving persistent transcriptional changes and enhanced synaptic connectivity underlying their therapeutic effects, though direct causal evidence remains limited.",
-        "da": "En oversigt over, hvordan klassiske psykedelika (LSD, psilocybin, DMT, meskalin) og ketamin producerer varige neuroplastiske ændringer gennem epigenetiske mekanismer. Studiet syntetiserer evidens for, hvordan disse stoffer påvirker DNA-methylering, histonmodifikationer, kromatingstruktur og non-coding RNA-dynamik. Forfatterne foreslår, at psykedelika modulerer metaboliske veje, som påvirker epigenetiske kofaktorer, potentielt drivende vedvarende transkriptionelle ændringer og øget synaptisk forbindelse bag deres terapeutiske virkninger, selvom direkte kausal evidens mangler."
-      },
-      "added_at": "2026-07-11T10:45:41.645213+00:00"
-    },
-    {
-      "title": "Psychedelics and the thalamocortical system: A scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "This scoping review (PRISMA method) synthesizes preclinical and clinical evidence on psychedelics' effects on the thalamocortical system. Psychedelics show therapeutic promise for depression, trauma, OCD, and other conditions. Since psychiatric disorders like schizophrenia and autism involve thalamocortical alterations, understanding how psychedelics (NMDA antagonists, 5-HT2A agonists, iboga alkaloids) modulate this system is crucial for both neurobiology and clinical applications.",
-        "da": "Dette scoping review (PRISMA-metoden) opsummerer præklinisk og klinisk evidens for psykedelikas effekter på det thalamocorticale system. Psykedelika viser terapeutisk potentiale for depression, trauma, OCD og andre tilstande. Da psykiatriske lidelser som skizofreni og autisme involverer thalamocorticale ændringer, er forståelse af hvordan psykedelika (NMDA-antagonister, 5-HT2A-agonister, iboga-alkaloider) modulerer dette system afgørende for neurobiologi og klinisk praksis."
-      },
-      "added_at": "2026-07-10T16:07:18.583495+00:00"
-    },
-    {
-      "title": "Personality changes following first-time psychedelic use in college students in Germany.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42426381/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "summaries": {
-        "en": "A one-year longitudinal study of 102 first-time psychedelic users and 1066 never-users among Berlin university students examined personality changes using the Big Five Inventory. First-time users showed small relative increases in Openness and decreases in Conscientiousness, though effects were attenuated after adjusting for confounders (Openness p=0.06, Conscientiousness p=0.05, both FDR-adjusted p=0.16). Changes were not clearly distinct from first-time use of other illicit substances. Users with psychiatric diagnoses showed larger Neuroticism reductions. Results suggest modest personality shifts following first-time psychedelic use with limited causal interpretability.",
-        "da": "Et etårigt longitudinelt studie af 102 førstegangsbrugere af psykedelika og 1066 aldrig-brugere blandt Berlins universitetsstuderende undersøgte personlighedsændringer via Big Five Inventory. Førstegangsbrugere viste små relative stigninger i Åbenhed og fald i Samvittighedsfuldhed, selvom effekterne blev mindre efter justering for forstyrrelsesfaktorer (Åbenhed p=0,06, Samvittighedsfuldhed p=0,05, begge FDR-justeret p=0,16). Ændringer var ikke klart forskellige fra førstegangsbrugelse af andre illegale stoffer. Brugere med psykiatriske diagnoser viste større Neuroticism-reduktioner. Resultater tyder på beskedne personlighedsændringer efter førstegangs psykedelika-brug med begrænset kausal tolkbarhed."
-      },
-      "added_at": "2026-07-10T16:07:18.583495+00:00"
-    },
-    {
-      "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42422525/",
-      "source": "PubMed",
-      "date": "2026",
-      "summaries": {
-        "en": "This qualitative study embedded in an open-label pilot trial examined 14 participants' experiences of ketamine-assisted psychotherapy (KAP) for methamphetamine use disorder through semi-structured interviews. Thematic analysis identified four key themes: pragmatic openness to treatment after prior limited success, importance of relational safety and clinical support, reduced emotional reactivity following ketamine sessions, and translation of psychological shifts into behavioural change. Findings illuminate perceived mechanisms and acceptability of KAP for this undertreated condition.",
-        "da": "Dette kvalitative studie, indlejret i et åbent pilotstudie, undersøgte 14 deltageres erfaringer med ketamin-assisteret psykoterapi (KAP) for metamfetaminbrug gennem semi-strukturerede interviews. Tematisk analyse identificerede fire centrale temaer: pragmatisk åbenhed over for behandling efter tidligere begrænset succes, betydningen af relationel sikkerhed og klinisk support, reduceret følelsesmæssig reaktivitet efter ketaminsessioner og omsætning af psykologiske skift til adfærdsændringer. Fundet belyser oplevede virkningsmekanismer og acceptabilitet af KAP for denne undertreatet tilstand."
-      },
-      "added_at": "2026-07-09T16:18:20.008601+00:00"
     }
   ]
 }
