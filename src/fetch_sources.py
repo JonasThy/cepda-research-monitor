@@ -101,57 +101,67 @@ def fetch_pubmed() -> list[Article]:
     return articles
 
 
-# ── Semantic Scholar ────────────────────────────────────────────────────────
-# Uses the public API with a retry on 429 rate-limit responses.
+# ── CrossRef ────────────────────────────────────────────────────────────────
+# Maintained by the DOI registration agency. 150M+ works, no auth, no rate limits
+# for polite use. Replaces Semantic Scholar which blocks GitHub Actions IPs.
 
 
-def fetch_semantic_scholar() -> list[Article]:
+def fetch_crossref() -> list[Article]:
     articles: list[Article] = []
     params = {
-        "query": "psilocybin OR psychedelic OR mdma OR ayahuasca",
-        "fields": "title,abstract,year,authors,externalIds,publicationDate",
-        "limit": 10,
+        "query": "psilocybin OR psychedelic OR MDMA OR ayahuasca OR psilocin",
+        "sort": "published",
+        "order": "desc",
+        "rows": 10,
+        "select": "DOI,title,abstract,author,published,container-title,URL",
+        "mailto": "info@cepda.dk",
     }
-    for attempt in range(3):
-        try:
-            r = requests.get(
-                "https://api.semanticscholar.org/graph/v1/paper/search",
-                params=params,
-                headers=HEADERS,
-                timeout=20,
-            )
-            if r.status_code == 429:
-                wait = 10 * (attempt + 1)
-                print(f"  [Semantic Scholar] Rate limited — waiting {wait}s before retry {attempt + 1}/3")
-                time.sleep(wait)
+    try:
+        r = requests.get(
+            "https://api.crossref.org/works",
+            params=params,
+            headers=HEADERS,
+            timeout=20,
+        )
+        r.raise_for_status()
+        items = r.json().get("message", {}).get("items", [])
+        for item in items:
+            title_list = item.get("title") or []
+            title = title_list[0].strip() if title_list else ""
+            if not title:
                 continue
-            r.raise_for_status()
-            data = r.json().get("data", [])
-            for paper in data:
-                ext = paper.get("externalIds") or {}
-                doi = ext.get("DOI", "")
-                url = (
-                    f"https://doi.org/{doi}"
-                    if doi
-                    else f"https://www.semanticscholar.org/paper/{paper.get('paperId', '')}"
+
+            doi = item.get("DOI", "")
+            url = f"https://doi.org/{doi}" if doi else item.get("URL", "")
+            if not url:
+                continue
+
+            abstract = BeautifulSoup(item.get("abstract", "") or "", "lxml").get_text()
+
+            author_list = item.get("author") or []
+            authors = [
+                f"{a.get('family', '')} {a.get('given', '')}".strip()
+                for a in author_list[:3]
+            ]
+
+            pub = item.get("published", {})
+            date_parts = pub.get("date-parts", [[]])[0]
+            date = "-".join(str(p) for p in date_parts) if date_parts else ""
+
+            journal = (item.get("container-title") or [""])[0]
+
+            articles.append(
+                Article(
+                    title=title,
+                    url=url,
+                    source=f"CrossRef / {journal}" if journal else "CrossRef",
+                    abstract=abstract[:1500],
+                    date=date,
+                    authors=authors,
                 )
-                authors = [
-                    a.get("name", "") for a in (paper.get("authors") or [])[:3]
-                ]
-                articles.append(
-                    Article(
-                        title=paper.get("title", "").strip(),
-                        url=url,
-                        source="Semantic Scholar",
-                        abstract=(paper.get("abstract") or "").strip(),
-                        date=paper.get("publicationDate") or str(paper.get("year", "")),
-                        authors=authors,
-                    )
-                )
-            break
-        except Exception as e:
-            print(f"[Semantic Scholar] Error: {e}")
-            break
+            )
+    except Exception as e:
+        print(f"[CrossRef] Error: {e}")
     return articles
 
 
@@ -217,13 +227,11 @@ def fetch_psychedelic_alpha() -> list[Article]:
 
 def fetch_europepmc_denmark() -> list[Article]:
     articles: list[Article] = []
-    # Use simple keyword query — AFF filter applied via full-text search field
-    query = (
-        "psilocybin OR psilocin OR psychedelic OR MDMA OR ayahuasca OR ketamine "
-        "AND AFFILIATION:Denmark"
-    )
     params = {
-        "query": query,
+        "query": (
+            "(psilocybin OR psilocin OR psychedelic OR MDMA OR ayahuasca OR ketamine)"
+            " AND AFF:Denmark"
+        ),
         "format": "json",
         "resultType": "core",
         "pageSize": 10,
@@ -355,9 +363,9 @@ def fetch_all() -> list[Article]:
     print(f"  → {len(pubmed)} articles")
 
     time.sleep(1)
-    print("[fetch] Semantic Scholar...")
-    ss = fetch_semantic_scholar()
-    print(f"  → {len(ss)} articles")
+    print("[fetch] CrossRef...")
+    crossref = fetch_crossref()
+    print(f"  → {len(crossref)} articles")
 
     time.sleep(2)
     print("[fetch] Psychedelic Alpha...")
@@ -374,5 +382,5 @@ def fetch_all() -> list[Article]:
     openalex = fetch_openalex()
     print(f"  → {len(openalex)} articles")
 
-    all_articles = pubmed + ss + pa + epmc + openalex
+    all_articles = pubmed + crossref + pa + epmc + openalex
     return [a for a in all_articles if a.url and a.title]
