@@ -54,17 +54,23 @@ SUMMARY_PROMPT = """\
 You are the editor of a bilingual feed about psychedelic science run by Cepda \
 (Center for Psykedelisk Dannelse), a Danish organisation.
 
-Write a short summary of the article below aimed at a curious, educated \
-general audience — people who are interested but not necessarily scientists. \
+Write a summary of the article below aimed at a curious, educated general \
+audience — people who are interested but not necessarily scientists. \
 Provide the summary in BOTH of these languages:
 - en: English
 - da: Danish
 
 RULES (apply to every language):
-- Maximum 500 characters per summary
+- LENGTH: between 1300 and 1500 characters INCLUDING spaces. This is a hard \
+requirement — count carefully. Too short or too long is not acceptable.
+- STRUCTURE: three to four natural paragraphs. Do NOT use bullet points or headers.
+  1. What was found or what happened — in plain, vivid language.
+  2. How it was studied (briefly) and what the key numbers or findings are.
+  3. What it means in the context of the broader field of psychedelic research \
+right now — how does this fit into or advance the wider scientific and societal \
+conversation? Name relevant trends, parallel studies, or open questions where helpful.
+  4. (Optional) What comes next or what remains uncertain.
 - Plain language: avoid jargon; if a technical term is essential, explain it briefly
-- Lead with what was discovered or what happened, not with study design details
-- Say why it matters: what does this mean for patients, society, or our understanding?
 - Accurate and honest — do not overstate or sensationalise findings
 - Warm and curious tone, like a science journalist writing for a quality newspaper
 - Use "psychedelics" in English and "psykedelika" in Danish (never "psykedeliske stoffer")
@@ -128,7 +134,7 @@ def summarize(client: anthropic.Anthropic, article: Article) -> dict:
     try:
         msg = client.messages.create(
             model=MODEL,
-            max_tokens=800,
+            max_tokens=2000,
             messages=[{"role": "user", "content": prompt}],
         )
         data = _parse_json(msg.content[0].text)
