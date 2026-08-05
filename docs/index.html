@@ -1,141 +1,218 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="da">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Psychedelic Science — Daily Research Feed | Cepda</title>
-  <meta name="description" content="A daily, automatically curated feed of new psychedelic research and news, by Cepda (Center for Psykedelisk Dannelse)." />
+  <title>Psykedelisk Forskning — Dagligt Nyhedsfeed | Cepda</title>
+  <meta name="description" content="Et dagligt, automatisk kurateret feed med ny psykedelisk forskning og nyheder fra Cepda — Center for Psykedelisk Dannelse." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg: #0f1117;
-      --card: #181b24;
-      --border: #272b37;
-      --text: #e8eaf0;
-      --muted: #9aa0b0;
-      --accent: #b58cff;
-      --accent-2: #6fd6c4;
+      --bg:      #f5f4f1;
+      --surface: #ffffff;
+      --border:  #e2e0db;
+      --border-strong: #c8c5be;
+      --text:    #1c1c1a;
+      --muted:   #6b6965;
+      --brand:   #2c2c2c;
+      --brand-hover: #111110;
     }
-    * { box-sizing: border-box; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      margin: 0;
       background: var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.55;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
     }
+
+    /* ── Header ── */
     header {
-      padding: 3rem 1.25rem 2rem;
-      text-align: center;
-      background: radial-gradient(120% 100% at 50% 0%, rgba(181,140,255,0.18), transparent 60%);
+      background: var(--surface);
       border-bottom: 1px solid var(--border);
+      padding: 2.5rem 1.5rem 2rem;
+      text-align: center;
+    }
+    .logo {
+      display: inline-block;
+      font-size: 1.1rem;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--brand);
+      text-decoration: none;
+      margin-bottom: 1.25rem;
     }
     header h1 {
-      margin: 0 0 .4rem;
-      font-size: 1.9rem;
-      letter-spacing: -0.02em;
-      background: linear-gradient(90deg, var(--accent), var(--accent-2));
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-    }
-    header p { margin: .2rem auto; color: var(--muted); max-width: 38rem; font-size: .98rem; }
-    .meta { margin-top: 1rem; font-size: .82rem; color: var(--muted); }
-    .lang-wrap { margin-top: 1.25rem; }
-    .lang-wrap label { font-size: .8rem; color: var(--muted); margin-right: .5rem; }
-    select#lang {
-      background: var(--card);
-      color: var(--text);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: .45rem .7rem;
-      font-size: .9rem;
-      cursor: pointer;
-    }
-    select#lang:hover { border-color: var(--accent); }
-    main { max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
-    .card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 1.25rem 1.35rem;
-      margin-bottom: 1rem;
-      transition: border-color .15s ease, transform .15s ease;
-    }
-    .card:hover { border-color: var(--accent); transform: translateY(-1px); }
-    .card h2 { margin: 0 0 .5rem; font-size: 1.12rem; line-height: 1.35; }
-    .card h2 a { color: var(--text); text-decoration: none; }
-    .card h2 a:hover { color: var(--accent); }
-    .source { font-size: .8rem; color: var(--accent-2); margin-bottom: .6rem; font-weight: 600; }
-    .summary { color: var(--text); font-size: .96rem; margin: 0; }
-    .card-footer { margin-top: 1rem; display: flex; flex-wrap: wrap; align-items: flex-start; gap: .75rem; }
-    .membership { font-size: .88rem; color: var(--muted); line-height: 1.5; flex: 1 1 100%; border-top: 1px solid var(--border); padding-top: .85rem; }
-    .btn-row { display: flex; gap: .5rem; flex-wrap: wrap; }
-    .btn {
-      display: inline-block;
-      padding: .38rem .9rem;
-      border-radius: 8px;
-      font-size: .85rem;
+      font-size: 1.65rem;
       font-weight: 600;
-      text-decoration: none;
-      cursor: pointer;
-      transition: opacity .15s ease;
+      letter-spacing: -.02em;
+      color: var(--text);
+      margin-bottom: .4rem;
     }
-    .btn:hover { opacity: .82; }
+    header p {
+      color: var(--muted);
+      font-size: .95rem;
+      max-width: 36rem;
+      margin: 0 auto;
+    }
+    .controls {
+      margin-top: 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .meta-text { font-size: .82rem; color: var(--muted); }
+    .lang-wrap { display: flex; align-items: center; gap: .4rem; }
+    .lang-wrap label { font-size: .82rem; color: var(--muted); }
+    select#lang {
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border-strong);
+      border-radius: 6px;
+      padding: .3rem .6rem;
+      font-size: .85rem;
+      font-family: inherit;
+      cursor: pointer;
+      appearance: none;
+      padding-right: 1.5rem;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236b6965' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right .5rem center;
+    }
+    select#lang:focus { outline: 2px solid var(--brand); outline-offset: 2px; }
+
+    /* ── Feed ── */
+    main { max-width: 44rem; margin: 0 auto; padding: 2rem 1.25rem 5rem; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.35rem 1.5rem;
+      margin-bottom: 1rem;
+      transition: border-color .15s ease, box-shadow .15s ease;
+    }
+    .card:hover {
+      border-color: var(--border-strong);
+      box-shadow: 0 2px 12px rgba(0,0,0,.06);
+    }
+    .card-source {
+      font-size: .75rem;
+      font-weight: 600;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: .5rem;
+    }
+    .card h2 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin-bottom: .6rem;
+    }
+    .card h2 a { color: var(--text); text-decoration: none; }
+    .card h2 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .card-summary { font-size: .94rem; color: #3a3a38; line-height: 1.6; margin-bottom: .9rem; }
+
+    /* Source button — sits right below the summary */
     .btn-source {
-      background: transparent;
-      border: 1px solid var(--accent);
-      color: var(--accent);
+      display: inline-block;
+      padding: .3rem .8rem;
+      border: 1px solid var(--border-strong);
+      border-radius: 6px;
+      font-size: .8rem;
+      font-weight: 500;
+      color: var(--brand);
+      text-decoration: none;
+      transition: background .12s ease, border-color .12s ease;
+    }
+    .btn-source:hover { background: var(--bg); border-color: var(--brand); }
+
+    /* Membership block */
+    .membership-block {
+      margin-top: 1rem;
+      padding-top: .95rem;
+      border-top: 1px solid var(--border);
+    }
+    .membership-text {
+      font-size: .84rem;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: .75rem;
     }
     .btn-cepda {
-      background: var(--accent);
-      border: 1px solid var(--accent);
-      color: #0f1117;
+      display: inline-block;
+      padding: .35rem .9rem;
+      background: var(--brand);
+      border: 1px solid var(--brand);
+      border-radius: 6px;
+      font-size: .8rem;
+      font-weight: 600;
+      color: #ffffff;
+      text-decoration: none;
+      transition: background .12s ease;
     }
-    footer { text-align: center; padding: 2rem 1.25rem 3rem; color: var(--muted); font-size: .82rem; border-top: 1px solid var(--border); }
-    footer a { color: var(--accent); text-decoration: none; }
-    .empty { text-align: center; color: var(--muted); padding: 3rem 1rem; }
-    .disclaimer { font-style: italic; }
+    .btn-cepda:hover { background: var(--brand-hover); border-color: var(--brand-hover); }
+
+    /* ── Empty / loading ── */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 4rem 1rem;
+      font-size: .95rem;
+    }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      text-align: center;
+      padding: 2rem 1.5rem 3rem;
+      color: var(--muted);
+      font-size: .82rem;
+    }
+    footer a { color: var(--brand); text-decoration: underline; text-underline-offset: 2px; }
+    footer a:hover { color: var(--brand-hover); }
+    .disclaimer { margin-top: .5rem; font-style: italic; }
   </style>
 </head>
 <body>
   <header>
-    <h1>Psychedelic Science</h1>
-    <p id="tagline">A daily, automatically curated feed of new research and news on psychedelics.</p>
-    <div class="lang-wrap">
-      <label for="lang" id="lang-label">Language</label>
-      <select id="lang" aria-label="Choose language"></select>
+    <a class="logo" href="https://cepda.dk/" target="_blank" rel="noopener">Cepda</a>
+    <h1 id="h1">Psykedelisk forskning</h1>
+    <p id="tagline">Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.</p>
+    <div class="controls">
+      <span class="meta-text" id="meta">Indlæser…</span>
+      <div class="lang-wrap">
+        <label for="lang" id="lang-label">Sprog</label>
+        <select id="lang" aria-label="Vælg sprog"></select>
+      </div>
     </div>
-    <p class="meta" id="meta">Loading…</p>
   </header>
 
   <main id="feed">
-    <div class="empty">Loading the feed…</div>
+    <div class="empty">Indlæser feed…</div>
   </main>
 
   <footer>
-    <p>By <a href="https://cepda.dk" target="_blank" rel="noopener">Cepda — Center for Psykedelisk Dannelse</a>.</p>
-    <p class="disclaimer" id="disclaimer">Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC) and may contain errors. Always check the original source.</p>
+    <p>Af <a href="https://cepda.dk/" target="_blank" rel="noopener">Cepda — Center for Psykedelisk Dannelse</a>.</p>
+    <p class="disclaimer" id="disclaimer">Resuméerne genereres med AI fra offentlige kilder (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC, DOAJ) og kan indeholde fejl. Tjek altid den oprindelige kilde.</p>
   </footer>
 
   <script>
     const LANGS = [
-      { code: "en", name: "English" },
       { code: "da", name: "Dansk" },
+      { code: "en", name: "English" },
     ];
 
     const UI = {
-      en: {
-        label: "Language",
-        tagline: "A daily, automatically curated feed of new research and news on psychedelics.",
-        updated: "Last updated",
-        articles: "articles",
-        source_btn: "Source",
-        empty: "The feed is being prepared — check back after the first run.",
-        disclaimer: "Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC, DOAJ) and may contain errors. Always check the original source.",
-        locale: "en-GB",
-      },
       da: {
         label: "Sprog",
+        h1: "Psykedelisk forskning",
         tagline: "Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.",
         updated: "Senest opdateret",
         articles: "artikler",
@@ -144,9 +221,22 @@
         disclaimer: "Resuméerne genereres med AI fra offentlige kilder (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC, DOAJ) og kan indeholde fejl. Tjek altid den oprindelige kilde.",
         locale: "da-DK",
       },
+      en: {
+        label: "Language",
+        h1: "Psychedelic science",
+        tagline: "A daily, automatically curated feed of new research and news on psychedelics.",
+        updated: "Last updated",
+        articles: "articles",
+        source_btn: "Source",
+        empty: "The feed is being prepared — check back after the first run.",
+        disclaimer: "Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC, DOAJ) and may contain errors. Always check the original source.",
+        locale: "en-GB",
+      },
     };
 
-    const DEFAULT_LANG = "en";
+    const MEMBERSHIP_TEXT = "Stor tak til alle som støtter og følger vores arbejde! 🙏 Jeres støtte gør det muligt at fortsætte vores formidling af psykedelisk forskning. Hvis du endnu ikke er medlem, kan du overveje at blive det. Dit medlemskab hjælper os med at sprede viden, og du får samtidig adgang til mange unikke medlemsfordele. Læs mere og bliv medlem af Cepda her:";
+
+    const DEFAULT_LANG = "da";
     let currentLang = localStorage.getItem("cepda_feed_lang") || DEFAULT_LANG;
     if (!UI[currentLang]) currentLang = DEFAULT_LANG;
     let feedData = { generated_at: "", items: [] };
@@ -155,7 +245,7 @@
       if (!iso) return "";
       const d = new Date(iso);
       if (isNaN(d)) return iso;
-      return d.toLocaleDateString(locale || "en-GB", { year: "numeric", month: "short", day: "numeric" });
+      return d.toLocaleDateString(locale || "da-DK", { year: "numeric", month: "short", day: "numeric" });
     }
 
     function summaryFor(item, lang) {
@@ -166,6 +256,7 @@
     function render() {
       const t = UI[currentLang];
       document.documentElement.lang = currentLang;
+      document.getElementById("h1").textContent = t.h1;
       document.getElementById("tagline").textContent = t.tagline;
       document.getElementById("lang-label").textContent = t.label;
       document.getElementById("disclaimer").textContent = t.disclaimer;
@@ -185,25 +276,18 @@
         return;
       }
 
-      const MEMBERSHIP_TEXT = "Stor tak til alle som støtter og følger vores arbejde! 🙏 Jeres støtte gør det muligt at fortsætte vores formidling af psykedelisk forskning. Hvis du endnu ikke er medlem, kan du overveje at blive det. Dit medlemskab hjælper os med at sprede viden, og du får samtidig adgang til mange unikke medlemsfordele. Læs mere og bliv medlem af Cepda her:";
-
-      feed.innerHTML = items
-        .map(
-          (it) => `
+      feed.innerHTML = items.map((it) => `
         <article class="card">
-          <div class="source">${it.source || ""}${it.date ? " · " + it.date : ""}</div>
+          <p class="card-source">${it.source || ""}${it.date ? " · " + it.date : ""}</p>
           <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
-          <p class="summary">${summaryFor(it, currentLang)}</p>
-          <div class="card-footer">
-            <p class="membership">${MEMBERSHIP_TEXT}</p>
-            <div class="btn-row">
-              <a class="btn btn-source" href="${it.url}" target="_blank" rel="noopener">${t.source_btn}</a>
-              <a class="btn btn-cepda" href="https://cepda.dk/" target="_blank" rel="noopener">cepda.dk</a>
-            </div>
+          <p class="card-summary">${summaryFor(it, currentLang)}</p>
+          <a class="btn-source" href="${it.url}" target="_blank" rel="noopener">${t.source_btn}</a>
+          <div class="membership-block">
+            <p class="membership-text">${MEMBERSHIP_TEXT}</p>
+            <a class="btn-cepda" href="https://cepda.dk/" target="_blank" rel="noopener">cepda.dk</a>
           </div>
-        </article>`
-        )
-        .join("");
+        </article>
+      `).join("");
     }
 
     const sel = document.getElementById("lang");
@@ -217,14 +301,10 @@
 
     fetch("./data/feed.json?cb=" + Date.now())
       .then((r) => r.json())
-      .then((data) => {
-        feedData = data;
-        render();
-      })
-      .catch((err) => {
+      .then((data) => { feedData = data; render(); })
+      .catch(() => {
         document.getElementById("feed").innerHTML =
-          '<div class="empty">Could not load the feed. Please try again later.</div>';
-        console.error(err);
+          '<div class="empty">Kunne ikke indlæse feedet. Prøv igen senere.</div>';
       });
   </script>
 </body>
