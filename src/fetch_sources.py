@@ -102,7 +102,7 @@ def fetch_pubmed() -> list[Article]:
 
 
 # ── Semantic Scholar ────────────────────────────────────────────────────────
-# Fix: use params dict (removes invalid sort parameter that caused empty results).
+# Uses the public API with a retry on 429 rate-limit responses.
 
 
 def fetch_semantic_scholar() -> list[Article]:
@@ -112,38 +112,46 @@ def fetch_semantic_scholar() -> list[Article]:
         "fields": "title,abstract,year,authors,externalIds,publicationDate",
         "limit": 10,
     }
-    try:
-        r = requests.get(
-            "https://api.semanticscholar.org/graph/v1/paper/search",
-            params=params,
-            headers=HEADERS,
-            timeout=20,
-        )
-        r.raise_for_status()
-        data = r.json().get("data", [])
-        for paper in data:
-            ext = paper.get("externalIds") or {}
-            doi = ext.get("DOI", "")
-            url = (
-                f"https://doi.org/{doi}"
-                if doi
-                else f"https://www.semanticscholar.org/paper/{paper.get('paperId', '')}"
+    for attempt in range(3):
+        try:
+            r = requests.get(
+                "https://api.semanticscholar.org/graph/v1/paper/search",
+                params=params,
+                headers=HEADERS,
+                timeout=20,
             )
-            authors = [
-                a.get("name", "") for a in (paper.get("authors") or [])[:3]
-            ]
-            articles.append(
-                Article(
-                    title=paper.get("title", "").strip(),
-                    url=url,
-                    source="Semantic Scholar",
-                    abstract=(paper.get("abstract") or "").strip(),
-                    date=paper.get("publicationDate") or str(paper.get("year", "")),
-                    authors=authors,
+            if r.status_code == 429:
+                wait = 10 * (attempt + 1)
+                print(f"  [Semantic Scholar] Rate limited — waiting {wait}s before retry {attempt + 1}/3")
+                time.sleep(wait)
+                continue
+            r.raise_for_status()
+            data = r.json().get("data", [])
+            for paper in data:
+                ext = paper.get("externalIds") or {}
+                doi = ext.get("DOI", "")
+                url = (
+                    f"https://doi.org/{doi}"
+                    if doi
+                    else f"https://www.semanticscholar.org/paper/{paper.get('paperId', '')}"
                 )
-            )
-    except Exception as e:
-        print(f"[Semantic Scholar] Error: {e}")
+                authors = [
+                    a.get("name", "") for a in (paper.get("authors") or [])[:3]
+                ]
+                articles.append(
+                    Article(
+                        title=paper.get("title", "").strip(),
+                        url=url,
+                        source="Semantic Scholar",
+                        abstract=(paper.get("abstract") or "").strip(),
+                        date=paper.get("publicationDate") or str(paper.get("year", "")),
+                        authors=authors,
+                    )
+                )
+            break
+        except Exception as e:
+            print(f"[Semantic Scholar] Error: {e}")
+            break
     return articles
 
 
@@ -205,20 +213,21 @@ def fetch_psychedelic_alpha() -> list[Article]:
 
 # ── EuropePMC (Danish national source) ─────────────────────────────────────
 # Finds peer-reviewed papers with Danish institutional affiliations.
-# Fix: use params dict for correct URL encoding; corrected sort field name.
 
 
 def fetch_europepmc_denmark() -> list[Article]:
     articles: list[Article] = []
+    # Use simple keyword query — AFF filter applied via full-text search field
+    query = (
+        "psilocybin OR psilocin OR psychedelic OR MDMA OR ayahuasca OR ketamine "
+        "AND AFFILIATION:Denmark"
+    )
     params = {
-        "query": (
-            "(psilocybin OR psilocin OR psychedelic OR MDMA OR ayahuasca "
-            "OR mescaline OR ketamine) AND AFF:\"Denmark\""
-        ),
+        "query": query,
         "format": "json",
         "resultType": "core",
         "pageSize": 10,
-        "sort": "FIRST_PDATE desc",
+        "sort": "P_PDATE_D desc",
     }
     try:
         r = requests.get(
@@ -267,58 +276,73 @@ def fetch_europepmc_denmark() -> list[Article]:
     return articles
 
 
-# ── DOAJ — Directory of Open Access Journals ───────────────────────────────
-# Indexes thousands of peer-reviewed open-access journals worldwide.
-# Free API, no authentication required.
+# ── OpenAlex ────────────────────────────────────────────────────────────────
+# Fully open academic database (200M+ works). No API key required.
+# Replaces DOAJ which requires registration.
 
 
-def fetch_doaj() -> list[Article]:
+def fetch_openalex() -> list[Article]:
     articles: list[Article] = []
+    params = {
+        "search": "psilocybin OR psychedelic OR MDMA OR ayahuasca OR psilocin",
+        "filter": "type:article",
+        "sort": "publication_date:desc",
+        "per-page": 10,
+        "select": "id,title,abstract_inverted_index,authorships,publication_date,primary_location,doi",
+        "mailto": "info@cepda.dk",
+    }
     try:
         r = requests.get(
-            "https://doaj.org/api/search/articles/"
-            "psilocybin%20OR%20psychedelic%20OR%20MDMA%20OR%20ayahuasca%20OR%20psilocin",
-            params={"pageSize": 10, "sort": "created_date:desc"},
+            "https://api.openalex.org/works",
+            params=params,
             headers=HEADERS,
             timeout=20,
         )
         r.raise_for_status()
         results = r.json().get("results", [])
         for paper in results:
-            bibjson = paper.get("bibjson", {})
-            title = bibjson.get("title", "").strip()
+            title = (paper.get("title") or "").strip()
             if not title:
                 continue
 
-            abstract = bibjson.get("abstract", "").strip()
-
-            # Prefer DOI link, fall back to fulltext link
-            article_url = ""
-            for ident in bibjson.get("identifier", []):
-                if ident.get("type") == "doi":
-                    article_url = f"https://doi.org/{ident.get('id', '')}"
-            if not article_url:
-                for link in bibjson.get("link", []):
-                    if link.get("type") == "fulltext":
-                        article_url = link.get("url", "")
-            if not article_url:
+            doi = paper.get("doi", "") or ""
+            if doi.startswith("https://doi.org/"):
+                paper_url = doi
+            elif doi:
+                paper_url = f"https://doi.org/{doi}"
+            else:
+                oa_id = paper.get("id", "")
+                paper_url = oa_id if oa_id.startswith("http") else ""
+            if not paper_url:
                 continue
 
-            authors = [a.get("name", "") for a in bibjson.get("author", [])[:3]]
-            pub_date = str(bibjson.get("year", ""))
+            # Reconstruct abstract from inverted index
+            inv = paper.get("abstract_inverted_index") or {}
+            if inv:
+                word_positions = [(word, pos) for word, positions in inv.items() for pos in positions]
+                word_positions.sort(key=lambda x: x[1])
+                abstract = " ".join(w for w, _ in word_positions)
+            else:
+                abstract = ""
+
+            authorships = paper.get("authorships") or []
+            authors = [
+                a.get("author", {}).get("display_name", "")
+                for a in authorships[:3]
+            ]
 
             articles.append(
                 Article(
                     title=title,
-                    url=article_url,
-                    source="DOAJ",
+                    url=paper_url,
+                    source="OpenAlex",
                     abstract=abstract[:1500],
-                    date=pub_date,
+                    date=(paper.get("publication_date") or "")[:10],
                     authors=authors,
                 )
             )
     except Exception as e:
-        print(f"[DOAJ] Error: {e}")
+        print(f"[OpenAlex] Error: {e}")
     return articles
 
 
@@ -346,9 +370,9 @@ def fetch_all() -> list[Article]:
     print(f"  → {len(epmc)} articles")
 
     time.sleep(1)
-    print("[fetch] DOAJ (open access journals)...")
-    doaj = fetch_doaj()
-    print(f"  → {len(doaj)} articles")
+    print("[fetch] OpenAlex (open academic database)...")
+    openalex = fetch_openalex()
+    print(f"  → {len(openalex)} articles")
 
-    all_articles = pubmed + ss + pa + epmc + doaj
+    all_articles = pubmed + ss + pa + epmc + openalex
     return [a for a in all_articles if a.url and a.title]
