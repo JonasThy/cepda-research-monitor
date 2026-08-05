@@ -3,7 +3,7 @@
 import time
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
@@ -27,26 +27,9 @@ PUBMED_FETCH = (
     "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
     "?db=pubmed&rettype=abstract&retmode=xml"
 )
-SEMANTIC_SCHOLAR_API = (
-    "https://api.semanticscholar.org/graph/v1/paper/search"
-    "?query=psilocybin+OR+psychedelic+OR+mdma+OR+ayahuasca"
-    "&fields=title,abstract,year,authors,externalIds,publicationDate"
-    "&limit=10&sort=publicationDate"
-)
+
 PSYCHEDELIC_ALPHA_RSS = "https://psychedelicalpha.com/feed/"
 PSYCHEDELIC_ALPHA_NEWS = "https://psychedelicalpha.com/news/"
-
-# EuropePMC: finds research papers with Danish institutional affiliations.
-# Free API, no key required. Replaces DiVA/SwePub from the reference implementation.
-EUROPEPMC_URL = (
-    "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
-    "?query=({terms})+AFF%3A%22Denmark%22"
-    "&format=json&resultType=core&pageSize=10&sort=P_PDATE_D+desc"
-)
-EUROPEPMC_TERMS = (
-    "psilocybin+OR+psilocin+OR+psychedelic+OR+MDMA+OR+ayahuasca"
-    "+OR+mescaline+OR+ketamine+AND+psychiatry"
-)
 
 
 @dataclass
@@ -119,12 +102,23 @@ def fetch_pubmed() -> list[Article]:
 
 
 # ── Semantic Scholar ────────────────────────────────────────────────────────
+# Fix: use params dict (removes invalid sort parameter that caused empty results).
 
 
 def fetch_semantic_scholar() -> list[Article]:
     articles: list[Article] = []
+    params = {
+        "query": "psilocybin OR psychedelic OR mdma OR ayahuasca",
+        "fields": "title,abstract,year,authors,externalIds,publicationDate",
+        "limit": 10,
+    }
     try:
-        r = requests.get(SEMANTIC_SCHOLAR_API, headers=HEADERS, timeout=20)
+        r = requests.get(
+            "https://api.semanticscholar.org/graph/v1/paper/search",
+            params=params,
+            headers=HEADERS,
+            timeout=20,
+        )
         r.raise_for_status()
         data = r.json().get("data", [])
         for paper in data:
@@ -211,17 +205,31 @@ def fetch_psychedelic_alpha() -> list[Article]:
 
 # ── EuropePMC (Danish national source) ─────────────────────────────────────
 # Finds peer-reviewed papers with Danish institutional affiliations.
-# Replaces the Sweden-specific DiVA source from the reference implementation.
+# Fix: use params dict for correct URL encoding; corrected sort field name.
 
 
 def fetch_europepmc_denmark() -> list[Article]:
     articles: list[Article] = []
-    url = EUROPEPMC_URL.format(terms=EUROPEPMC_TERMS)
+    params = {
+        "query": (
+            "(psilocybin OR psilocin OR psychedelic OR MDMA OR ayahuasca "
+            "OR mescaline OR ketamine) AND AFF:\"Denmark\""
+        ),
+        "format": "json",
+        "resultType": "core",
+        "pageSize": 10,
+        "sort": "FIRST_PDATE desc",
+    }
     try:
-        r = requests.get(url, headers=HEADERS, timeout=20)
+        r = requests.get(
+            "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+            params=params,
+            headers=HEADERS,
+            timeout=20,
+        )
         r.raise_for_status()
         results = r.json().get("resultList", {}).get("result", [])
-        for paper in results[:10]:
+        for paper in results:
             pmid = paper.get("pmid", "")
             doi = paper.get("doi", "")
             if pmid:
@@ -229,7 +237,10 @@ def fetch_europepmc_denmark() -> list[Article]:
             elif doi:
                 paper_url = f"https://doi.org/{doi}"
             else:
-                paper_url = f"https://europepmc.org/article/{paper.get('source', 'MED')}/{paper.get('id', '')}"
+                paper_url = (
+                    f"https://europepmc.org/article/"
+                    f"{paper.get('source', 'MED')}/{paper.get('id', '')}"
+                )
 
             author_list = paper.get("authorList", {}).get("author", [])
             authors = [
@@ -238,7 +249,6 @@ def fetch_europepmc_denmark() -> list[Article]:
             ]
 
             abstract = paper.get("abstractText", "") or ""
-            # EuropePMC sometimes wraps abstract in HTML
             if "<" in abstract:
                 abstract = BeautifulSoup(abstract, "lxml").get_text()
 
@@ -254,6 +264,61 @@ def fetch_europepmc_denmark() -> list[Article]:
             )
     except Exception as e:
         print(f"[EuropePMC Denmark] Error: {e}")
+    return articles
+
+
+# ── DOAJ — Directory of Open Access Journals ───────────────────────────────
+# Indexes thousands of peer-reviewed open-access journals worldwide.
+# Free API, no authentication required.
+
+
+def fetch_doaj() -> list[Article]:
+    articles: list[Article] = []
+    try:
+        r = requests.get(
+            "https://doaj.org/api/search/articles/"
+            "psilocybin%20OR%20psychedelic%20OR%20MDMA%20OR%20ayahuasca%20OR%20psilocin",
+            params={"pageSize": 10, "sort": "created_date:desc"},
+            headers=HEADERS,
+            timeout=20,
+        )
+        r.raise_for_status()
+        results = r.json().get("results", [])
+        for paper in results:
+            bibjson = paper.get("bibjson", {})
+            title = bibjson.get("title", "").strip()
+            if not title:
+                continue
+
+            abstract = bibjson.get("abstract", "").strip()
+
+            # Prefer DOI link, fall back to fulltext link
+            article_url = ""
+            for ident in bibjson.get("identifier", []):
+                if ident.get("type") == "doi":
+                    article_url = f"https://doi.org/{ident.get('id', '')}"
+            if not article_url:
+                for link in bibjson.get("link", []):
+                    if link.get("type") == "fulltext":
+                        article_url = link.get("url", "")
+            if not article_url:
+                continue
+
+            authors = [a.get("name", "") for a in bibjson.get("author", [])[:3]]
+            pub_date = str(bibjson.get("year", ""))
+
+            articles.append(
+                Article(
+                    title=title,
+                    url=article_url,
+                    source="DOAJ",
+                    abstract=abstract[:1500],
+                    date=pub_date,
+                    authors=authors,
+                )
+            )
+    except Exception as e:
+        print(f"[DOAJ] Error: {e}")
     return articles
 
 
@@ -280,5 +345,10 @@ def fetch_all() -> list[Article]:
     epmc = fetch_europepmc_denmark()
     print(f"  → {len(epmc)} articles")
 
-    all_articles = pubmed + ss + pa + epmc
+    time.sleep(1)
+    print("[fetch] DOAJ (open access journals)...")
+    doaj = fetch_doaj()
+    print(f"  → {len(doaj)} articles")
+
+    all_articles = pubmed + ss + pa + epmc + doaj
     return [a for a in all_articles if a.url and a.title]

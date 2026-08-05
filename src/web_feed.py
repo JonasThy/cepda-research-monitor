@@ -54,16 +54,20 @@ SUMMARY_PROMPT = """\
 You are the editor of a bilingual feed about psychedelic science run by Cepda \
 (Center for Psykedelisk Dannelse), a Danish organisation.
 
-Write a short, clear summary of the article below for a knowledgeable audience \
-and provide it in BOTH of these languages:
+Write a short summary of the article below aimed at a curious, educated \
+general audience — people who are interested but not necessarily scientists. \
+Provide the summary in BOTH of these languages:
 - en: English
 - da: Danish
 
 RULES (apply to every language):
 - Maximum 500 characters per summary
-- Neutral, scientific tone — no hype
+- Plain language: avoid jargon; if a technical term is essential, explain it briefly
+- Lead with what was discovered or what happened, not with study design details
+- Say why it matters: what does this mean for patients, society, or our understanding?
+- Accurate and honest — do not overstate or sensationalise findings
+- Warm and curious tone, like a science journalist writing for a quality newspaper
 - Use "psychedelics" in English and "psykedelika" in Danish (never "psykedeliske stoffer")
-- Mention study design and key data where applicable
 - Write naturally and fluently for a native reader of that language
 
 Article:
