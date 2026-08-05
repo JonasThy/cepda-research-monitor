@@ -67,8 +67,30 @@
     .card h2 a:hover { color: var(--accent); }
     .source { font-size: .8rem; color: var(--accent-2); margin-bottom: .6rem; font-weight: 600; }
     .summary { color: var(--text); font-size: .96rem; margin: 0; }
-    .read { display: inline-block; margin-top: .85rem; font-size: .85rem; color: var(--accent); text-decoration: none; }
-    .read:hover { text-decoration: underline; }
+    .card-footer { margin-top: 1rem; display: flex; flex-wrap: wrap; align-items: flex-start; gap: .75rem; }
+    .membership { font-size: .88rem; color: var(--muted); line-height: 1.5; flex: 1 1 100%; border-top: 1px solid var(--border); padding-top: .85rem; }
+    .btn-row { display: flex; gap: .5rem; flex-wrap: wrap; }
+    .btn {
+      display: inline-block;
+      padding: .38rem .9rem;
+      border-radius: 8px;
+      font-size: .85rem;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      transition: opacity .15s ease;
+    }
+    .btn:hover { opacity: .82; }
+    .btn-source {
+      background: transparent;
+      border: 1px solid var(--accent);
+      color: var(--accent);
+    }
+    .btn-cepda {
+      background: var(--accent);
+      border: 1px solid var(--accent);
+      color: #0f1117;
+    }
     footer { text-align: center; padding: 2rem 1.25rem 3rem; color: var(--muted); font-size: .82rem; border-top: 1px solid var(--border); }
     footer a { color: var(--accent); text-decoration: none; }
     .empty { text-align: center; color: var(--muted); padding: 3rem 1rem; }
@@ -107,7 +129,7 @@
         tagline: "A daily, automatically curated feed of new research and news on psychedelics.",
         updated: "Last updated",
         articles: "articles",
-        read: "Read the original source →",
+        source_btn: "Source",
         empty: "The feed is being prepared — check back after the first run.",
         disclaimer: "Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC, DOAJ) and may contain errors. Always check the original source.",
         locale: "en-GB",
@@ -117,7 +139,7 @@
         tagline: "Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.",
         updated: "Senest opdateret",
         articles: "artikler",
-        read: "Læs den oprindelige kilde →",
+        source_btn: "Kilde",
         empty: "Feedet forberedes — kom tilbage efter første kørsel.",
         disclaimer: "Resuméerne genereres med AI fra offentlige kilder (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC, DOAJ) og kan indeholde fejl. Tjek altid den oprindelige kilde.",
         locale: "da-DK",
@@ -163,6 +185,8 @@
         return;
       }
 
+      const MEMBERSHIP_TEXT = "Stor tak til alle som støtter og følger vores arbejde! 🙏 Jeres støtte gør det muligt at fortsætte vores formidling af psykedelisk forskning. Hvis du endnu ikke er medlem, kan du overveje at blive det. Dit medlemskab hjælper os med at sprede viden, og du får samtidig adgang til mange unikke medlemsfordele. Læs mere og bliv medlem af Cepda her:";
+
       feed.innerHTML = items
         .map(
           (it) => `
@@ -170,7 +194,13 @@
           <div class="source">${it.source || ""}${it.date ? " · " + it.date : ""}</div>
           <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
           <p class="summary">${summaryFor(it, currentLang)}</p>
-          <a class="read" href="${it.url}" target="_blank" rel="noopener">${t.read}</a>
+          <div class="card-footer">
+            <p class="membership">${MEMBERSHIP_TEXT}</p>
+            <div class="btn-row">
+              <a class="btn btn-source" href="${it.url}" target="_blank" rel="noopener">${t.source_btn}</a>
+              <a class="btn btn-cepda" href="https://cepda.dk/" target="_blank" rel="noopener">cepda.dk</a>
+            </div>
+          </div>
         </article>`
         )
         .join("");
