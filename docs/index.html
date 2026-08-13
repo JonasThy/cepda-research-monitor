@@ -346,6 +346,7 @@
       document.getElementById("label-context").textContent = t.label_context;
       document.getElementById("disclaimer").textContent = t.disclaimer;
       buildFilterSelects();
+      updateFilterBtn();
 
       const meta  = document.getElementById("meta");
       const feedEl = document.getElementById("feed");
@@ -400,6 +401,11 @@
       currentContext = document.getElementById("filter-context").value;
       render();
     });
+
+    function updateFilterBtn() {
+      const labels = { da: "Opdater", en: "Update" };
+      document.getElementById("btn-filter").textContent = labels[currentLang] || "Opdater";
+    }
 
     fetch("./data/feed.json?cb=" + Date.now())
       .then((r) => r.json())
