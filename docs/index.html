@@ -100,6 +100,19 @@
       background: var(--border-strong);
       display: inline-block;
     }
+    .btn-filter {
+      padding: .3rem .85rem;
+      background: var(--brand);
+      border: 1px solid var(--brand);
+      border-radius: 6px;
+      font-size: .82rem;
+      font-weight: 600;
+      font-family: inherit;
+      color: #fff;
+      cursor: pointer;
+      transition: background .12s ease;
+    }
+    .btn-filter:hover { background: var(--brand-hover); border-color: var(--brand-hover); }
 
     /* ── Feed ── */
     main { max-width: 44rem; margin: 0 auto; padding: 2rem 1.25rem 5rem; }
@@ -217,6 +230,7 @@
         <label for="filter-context" id="label-context">Emne</label>
         <select id="filter-context" class="filter-sel"></select>
       </div>
+      <button id="btn-filter" class="btn-filter">Opdater</button>
     </div>
   </header>
 
@@ -380,13 +394,10 @@
       render();
     });
 
-    // Filter selectors
-    document.getElementById("filter-drug").addEventListener("change", (e) => {
-      currentDrug = e.target.value;
-      render();
-    });
-    document.getElementById("filter-context").addEventListener("change", (e) => {
-      currentContext = e.target.value;
+    // Filter button
+    document.getElementById("btn-filter").addEventListener("click", () => {
+      currentDrug    = document.getElementById("filter-drug").value;
+      currentContext = document.getElementById("filter-context").value;
       render();
     });
 
