@@ -67,9 +67,19 @@
       flex-wrap: wrap;
     }
     .meta-text { font-size: .82rem; color: var(--muted); }
+    .filter-row {
+      margin-top: .85rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: .6rem;
+      flex-wrap: wrap;
+    }
+    .filter-wrap { display: flex; align-items: center; gap: .4rem; }
+    .filter-wrap label { font-size: .82rem; color: var(--muted); }
     .lang-wrap { display: flex; align-items: center; gap: .4rem; }
     .lang-wrap label { font-size: .82rem; color: var(--muted); }
-    select#lang {
+    select#lang, select.filter-sel {
       background: var(--surface);
       color: var(--text);
       border: 1px solid var(--border-strong);
@@ -84,7 +94,12 @@
       background-repeat: no-repeat;
       background-position: right .5rem center;
     }
-    select#lang:focus { outline: 2px solid var(--brand); outline-offset: 2px; }
+    select#lang:focus, select.filter-sel:focus { outline: 2px solid var(--brand); outline-offset: 2px; }
+    .filter-divider {
+      width: 1px; height: 1rem;
+      background: var(--border-strong);
+      display: inline-block;
+    }
 
     /* ── Feed ── */
     main { max-width: 44rem; margin: 0 auto; padding: 2rem 1.25rem 5rem; }
@@ -192,6 +207,17 @@
         <select id="lang" aria-label="Vælg sprog"></select>
       </div>
     </div>
+    <div class="filter-row">
+      <div class="filter-wrap">
+        <label for="filter-drug" id="label-drug">Stof</label>
+        <select id="filter-drug" class="filter-sel"></select>
+      </div>
+      <span class="filter-divider"></span>
+      <div class="filter-wrap">
+        <label for="filter-context" id="label-context">Emne</label>
+        <select id="filter-context" class="filter-sel"></select>
+      </div>
+    </div>
   </header>
 
   <main id="feed">
@@ -209,27 +235,49 @@
       { code: "en", name: "English" },
     ];
 
+    const DRUG_OPTIONS = [
+      { value: "",             da: "Alle stoffer",     en: "All substances" },
+      { value: "psilocybin",   da: "Psilocybin",       en: "Psilocybin" },
+      { value: "mdma",         da: "MDMA",             en: "MDMA" },
+      { value: "ayahuasca",    da: "Ayahuasca",        en: "Ayahuasca" },
+      { value: "ketamine",     da: "Ketamin",          en: "Ketamine" },
+      { value: "lsd",          da: "LSD",              en: "LSD" },
+      { value: "dmt",          da: "DMT",              en: "DMT" },
+      { value: "ibogaine",     da: "Ibogain",          en: "Ibogaine" },
+      { value: "cannabis",     da: "Cannabis",         en: "Cannabis" },
+      { value: "other",        da: "Andet",            en: "Other" },
+    ];
+
+    const CONTEXT_OPTIONS = [
+      { value: "",                  da: "Alle emner",           en: "All topics" },
+      { value: "clinical-research", da: "Klinisk forskning",    en: "Clinical research" },
+      { value: "neuroscience",      da: "Neurovidenskab",       en: "Neuroscience" },
+      { value: "mental-health",     da: "Mental sundhed",       en: "Mental health" },
+      { value: "policy",            da: "Politik & regulering", en: "Policy" },
+      { value: "harm-reduction",    da: "Skadereduktion",       en: "Harm reduction" },
+      { value: "anthropology",      da: "Antropologi",          en: "Anthropology" },
+      { value: "other",             da: "Andet",                en: "Other" },
+    ];
+
     const UI = {
       da: {
-        label: "Sprog",
+        label: "Sprog", label_drug: "Stof", label_context: "Emne",
         h1: "Psykedelisk forskning",
         tagline: "Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.",
-        updated: "Senest opdateret",
-        articles: "artikler",
-        source_btn: "Kilde",
+        updated: "Senest opdateret", articles: "artikler", source_btn: "Kilde",
         empty: "Feedet forberedes — kom tilbage efter første kørsel.",
+        no_match: "Ingen artikler matcher det valgte filter.",
         disclaimer: "Resuméerne genereres med AI fra offentlige kilder (PubMed, CrossRef, Psychedelic Alpha, EuropePMC, OpenAlex) og kan indeholde fejl. Tjek altid den oprindelige kilde.",
         locale: "da-DK",
       },
       en: {
-        label: "Language",
+        label: "Language", label_drug: "Substance", label_context: "Topic",
         h1: "Psychedelic science",
         tagline: "A daily, automatically curated feed of new research and news on psychedelics.",
-        updated: "Last updated",
-        articles: "articles",
-        source_btn: "Source",
+        updated: "Last updated", articles: "articles", source_btn: "Source",
         empty: "The feed is being prepared — check back after the first run.",
-        disclaimer: "Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, EuropePMC, OpenAlex) and may contain errors. Always check the original source.",
+        no_match: "No articles match the selected filter.",
+        disclaimer: "Summaries are generated with AI from public sources (PubMed, CrossRef, Psychedelic Alpha, EuropePMC, OpenAlex) and may contain errors. Always check the original source.",
         locale: "en-GB",
       },
     };
@@ -239,6 +287,8 @@
     const DEFAULT_LANG = "da";
     let currentLang = localStorage.getItem("cepda_feed_lang") || DEFAULT_LANG;
     if (!UI[currentLang]) currentLang = DEFAULT_LANG;
+    let currentDrug = "";
+    let currentContext = "";
     let feedData = { generated_at: "", items: [] };
 
     function fmtDate(iso, locale) {
@@ -253,30 +303,60 @@
       return item.summary || "";
     }
 
+    function matchesFilters(item) {
+      if (currentDrug && item.drug && item.drug !== currentDrug) return false;
+      if (currentContext && item.context && item.context !== currentContext) return false;
+      return true;
+    }
+
+    function buildFilterSelects() {
+      const drugSel = document.getElementById("filter-drug");
+      const ctxSel  = document.getElementById("filter-context");
+      drugSel.innerHTML = DRUG_OPTIONS.map(o =>
+        `<option value="${o.value}">${o[currentLang]}</option>`
+      ).join("");
+      ctxSel.innerHTML = CONTEXT_OPTIONS.map(o =>
+        `<option value="${o.value}">${o[currentLang]}</option>`
+      ).join("");
+      drugSel.value = currentDrug;
+      ctxSel.value  = currentContext;
+    }
+
     function render() {
       const t = UI[currentLang];
       document.documentElement.lang = currentLang;
       document.getElementById("h1").textContent = t.h1;
       document.getElementById("tagline").textContent = t.tagline;
       document.getElementById("lang-label").textContent = t.label;
+      document.getElementById("label-drug").textContent = t.label_drug;
+      document.getElementById("label-context").textContent = t.label_context;
       document.getElementById("disclaimer").textContent = t.disclaimer;
+      buildFilterSelects();
 
-      const meta = document.getElementById("meta");
-      const feed = document.getElementById("feed");
-      const items = feedData.items || [];
+      const meta  = document.getElementById("meta");
+      const feedEl = document.getElementById("feed");
+      const allItems = feedData.items || [];
+      const items    = allItems.filter(matchesFilters);
+      const filtering = currentDrug || currentContext;
 
       meta.textContent =
         (feedData.generated_at
           ? t.updated + " " + fmtDate(feedData.generated_at, t.locale) + " · "
           : "") +
-        items.length + " " + t.articles;
+        (filtering
+          ? items.length + " / " + allItems.length + " " + t.articles
+          : allItems.length + " " + t.articles);
 
+      if (!allItems.length) {
+        feedEl.innerHTML = '<div class="empty">' + t.empty + "</div>";
+        return;
+      }
       if (!items.length) {
-        feed.innerHTML = '<div class="empty">' + t.empty + "</div>";
+        feedEl.innerHTML = '<div class="empty">' + t.no_match + "</div>";
         return;
       }
 
-      feed.innerHTML = items.map((it) => `
+      feedEl.innerHTML = items.map((it) => `
         <article class="card">
           <p class="card-source">${it.source || ""}${it.date ? " · " + it.date : ""}</p>
           <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
@@ -290,12 +370,23 @@
       `).join("");
     }
 
-    const sel = document.getElementById("lang");
-    sel.innerHTML = LANGS.map((l) => `<option value="${l.code}">${l.name}</option>`).join("");
-    sel.value = currentLang;
-    sel.addEventListener("change", () => {
-      currentLang = sel.value;
+    // Language selector
+    const langSel = document.getElementById("lang");
+    langSel.innerHTML = LANGS.map((l) => `<option value="${l.code}">${l.name}</option>`).join("");
+    langSel.value = currentLang;
+    langSel.addEventListener("change", () => {
+      currentLang = langSel.value;
       localStorage.setItem("cepda_feed_lang", currentLang);
+      render();
+    });
+
+    // Filter selectors
+    document.getElementById("filter-drug").addEventListener("change", (e) => {
+      currentDrug = e.target.value;
+      render();
+    });
+    document.getElementById("filter-context").addEventListener("change", (e) => {
+      currentContext = e.target.value;
       render();
     });
 

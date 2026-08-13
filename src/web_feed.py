@@ -48,32 +48,41 @@ Title: {title}
 Source: {source}
 Abstract/summary: {abstract}
 
-Reply ONLY with JSON: {{"relevant": true/false, "reason": "short reason in English", "relevance_score": 1-5}}"""
+Also classify the article with:
+- drug: the PRIMARY substance discussed. Choose ONE: psilocybin, mdma, ayahuasca, \
+ketamine, lsd, dmt, ibogaine, cannabis, other
+- context: the PRIMARY topic area. Choose ONE: clinical-research, neuroscience, \
+policy, harm-reduction, anthropology, mental-health, other
+
+Reply ONLY with JSON: {{"relevant": true/false, "reason": "short reason in English", \
+"relevance_score": 1-5, "drug": "...", "context": "..."}}"""
 
 SUMMARY_PROMPT = """\
-You are the editor of a bilingual feed about psychedelic science run by Cepda \
-(Center for Psykedelisk Dannelse), a Danish organisation.
+You are the social media editor for Cepda (Center for Psykedelisk Dannelse), \
+a Danish organisation that communicates psychedelic science to the public.
 
-Write a summary of the article below aimed at a curious, educated general \
-audience — people who are interested but not necessarily scientists. \
+Write a punchy, engaging bilingual summary of the article below — the kind of \
+post that makes someone stop scrolling and want to learn more. \
 Provide the summary in BOTH of these languages:
 - en: English
 - da: Danish
 
 RULES (apply to every language):
-- LENGTH: between 1300 and 1500 characters INCLUDING spaces. This is a hard \
-requirement — count carefully. Too short or too long is not acceptable.
-- STRUCTURE: three to four natural paragraphs. Do NOT use bullet points or headers.
-  1. What was found or what happened — in plain, vivid language.
-  2. How it was studied (briefly) and what the key numbers or findings are.
-  3. What it means in the context of the broader field of psychedelic research \
-right now — how does this fit into or advance the wider scientific and societal \
-conversation? Name relevant trends, parallel studies, or open questions where helpful.
-  4. (Optional) What comes next or what remains uncertain.
-- Plain language: avoid jargon; if a technical term is essential, explain it briefly
+- LENGTH: between 600 and 800 characters INCLUDING spaces. Hard requirement — \
+count carefully.
+- STRUCTURE: two short paragraphs. No bullet points or headers.
+  1. Lead with the 1-2 most striking findings or takeaways — make it concrete \
+and human. What does this actually mean for people?
+  2. One sentence on how the study was done (brief), then zoom out: how does \
+this fit into where psychedelic research is heading right now? What bigger \
+picture does it add to?
+- Plain, lively language — no jargon. Write like a smart friend explaining \
+something exciting, not a press release.
 - Accurate and honest — do not overstate or sensationalise findings
-- Warm and curious tone, like a science journalist writing for a quality newspaper
-- Use "psychedelics" in English and "psykedelika" in Danish (never "psykedeliske stoffer")
+- Warm, curious, slightly optimistic tone — this is science worth paying \
+attention to
+- Use "psychedelics" in English and "psykedelika" in Danish \
+(never "psykedeliske stoffer")
 - Write naturally and fluently for a native reader of that language
 
 Article:
@@ -134,7 +143,7 @@ def summarize(client: anthropic.Anthropic, article: Article) -> dict:
     try:
         msg = client.messages.create(
             model=MODEL,
-            max_tokens=2000,
+            max_tokens=800,
             messages=[{"role": "user", "content": prompt}],
         )
         data = _parse_json(msg.content[0].text)
@@ -192,7 +201,12 @@ def main() -> None:
             f"{result.get('reason', '')[:80]}"
         )
         if result.get("relevant"):
-            relevant.append({"article": article, "score": result.get("relevance_score", 3)})
+            relevant.append({
+                "article": article,
+                "score": result.get("relevance_score", 3),
+                "drug": result.get("drug", "other"),
+                "context": result.get("context", "other"),
+            })
         if i < len(new_articles) - 1:
             time.sleep(0.5)
 
@@ -212,6 +226,8 @@ def main() -> None:
                 "url": article.url,
                 "source": article.source,
                 "date": article.date,
+                "drug": item["drug"],
+                "context": item["context"],
                 "summaries": summarize(client, article),
                 "added_at": now,
             }
