@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-08-13T08:23:38.497423+00:00",
+  "generated_at": "2026-08-13T12:55:08.892797+00:00",
   "items": [
+    {
+      "title": "Psychoactive and Neurobiological Effects of Ketamine in Humans: A Scoping Review of Clinical Evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42590024/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine is showing real promise as a treatment for depression and trauma—sometimes working within hours instead of weeks—and researchers are finally mapping out exactly how it rewires your brain to make that happen. A new review of clinical evidence digs into what we know about ketamine's effects on the brain and mind, pulling together years of research to see the bigger picture. This matters because ketamine works differently than traditional antidepressants, opening up entirely new ways of thinking about mental health treatment. As psychedelics research accelerates globally, understanding ketamine's mechanisms is helping scientists develop better, safer treatments and figure out what other compounds might help people who don't respond to conventional options.",
+        "da": "Ketamin viser sig at være lovende som behandling for depression og trauma—og virker nogle gange inden for timer i stedet for uger—og forskere kortlægger nu præcis, hvordan det omkoder din hjerne til at få det til at ske. En ny oversigt over kliniske beviser dykker ned i det, vi ved om ketamins effekter på hjerne og sind, og sammenstiller års forskning for at se det større billede. Det betyder noget, fordi ketamin virker anderledes end traditionelle antidepressiva og åbner helt nye måder at tænke på omkring psykisk helbredelsesbehandling. Mens psykedelika-forskningen accelererer globalt, hjælper forståelsen af ketamins mekanismer forskere med at udvikle bedre, sikrere behandlinger og finde ud af, hvilke andre stoffer der kunne hjælpe mennesker, som ikke reagerer på almindelige muligheder."
+      },
+      "added_at": "2026-08-13T12:55:03.377830+00:00"
+    },
     {
       "title": "Psychedelics and astrocytes: a hypothesis-driven perspective on neuro-glial integration, network plasticity, and neuroimmune reprogramming.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42581074/",
@@ -649,17 +662,6 @@
         "da": "Artiklen undersøger peer supports rolle i medicinskt og ikke-medicinskt superviseret psykedelika-administration. Forfatterne gennemgår eksisterende peer-support-frameworks fra psykedelika- og veterancommunities og sammenligner kernekompetencer for at identificere synergier og træningsgab. Efterhånden som psykedelika-assisteret psykoterapi og statslige services ekspanderer, er uddannede facilitatorer væsentlige. Arbejdet præciserer psykedelika-peership – når erfarne personer faciliterer andres sessioner – og fremhæver yderligere behov indenfor træning og supervision."
       },
       "added_at": "2026-07-31T13:17:19.739679+00:00"
-    },
-    {
-      "title": "Sex-dependent effects of psychedelics: review of evidence from rodent models.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42528876/",
-      "source": "PubMed",
-      "date": "2026",
-      "summaries": {
-        "en": "This rodent model review examines sex-dependent effects of psychedelics (psilocybin, LSD, DMT, mescaline, and related compounds) acting via 5-HT2A receptor agonism. Evidence reveals notable sex differences in pharmacodynamics, serotonergic and dopaminergic signaling, amygdala reactivity, and dendritic spine formation. Behavioral outcomes—head twitch responses, locomotor activity, prepulse inhibition, stress reactivity, and social behavior—frequently show stronger or distinct effects in females, with ovarian cycle phase further modulating responses. Disease models demonstrate sex-dependent therapeutic outcomes for alcohol consumption and affective behavior. The review concludes sex is a critical biological variable in psychedelic neurobiology and behavioral effects.",
-        "da": "Dette rodent-modelreview undersøger kønsafhængige effekter af psykedelika (psilocybin, LSD, DMT, meskalin og relaterede stoffer) som virker via 5-HT2A-receptoragonisme. Evidensen viser betydelige kønsforskelle i farmakodynamik, serotonergt og dopaminergt signalering, amygdalarespons og dendrittiske ryg-dannelse. Adfærdsmæssige resultater—head twitch-respons, motorisk aktivitet, prepulse-inhibition, stressreaktivitet og social adfærd—viser ofte stærkere eller forskellige effekter hos hunner, hvor ovariefasecyklus yderligere modulerer responserne. Sygdomsmodeller demonstrerer kønsafhængige terapeutiske udfald for alkoholforbrug og affektiv adfærd. Reviewet konkluderer, at køn er en kritisk biologisk variabel i psykedelikas neurobiologi og adfærdsmæssige effekter."
-      },
-      "added_at": "2026-07-30T12:57:36.535374+00:00"
     }
   ]
 }
