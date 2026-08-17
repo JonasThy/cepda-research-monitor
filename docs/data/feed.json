@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-08-16T07:32:22.638377+00:00",
+  "generated_at": "2026-08-17T07:54:26.009668+00:00",
   "items": [
+    {
+      "title": "Is There a Relationship Between Big 5 Personality Traits And Reasons for Use of Psychedelics?",
+      "url": "https://doi.org/10.13140/rg.2.2.18384.06402",
+      "source": "OpenAlex",
+      "date": "2026-08-15",
+      "drug": "other",
+      "context": "anthropology",
+      "summaries": {
+        "en": "Does your personality shape why you take psychedelics? New research is exploring whether the Big Five personality traits—the framework psychologists use to understand how we differ—connect to our reasons for using psychedelics. The findings could help us understand who's drawn to these substances and why, offering clues for safer, more personalized approaches to psychedelic therapy. Researchers analyzed personality data alongside people's motivations for psychedelic use, painting a picture of how individual differences might influence our relationship with these powerful tools. As psychedelic science moves toward clinical applications, understanding who benefits most and why they're seeking these experiences becomes crucial—and this kind of research is exactly where the field is heading.",
+        "da": "Former din personlighed hvorfor du tager psykedelika? Ny forskning udforsker, om de fem største personlighedstræk—det framework psykologer bruger til at forstå hvordan vi er forskellige—hænger sammen med vores grunde til at bruge psykedelika. Resultaterne kunne hjælpe os til at forstå, hvem der bliver tiltrukket af disse stoffer og hvorfor, og give vigtige hints til sikrere, mere personaliserede tilgange til psykedelisk terapi. Forskerne analyserede personlighedsdata sideløbende med menneskers motivation for at bruge psykedelika, og tegner et billede af hvordan individuelle forskelle kan påvirke vores forhold til disse kraftfulde værktøjer. Efterhånden som psykedelisk videnskab bevæger sig mod kliniske anvendelser, bliver det afgørende at forstå, hvem der får mest ud af det og hvorfor de søger disse oplevelser—og netop denne slags forskning er præcis hvor området bevæger sig hen."
+      },
+      "added_at": "2026-08-17T07:54:13.037066+00:00"
+    },
+    {
+      "title": "Perspectives on Meditation-based Preparation for Psychedelic Experiences: Insights from Practitioners with Combined Meditation and Psychedelic Experience",
+      "url": "https://doi.org/10.1007/s12671-026-02957-w",
+      "source": "OpenAlex",
+      "date": "2026-08-15",
+      "drug": "other",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "Perspectives on Meditation-based Preparation for Psychedelic Experiences: Insights from Practitioners with Combined Meditation and Psychedelic Experience",
+        "da": "Perspectives on Meditation-based Preparation for Psychedelic Experiences: Insights from Practitioners with Combined Meditation and Psychedelic Experience"
+      },
+      "added_at": "2026-08-17T07:54:13.037066+00:00"
+    },
     {
       "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42602667/",
@@ -668,28 +694,6 @@
       "summaries": {
         "en": "Psychedelic-assisted therapy is delivering remarkable results for people struggling with depression, anxiety, and other psychiatric conditions—often producing improvements that last long after a single session. Yet scientists still don't fully understand why. When someone takes a full dose of a psychedelic like psilocybin or LSD, three things happen simultaneously: the drug floods the brain with chemical signals, the person experiences intense, often meaningful visions and emotions, and their body undergoes dramatic physiological shifts—heart racing, breathing changes, and heightened body awareness. This tangle of simultaneous effects makes it nearly impossible to figure out which piece is actually doing the therapeutic work. A new perspective proposes using three complementary research tools to untangle this puzzle. First, giving people a tiny sub-threshold dose of a psychedelic lets researchers study the raw neurochemical effects without the overwhelming experience. Second, intensive breathwork breathing exercises can trigger profound emotional and bodily shifts without any drug involved, isolating the role of the nervous system itself. Third, stimulating the vagus nerve a key nerve running through the body can probe how physical sensations influence mood and thought, again without altered consciousness. By studying these three approaches in parallel, within the same experimental framework, researchers hope to pinpoint whether therapeutic change comes mainly from chemical brain changes, from the meaningful psychological experiences people have, or from shifts in body-based awareness. This methodological clarity comes at a crucial moment, as psychedelic therapy moves from research labs toward clinical reality, making it essential to understand and potentially optimize exactly how these remarkable treatments work.",
         "da": "Psykedelika-assisteret terapi leverer bemærkelsesværdige resultater for mennesker, der kæmper med depression, angst og andre psykiatriske tilstande—ofte med forbedringer, der varer længe efter en enkelt session. Men videnskabsfolk forstår stadig ikke helt hvorfor. Når nogle får en fuld dosis af et psykedelikum som psilocybin eller LSD, sker der tre ting samtidigt: stoffet oversvømmer hjernen med kemiske signaler, personen oplever intense, ofte meningsfulde visioner og følelser, og kroppen gennemgår dramatiske fysiologiske ændringer—hjerte der banker, ændringer i vejrtrækningen og øget kropsbevidsthed. Denne sammenvikling af samtidige effekter gør det næsten umuligt at finde ud af, hvilken del der rent faktisk fremkalder den terapeutiske virkning. Et nyt perspektiv foreslår at bruge tre komplementære forskningsværktøjer til at løse dette puslespil. Først kan man give mennesker en mikroskopisk sub-tærskelværdi dosis af et psykedelikum for at studere de rene neurochemiske effekter uden den overvældende oplevelse. Anden, intensiv vejrtrækningsøvelser kan udløse dybe følelsesmæssige og fysiske skift uden noget stof, hvilket isolerer nervesystemets rolle. Tredje, stimulering af vagusnerven—en nøglenerve, der løber gennem kroppen—kan undersøge, hvordan fysiske fornemmelser påvirker humør og tanker, igen uden ændret bevidsthed. Ved at studere disse tre tilgange parallelt inden for samme eksperimentelle ramme håber forskere at præcisere, om terapeutisk ændring primært stammer fra kemiske hjernefunktioner, fra de meningsfulde psykologiske oplevelser, mennesker har, eller fra skift i kropsbaseret bevidsthed. Denne metodiske klarhed kommer på et afgørende tidspunkt, når psykedelika-terapi bevæger sig fra forskningslaboratorier mod klinisk virkelighed, hvilket gør det væsentligt at forstå og potentielt optimere præcis hvordan disse bemærkelsesværdige behandlinger virker."
-      },
-      "added_at": "2026-08-05T08:16:29.058355+00:00"
-    },
-    {
-      "title": "Psychological change processes in alcohol use disorder: A qualitative study of 5‐methoxy‐ <i>N</i> , <i>N</i> ‐dimethyltryptamine (5‐MeO‐DMT) with cognitive behavioural therapy",
-      "url": "https://doi.org/10.1111/add.70555",
-      "source": "OpenAlex",
-      "date": "2026-08-03",
-      "summaries": {
-        "en": "Researchers in London have investigated how a single dose of 5-MeO-DMT, a powerful psychedelic compound, might help people overcome alcohol addiction when combined with therapy. Ten people with serious alcohol use disorder participated in the study alongside trained therapists. Over three months, participants received one intranasal dose of the psychedelic alongside cognitive behavioural therapy—a well-established talking therapy focused on preventing relapse—and psychological support. The team conducted detailed interviews with both the participants and their therapists to understand what actually changed in people's minds and behaviour during this time, rather than just measuring outcomes with numbers.\n\nWhat emerged was a picture of how psychedelics might work differently than traditional treatment approaches. Participants described shifts in how they viewed their drinking, new insights about their motivations, and changes in their sense of self that seemed to complement the structured therapy they received. The therapists confirmed these observations, noting that the combination appeared to create moments of openness and reflection that strengthened the therapeutic work. While this was a small study designed mainly to check safety—not to prove the treatment works—the qualitative findings hint at psychological mechanisms that might explain why some people respond well to psychedelics paired with skilled therapeutic support.\n\nThis research sits at an important moment in psychedelic science. The field is moving beyond simply asking \"does it work?\" to asking \"how does it work and for whom?\" Understanding the lived experience of participants, not just clinical measurements, is crucial as psychedelics move toward potential medical use. The study also highlights a growing recognition that psychedelics alone are not magic cures; their power may lie in how they open psychological doors that skilled therapists can help people walk through. Questions remain about which individuals benefit most, how crucial the therapy component is, and whether effects persist long-term.",
-        "da": "Forskere i London har undersøgt, hvordan en enkelt dosis 5-MeO-DMT, et kraftigt psykedelikum, kan hjælpe mennesker med at overvinde alkoholafhængighed, når det kombineres med terapi. Ti personer med alvorlig alkoholforgiftning deltog i studiet sammen med uddannede terapeuter. Over tre måneder modtog deltagerne en enkelt næsedosis psykedelikum sammen med kognitiv adfærdsterapi—en velkendt talketerapi fokuseret på tilbagefaldsprevention—og psykologisk støtte. Forskergruppen gennemførte detaljerede interviews med både deltagerne og deres terapeuter for at forstå, hvad der egentlig ændrede sig i menneskers sind og adfærd i denne tid, i stedet for blot at måle resultater med tal.\n\nDet der fremkom, var et billede af, hvordan psykedelika kan virke anderledes end traditionelle behandlingstilgange. Deltagerne beskrev skift i, hvordan de så deres drikken, nye indsigter om deres motivationer, og ændringer i deres selvforståelse, som syntes at supplere den strukturerede terapi, de modtog. Terapeuterne bekræftede disse observationer og bemærkede, at kombinationen syntes at skabe øjeblikke af åbenhed og refleksion, der styrkede det terapeutiske arbejde. Selvom dette var et lille studie designet hovedsageligt til at kontrollere sikkerhed—ikke til at bevise, at behandlingen virker—peger de kvalitative fund på psykologiske mekanismer, der måske kan forklare, hvorfor nogle mennesker reagerer godt på psykedelika kombineret med dygtig terapeutisk støtte.\n\nDenne forskning finder sted på et vigtigt tidspunkt inden for psykedelika-videnskab. Feltet bevæger sig væk fra blot at spørge \"virker det?\" til at spørge \"hvordan virker det, og for hvem?\" At forstå deltagernes faktiske oplevelses, ikke kun kliniske målinger, er afgørende, når psykedelika bevæger sig mod potentiel medicinsk brug. Studiet fremhæver også en voksende erkendelse af, at psykedelika ikke er mirakelkure i sig selv; deres kraft kan ligge i, hvordan de åbner psykologiske døre, som dygtige terapeuter kan hjælpe mennesker med at gå gennem. Spørgsmål bliver ved med at eksistere omkring, hvilke personer der har størst gavn, hvor vigtig terapidelen er, og om effekterne varer ved over længere tid."
-      },
-      "added_at": "2026-08-05T08:16:29.058355+00:00"
-    },
-    {
-      "title": "Trial suggests effectiveness of psilocybin for cocaine use disorder",
-      "url": "https://doi.org/10.1002/pu.31488",
-      "source": "OpenAlex",
-      "date": "2026-08-03",
-      "summaries": {
-        "en": "Trial suggests effectiveness of psilocybin for cocaine use disorder",
-        "da": "Trial suggests effectiveness of psilocybin for cocaine use disorder"
       },
       "added_at": "2026-08-05T08:16:29.058355+00:00"
     }
