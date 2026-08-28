@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-08-27T18:08:52.087106+00:00",
+  "generated_at": "2026-08-28T19:18:52.029270+00:00",
   "items": [
+    {
+      "title": "Psilocybin enhances sociability only in altered behavioural state and does not need an awake experience to be effective",
+      "url": "https://doi.org/10.1038/s41467-026-77238-0",
+      "source": "OpenAlex",
+      "date": "2026-08-27",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What if a psychedelic could help people with autism without the trip? New research suggests psilocybin can boost social behaviour in mice with autism-like traits—and here's the wild part: the effect works even when the brain is anaesthetised, meaning you don't need the hallucinations or altered consciousness to get the benefit. This challenges everything we thought we knew about how psychedelics work therapeutically.\n\nScientists gave psilocybin to mice genetically engineered to model autism spectrum disorder and saw lasting improvements in social interaction. The breakthrough came when they tested it under anaesthesia and found the same results. This opens a fascinating door: could we eventually create autism treatments based on psychedelics that deliver the healing without the mind-altering side effects? As psychedelic research moves from counterculture curiosity into legitimate medicine, studies like this help us understand which parts of the experience actually matter for healing.",
+        "da": "Hvad hvis et psykedelikum kunne hjælpe mennesker med autisme uden at give et \"trip\"? Ny forskning tyder på, at psilocybin kan forbedre social adfærd hos mus med autisme-lignende træk—og her kommer det vilde: effekten virker selv når hjernen er bedøvet, hvilket betyder, at du ikke har brug for hallucinationer eller ændret bevidsthed for at få fordelen. Dette udfordrer alt, hvad vi troede, vi vidste om, hvordan psykedelika virker terapeutisk.\n\nForskerene gav psilocybin til mus, der var genetisk fremstillet til at modellere autismespektrumforstyrrelse, og så varige forbedringer i social interaktion. Gennembruddet kom, da de testede det under bedøvelse og fandt de samme resultater. Dette åbner en fascinerende dør: kunne vi engang udvikle autismebehandlinger baseret på psykedelika, der leverer helbredelsen uden de bevidsthedsforstyrrende bivirkninger? Når psykedelikaforskning bevæger sig fra modekulturfascination til legitim medicin, hjælper studier som dette os med at forstå, hvilke dele af oplevelsen som faktisk betyder noget for helbredelse."
+      },
+      "added_at": "2026-08-28T19:18:18.201745+00:00"
+    },
+    {
+      "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663266/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Esketamine—a nasal spray version of ketamine—is already helping people with severe depression in clinics across Europe and beyond. But here's what's really interesting: this real-world success story is teaching us crucial lessons about how to bring psychedelics safely and effectively into mainstream psychiatry. A new analysis looks at what esketamine's journey tells us about effectiveness, how to roll these treatments out properly, the business side of things, and most importantly, how to keep people safe. This matters because other psychedelics—like psilocybin and MDMA—are hot on its heels, and esketamine is essentially a test run showing us what works and what doesn't.",
+        "da": "Esketamin—en næsespray-version af ketamin—hjælper allerede mennesker med alvorlig depression på klinikker rundt omkring i Europa og verden over. Men her er det virkelig interessante: denne succes i praksis lærer os afgørende lektioner om, hvordan man bringer psykedelika sikkert og effektivt ind i mainstream psykiatri. En ny analyse ser på, hvad esketamins rejse fortæller os om virkning, hvordan man udrullerer disse behandlinger ordentligt, forretningssiden af tingene, og vigtigst af alt, hvordan man holder mennesker sikre. Det betyder noget, fordi andre psykedelika—som psilocybin og MDMA—er lige bag efter, og esketamin er i princippet en testtur, der viser os hvad der fungerer og hvad der ikke gør."
+      },
+      "added_at": "2026-08-28T19:18:18.201745+00:00"
+    },
+    {
+      "title": "Oncology Providers' Perspectives on Psychedelic-Assisted Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661611/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Cancer doctors are getting questions about psychedelics—but most don't know how to answer. A new survey found that while nearly half of oncology providers have had patients ask about psychedelic-assisted therapy for end-of-life anxiety and depression, 80% don't feel confident counseling them. The main worry? Unknown interactions with cancer drugs and safety concerns. The good news: doctors who knew more about the emerging research were way more willing to explore it.\n\nThis study surveyed nearly 400 healthcare professionals across US cancer centers and palliative care networks. What it reveals is a critical gap—the science is moving forward, but the people actually treating patients haven't caught up yet. As psychedelic research for cancer-related suffering expands, closing this knowledge gap becomes essential. Education and access to trained treatment centers could be the missing piece that helps psychedelics reach the patients who need them most.",
+        "da": "Kræftlæger får spørgsmål om psykedelika—men de fleste ved ikke, hvordan de skal svare. En ny undersøgelse viser, at selvom næsten halvdelen af onkologiske læger har fået patienter, der spørger om psykedelika-assisteret terapi mod angst og depression ved livets slutning, føler 80% sig ikke trygge ved at vejlede dem. Hovedbekymringen? Ukendte interaktioner med kræftmedicin og sikkerhedsspørgsmål. Det gode nyhed: læger, der vidste mere om den nye forskning, var langt mere villige til at udforske det.\n\nDenne undersøgelse omfattede næsten 400 sundhedsprofessionelle på amerikanske kræftcentre og palliativ behandling. Den afslører et kritisk tomrum—videnskaben skrider frem, men de mennesker, der faktisk behandler patienter, er ikke nået dertil endnu. Når forskningen i psykedelika mod kræftrelateret lidelse ekspanderer, bliver det afgørende at lukke dette videnshul. Uddannelse og adgang til erfarne behandlingscentre kunne være det manglende stykke, der hjælper psykedelika til de patienter, der har mest brug for det."
+      },
+      "added_at": "2026-08-28T19:18:18.201745+00:00"
+    },
+    {
+      "title": "Development of Japanese Versions of the 4-Item Mystical Experience Questionnaire and 7-Item Challenging Experience Questionnaire.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661240/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When people take psychedelics in clinical settings, researchers need to measure what they actually experience — the profound, mystical moments and the challenging, difficult ones. Scientists have now created shorter Japanese versions of the key questionnaires used to capture these experiences, cutting down from 30 and 26 questions to just 4 and 7. This matters because it means faster assessments and less burden on participants, while keeping what makes these tools valuable. The study involved careful translation work guided by international standards, ensuring the questions feel natural and make sense for Japanese speakers. As psychedelic therapy edges closer to real-world use globally, having reliable measurement tools in different languages becomes essential — this is about making sure research can happen anywhere, and that the incredible experiences people have aren't lost in translation.",
+        "da": "Når mennesker tager psykedelika i kliniske forsøg, skal forskere måle hvad de oplever — de dybe, mystiske øjeblikke og de udfordrende, vanskelige. Videnskabsfolk har nu skabt kortere japanske versioner af de vigtigste spørgeskemaer, der bruges til at indfange disse oplevelser, reduceret fra 30 og 26 spørgsmål til blot 4 og 7. Det betyder hurtigere vurderinger og mindre belastning på deltagerne, samtidig med at værktøjernes styrke bevares. Arbejdet involverede omhyggelig oversættelse ifølge internationale standarder, som sikrer at spørgsmålene føles naturlige for japansk-talende. Når psykedelisk terapi nærmer sig faktisk verdensomspændende brug, bliver pålidelige måleredskaber på forskellige sprog afgørende — det handler om at forskning kan ske overalt, og at de utrolige oplevelser mennesker har ikke går tabt i oversættelsen."
+      },
+      "added_at": "2026-08-28T19:18:18.201745+00:00"
+    },
+    {
+      "title": "AMCP Market Insights: Optimizing managed care approaches to treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42658027/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When standard antidepressants don't work—and for some people they simply don't—life can feel stuck. Treatment-resistant depression affects millions, draining quality of life and straining healthcare systems. Now psilocybin is emerging as a genuinely promising option for people who've tried everything else. A panel of healthcare leaders recently gathered to figure out how to actually make this work in practice: who should get it, how do we know it's worth the cost, and crucially, do we have enough trained therapists to guide people through the experience safely?\n\nThe study mapped out where psychedelic-assisted therapy fits into depression care right now—and it's clear the field is moving fast. Experts agree the evidence is real but want more data comparing psilocybin to other options and understanding exactly which patients benefit most. The biggest practical challenge? Building a real network of mental health professionals trained to administer and support these treatments. As psychedelics shift from research labs into actual healthcare systems, these questions matter enormously for patients waiting for hope.",
+        "da": "Når almindelige antidepressiva ikke virker—og for nogle mennesker gør de simpelthen ikke—kan livet føles låst fast. Behandlingsresistent depression rammer millioner og dræner livskvaliteten og belaster sundhedssystemet. Nu viser psilocybin sig som et ægte lovende alternativ for mennesker, der har prøvet alt. En gruppe sundhedsledere mødte for nylig for at finde ud af, hvordan man faktisk får det til at virke i praksis: hvem skal have det, hvordan ved vi, det er værd prisen, og afgørende—har vi nok uddannede terapeuter til at guide mennesker sikkert gennem oplevelsen?\n\nStudiet kortlagde, hvor psykedelika-assisteret terapi passer ind i depressionsomsorg netop nu—og det er klart, at området udvikler sig hurtigt. Eksperter er enige om, at beviserne er reelle, men vil have mere data om at sammenligne psilocybin med andre muligheder og forstå præcis, hvilke patienter der profiterer mest. Den største praktiske udfordring? At opbygge et reelt netværk af psykiske sundhedsprofessionelle trænet til at administrere og støtte disse behandlinger. Når psykedelika skifter fra forskningstudier til egentlig sundhedspleje, betyder disse spørgsmål enormt for patienter, der venter på håb."
+      },
+      "added_at": "2026-08-28T19:18:18.201745+00:00"
+    },
     {
       "title": "Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025-2026).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42652632/",
@@ -715,71 +780,6 @@
         "da": "Hvad hvis ketamins smertelindring faktisk kunne vare ved? Et nyt canadisk studie testede, om en kombination af ketamin-infusioner og terapi kunne hjælpe patienter med kronisk smerte til at få længerevarende resultater, ikke bare midlertidig lindring. Over 16 uger fik nogle patienter kun ketamin, andre fik kun terapi, og en tredje gruppe fik begge dele. Resultaterne er lovende: alle grupper oplevede betydningsfulde forbedringer i smerte og hvor meget det påvirkede deres daglige liv—men kombinationen tyder på endnu bedre effekter. Dette pilottudie beviser, at ideen er gennemførlig og sikker nok til at fortsætte. Mens psykedelika-forskningen udvider sig ud over psykisk sundhed og ind i smertehåndtering, betyder det noget: vi opdager, at kombination af disse kraftfulde stoffer med kvalificeret terapi kunne være det virkelige gennembrud, der forvandler kortvarige løsninger til reel helbredelse."
       },
       "added_at": "2026-08-14T08:17:51.922601+00:00"
-    },
-    {
-      "title": "Efficacy and Safety of Psychedelic Microdosing on Psychological Outcomes in Healthy Adults: A Systematic Review and Meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593636/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Here's the honest truth about microdosing: it's not the cognitive superpower everyone hoped for. A major new review of 24 studies involving over 3,600 people found that taking tiny doses of psychedelics like psilocybin or LSD doesn't actually boost creativity, sharpen your thinking, or create lasting mood changes—even though people often *feel* something shift in their brain activity. The catch? People in observational studies reported real improvements in mood and personality, but rigorous controlled trials showed minimal lasting effects. Researchers looked at randomized trials, prospective studies, and long-term observations to map what microdosing actually does. The takeaway points to something bigger: we're learning that psychedelics work differently than we assumed, and the gap between what we *experience* and what shows up in rigorous testing matters. This is exactly the kind of honest science that's building a real foundation for understanding psychedelics—not hype, just clarity.",
-        "da": "Her er sandheden om microdosing: det er ikke den kognitiv superkraft, som alle håbede på. En stor ny analyse af 24 studier med over 3.600 personer viser, at små doser psykedelika som psilocybin eller LSD faktisk ikke forbedrer kreativitet, skarphed eller skaber varige stemningsforbedringer—selvom folk ofte *føler* noget skifte i deres hjernens aktivitet. Fangen? Folk i observationsstudier rapporterede ægte forbedringer i humør og personlighed, men stringente kontrollerede forsøg viste minimale varige effekter. Forskere kiggede på randomiserede forsøg, prospektive studier og langsigtede observationer for at kortlægge, hvad microdosing faktisk gør. Konklusionen peger på noget større: vi lærer, at psykedelika virker anderledes end antaget, og forskellen mellem hvad vi *oplever* og hvad der viser sig i stringent test betyder noget. Dette er præcis den ærlige videnskab, som bygger et rigtigt fundament for at forstå psykedelika—ikke hype, bare klarhed."
-      },
-      "added_at": "2026-08-14T08:17:51.922601+00:00"
-    },
-    {
-      "title": "Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025–2026)",
-      "url": "https://doi.org/10.3390/jcm15166228",
-      "source": "OpenAlex",
-      "date": "2026-08-12",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "A single dose of psilocybin is showing remarkable staying power: people with severe depression report lasting relief up to a year later, and veterans with treatment-resistant depression are seeing 60% response rates within weeks. These aren't small studies anymore—researchers have now compiled evidence from dozens of rigorous trials across depression, PTSD, trauma, and addiction, revealing that psilocybin-assisted therapy works best when paired with genuine psychological breakthroughs during the experience itself.\n\nA comprehensive review of research from 2000–2026 shows psychedelics are moving from experimental curiosity to serious clinical tool. The big picture: psilocybin isn't just another medication to take daily—it's a catalyst that can rewire how people relate to their suffering, often in ways that persist long after the drug leaves your system. As more trials confirm safety and long-term benefits, the question is shifting from \"does it work?\" to \"how do we make it available to people who need it most?\"",
-        "da": "En enkelt dosis psykedelika viser bemærkelsesværdig varighed: mennesker med svær depression rapporterer vedvarende lettelse op til et år senere, og veteraner med behandlingsresistent depression ser 60% responsrate inden for uger. Dette er ikke små studier længere—forskere har nu samlet bevis fra snesevis af rigtige forsøg på tværs af depression, PTSD, traumer og afhængighed, hvilket afslører at psykedelika-assisteret terapi fungerer bedst når det er kombineret med ægte psykologiske gennembrud under oplevelsen.\n\nEn omfattende gennemgang af forskning fra 2000–2026 viser psykedelika bevæger sig fra eksperimentel nysgerrighed til seriøst klinisk værktøj. Det større billede: psykedelika er ikke bare endnu et lægemiddel man tager dagligt—det er en katalysator som kan omforme hvordan mennesker forholder sig til deres lidelse, ofte på måder der holder vedvarende længe efter stoffet forlader kroppen. Når flere forsøg bekræfter sikkerhed og langtidseffekter, skifter spørgsmålet fra \"virker det?\" til \"hvordan gør vi det tilgængeligt for dem der har mest brug for det?\""
-      },
-      "added_at": "2026-08-14T08:17:51.922601+00:00"
-    },
-    {
-      "title": "Psychedelic integration beyond the verbal: participatory-imaginal processing as a hypothesis-generating therapeutic framework",
-      "url": "https://doi.org/10.3389/fpsyt.2026.1895181",
-      "source": "OpenAlex",
-      "date": "2026-08-12",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the most powerful moments from a psychedelic experience can't be put into words—and don't need to be? Researchers working with cancer patients on psilocybin therapy are discovering that the vivid, embodied experiences people have often resist description, yet most therapy sessions try to process them through talk and analysis alone. A new approach flips this on its head: instead of translating these deep felt experiences into language, it invites patients to re-enter them directly, somatically, without needing to explain. Developed through clinical observation and embodied imagination work, the DREAM protocol (Drop In, Recount, Enter, Amplify, Merge) is a structured way to do this in integration sessions. The hypothesis is compelling: by helping patients return to these somatic touchstones—the felt, lived dimensions of their trip—they can anchor lasting transformation beyond what words alone could capture. This points to a maturing field recognizing that psychedelic healing happens in multiple dimensions at once, and true integration might mean honoring the body's wisdom as much as the mind's insights.",
-        "da": "Hvad hvis de vigtigste øjeblikke fra en psykedelisk oplevelse slet ikke kan sættes ord på—og måske slet ikke skal det? Forskere, der arbejder med kræftpatienter på psilocybin-terapi, opdager, at de levende, kropslige oplevelser, patienterne har, ofte modstår beskrivelse, og alligevel forsøger de fleste terapisessioner at bearbejde dem gennem samtale og analyse alene. En ny tilgang vender dette på hovedet: i stedet for at oversætte disse dybe følte oplevelser til sprog, inviterer den patienterne til direkte at genudsætte dem, kropsligt, uden behov for forklaringer. Udviklet gennem klinisk observation og arbejde med indlevet fantasi er DREAM-protokollen (Drop In, Recount, Enter, Amplify, Merge) en struktureret måde at gøre dette på i integrationssessioner. Hypotesen er overbevisende: ved at hjælpe patienterne med at vende tilbage til disse kropslige ankerpunkter—de følte, levede dimensioner af deres tur—kan de forankre varig transformation ud over hvad ord alene kunne fange. Det peger på et felt, der modnes, og som erkender, at psykedelisk helbredelse sker på flere dimensioner på én gang, og sand integration betyder måske at ægte kroppen's visdom lige så meget som sindets indsigter."
-      },
-      "added_at": "2026-08-14T08:17:51.922601+00:00"
-    },
-    {
-      "title": "A contemporary exploration of motivations and practices of psychedelic use among emerging adult cannabis users in the United States: A qualitative analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593989/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "other",
-      "context": "anthropology",
-      "summaries": {
-        "en": "People aren't just experimenting with psychedelics by accident—they're doing it intentionally, often hoping to understand themselves better or find spiritual meaning. A new study of young cannabis users in the US reveals they're also using psychedelics to connect with others and sometimes to self-treat mental health challenges. What's striking is how thoughtful many people are about it: they're microdosing, setting intentions, and carefully considering both the potential benefits and risks before diving in.\n\nResearchers conducted interviews in 2022-2023 with diverse young adults to understand what's really driving this growing interest in psychedelics. They found four key factors shaping how people use them—the social environment around them, what they expect to happen, why they're motivated to try them, and how they actually approach it. This research captures a crucial moment: as psychedelics move from counterculture whisper to mainstream curiosity, we're learning that people's reasons for using them are nuanced, often rooted in genuine self-exploration rather than recklessness. It's the kind of real-world insight that helps scientists and society understand where psychedelic research needs to go next.",
-        "da": "Folk eksperimenterer ikke bare tilfældigt med psykedelika—de gør det bevidst, ofte i håb om at forstå sig selv bedre eller finde spirituel mening. Et nyt studie af unge cannabis-brugere i USA viser, at de bruger psykedelika til at forbinde sig med andre og nogle gange til at selvbehandle mentale sundhedsproblemer. Det slående er, hvor gennemtænkt mange mennesker er omkring det: de microdoserer, sætter intentioner og vurderer omhyggeligt både potentielle fordele og risici før de prøver.\n\nForskerne gennemførte interviews i 2022-2023 med mangfoldige unge voksne for at forstå, hvad der virkelig driver denne voksende interesse for psykedelika. De fandt fire nøglefaktorer, der former hvordan mennesker bruger dem—det sociale miljø omkring dem, hvad de forventer skal ske, hvorfor de motiveres til at prøve dem, og hvordan de faktisk går til det. Dette forskning fanger et afgørende øjeblik: når psykedelika bevæger sig fra kontrakulturel hvislen til almindelig nysgerrighed, lærer vi, at menneskers grunde til at bruge dem er nuancerede, ofte rodfæstet i ægte selvudforskning snarere end hensynsløshed. Det er præcis den slags virkelighedsnær indsigt, der hjælper forskere og samfund med at forstå, hvor psykedelika-forskning skal hen næste gang."
-      },
-      "added_at": "2026-08-14T08:17:51.922601+00:00"
-    },
-    {
-      "title": "Psychoactive and Neurobiological Effects of Ketamine in Humans: A Scoping Review of Clinical Evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42590024/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Ketamine is showing real promise as a treatment for depression and trauma—sometimes working within hours instead of weeks—and researchers are finally mapping out exactly how it rewires your brain to make that happen. A new review of clinical evidence digs into what we know about ketamine's effects on the brain and mind, pulling together years of research to see the bigger picture. This matters because ketamine works differently than traditional antidepressants, opening up entirely new ways of thinking about mental health treatment. As psychedelics research accelerates globally, understanding ketamine's mechanisms is helping scientists develop better, safer treatments and figure out what other compounds might help people who don't respond to conventional options.",
-        "da": "Ketamin viser sig at være lovende som behandling for depression og trauma—og virker nogle gange inden for timer i stedet for uger—og forskere kortlægger nu præcis, hvordan det omkoder din hjerne til at få det til at ske. En ny oversigt over kliniske beviser dykker ned i det, vi ved om ketamins effekter på hjerne og sind, og sammenstiller års forskning for at se det større billede. Det betyder noget, fordi ketamin virker anderledes end traditionelle antidepressiva og åbner helt nye måder at tænke på omkring psykisk helbredelsesbehandling. Mens psykedelika-forskningen accelererer globalt, hjælper forståelsen af ketamins mekanismer forskere med at udvikle bedre, sikrere behandlinger og finde ud af, hvilke andre stoffer der kunne hjælpe mennesker, som ikke reagerer på almindelige muligheder."
-      },
-      "added_at": "2026-08-13T12:55:03.377830+00:00"
     }
   ]
 }
