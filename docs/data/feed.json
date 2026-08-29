@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-08-28T19:18:52.029270+00:00",
+  "generated_at": "2026-08-29T12:59:42.713784+00:00",
   "items": [
+    {
+      "title": "Erratum to \"Long-term treatment with esketamine nasal spray in patients with treatment resistant depression: Results from the ESCAPE-LTE study\" [European Neuropsychopharmacology 107 (2026) 112801].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42659716/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "An important correction has been issued for a major study on esketamine nasal spray, a ketamine-based treatment showing real promise for people with severe depression that hasn't responded to traditional antidepressants. The original research tracked patients over the long term, and this update ensures the findings are as accurate as possible—because when we're talking about treatments that could genuinely help people who've tried everything else, getting the details right matters.\n\nThis kind of careful science is exactly what's driving the psychedelics field forward right now. Researchers aren't just discovering that these compounds work; they're doing the meticulous work of understanding how, for whom, and what happens when people use them over months and years. Every correction, every follow-up study, every honest conversation about limitations builds the solid foundation we need to bring these treatments into wider use.",
+        "da": "En vigtig rettelse er blevet udsendt til et større studie om esketamin-næsespray, en ketamin-baseret behandling, der viser rigtig potentiale for mennesker med svær depression, som ikke reagerer på almindelige antidepressiva. Det oprindelige forskning fulgte patienter over længere tid, og denne opdatering sikrer, at findingene er så præcise som muligt—fordi når vi taler om behandlinger, der kunne hjælpe mennesker, som har prøvet alt andet, betyder detaljerne virkelig noget.\n\nDette slag omhyggeligt videnskab er præcis det, der driver psykedelika-forskningen fremad lige nu. Forskere handler ikke bare om at opdage, at disse stoffer virker; de udfører det omhyggelige arbejde med at forstå hvordan, for hvem, og hvad der sker, når mennesker bruger dem over måneder og år. Hver rettelse, hver opfølgningsstudie, hver ærlig samtale om begrænsninger bygger det solide fundament, vi har brug for for at få disse behandlinger i bredere brug."
+      },
+      "added_at": "2026-08-29T12:59:36.132588+00:00"
+    },
     {
       "title": "Psilocybin enhances sociability only in altered behavioural state and does not need an awake experience to be effective",
       "url": "https://doi.org/10.1038/s41467-026-77238-0",
@@ -767,19 +780,6 @@
         "da": "Unge cannabisbrugere i USA vender sig til psykedelika af overraskende personlige grunde—ikke bare for at blive høje, men for at forstå sig selv bedre, bearbejde svære følelser og finde mening. Et nyt kvalitativt studie har lyttet grundigt til unge voksne om deres virkelige motivationer og hvordan de bruger disse stoffer, og det afslørede et billede, der er langt mere nuanceret end stereotyperne. Forskerne gennemførte dybdegående interviews for at kortlægge disse virkelige praksisser og de menneskeligt ægte behov, der driver folk til at udforske psykedelika. Det passer perfekt til et afgørende moment i psykedelika-forskningen: mens videnskabelige studier fokuserer på terapeutisk potentiale i kliniske miljøer, lærer vi også, hvordan mennesker allerede søger disse oplevelser på deres egne præmisser—viden der kunne hjælpe både skadesreduktion og vores forståelse af psykedelikas rolle i menneskers liv."
       },
       "added_at": "2026-08-15T07:32:11.794743+00:00"
-    },
-    {
-      "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42594864/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the pain relief from ketamine could actually stick around? A new Canadian study tested whether combining ketamine infusions with therapy might help chronic pain patients get lasting results, not just temporary relief. Over 16 weeks, some patients received ketamine alone, others got therapy alone, and a third group got both. The results are promising: people in all groups saw meaningful improvements in pain and how much it interfered with their lives—but the combined approach hints at better outcomes. This pilot study proves the idea is workable and safe enough to move forward. As psychedelics research expands beyond mental health into pain management, this matters: we're discovering that pairing these powerful compounds with skilled therapy might be the real game-changer, turning short-term fixes into actual healing.",
-        "da": "Hvad hvis ketamins smertelindring faktisk kunne vare ved? Et nyt canadisk studie testede, om en kombination af ketamin-infusioner og terapi kunne hjælpe patienter med kronisk smerte til at få længerevarende resultater, ikke bare midlertidig lindring. Over 16 uger fik nogle patienter kun ketamin, andre fik kun terapi, og en tredje gruppe fik begge dele. Resultaterne er lovende: alle grupper oplevede betydningsfulde forbedringer i smerte og hvor meget det påvirkede deres daglige liv—men kombinationen tyder på endnu bedre effekter. Dette pilottudie beviser, at ideen er gennemførlig og sikker nok til at fortsætte. Mens psykedelika-forskningen udvider sig ud over psykisk sundhed og ind i smertehåndtering, betyder det noget: vi opdager, at kombination af disse kraftfulde stoffer med kvalificeret terapi kunne være det virkelige gennembrud, der forvandler kortvarige løsninger til reel helbredelse."
-      },
-      "added_at": "2026-08-14T08:17:51.922601+00:00"
     }
   ]
 }
