@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-08-31T14:54:04.935631+00:00",
+  "generated_at": "2026-09-01T12:25:09.493057+00:00",
   "items": [
+    {
+      "title": "Serotonergic psychedelics induce distinct patterns of metabolic activity and covariance within biologically informed rat brain networks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675044/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Even though psilocybin, LSD, and 2C-B all work through the same brain receptor, they create surprisingly different patterns of activity in the brain — and those patterns stick around for a week after the experience ends. Scientists used brain imaging in rats to map exactly how each psychedelic reshapes the brain's metabolism, revealing drug-specific signatures that could help explain why they might work differently for different conditions. This opens a fascinating new door: rather than treating all psychedelics as interchangeable, we might be able to match specific compounds to specific mental health challenges based on their unique brain effects.",
+        "da": "Selvom psilocybin, LSD og 2C-B virker gennem samme hjernereceptor, skaber de overraskende forskellige aktivitetsmønstre i hjernen — og disse mønstre bliver ved i en uge efter oplevelsen. Forskere brugte hjernescanning på rotter til at kortlægge præcis, hvordan hvert psykedelika omformer hjernens stofskifte, og afslørede stofferne hver sine særlige fingeraftryk som kunne forklare, hvorfor de virker forskelligt for forskellige tilstande. Det åbner en fascinerende ny dør: i stedet for at behandle alle psykedelika som udskiftelige, kan vi måske matche specifikke stoffer til specifikke psykiske sundhedsudfordringer baseret på deres unikke hjerneffekter."
+      },
+      "added_at": "2026-09-01T12:24:35.872811+00:00"
+    },
+    {
+      "title": "Pharmacokinetics, pharmacodynamics and safety of",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671902/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "dmt",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What happens when you give DMT to humans in a controlled lab setting? Scientists just found out — and it's actually pretty safe. In this study, healthy volunteers received different doses of DMT through IV infusion, and while some experienced intense effects that made them want to stop early, all side effects were mild and temporary. Here's the plot twist: smokers had roughly double the DMT levels in their blood compared to non-smokers, likely because compounds in cigarette smoke interact with how the body breaks down DMT.\n\nResearchers ran this carefully controlled trial to nail down the basics before DMT moves into larger clinical studies — figuring out the right doses, how the drug behaves in the body, and what factors change between individuals. This kind of foundational safety work is exactly what's needed right now as psychedelics transition from underground curiosity to legitimate medicine. Every piece of solid data like this makes the path forward clearer.",
+        "da": "Hvad sker der når man giver DMT til mennesker i et kontrolleret laboratorium? Det har videnskabsmænd nu fundet ud af — og det er faktisk temmelig sikkert. I denne undersøgelse fik raske frivillige forskellige doser DMT gennem infusion i blodet, og selvom nogle fik så intense oplevelser at de ville stoppe, var alle bivirkninger milde og forbigående. Her er det spændende: rygere havde cirka det dobbelte DMT-niveau i blodet sammenlignet med ikke-rygere, sandsynligvis fordi stoffer i cigaretrøg påvirker hvordan kroppen nedbryder DMT.\n\nForskerne gennemførte denne nøje kontrollerede forsøg for at få styr på det grundlæggende inden DMT kommer ind i større kliniske studier — finde de rigtige doser, forstå hvordan stoffet opfører sig i kroppen, og identificere faktorer som varierer mellem individer. Netop denne slags solid sikkerhedsdata er hvad psykedelika har brug for nu, når de går fra underjordisk nysgerrighed til legitim medicin. Hver eneste opdagelse som denne gør vejen frem tydeligere."
+      },
+      "added_at": "2026-09-01T12:24:35.872811+00:00"
+    },
+    {
+      "title": "Optimizing Ketamine Infusion Therapy for Treatment-Resistant Bipolar Depression: Commentary on Zhou et al. (2023).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42670081/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "For people with severe bipolar depression that won't respond to standard medications, ketamine infusions offer surprising hope—they can lift depression and anxiety fast, sometimes within days. A new commentary on recent research shows this approach has a solid safety track record in the short term, which is genuinely exciting news for patients who've exhausted other options. The catch? We still need to figure out who benefits most, how long the effects last, and when people need follow-up doses to prevent relapse. Researchers gave patients repeated low-dose ketamine intravenously and tracked what happened. As psychedelics and ketamine move from fringe territory into mainstream psychiatry, this work highlights what comes next: smarter ways to predict who'll respond, better tools to monitor thinking and memory during treatment, and clearer plans for keeping people well long-term. The science is pointing toward a more personalized, careful approach—not a one-size-fits-all fix, but a real option worth exploring.",
+        "da": "For mennesker med svær bipolar depression, der ikke reagerer på almindelige medicin, giver ketamininfusioner overraskende håb—de kan løfte depression og angst hurtigt, nogle gange inden for dage. En ny kommentar til nylig forskning viser, at denne tilgang har et solidt sikkerhedsspor på kort sigt, hvilket er virkelig gode nyheder for patienter, der har prøvet alt andet. Hagen? Vi skal stadig finde ud af hvem der har gavn af det, hvor længe effekterne varer, og hvornår folk har brug for opfølgende doser for at forhindre tilbagefald. Forskere gav patienter gentagne lave doser ketamin intravenøst og fulgte udviklingen. Efterhånden som psykedelika og ketamin bevæger sig fra randområdet ind i psykiatrien, understreger dette arbejde hvad der kommer næste: smartere måder at forudsige hvem der reagerer, bedre værktøjer til at overvåge tænkning og hukommelse under behandling, og klarere planer for at holde folk raske længere. Videnskaben peger mod en mere personlig, omhyggelig tilgang—ikke en løsning der passer til alle, men en reel mulighed værd at udforske."
+      },
+      "added_at": "2026-09-01T12:24:35.872811+00:00"
+    },
+    {
+      "title": "Pharmacokinetics, pharmacodynamics and safety of N,N -dimethyltryptamine administered intravenously in healthy smoking and non-smoking volunteers",
+      "url": "https://doi.org/10.1177/02698811261473451",
+      "source": "OpenAlex",
+      "date": "2026-08-31",
+      "drug": "dmt",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Researchers just mapped out how DMT moves through the body and what it actually does — crucial groundwork before we can test it as a real treatment. The good news? It was safe in all volunteers, with only mild to moderate effects and no serious side effects. The surprise? Smokers had about twice as much DMT in their bloodstream as non-smokers, likely because something in cigarette smoke affects how the body breaks it down. Scientists gave healthy people different doses of DMT through IV infusions, measuring everything from heart rate to brain waves to subjective experience. This kind of careful pharmacological mapping is exactly what the field needs right now — it's the unglamorous but essential work that turns a promising molecule into an actual medicine. As psychedelics move from underground curiosity to legitimate clinical science, studies like this one build the foundation that lets us move safely forward.",
+        "da": "Forskere har netop kortlagt, hvordan DMT bevæger sig gennem kroppen og hvad det faktisk gør — afgørende forberedelse før vi kan teste det som rigtig behandling. Det gode nyt? Det var sikkert hos alle frivillige, med kun milde til moderate effekter og ingen alvorlige bivirkninger. Overraskelsen? Rygere havde omkring dobbelt så meget DMT i blodet som ikke-rygere, sandsynligvis fordi noget i cigaretrøg påvirker, hvordan kroppen nedbryder det. Forskere gav raske personer forskellige doser DMT gennem intravenøs infusion og målte alt fra hjertehastighed til hjernebølger til subjektiv oplevelse. Denne type omhyggelig farmakologisk kortlægning er præcis hvad fagfeltet har brug for lige nu — det er det utilgloriøse men essentielle arbejde, der gør et lovende molekyle til rigtig medicin. I takt med at psykedelika bevæger sig fra underjordisk nysgerrighed til legitim klinisk videnskab, bygger studier som dette fundamentet, der lader os bevæge os sikkert fremad."
+      },
+      "added_at": "2026-09-01T12:24:35.872811+00:00"
+    },
+    {
+      "title": "Psychedelic renaissance in healthcare: between the biomedical and the existential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674855/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "other",
+      "context": "mental-health",
+      "summaries": {
+        "en": "Right now, psychedelics are getting a lot of hype in medicine—but here's the thing: much of it is driven by companies focused on quick profits and individual wellness, which risks widening a troubling gap between pill-based treatments and the deeper, human-centered therapy that talks and stories provide. A new review digs into this tension, asking an important question: as psychedelics move into mainstream healthcare, are we missing something crucial about how they actually work—not just chemically, but in helping people make sense of their lives? The researchers argue that to get psychedelics right, we need to stop treating them as just another drug fix and start honoring the existential and narrative dimensions that make them unique in the first place.",
+        "da": "Lige nu får psykedelika massiv opmærksomhed inden for medicin—men her er kernen: meget af hypen drevet af virksomheder fokuseret på hurtig profit og individuel wellness risikerer at udvide et problematisk skel mellem pille-baserede behandlinger og den dybere, menneskecentrerede terapi som samtalog fortællinger tilbyder. Et nyt review dykker ned i denne spænding og stiller et vigtig spørgsmål: mens psykedelika bevæger sig ind i mainstream sundhedsvæsenet, mister vi noget afgørende om hvordan de faktisk virker—ikke bare kemisk, men i at hjælpe mennesker med at give mening til deres liv? Forskerne argumenterer for at for at få psykedelika rigtigt må vi holde op med at behandle dem som bare endnu en drug-fix og begynde at ærer de eksistentielle og narrative dimensioner som gør dem unikke."
+      },
+      "added_at": "2026-09-01T12:24:35.872811+00:00"
+    },
     {
       "title": "Hippocampal synaptic transmission and Ca<sup>2</sup>⁺ signaling are altered by the selective 5-HT<sub>2A</sub> receptor agonist, 25CN-NBOH",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42669378/",
@@ -715,71 +780,6 @@
         "da": "Har du nogensinde undret dig over, hvor ordet 'psykedelika' faktisk kommer fra? Det viser sig, at der skjuler sig en smuk historie i sproget selv. Tilbage i 1956 opfandt psykiateren Humphry Osmond ordet ved at kombinere 'psyche'—som betyder sjæl—med 'delic'—som betyder at manifestere eller belyse. Psykedelika betyder således bogstaveligt talt 'sjæl-manifesterende' stoffer. Det er et poetisk navn for substanser, der har fascineret forskere i årtier, og når vi forstår ordets oprindelse, hjælper det os med at få øje på, hvad videnskabsmænd tror, disse stoffer faktisk gør i sindet.\n\nDette sproglige dypdyk virker måske som en småting, men det betyder mere end man skulle tro. Nu hvor psykedelisk forskning blomstrer globalt—med kliniske forsøg for depression, PTSD og afhængighed der får alvorlig opmærksomhed—genopdager vi, hvordan disse stoffer altid er blevet forstået: som værktøjer til at udforske bevidstheden selv. At kende det rigtige betydning af 'psykedelika' minder os om, at det ikke bare er kemi; det handler om noget fundamentalt menneskeligt."
       },
       "added_at": "2026-08-18T07:38:47.821371+00:00"
-    },
-    {
-      "title": "Highlighting the legacy of a psychedelic harm reduction pioneer: Assessing contemporary agreement with advice in Lisa Bieberman’s 1967 “Session Games” manual",
-      "url": "https://doi.org/10.1016/j.psyche.2026.100034",
-      "source": "CrossRef / Psychedelics",
-      "date": "2026-12",
-      "drug": "lsd",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "A researcher just did something brilliant: they dusted off advice from Lisa Bieberman's 1967 'Session Games' manual—one of the first harm reduction guides for psychedelic users—and checked it against what modern science actually tells us. The result? Remarkably, most of her practical wisdom still holds up today. From set and setting to how to handle difficult moments, guidance that was considered radical half a century ago is now backed by contemporary research. This matters because it shows that sometimes the people closest to these experiences understood something crucial that took decades of lab studies to confirm—and it reminds us that harm reduction isn't new, just newly respected in mainstream science.",
-        "da": "En forsker har lige gjort noget genialt: de tog Lisa Biebermans 'Session Games'-manual fra 1967—en af de allerførste skadereduktionsvejledninger for psykedelika-brugere—og checkede den gamle råd mod hvad moderne videnskab faktisk siger. Resultatet? Bemærkelsesværdigt: det meste af hendes praktiske visdom holder stadig stik i dag. Fra setting og mindset til hvordan man håndterer svære øjeblikke—råd, der blev betragtet som radikalt for femti år siden, understøttes nu af samtidig forskning. Det betyder noget, fordi det viser, at mennesker tæt på disse erfaringer nogle gange forstod noget afgørende, som det tog årtier af laboratoriumsforskning at bekræfte—og det minder os om, at skadereduktion ikke er ny, bare nyligt respekteret i mainstream videnskab."
-      },
-      "added_at": "2026-08-18T07:38:47.821371+00:00"
-    },
-    {
-      "title": "Is There a Relationship Between Big 5 Personality Traits And Reasons for Use of Psychedelics?",
-      "url": "https://doi.org/10.13140/rg.2.2.18384.06402",
-      "source": "OpenAlex",
-      "date": "2026-08-15",
-      "drug": "other",
-      "context": "anthropology",
-      "summaries": {
-        "en": "Does your personality shape why you take psychedelics? New research is exploring whether the Big Five personality traits—the framework psychologists use to understand how we differ—connect to our reasons for using psychedelics. The findings could help us understand who's drawn to these substances and why, offering clues for safer, more personalized approaches to psychedelic therapy. Researchers analyzed personality data alongside people's motivations for psychedelic use, painting a picture of how individual differences might influence our relationship with these powerful tools. As psychedelic science moves toward clinical applications, understanding who benefits most and why they're seeking these experiences becomes crucial—and this kind of research is exactly where the field is heading.",
-        "da": "Former din personlighed hvorfor du tager psykedelika? Ny forskning udforsker, om de fem største personlighedstræk—det framework psykologer bruger til at forstå hvordan vi er forskellige—hænger sammen med vores grunde til at bruge psykedelika. Resultaterne kunne hjælpe os til at forstå, hvem der bliver tiltrukket af disse stoffer og hvorfor, og give vigtige hints til sikrere, mere personaliserede tilgange til psykedelisk terapi. Forskerne analyserede personlighedsdata sideløbende med menneskers motivation for at bruge psykedelika, og tegner et billede af hvordan individuelle forskelle kan påvirke vores forhold til disse kraftfulde værktøjer. Efterhånden som psykedelisk videnskab bevæger sig mod kliniske anvendelser, bliver det afgørende at forstå, hvem der får mest ud af det og hvorfor de søger disse oplevelser—og netop denne slags forskning er præcis hvor området bevæger sig hen."
-      },
-      "added_at": "2026-08-17T07:54:13.037066+00:00"
-    },
-    {
-      "title": "Perspectives on Meditation-based Preparation for Psychedelic Experiences: Insights from Practitioners with Combined Meditation and Psychedelic Experience",
-      "url": "https://doi.org/10.1007/s12671-026-02957-w",
-      "source": "OpenAlex",
-      "date": "2026-08-15",
-      "drug": "other",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "Perspectives on Meditation-based Preparation for Psychedelic Experiences: Insights from Practitioners with Combined Meditation and Psychedelic Experience",
-        "da": "Perspectives on Meditation-based Preparation for Psychedelic Experiences: Insights from Practitioners with Combined Meditation and Psychedelic Experience"
-      },
-      "added_at": "2026-08-17T07:54:13.037066+00:00"
-    },
-    {
-      "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42602667/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Imagine spending 18 hours a day handwashing—unable to work, leave your home, or get relief from any medication you've tried. That was one woman's reality with severe OCD until she received a single injection of ketamine. Within hours, her compulsions dropped dramatically, finally giving her life back. This case report shows what researchers are increasingly discovering: ketamine, an anesthetic used for decades, might be a game-changer for people whose OCD doesn't respond to traditional treatments. The study followed one patient's striking turnaround after one intramuscular dose, documenting rapid symptom relief when nothing else worked. As psychedelics research expands beyond psilocybin and LSD, ketamine is emerging as a powerful rapid-acting tool in psychiatry. This single case hints at a bigger shift happening right now—we're learning that these molecules might unlock new pathways in the brain for conditions that have left people trapped for years.",
-        "da": "Forestil dig at bruge 18 timer dagligt på at vaske hænder—uden mulighed for at arbejde, forlade dit hjem eller få hjælp fra nogen medicin. Det var virkeligheden for en kvinde med svær OCD, indtil hun fik en enkelt ketamin-injektion. Inden for timer faldt hendes tvangshandlinger drastisk, og hun fik sit liv tilbage. Dette case-studie viser, hvad forskere i stigende grad opdager: ketamin, et anæstesimiddel brugt i årtier, kunne være en game-changer for mennesker, hvis OCD ikke reagerer på traditionel behandling. Studiet fulgte en patients bemærkelsesværdige bedring efter én intramuskulær dosis, når intet andet hjalp. Mens psykedelika-forskningen udvider sig ud over psilocybin og LSD, opstår ketamin som et kraftfuldt hurtigtvirkende værktøj inden for psykiatri. Dette enkeltcase antyder en større verschydelse, der sker lige nu—vi lærer, at disse molekyler kunne åbne nye veje i hjernen for tilstande, der har holdt mennesker fanget i årevis."
-      },
-      "added_at": "2026-08-16T07:31:49.550468+00:00"
-    },
-    {
-      "title": "Parvalbumin interneurons under stress: converging mechanisms of vulnerability",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593738/",
-      "source": "EuropePMC (Denmark)",
-      "date": "2026-08-13",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Your brain has special neurons that act like traffic controllers, keeping your thoughts and emotions in balance—but chronic stress batters them down. New research shows exactly how this happens at the cellular level, revealing that stress disrupts these neurons' development, metabolism, and protective structures in ways that ripple through your entire brain. Scientists studied these mechanisms in animal models and found something encouraging: certain drugs like ketamine, plus anti-inflammatory approaches, can help repair the damage. This research matters because understanding how stress breaks these neural circuits could unlock better treatments for anxiety, depression, and trauma—and it hints at where psychedelics might fit into that picture.",
-        "da": "Din hjerne har specialiserede nerveceller, der virker som trafikstyrere og holder dine tanker og følelser i balance—men kronisk stress ødelægger dem. Ny forskning viser præcis hvordan det sker på celleniveau, og afslører at stress forstyrrer disse neuroners udvikling, stofskifte og beskyttende strukturer på måder, der påvirker hele din hjerne. Forskere studerede disse mekanismer i dyremodeller og fandt noget opmuntrende: visse lægemidler som ketamin, plus anti-inflammatoriske tilgange, kan hjælpe med at reparere skaden. Denne forskning betyder noget, fordi forståelsen af hvordan stress bryder disse neurale kredsløb kunne låse op for bedre behandlinger af angst, depression og traume—og antyder hvor psykedelika kunne passe ind i det billede."
-      },
-      "added_at": "2026-08-16T07:31:49.550468+00:00"
     }
   ]
 }
