@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-02T11:59:53.083343+00:00",
+  "generated_at": "2026-09-03T11:59:51.900715+00:00",
   "items": [
+    {
+      "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When standard antidepressants fail people with bipolar depression, hope runs thin. But a new Canadian trial shows ketamine infusions might offer real relief: people who received four doses of ketamine over two weeks saw significant drops in depression symptoms, outperforming the control group. The catch? We still need to watch carefully for mood destabilization, since bipolar brains respond differently than others. Researchers gave ketamine intravenously in a rigorous, double-blind study with people who'd already tried at least two other treatments without success. This matters because bipolar depression is notoriously hard to treat—existing drugs often fall flat. As psychedelics move beyond hype into serious clinical testing, this research shows us ketamine's potential in populations previously considered too risky. The question now isn't whether it works, but how to use it safely and wisely.",
+        "da": "Når almindelige antidepressiva ikke virker for mennesker med bipolar depression, bliver håbet lille. Men et nyt canadisk forsøg viser, at psykedelika som ketamin kan give ægte lindring: mennesker som fik fire doser ketamin over to uger oplevede betydelige fald i depressionssymptomer og klarede sig bedre end kontrolgruppen. Hagen? Vi skal være opmærksomme på humørsvingninger, fordi bipolare hjerner reagerer anderledes end andre. Forskerne gav ketamin intravenøst i et grundigt, dobbeltblindt studie med mennesker, som allerede havde prøvet mindst to andre behandlinger uden succes. Det betyder noget, fordi bipolar depression er notorisk svær at behandle—eksisterende lægemidler fungerer ofte ikke. Mens psykedelika bevæger sig fra hype mod seriøs klinisk forskning, viser denne undersøgelse ketamins potentiale hos befolkningsgrupper, der tidligere blev betragtet som for risikofyldt. Spørgsmålet nu er ikke længere, om det virker, men hvordan man bruger det sikkert og klogt."
+      },
+      "added_at": "2026-09-03T11:59:17.945999+00:00"
+    },
+    {
+      "title": "Real-world clinical practice, effectiveness and safety of esketamine nasal spray in major depressive disorder patients: a French prospective cohort (ELLIPSE study).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682977/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "After years of hitting dead ends with antidepressants, many people with severe depression still had nowhere to turn. A new French study followed 200 patients with treatment-resistant depression who tried esketamine nasal spray—and found that over half experienced significant symptom relief within two months, with one-third reaching remission. The improvements stuck around for a full year. Researchers tracked real patients in actual clinics (not just controlled lab settings) between 2021 and 2023, measuring their depression scores month by month. While side effects like brief dissociative states happened in about two-thirds of patients, they were generally manageable. This matters because it's the first large real-world evidence that esketamine actually works outside of clinical trials—filling a crucial gap in our understanding of how this promising treatment performs when doctors use it in everyday practice. As psychedelics move from counterculture to clinical reality, studies like this are essential for understanding what works for whom.",
+        "da": "Efter år med at slå hovedet mod muren med almindelige antidepressiva havde mange mennesker med alvorlig depression intet håb tilbage. Et nyt fransk studie fulgte 200 patienter med behandlingsresistent depression, der prøvede esketamin-næsespray—og fandt ud af, at over halvdelen oplevede betydelig symptombedring inden for to måneder, og en tredjedel nåede fuldstændig remission. Forbedringerne holdt sig hele året. Forskerne fulgte rigtige patienter i almindelige klinikker (ikke kun kontrollerede laboratorieforhold) mellem 2021 og 2023 og målte deres depressionsscore måned efter måned. Selvom bivirkninger som kortvarig dissociation forekom hos omkring to tredjedel af patienterne, var de generelt håndterbare. Det betyder noget, fordi det er det første større bevis fra virkeligheden for, at psykedelika som esketamin faktisk virker uden for kliniske forsøg—og udfylder et afgørende hul i vores forståelse. Mens psykedelika bevæger sig fra modkultur til klinisk virkelighed, er sådanne studier vigtige for at forstå hvad der virker for hvem."
+      },
+      "added_at": "2026-09-03T11:59:17.945999+00:00"
+    },
+    {
+      "title": "Measuring the contents of hallucinations from psychedelics and stroboscopic light: the Six-Dimensional Visual Hallucination Questionnaire",
+      "url": "https://doi.org/10.1098/rsos.260647",
+      "source": "OpenAlex",
+      "date": "2026-09-02",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What exactly do you see when you're on psychedelics? Researchers just created a precise tool to measure it. The new Six-Dimensional Visual Hallucination Questionnaire breaks down what people experience into six key elements—from geometric patterns and detail level to how vivid and focused the visions are. Testing it on nearly 1,000 people, they found something fascinating: psychedelics produce hallucinations packed with meaning and intricate detail, while simple strobe lights trigger mostly basic geometric shapes. This matters because understanding the texture of hallucinations—what's actually happening in your visual experience—helps scientists decode how the brain constructs reality itself.",
+        "da": "Hvad ser du præcist, når du tager psykedelika? Forskere har netop udviklet et præcist værktøj til at måle det. Det nye Six-Dimensional Visual Hallucination Questionnaire opdeler det, mennesker oplever, i seks nøgleelementer—fra geometriske mønstre og detaljegrad til hvor levende og fokuseret visioner er. Da de testede det på næsten 1.000 mennesker, opdagede de noget fascinerende: psykedelika producerer hallucinationer fulde af betydning og indviklede detaljer, mens simple strobelys primært udløser basale geometriske former. Det betyder noget, fordi når videnskabsmænd forstår teksturen af hallucinationer—hvad der rent faktisk foregår i din visuelle oplevelse—hjælper det dem med at tyde, hvordan hjernen konstruerer virkeligheden selv."
+      },
+      "added_at": "2026-09-03T11:59:17.945999+00:00"
+    },
+    {
+      "title": "Through the Looking-Glass: A Scoping Review of Psychological Mechanisms of Psychedelic-Assisted Therapy for Substance Use Disorders",
+      "url": "https://doi.org/10.1007/s40429-026-00783-7",
+      "source": "OpenAlex",
+      "date": "2026-09-02",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if the key to breaking free from addiction lies not in willpower alone, but in a profound shift in how you see yourself and the world? A major review of 37 studies shows that psychedelics like psilocybin, ketamine, and MDMA appear to rewire people's relationship with substance use by triggering deep emotional breakthroughs, mystical experiences, and a fundamental reimagining of identity and values. Researchers analyzed over 1,000 people across these studies and found six core ways psychedelics seem to work their magic: emotional processing, meaning-making, identity transformation, mystical experiences, stronger relationships, and renewed motivation. The science is still early, but the pattern is clear: psychedelics aren't just another medical tool—they're opening a completely different door to how we treat addiction, one that works through psychological and spiritual dimensions we're only beginning to understand.",
+        "da": "Hvad hvis nøglen til at bryde fri fra afhængighed ikke blot ligger i vilje, men i en dyb omkalfatring af, hvordan du ser dig selv og verden? En omfattende analyse af 37 studier viser, at psykedelika som psilocybin, ketamin og MDMA synes at omvurdere menneskers forhold til stofmisbrug ved at udløse dybe følelsesmæssige gennembrud, mystiske oplevelser og en grundlæggende omtolkning af identitet og værdier. Forskere analyserede over 1.000 mennesker på tværs af studierne og fandt seks centrale mekanismer: følelsesbehandling, meningsskabelse, identitetstransformation, mystiske erfaringer, styrket relationer og fornyet motivation. Videnskaben er stadig i sin vorden, men mønsteret er klart: psykedelika er ikke bare endnu et medicinsk værktøj—de åbner en helt anden dør til, hvordan vi behandler afhængighed, en der arbejder gennem psykologiske og åndelige dimensioner, som vi først er ved at forstå."
+      },
+      "added_at": "2026-09-03T11:59:17.945999+00:00"
+    },
+    {
+      "title": "Surrender, disidentification, and reappraisal: a qualitative comparison of psilocybin responders and non-responders in treatment-resistant OCD",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1791689",
+      "source": "OpenAlex",
+      "date": "2026-09-01",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What's the difference between someone with OCD who finds relief through psilocybin and someone who doesn't? A new study reveals something striking: responders tend to surrender to their experience rather than fight it, and they develop self-compassion instead of being trapped in their obsessions. Researchers compared six participants from a psilocybin trial—three who improved significantly and three who didn't—through detailed interviews a month after their session. They found that those who benefited experienced a genuine shift: they could separate themselves from their OCD thoughts, feel emotions fully in their body, and suddenly see their obsessions as less meaningful. This research reveals the active ingredients of psychedelic healing aren't just chemical—the psychological moves people make during and after the experience matter enormously. As scientists explore psychedelics for stubborn mental health conditions, understanding who benefits and why is crucial for making these treatments work better for more people.",
+        "da": "Hvad adskiller mennesker med OCD, der finder lindring gennem psykedelika, fra dem der ikke gør? Et nyt studie afslører noget slående: dem der bliver bedre har en tendens til at overgive sig til deres oplevelse i stedet for at kæmpe imod, og de udvikler selvmedlidenhed i stedet for at være fanget i deres tvangstanker. Forskere sammenlignede seks deltagere fra et psykedelika-forsøg—tre som blev markant bedre og tre som ikke blev det—gennem detaljerede samtaler en måned efter deres session. De fandt, at dem som fik gavn oplevede et ægte skifte: de kunne adskille sig selv fra deres OCD-tanker, føle følelser fuldt ud i kroppen, og pludselig se deres tvangstanker som mindre betydningsfulde. Denne forskning viser, at de aktive ingredienser i psykedelisk helbredelse ikke blot er kemiske—de psykologiske bevægelser mennesker gør under og efter oplevelsen betyder enormt. Mens forskere udforsker psykedelika til stædig psykisk sygdom, er det afgørende for succes at forstå hvem der bliver bedre og hvorfor."
+      },
+      "added_at": "2026-09-03T11:59:17.945999+00:00"
+    },
     {
       "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
@@ -715,71 +780,6 @@
         "da": "Her er noget, der måske ændrer på, hvordan vi tænker om psykedelika: de rewirer ikke bare din hjerne i øjeblikket — de ser ud til at åbne et mulighedsvindue for dybere forandringer, der kan blive ved. Ny forskning zoomer ind på timingen af, hvordan psykedelika skaber plastisitet — den afgørende evne hos hjernen til at danne nye forbindelser og bryde gamle mønstre. Det er ikke bare akademisk; det betyder, at den rigtige terapeutiske magi måske sker i dagene og ugerne efter en psykedelisk oplevelse, når din hjerne er parat til at lære og ændre sig på måder, der før var umulige.\n\nForskere bevæger sig væk fra den gamle historie om bare at kigge på synapser (forbindelserne mellem hjerneceller) hen imod at forstå det større billede af, hvordan psykedelika skaber varige skift. Denne forskning sidder midt i kernen af, hvor moderne psykedelisk videnskab er på vej: fra \"hvad sker der under turen?\" til \"hvordan udnytter vi disse plasticitetsvinduer til at bygge ægte, varig helbredelse?\" Det er netop den slags indsigt, der kan hjælpe terapeuter og forskere med at designe bedre protokoller."
       },
       "added_at": "2026-08-20T07:41:59.841211+00:00"
-    },
-    {
-      "title": "The Sacred Dimension: Psychedelic Use and Motivations for Use Predict Religiosity and Spiritual Practices",
-      "url": "https://doi.org/10.13140/rg.2.2.16624.42245",
-      "source": "OpenAlex",
-      "date": "2026-08-18",
-      "drug": "other",
-      "context": "anthropology",
-      "summaries": {
-        "en": "People who use psychedelics often report deeper spiritual experiences—and a new study suggests this isn't just coincidence. Researchers found that psychedelic use actually predicts increased religiosity and spiritual practices, meaning these experiences genuinely reshape how people relate to meaning, transcendence, and their place in the world. This matters because it challenges the idea that psychedelics are purely recreational: for many users, they're catalysts for profound existential reflection. The study examined how motivations for use and actual psychedelic experiences correlate with spiritual development. As psychedelic research moves from the lab into real-world contexts, understanding these spiritual dimensions becomes crucial—not because we need to prove psychedelics are 'spiritual,' but because recognizing this connection helps us appreciate the full spectrum of how these medicines affect human consciousness and wellbeing.",
-        "da": "Folk der bruger psykedelika rapporterer ofte dybere åndelige erfaringer—og et nyt studie antyder, at det ikke bare er tilfælde. Forskere fandt, at psykedelika-brug faktisk forudsiger øget religiøsitet og åndelige praksisser, hvilket betyder, at disse oplevelser virkelig omformer, hvordan mennesker forholder sig til betydning, transcendens og deres plads i verden. Det vigtige er, at det udfordrer ideen om, at psykedelika blot er rekreativt: for mange brugere er de katalysatorer for dyb eksistentiel refleksion. Studiet undersøgte, hvordan motivationer for brug og faktiske psykedelika-erfaringer korrelerer med åndelig udvikling. Når psykedelika-forskning bevæger sig fra laboratoriet ind i virkelige kontekster, bliver forståelsen af disse åndelige dimensioner afgørende—ikke fordi vi skal bevise, at psykedelika er 'åndelige,' men fordi denne indsigt hjælper os med at værdsætte det fulde spektrum af, hvordan disse lægemidler påvirker menneskelig bevidsthed og trivsel."
-      },
-      "added_at": "2026-08-20T07:41:59.841211+00:00"
-    },
-    {
-      "title": "The Abuse Liability of Classic Psychedelics: A Methodological Critique and Assessment of the Quality of Evidence of Recent Studies",
-      "url": "https://doi.org/10.1007/s40429-026-00774-8",
-      "source": "OpenAlex",
-      "date": "2026-08-18",
-      "drug": "lsd",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "Good news: research suggests classic psychedelics like psilocybin and LSD have surprisingly low abuse potential compared to other drugs. But here's the catch—we need to be careful about celebrating too loudly. Scientists reviewed recent studies and found that while the findings point toward low abuse liability, the evidence itself is shaky, plagued by bias, and often relies on people self-reporting their drug use rather than solid data.\n\nThis new methodological critique reveals why: most studies are small, demographically narrow, and don't properly separate different psychedelics or track how people's use patterns change over time. The research community is learning that solid science on abuse liability requires better study design and longer-term observation. As psychedelics move toward potential therapeutic use, getting these foundational questions right isn't just academic—it's essential for public health and informed policy.",
-        "da": "Godt nyt: forskning tyder på, at klassiske psykedelika som psilocybin og LSD har overraskende lavt misbrug potentiale sammenlignet med andre stoffer. Men der er en hage—vi skal være forsigtige med at juble for højt. Forskere gennemgik nylige studier og fandt, at selvom resultaterne peger mod lavt misbrug potentiale, er bevismaterialet selv skrøbeligt, plaget af skævheder og ofte baseret på, at folk selv rapporterer om deres stofbrug snarere end solide data.\n\nDenne nye metodologiske kritik afslører hvorfor: de fleste studier er små, demografisk snævre og skelner ikke ordentligt mellem forskellige psykedelika eller følger, hvordan menneskers brugsmønstre ændrer sig over tid. Forskersamfundet lærer, at solid videnskab om misbrug potentiale kræver bedre studiedesign og længerevarende observation. Når psykedelika bevæger sig hen imod potentiel terapeutisk brug, er det ikke bare akademisk vigtig at få disse grundlæggende spørgsmål rigtigt—det er væsentligt for folkesundhed og informeret politik."
-      },
-      "added_at": "2026-08-20T07:41:59.841211+00:00"
-    },
-    {
-      "title": "The Emergence ofIsotryptamine Analogs as Novel SerotonergicAgents with Psychotherapeutic Potential",
-      "url": "https://doi.org/10.1021/acsptsci.6c00288",
-      "source": "OpenAlex",
-      "date": "2026-08-18",
-      "drug": "dmt",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists are dusting off an old family of molecules called isotryptamines—cousins of classic psychedelics like DMT—and discovering they might be therapeutic goldmines. Early research shows these compounds can interact with serotonin receptors in the brain in promising ways, and one variant, isoDMT, has already moved into human clinical trials for treating psychiatric disorders. Researchers have spent decades mapping how these molecules work, from basic lab tests to sophisticated brain studies, and now that psychedelic science is experiencing a renaissance, isotryptamines are getting a second look. This revival matters because it shows how revisiting old chemical structures with modern tools can uncover entirely new therapeutic possibilities—expanding the toolkit for treating conditions like depression and anxiety.",
-        "da": "Forskere genudgraver en gammel familie af molekyler kaldet isotryptaminer—fætre til klassiske psykedelika som DMT—og opdager, at de måske er terapeutiske guldgruber. Tidlige studier viser, at disse stoffer kan påvirke serotoninreceptorer i hjernen på lovende måder, og en variant, isoDMT, er allerede gået ind i kliniske forsøg med mennesker til behandling af psykiatriske lidelser. Forskere har brugt årtier på at kortlægge, hvordan disse molekyler virker, fra simple laboratorieforsøg til sofistikerede hjernestudier, og nu hvor psykedelisk forskning oplever en renæssance, får isotryptaminer et nyt blik. Dette genvækker betyder noget, fordi det viser, hvordan man ved at genbesøge gamle kemiske strukturer med moderne værktøjer kan afdække helt nye terapeutiske muligheder—og udvide værktøjskassen til behandling af tilstande som depression og angst."
-      },
-      "added_at": "2026-08-20T07:41:59.841211+00:00"
-    },
-    {
-      "title": "Psilocybin-assisted psychotherapy for substance use disorders as a complex intervention: A systematic review of efficacy, mechanisms and psychotherapeutic frameworks.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42609034/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psilocybin-assisted therapy is showing real promise for people struggling with substance use—whether alcohol, tobacco, or other drugs. A new review of 17 studies found that when psilocybin is combined with structured psychotherapy, people show genuine improvements: less substance use, higher rates of staying abstinent, and better overall well-being. The magic seems to happen when high doses are paired with extended therapy, not just a one-off trip. Researchers analyzed clinical trials from 2000 to 2026 to understand how these treatments actually work—and the picture is becoming clearer. This research sits at a pivotal moment: we're moving beyond asking \"does it work?\" to understanding the intricate dance between the drug itself, the therapeutic relationship, and the person's own psychology. That's where real breakthroughs in addiction treatment might live.",
-        "da": "Psykedelika-assisteret terapi viser sig at være lovende for mennesker, der kæmper med stofmisbrug—uanset om det drejer sig om alkohol, tobak eller andre stoffer. En ny gennemgang af 17 studier viser, at når psilocybin kombineres med struktureret psykoterapi, oplever mennesker reelle forbedringer: mindre stofbrug, højere abstinensrater og bedre psykisk velvære. Magien ser ud til at opstå, når høje doser kombineres med længerevarende terapi, ikke blot en engangsoplevelse. Forskere analyserede kliniske forsøg fra 2000 til 2026 for at forstå, hvordan disse behandlinger virker—og billedet bliver tydeligere. Denne forskning befinder sig på et afgørende tidspunkt: vi bevæger os ud over at spørge \"virker det?\" til at forstå det indviklede samspil mellem stoffet selv, det terapeutiske forhold og personens egen psykologi. Det kunne være her, rigtige gennembrud i behandlingen af misbrug ligger."
-      },
-      "added_at": "2026-08-19T07:39:39.554348+00:00"
-    },
-    {
-      "title": "Experience, plasticity, and context: Beyond single-level models of antidepressant action",
-      "url": "https://doi.org/10.1177/02698811261473402",
-      "source": "OpenAlex",
-      "date": "2026-08-17",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Experience, plasticity, and context: Beyond single-level models of antidepressant action",
-        "da": "Experience, plasticity, and context: Beyond single-level models of antidepressant action"
-      },
-      "added_at": "2026-08-19T07:39:39.554348+00:00"
     }
   ]
 }
