@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-04T12:01:51.273867+00:00",
+  "generated_at": "2026-09-05T11:10:45.834681+00:00",
   "items": [
+    {
+      "title": "Low Dose Ketamine Preconditions Astrocyte Mitochondria to Achieve Antidepressant Efficacy via Adenosine, Humanin, and Melatonin Upregulation and Efflux.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694894/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "New research reveals that ketamine's antidepressant power might work differently than we thought — not by blocking brain signals, but by tuning up the energy factories inside support cells called astrocytes. When these cellular powerhouses function better, they seem to restore mood and resilience. Scientists reviewed extensive evidence to propose that ketamine directly optimizes mitochondrial function, with ripple effects across the brain. This finding matters because it could lead to faster, more targeted depression treatments with fewer side effects. As psychedelics research accelerates, understanding these precise cellular mechanisms — rather than relying on older theories — is opening doors to smarter therapeutics that address what actually goes wrong in depression.",
+        "da": "Ny forskning viser, at ketamins antidepressive kraft muligvis virker anderledes end antaget — ikke ved at blokere hjernens signaler, men ved at justere energifabrikkerne inden i støtteceller kaldet astrocytter. Når disse cellulære kraftværker fungerer bedre, synes de at genoprette humør og resiliens. Forskere gennemgik omfattende evidens for at foreslå, at ketamin direkte optimerer mitokondriefunktion, med ringvirkninger på tværs af hjernen. Dette fund betyder noget, fordi det kunne føre til hurtigere, mere målrettede depressionsforsøg med færre bivirkninger. Mens psykedelika-forskning accelererer, er forståelsen af disse præcise cellulære mekanismer — snarere end at stole på ældre teorier — ved at åbne døre til smartere terapier, der behandler det, der faktisk går galt ved depression."
+      },
+      "added_at": "2026-09-05T11:10:14.925485+00:00"
+    },
+    {
+      "title": "Healing together: Results from a pilot trial of 3,4‐Methylenedioxymethamphetamine‐enhanced cognitive‐behavioral conjoint therapy for posttraumatic stress disorder",
+      "url": "https://doi.org/10.1002/jts.70126",
+      "source": "OpenAlex",
+      "date": "2026-09-04",
+      "drug": "mdma",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if trauma therapy could actually heal relationships, not just individual wounds? A pilot study of military couples found that when MDMA was combined with couples therapy, veterans saw major drops in PTSD symptoms—and both partners reported dramatic improvements in how they connected with each other. That's the striking part: traditional trauma therapy often helps the person but leaves relationships struggling. This small study of eight veteran couples received eight sessions of MDMA-assisted therapy designed specifically to strengthen their bond while treating trauma. The results hint at something bigger happening in psychedelics research right now—a shift toward using these tools not just to fix what's broken inside us, but to rebuild what's broken between us.",
+        "da": "Hvad hvis traumebehandling kunne hele forhold i stedet for bare individuelle sår? Et pilotprojekt med militærpar viste, at når MDMA blev kombineret med parterapi, oplevede veteraner drastiske fald i PTSD-symptomer—og begge partnere rapporterede dramatiske forbedringer i deres gensidige forbindelse. Det er det slående: traditionel traumabehandling hjælper ofte den enkelte, men efterlader forhold i krise. Denne lille undersøgelse af otte veteranpar gennemgik otte sessionener MDMA-assisteret terapi designet specifikt til at styrke deres bånd mens de behandlede traumer. Resultaterne antyder noget større i psykedelika-forskningen lige nu—et skift mod at bruge disse værktøjer ikke bare til at reparere hvad der er ødelagt inden i os, men til at genopbygge hvad der er ødelagt mellem os."
+      },
+      "added_at": "2026-09-05T11:10:14.925485+00:00"
+    },
+    {
+      "title": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694657/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "lsd",
+      "context": "mental-health",
+      "summaries": {
+        "en": "What happens when hallucinations don't fade? A 24-year-old experienced persistent visual disturbances—flickering, snow-like patterns—months after using LSD, a rare condition called HPPD that can stick around long after the trip ends. Combined with bipolar disorder and anxiety, his case shows how tricky these lingering perceptual changes can be to diagnose and treat, especially when they blur into psychiatric symptoms. Researchers studied his clinical journey through medication trials and therapy, finding that while his visual symptoms never completely disappeared, he achieved stability and learned to live with them. As psychedelics like LSD move into clinical research for treating anxiety and depression, understanding these rare but real persistent side effects becomes crucial—not to scare people away, but to help clinicians recognize them, support patients properly, and ensure psychedelic science develops with eyes wide open to both benefits and risks.",
+        "da": "Hvad sker der når hallucinations ikke forsvinder? En 24-årig oplevede vedvarende visuelle forstyrrelser—flimren, sneagtige mønstre—måneder efter at have brugt LSD, en sjælden tilstand kaldet HPPD, som kan blive ved længe efter tripet er slut. Kombineret med bipolær lidelse og angst viser hans tilfælde hvor knivskarp diagnosticeringen og behandlingen af disse vedvarende perceptuelle ændringer kan være, især når de blandes med psykiatriske symptomer. Forskere studerede hans kliniske forløb gennem medicinforsøg og terapi og fandt, at selvom hans visuelle symptomer aldrig helt forsvandt, opnåede han stabilitet og lærte at leve med dem. Efterhånden som psykedelika som LSD bevæger sig ind i klinisk forskning for angst og depression, bliver forståelsen af disse sjældne men reelle vedvarende bivirkninger afgørende—ikke for at skræmme folk væk, men for at hjælpe klinikere med at genkende dem, støtte patienterne ordentligt og sikre, at psykedelisk videnskab udvikler sig med åbne øjne for både fordele og risici."
+      },
+      "added_at": "2026-09-05T11:10:14.925485+00:00"
+    },
+    {
+      "title": "Network Pharmacology Reveals the Potential Mechanism of Ketamine in Improving Cognitive Impairment in Patients With Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694621/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Ketamine isn't just lifting depression—it might also be sharpening the foggy thinking that often comes with it. A new study mapped out how ketamine works at the molecular level, discovering it influences at least 20 key proteins in the brain linked to both mood and cognition. The researchers used advanced bioinformatics to trace ketamine's pathways, finding it particularly affects dopamine signaling and inflammation in the brain. This matters because cognitive problems—trouble concentrating, memory gaps, mental fatigue—are a huge part of depression that often gets overlooked. As psychedelics research expands beyond symptom relief toward actual brain healing, understanding ketamine's multi-target approach gives us a clearer picture of how these molecules might restore not just mood, but mental clarity too.",
+        "da": "Ketamin løfter ikke bare depressionen—det kan også være med til at få den tågede tænkning til at klare sig igen. Et nyt studie kortlagde, hvordan ketamin virker på molekylært niveau, og opdagede at det påvirker mindst 20 vigtige hjerneceller forbundet med både humør og kognitiv funktion. Forskerne brugte avanceret bioinformatik til at spore ketamins signalveje og fandt ud af, at det især påvirker dopaminsignalering og betændelse i hjernen. Det betyder noget, fordi kognitive problemer—svært ved at koncentrere sig, hukommelseshuller, mental træthed—er en stor del af depression, som ofte bliver overset. Mens psykedelika-forskningen udvider sig fra symptomlindrende behandling mod faktisk hjerneheling, giver forståelsen af ketamins flertarget-tilgang os et klarere billede af, hvordan disse molekyler kan genoprette ikke bare humøret, men også den mentale klarhed."
+      },
+      "added_at": "2026-09-05T11:10:14.925485+00:00"
+    },
+    {
+      "title": "Pα+ Library: Psychedelic REMS",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-library-psychedelic-rems/",
+      "source": "Psychedelic Alpha",
+      "date": "Thu, 03 Se",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "As psychedelic therapies inch closer to FDA approval, a crucial question looms: how will they actually reach patients? New attention is turning to REMS—Risk Evaluation and Mitigation Strategies—the safety frameworks that will likely shape how these treatments are delivered in the real world. Think of it as the guardrails that could make psychedelic therapy accessible while keeping people safe.\n\nResearchers are mapping out what REMS might look like for psychedelics, examining how other regulated medicines have used these frameworks. This matters because it's not just about whether these therapies work in studies—it's about building the infrastructure to deliver them responsibly when they're available to you. As psychedelic research accelerates from lab to clinic, understanding REMS is becoming essential to the bigger picture of how breakthrough treatments actually become part of mainstream medicine.",
+        "da": "Efterhånden som psykedelika-terapier nærmer sig FDA-godkendelse, dukker et afgørende spørgsmål op: hvordan kommer de egentlig til patienterne? Opmærksomheden rettes nu mod REMS—Risk Evaluation and Mitigation Strategies—de sikkerhedsmekanismer, der sandsynligvis kommer til at forme hvordan disse behandlinger leveres i praksis. Tænk på det som skinnerne, der kan gøre psykedelika-terapi tilgængelig og samtidig holde folk sikre.\n\nForsker kortlægger hvordan REMS kunne se ud for psykedelika ved at undersøge hvordan andre regulerede lægemidler har brugt disse systemer. Det betyder noget, fordi det ikke blot handler om at terapierne virker i studier—det handler om at bygge infrastrukturen til at levere dem ansvarligt når de bliver tilgængelige for dig. Som psykedelika-forskningen accelererer fra laboratorium til klinik, bliver forståelsen af REMS central for det større billede af hvordan gennembrudsterapier faktisk bliver del af almindelig medicin."
+      },
+      "added_at": "2026-09-05T11:10:14.925485+00:00"
+    },
     {
       "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42693902/",
@@ -715,71 +780,6 @@
         "da": "Dine øjne ser tingene anderledes på LSD — farver bliver lysere, kanter bliver slørere, hele den visuelle verden føles mere levende — og alligevel forbliver en klassisk optisk illusion stædig uændret. Det er det overraskende resultat fra et nyt studie, hvor 30 mennesker tog lave doser LSD og rapporterede levende ændringer i deres syn, men deres hjernes automatiske visuelle trick (at gøre kontraster se svagere ud når de er omgivet af lyse mønstre) rørte sig ikke. Forskerne brugte et omhyggeligt, dobbeltblindet eksperiment til at måle dette, hvilket tyder på at psykedelikaens trippy visuelle effekter kommer fra en anden del af hjernens visuelle behandling end videnskabsfolk forventede. Dette tilføjer et fascinerende puslespil til vores voksende forståelse af hvordan psykedelika omformer vores perception — det viser sig at magien ikke sker hvor forskere havde troet."
       },
       "added_at": "2026-08-22T07:33:04.157624+00:00"
-    },
-    {
-      "title": "Methodological fragmentation and integration priorities in psychedelic-assisted therapy assessment: a scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42625811/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psychedelic-assisted therapy is showing real promise for treating depression, anxiety, and the existential struggles that come with serious illness—but here's the catch: researchers have been measuring results in wildly different ways, making it hard to know what actually works. A major new review looked at 59 studies to map out how scientists are evaluating everything from the initial screening through the psychedelic experience itself to the crucial integration work afterward, and they found both exciting progress and significant gaps. The good news? We now have solid tools for measuring the profound experiences people have, and clearer frameworks for training therapists. The bigger picture: psychedelic research is maturing fast, moving beyond just \"does it work?\" toward understanding exactly how to do it safely and effectively. Standardizing these methods matters enormously—it's the difference between promising findings and treatments that can actually reach people who need them.",
-        "da": "Psykedelika-assisteret terapi viser virkelig potentiale for behandling af depression, angst og de eksistentielle kampe, der følger alvorlig sygdom—men her er hagen: forskere har målt resultaterne på voldsomt forskellige måder, hvilket gør det svært at vide, hvad der faktisk virker. En vigtig ny oversigt analyserede 59 studier for at kortlægge, hvordan videnskabsmænd evaluerer alt fra indledende screening gennem selve psykedelika-oplevelsen til det afgørende integrationsarbejde bagefter, og de fandt både spændende fremskridt og betydelige huller. Det gode: vi har nu solide værktøjer til at måle de dybe oplevelser, folk får, og klarere rammer for at træne terapeuter. Det større billede: psykedelika-forskningen modnes hurtigt og bevæger sig væk fra bare \"virker det?\" mod at forstå præcis hvordan man gør det sikkert og effektivt. At standardisere disse metoder betyder enormt meget—det er forskellen mellem lovende resultater og behandlinger, der faktisk kan nå mennesker, der har brug for dem."
-      },
-      "added_at": "2026-08-22T07:33:04.157624+00:00"
-    },
-    {
-      "title": "A scoping review: ketamine or esketamine when used to assist psychotherapy or in combination with psychotherapy for the management of depression in adults.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624888/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the key to treating depression wasn't just the drug or just the therapy, but how they work together? A new review of 47 studies on ketamine and esketamine for depression reveals something intriguing: when combined with talk therapy, ketamine shows real promise—but we need to be honest about what we actually know. Right now, most evidence comes from small case studies and open trials, not the gold-standard controlled trials we'd want. Researchers looked at two main approaches: using ketamine during an altered state to enhance therapy (KAP), versus using it as a chemical support alongside regular therapy (KCP). Interestingly, while KAP captures most studies, the higher-quality research is starting to stack up around KCP—especially when paired with cognitive behavioral therapy. The bottom line? Psychedelics + therapy is a genuinely promising direction, but we're still in the early chapters. What this review makes crystal clear is that the next wave of research needs to be more rigorous, better documented, and honest about what's actually happening in the therapy room.",
-        "da": "Hvad hvis løsningen på depression ikke bare var medicinen eller bare terapien, men hvordan de virker sammen? Et nyt review af 47 studier om ketamin og esketamin mod depression afslører noget fascinerende: når det kombineres med terapisamtaler, viser ketamin virkelig løfte—men vi skal være ærlige om, hvad vi faktisk ved. Lige nu kommer mest af beviserne fra små casestudier og åbne forsøg, ikke de guldstandard-kontrollerede studier, vi gerne ville have. Forskerne kiggede på to hovedtilgange: at bruge ketamin i en forandret bevidsthedstilstand for at styrke terapien, versus at bruge det som kemisk støtte ved siden af almindelig terapi. Interessant nok starter det højkvalitets-forskning at ophobe sig omkring den sidstnævnte tilgang—især når det kombineres med kognitiv adfærdsterapi. Pointen? Psykedelika + terapi er virkelig lovende, men vi er stadig i de tidlige kapitler. Det, som dette review gør krystalklart, er at den næste bølge af forskning skal være mere grundig, bedre dokumenteret og ærlig om, hvad der faktisk sker i terapirummet."
-      },
-      "added_at": "2026-08-22T07:33:04.157624+00:00"
-    },
-    {
-      "title": "Psychedelics align brain activity with context",
-      "url": "https://doi.org/10.1038/s41586-026-10910-z",
-      "source": "OpenAlex",
-      "date": "2026-08-19",
-      "drug": "psilocybin",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Your brain on psychedelics doesn't retreat into itself—it actually becomes *more* responsive to what's happening around you. A massive new study tracking 62 people's brains during psilocybin use found something surprising: their neural activity synced up remarkably well with their actual environment, whether they were listening to music, watching a film, or meditating. People whose brains showed this kind of context-awareness were the same ones reporting profoundly meaningful experiences. Researchers used advanced brain imaging and machine learning to map how psilocybin reorganizes neural networks—revealing patterns that standard analysis had missed. This finding reframes how we think about psychedelics: rather than fragmenting consciousness, they seem to create a more unified brain state that's exquisitely attuned to the present moment. As psychedelic science moves toward therapeutic applications, understanding this context-sensitivity could be key to optimizing how we use these compounds to help people heal.",
-        "da": "Dit hjerne på psykedelika trækker sig ikke ind i sig selv—den bliver faktisk *mere* responsiv over for det, der sker omkring dig. Et massivt nyt studie af 62 menneskers hjerner under psilocybin-brug fandt noget overraskende: deres neural aktivitet synkroniserede sig bemærkelsesværdigt godt med deres faktiske miljø, uanset om de lyttede til musik, så en film eller mediterede. De mennesker, hvis hjerner viste denne kontekst-bevidsthed, var præcis dem, der rapporterede dybt meningsfulde oplevelser. Forskere brugte avanceret hjerneafbildning og maskinlæring til at kortlægge, hvordan psilocybin reorganiserer neurale netværk—og afslørede mønstre, som standardanalyse havde overset. Dette fund omfortolker, hvordan vi tænker om psykedelika: i stedet for at fragmentere bevidstheden ser de ud til at skabe en mere samlet hjernestatus, der er ekstraordinært tilpasset det øjeblik, vi lever i. Efterhånden som psykedelika-forskningen bevæger sig mod terapeutiske anvendelser, kunne forståelsen af denne kontekst-følsomhed blive afgørende for at optimere, hvordan vi bruger disse stoffer til at hjælpe mennesker med at hele."
-      },
-      "added_at": "2026-08-22T07:33:04.157624+00:00"
-    },
-    {
-      "title": "Interoceptive effects of N",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42629248/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "drug": "lsd",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "New psychedelics are popping up on the gray market, and scientists just discovered something crucial: tiny chemical tweaks to LSD's structure can dramatically change how your body *feels* the drug — affecting everything from heart rate to body temperature awareness. Researchers tested these novel compounds and found that small molecular changes create wildly different experiences, even when the trip itself might look similar. This lab study examined how these altered molecules interact with your body's sensing systems using cellular tests. It's a crucial piece of the puzzle as psychedelic research moves beyond asking \"does it work?\" to understanding *how* and *why* — knowledge that could help scientists design safer, more predictable treatments while also showing why unregulated versions are genuinely unpredictable.",
-        "da": "Nye psykedelika dukker op på gråmarkedet, og forskere har lige opdaget noget afgørende: små kemiske ændringer af LSD's struktur kan dramatisk ændre, hvordan din krop *mærker* stoffet — og påvirker alt fra puls til kropstemperaturbevidsthed. Forskerne testede disse nye forbindelser og fandt, at små molekylære justeringer skaber vidt forskellige oplevelser, selvom trippen selv kan ligne hinanden. Studiet undersøgte, hvordan de ændrede molekyler interagerer med kroppens sensorsystemer ved hjælp af cellulære tests. Det er et afgørende puslespil-stykke, mens psykedelika-forskningen bevæger sig fra at spørge \"virker det?\" til at forstå *hvordan* og *hvorfor* — viden, der kunne hjælpe forskere med at designe sikrere, mere forudsigelige behandlinger og samtidig vise, hvorfor uregulerede versioner er uforudsigeligt farlige."
-      },
-      "added_at": "2026-08-22T07:33:04.157624+00:00"
-    },
-    {
-      "title": "From network destabilisation to adaptive reconfiguration: A hippocampal longitudinal Axis model of psychedelic therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624281/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Your brain on psychedelics might be doing something counterintuitive: it gets messier before it gets better. New research suggests that psychedelics temporarily shake up the balance between excitation and inhibition in the brain—essentially loosening rigid patterns of thinking that keep people stuck in anxiety, depression, or trauma. But here's the hopeful part: this destabilisation isn't the whole story. What follows is a rebuilding phase where the brain rewires itself in healthier ways, and those changes stick around even after the drug wears off. Scientists looked at how the hippocampus (your memory and emotion hub) might coordinate this two-phase process across different brain regions. This framework helps explain why one psychedelic session can catalyse months of lasting improvement—and why different people might benefit in different ways. As psychedelic therapy moves from fringe to mainstream medicine, understanding exactly how these shifts happen at the brain level is crucial for making treatments safer, more targeted, and available to more people who need them.",
-        "da": "Dit hjerne på psykedelika gør måske noget kontraintuitivt: det bliver rodet før det bliver bedre. Ny forskning tyder på, at psykedelika midlertidigt ryster balancen mellem excitation og inhibition i hjernen—det vil sige løsner stive tankeomønstre, der holder mennesker fast i angst, depression eller traumer. Men det glædelige er: denne destabilisering er ikke hele historien. Det, der følger, er en genopbygningsfase, hvor hjernen rekonstruerer sig selv på sundere måder, og disse forandringer bliver ved selv efter stoffet forsvinder. Forskere undersøgte, hvordan hippocampus (dit hukommelses- og følelsescenter) måske koordinerer denne tofasede proces på tværs af forskellige hjernebereolmder. Denne rammeværk hjælper med at forklare, hvorfor en enkelt psykedelika-session kan katalysere måneder med varig forbedring—og hvorfor forskellige mennesker måske får gavn på forskellige måder. Når psykedelika-terapi bevæger sig fra periferi til mainstream-medicin, er det afgørende at forstå præcist, hvordan disse skift sker på hjernelevel, for at gøre behandlingen sikrere, mere målrettet og tilgængelig for flere mennesker, der har brug for det."
-      },
-      "added_at": "2026-08-21T07:43:03.455584+00:00"
     }
   ]
 }
