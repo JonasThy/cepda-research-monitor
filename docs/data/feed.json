@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-09-06T11:32:58.707775+00:00",
+  "generated_at": "2026-09-07T13:20:36.318074+00:00",
   "items": [
+    {
+      "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Here's a wild discovery: psychedelics might work by actually rewiring how our brains learn. Researchers reviewed 62 studies and found compelling evidence that psychedelics enhance the way we form new associations—whether that's unlearning fears, breaking bad habits, or adapting to new situations. This isn't just happening during the trip either; the learning boost can stick around long afterwards, which could explain why a single psychedelic experience sometimes leads to lasting life changes.\n\nScientists looked at everything from classic fear-extinction studies to reversal learning tasks, spanning decades of research. While the exact mechanisms are still being unpacked—involving everything from how our brains predict what comes next to actual physical changes in neural structure—the pattern is clear: psychedelics appear to open a window where learning becomes easier and more flexible. This fits perfectly into emerging theories about why these substances show promise for depression, anxiety, and addiction: they don't just make you feel better in the moment, they seem to help your brain genuinely learn new ways of being.",
+        "da": "En vild opdagelse: psykedelika virker måske ved faktisk at omskrive, hvordan vores hjerner lærer. Forskere gennemgik 62 studier og fandt stærke bevis for, at psykedelika forbedrer den måde, vi danner nye associationer på—uanset om det er at aflære frygt, bryde dårlige vaner eller tilpasse os nye situationer. Og det sker ikke bare under turen; læringsforbedringen kan holde sig længe efter, hvilket kunne forklare, hvorfor en enkel psykedelika-oplevelse nogle gange fører til varige livsændringer.\n\nVidenskabsfolk kiggede på alt fra klassiske fryktudslettingsstudier til læringsvending-opgaver over flere årtier. Selvom de præcise mekanismer stadig bliver udforsket—fra hvordan vores hjerner forudsiger, hvad der kommer næste, til faktiske fysiske ændringer i neural struktur—er mønsteret klart: psykedelika ser ud til at åbne et vindue, hvor læring bliver lettere og mere fleksibel. Det passer perfekt ind i nye teorier om, hvorfor disse stoffer viser løfte mod depression, angst og afhængighed: de gør dig ikke bare bedre i øjeblikket, de hjælper din hjerne med faktisk at lære nye måder at være på."
+      },
+      "added_at": "2026-09-07T13:20:07.505095+00:00"
+    },
+    {
+      "title": "Metabolomic correlates of intravenous racemic ketamine in treatment-resistant major depressive disorder: the Bio-K/NNDC multicenter trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702010/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine can pull people out of severe depression fast—but we've never fully understood how. A new study tracked what happens inside the body when people with treatment-resistant depression get ketamine infusions, measuring over 600 different metabolites. The results? Ketamine sets off a cascade of changes: mitochondria fire up, neurotransmitter systems rebalance, and stress hormones shift. Most strikingly, two-thirds of patients hit remission within 24 hours of their third dose.\n\nResearchers analyzed blood samples from 69 people across multiple sites to map these metabolic shifts. This isn't proof that these changes *cause* the antidepressant effect—it's a snapshot of what's happening in the chemistry of recovery. But it's exactly the kind of detective work that moves us closer to understanding why ketamine works so differently from traditional antidepressants, and eventually, how to predict who'll benefit most.",
+        "da": "Ketamin kan trække mennesker ud af alvorlig depression hurtigt—men vi har aldrig helt forstået hvordan. Et nyt studie fulgte, hvad der sker i kroppen, når mennesker med behandlingsresistent depression får ketamininfusioner, og målte over 600 forskellige metabolitter. Resultaterne? Ketamin sætter gang i en kaskade af forandringer: mitochondrier aktiveres, neurotransmittersystemer rebalanceres, og stresshormoner skifter. Mest slående er det, at to-tredjedele af patienterne fik remission inden for 24 timer efter deres tredje dosis.\n\nForskere analyserede blodprøver fra 69 mennesker på tværs af flere centre for at kortlægge disse metaboliske skift. Det er ikke bevis på, at disse ændringer *forårsager* den antidepressiv effekt—det er et øjebliksbillede af kemien i bedring. Men det er præcis den slags detektivarbejde, der bringer os tættere på at forstå, hvorfor psykedelika virker så anderledes end traditionelle antidepressiva, og til sidst, hvordan vi kan forudsige, hvem der vil få mest gavn."
+      },
+      "added_at": "2026-09-07T13:20:07.505095+00:00"
+    },
+    {
+      "title": "Psilocybin-induced changes in electroencephalography link acute and long-term effects",
+      "url": "https://doi.org/10.1177/02698811261473445",
+      "source": "OpenAlex",
+      "date": "2026-09-04",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What happens in your brain 24 hours after taking psilocybin might be just as important as what happens during the trip itself. A new study tracked brain activity at multiple timepoints and found that while the acute effects fade within 6 hours, a subtle shift happens overnight—reduced activity in deeper brain regions at 24 hours actually predicted lasting positive life changes weeks later. Interestingly, this delayed effect was independent of how intense the psychological experience felt in the moment.\n\nResearchers gave 20 healthy participants a medium dose of psilocybin and measured brain waves and psychological states repeatedly over 24 hours, plus a 4-week follow-up. The findings suggest that psilocybin's therapeutic magic isn't just about the vivid acute effects, but about what neuroscientists call an \"afterglow\"—a quieting of top-down brain control that lingers and supports real, lasting change. This reshapes how we think about timing in psychedelic therapy.",
+        "da": "Det, der sker i din hjerne 24 timer efter at have taget psykedelika, kan være lige så vigtig som det, der sker under oplevelsen selv. Et nyt studie fulgte hjernens aktivitet på flere tidspunkter og fandt, at mens de akutte effekter aftager inden for 6 timer, sker der en subtil forskydning natten over—reduceret aktivitet i dybere hjernedele efter 24 timer forudsagde faktisk varige positive livsændringer flere uger senere. Interessant nok var denne forsinkede effekt uafhængig af, hvor intens psykologisk oplevelsen føltes i øjeblikket.\n\nForskerne gav 20 raske deltagere en medium dosis psykedelika og målte hjernebølger og psykologisk tilstand gentagne gange over 24 timer plus opfølgning efter 4 uger. Resultaterne tyder på, at psykedelikas terapeutiske virkning ikke blot handler om de levende akutte effekter, men om hvad neurovejledere kalder \"efterglød\"—en stilning af hjernens topdown-kontrol som udholdes og støtter vedvarende forandring. Dette omformer, hvordan vi tænker på timing i psykedelisk terapi."
+      },
+      "added_at": "2026-09-07T13:20:07.505095+00:00"
+    },
+    {
+      "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions",
+      "url": "https://doi.org/10.1038/s41386-026-02551-7",
+      "source": "OpenAlex",
+      "date": "2026-09-05",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if a single dose of psilocybin could reshape how your brain handles anxiety—not by numbing it, but by helping you process it differently? New research is exploring exactly that, showing how psilocybin might work as an anxiety treatment by changing the way our brains communicate and respond to stress. Scientists are digging into the mechanisms behind these effects, and the early evidence is intriguing enough to warrant serious attention. This study maps out what we know so far and the crucial questions researchers still need to answer. It's part of a bigger shift in psychedelic science: moving beyond the hype to understand *how* and *why* these compounds might help, so we can eventually offer real solutions to people struggling with anxiety.",
+        "da": "Hvad hvis en enkelt dosis psilocybin kunne omforme, hvordan din hjerne håndterer angst—ikke ved at bedøve den, men ved at hjælpe dig med at bearbejde den anderledes? Ny forskning udforsker præcis det, og viser hvordan psilocybin kunne virke som en angstbehandling ved at ændre måden vores hjerner kommunikerer på. Videnskabsmænd dykker ned i mekanismerne bag disse effekter, og det tidlige bevis er spændende nok til at fortjene seriøs opmærksomhed. Denne artikel kortlægger hvad vi ved hidtil og de afgørende spørgsmål forskere stadig skal besvare. Det er del af et større skift inden for psykedelika-forskning: vi bevæger os bort fra hypen og mod at forstå *hvordan* og *hvorfor* disse stoffer kan hjælpe, så vi til sidst kan tilbyde rigtige løsninger til mennesker der kæmper med angst."
+      },
+      "added_at": "2026-09-07T13:20:07.505095+00:00"
+    },
     {
       "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
@@ -728,58 +780,6 @@
         "da": "Depression der ikke reagerer på almindelige antidepressiva? Ny forskning tyder på, at psykedelika som psilocybin kan give håb. Studier viser markant reduktion i depressive symptomer efter psilocybin-behandling—ofte hurtigere end traditionelle mediciner—især for mennesker, der har prøvet alt muligt. Effekten ser ud til at være stærkest, når psykedelika kombineres med psykologisk støtte, hvilket tyder på, at sind og medicin arbejder sammen.\n\nDette er en litteraturgennemgang, der analyserer nuværende evidens for, hvordan psykedelika virker ved depression, med fokus på effektivitet, sikkerhed og sammenligning med konventionelle tilgange. Det spændende er, at psykedelika bevæger sig fra randfænomen til seriøs klinisk mulighed og udfylder et ægte tomrum, hvor traditionelle behandlinger ikke virker. Vi ser feltet bevæge sig fra \"det kunne virke\" til \"sådan virker det\"—og det ændrer behandlingsmuligheder for millioner."
       },
       "added_at": "2026-08-24T07:58:13.426658+00:00"
-    },
-    {
-      "title": "JAMA study examines Oregon's psilocybin services model",
-      "url": "https://doi.org/10.1002/mhw.34984",
-      "source": "OpenAlex",
-      "date": "2026-08-21",
-      "drug": "psilocybin",
-      "context": "policy",
-      "summaries": {
-        "en": "What happens when psychedelics leave the lab? Oregon just gave us the first real-world answer. A new JAMA study tracked people using psilocybin through the state's regulated program—and the early results are encouraging. Most people reported meaningful improvements in their mental health, with relatively few serious adverse events. This isn't a controlled clinical trial where everything is perfectly managed; it's actual people seeking help through an actual legal system. That distinction matters enormously, because it shows us what psychedelic-assisted therapy might actually look like when it becomes available to regular people. The research team examined real outcomes from Oregon's pioneering model, giving us crucial data on both benefits and risks outside the sterile conditions of a research lab. As psychedelics move from fringe curiosity toward mainstream medicine, this study is exactly the kind of evidence we need—proof that these therapies can work safely in the messy, complicated world most of us actually live in.",
-        "da": "Hvad sker der, når psykedelika forlader laboratoriet? Oregon gav os netop det første virkeligt svar. Et nyt JAMA-studie fulgte mennesker, der brugte psilocybin gennem statens regulerede program—og de foreløbige resultater er lovende. De fleste rapporterede meningsfulde forbedringer i deres mentale helbred, med relativt få alvorlige bivirkninger. Dette er ikke et kontrolleret klinisk forsøg, hvor alt er perfekt styret; det er rigtige mennesker, der søger hjælp gennem et rigtigt juridisk system. Den forskel betyder enormt meget, fordi den viser os, hvordan psykedelika-assisteret terapi faktisk kunne se ud, når det bliver tilgængeligt for almindelige mennesker. Forskerholdet undersøgte virkelige resultater fra Oregons banebrydende model og gav os afgørende data om både fordele og risici uden for laboratoriets sterile forhold. Når psykedelika bevæger sig fra marginale nysgerrighed mod mainstream medicin, er dette studie præcis den form for evidens, vi har brug for—bevis på, at disse behandlinger kan fungere sikkert i den uordentlige, komplicerede verden, de fleste af os faktisk lever i."
-      },
-      "added_at": "2026-08-23T07:34:22.404948+00:00"
-    },
-    {
-      "title": "Exploring Psychedelics as Novel Therapeutics for Smoking Cessation: Mechanistic Insights from Animal Studies",
-      "url": "https://doi.org/10.25772/0t5k-3r51",
-      "source": "OpenAlex",
-      "date": "2026-08-21",
-      "drug": "psilocybin",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "What if the key to quitting smoking wasn't willpower alone, but a compound that could reset how your brain experiences addiction? New research shows psilocybin significantly reduced nicotine withdrawal symptoms and cravings in animal studies—and the effects were surprisingly broad, also helping with opioid dependence. This suggests psychedelics might work on addiction itself, not just individual drugs.\n\nScientists used mouse models to trace exactly what's happening in the brain: psilocybin appears to rewire the neural circuits that drive dependence, changing how genes related to addiction are expressed. As smoking remains a leading preventable cause of death worldwide and current treatments often fail, this research points toward a radically different approach—one that could eventually help millions of people break free from nicotine for good.",
-        "da": "Hvad hvis nøglen til at stoppe med at ryge ikke kun handler om vilje, men om et stof der kunne nulstille, hvordan din hjerne oplever afhængighed? Ny forskning viser, at psilocybin signifikant reducerede nikotinabstinenser og trang efter nikotin hos dyr—og effekterne var overraskende brede og hjalp også med opioidafhængighed. Det tyder på, at psykedelika kunne påvirke selve afhængigheden, ikke blot enkelte stoffer.\n\nForsker brugte musemodeller til at spore præcis, hvad der sker i hjernen: psilocybin ser ud til at omstrukturere de nervecirkler, der driver afhængighed, og ændrer hvordan gener relateret til afhængighed udtrykt. Eftersom rygning fortsat er en ledende undgåelig dødsårsag verden over, og nuværende behandlinger ofte mislykkes, peger denne forskning mod en radikalt anderledes tilgang—en der kunne hjælpe millioner af mennesker ud af nikotinafhængighed for godt."
-      },
-      "added_at": "2026-08-23T07:34:22.404948+00:00"
-    },
-    {
-      "title": "Combination of psychedelic, CBT shows promise in AUD treatment",
-      "url": "https://doi.org/10.1002/adaw.35025",
-      "source": "OpenAlex",
-      "date": "2026-08-21",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Imagine feeling like you've been given a second chance. In a new study, people struggling with alcohol addiction described their experience with a single dose of psychedelics combined with talk therapy as transformative—using words like \"cleansing\" and \"rebirth.\" The results? Eight out of ten participants cut back or stopped drinking altogether over the next three months. Researchers gave participants one psychedelic dose alongside cognitive-behavioral therapy in this early Phase 2a trial. This fits into a larger shift in addiction medicine: psychedelics aren't being studied as magic bullets, but as catalysts that help people engage more deeply with therapy and reimagine their relationship with substances. It's not easy—participants were honest about the challenges—but the promise is real.",
-        "da": "Forestil dig at få en anden chance. I en ny undersøgelse beskrev mennesker, der kæmper med alkoholforgiftning, deres erfaring med en enkelt dosis psykedelika kombineret med terapi som transformativ—med ord som \"renselse\" og \"genfødelse.\" Resultaterne? Otte ud af ti deltagere drak mindre eller holdt helt op i løbet af de næste tre måneder. Forskerne gav deltagerne én psykedelika-dosis sammen med kognitiv adfærdsterapi i dette tidlige fase 2a-forsøg. Det passer ind i en større bevægelse inden for afhængighedsmedicin: psykedelika bliver ikke studeret som vidundermidler, men som katalysatorer, der hjælper mennesker til at engagere sig dybere med terapi og omtænke deres forhold til stoffer. Det er ikke nemt—deltagerne var ærlige om udfordringerne—men løftet er reelt."
-      },
-      "added_at": "2026-08-23T07:34:22.404948+00:00"
-    },
-    {
-      "title": "Ketamine Safety and Therapeutic Opportunity in Late-Life Depression With Depression-Executive Dysfunction Syndrome (DED).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42632766/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if a single dose could lift depression in older adults within hours instead of weeks? New research is exploring ketamine's potential for treating late-life depression, especially in people who struggle with both low mood and executive function — the mental skills we need to plan, decide, and get things done. Early findings suggest ketamine might work differently than traditional antidepressants, offering hope for those who haven't responded to conventional treatments.\n\nScientists studied how ketamine affects this specific group, focusing on safety and effectiveness. This research slots into a bigger shift happening right now: psychedelics and related compounds like ketamine are being rigorously tested not as party drugs, but as precision tools for mental health. As our population ages and depression becomes increasingly resistant to standard care, understanding these alternative pathways could genuinely reshape how we treat suffering in older people.",
-        "da": "Hvad hvis en enkelt dosis kunne løfte depression hos ældre voksne inden for timer i stedet for uger? Ny forskning udforsker ketamins potentiale til at behandle depression i høj alder, især hos mennesker, der kæmper med både dårligt humør og eksekutive funktioner — de mentale færdigheder, vi bruger til at planlægge, træffe beslutninger og få tingene gjort. Tidlige resultater tyder på, at ketamin kunne virke anderledes end traditionelle antidepressiva og give håb til dem, der ikke har reageret på konventionel behandling.\n\nForskerene undersøgte, hvordan ketamin påvirker denne særlige gruppe, med fokus på sikkerhed og effektivitet. Denne forskning passer ind i et større skifte, der sker netop nu: psykedelika og beslægtede stoffer som ketamin bliver grundigt testet — ikke som fester-stoffer, men som præcisions-værktøjer for mental sundhed. Efterhånden som vores befolkning bliver ældre og depression bliver stadigt mere modstandsdygtig over for standard behandling, kunne forståelsen af disse alternative veje faktisk omforme måden, vi behandler lidelse hos ældre mennesker på."
-      },
-      "added_at": "2026-08-23T07:34:22.404948+00:00"
     }
   ]
 }
