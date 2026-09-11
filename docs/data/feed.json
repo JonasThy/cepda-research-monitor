@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-10T12:06:13.443547+00:00",
+  "generated_at": "2026-09-11T12:04:46.663772+00:00",
   "items": [
+    {
+      "title": "Davis, Farchione and Colleagues Present FDA’s Psychedelic Drug Framework in NEJM",
+      "url": "https://psychedelicalpha.com/news/davis-farchione-and-colleagues-present-fdas-psychedelic-drug-framework-in-nejm/",
+      "source": "Psychedelic Alpha",
+      "date": "Thu, 10 Se",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "The FDA just published its official playbook for getting psychedelics into medicine — and it's a big deal. Instead of treating these drugs like everything else, regulators are charting a new course that acknowledges both their genuine potential and the real challenges they pose. This framework matters because depression and PTSD affect millions of Americans, and current treatments leave too many people stuck. Four FDA staffers laid out their thinking in the New England Journal of Medicine, essentially giving the field a roadmap for what approval could actually look like. This signals something crucial: psychedelics aren't being dismissed anymore, but taken seriously as legitimate medicine worth studying carefully and approving thoughtfully.",
+        "da": "FDA har netop offentliggjort sin officielle handlingsplan for at få psykedelika ind i medicinen — og det er stort. I stedet for at behandle disse stoffer som alt andet, kortlægger regulatorer nu en ny kurs, der anerkender både deres reelle potentiale og de rigtige udfordringer, de bringer med sig. Denne rammeplan betyder noget, fordi depression og PTSD rammer millioner af amerikanere, og nuværende behandlinger efterlader for mange mennesker uden løsning. Fire FDA-medarbeidere præsenterede deres tænkning i New England Journal of Medicine og gav i praksis forskningsfeltet et kort over, hvad godkendelse faktisk kunne se ud til. Det signalerer noget afgørende: psykedelika bliver ikke længere fejdet væk, men taget seriøst som legitim medicin værd at studere omhyggeligt og godkende ansvarligt."
+      },
+      "added_at": "2026-09-11T12:04:12.046077+00:00"
+    },
+    {
+      "title": "Ketamine: from anesthesia to pediatric suicidal crisis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722964/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine has quietly become a lifeline for young people in suicidal crisis—and we're only now understanding why. Originally developed as an anesthetic in the 1960s, this molecule is showing remarkable potential in pediatric emergency settings, where it can help stabilize someone in acute distress far faster than traditional approaches. Researchers are tracing how ketamine works its way through the brain to create these rapid shifts, moving beyond its old reputation as a party drug to recognize it as a serious psychiatric tool. This research sits at the heart of a bigger transformation happening right now: as psychedelics and ketamine analogs move from stigma into rigorous science, we're discovering that some of our most pressing mental health challenges—especially suicide prevention in teenagers—might have answers we've been overlooking for decades.",
+        "da": "Ketamin er stille blevet en livline for unge mennesker i selvmordskrise—og vi er kun nu begyndt at forstå hvorfor. Molekylet blev oprindeligt udviklet som bedøvelsesmiddel i 1960'erne, men viser nu bemærkelsesværdig potentiale i børnepsykiatriske akutsituationer, hvor det kan stabilisere mennesker i alvorlig nød langt hurtigere end traditionelle metoder. Forskere udforsker, hvordan ketamin påvirker hjernen for at skabe disse hurtige forandringer, og bevæger sig væk fra gamle forestillinger om det som festnarko til at anerkende det som et seriøst psykiatrisk værktøj. Denne forskning ligger i hjerte af en større transformation, der sker lige nu: når psykedelika og ketamin-analoga bevæger sig fra stigma ind i stringent videnskab, opdager vi, at nogle af vores mest presserende psykiske sundhedsproblemer—især selvmordsprævention blandt teenagere—måske har svar, vi har overset i årtier."
+      },
+      "added_at": "2026-09-11T12:04:12.046077+00:00"
+    },
+    {
+      "title": "Non-randomized rapamycin augmentation of chronic self-administered ketamine provides subjective improvement in diverse phenotypes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42719198/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if combining two existing medications could help people suffering from depression, chronic pain, and fatigue when nothing else works? A new study suggests that adding rapamycin to ketamine treatment produced real improvements in over half of patients who tried it—with benefits ranging from better mood and clearer thinking to reduced pain and less exhaustion. Researchers reviewed 101 patients using ketamine long-term and tracked what happened when 38 of them added rapamycin to their regimen. Though this was a smaller, preliminary study with clear limitations, the diversity of improvements across different people is striking and suggests we're getting closer to understanding how to personalize psychedelic and related treatments. This fits into a bigger shift in mental health research: moving away from one-size-fits-all approaches toward finding which combinations work for which individuals. As ketamine therapy expands beyond clinics into home-based treatment, these findings hint at smart ways to enhance its benefits—though much more rigorous research is needed.",
+        "da": "Hvad hvis man kunne kombinere to eksisterende lægemidler for at hjælpe mennesker med depression, kronisk smerte og træthed, når intet andet virker? Et nyt studie tyder på, at tilføjelse af rapamycin til ketaminbehandling gav rigtige forbedringer hos mere end halvdelen af de patienter, der prøvede det—med fordele der spænder fra bedre humør og klarere tanker til mindre smerte og mindre udmattelse. Forskere gennemgik 101 patienter i langtidsbehandling med ketamin og fulgte, hvad der skete, da 38 af dem tilføjede rapamycin til deres behandling. Selvom dette er et mindre, foreløbigt studie med klare begrænsninger, er mangfoldigheden af forbedringer på tværs af forskellige mennesker slående og tyder på, at vi kommer tættere på at forstå, hvordan man tilpasser psykedelika og relaterede behandlinger til den enkelte. Det passer ind i en større udvikling inden for mental sundhedsforskning: væk fra en-størrelse-passer-alle-tilgange og hen imod at finde hvilke kombinationer der virker for hvilke individer. Efterhånden som ketaminbehandling ekspanderer ud over klinikker til hjemmebaseret behandling, antyder disse resultater smarte måder at øge effekten—selvom meget mere grundig forskning er nødvendig."
+      },
+      "added_at": "2026-09-11T12:04:12.046077+00:00"
+    },
+    {
+      "title": "Why taking the trip out of psychedelic medicine is a mistake",
+      "url": "https://doi.org/10.1016/j.drugpo.2026.105487",
+      "source": "OpenAlex",
+      "date": "2026-09-09",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if the most powerful part of psychedelic medicine isn't the drug itself—but the experience it creates? A new analysis challenges the push to engineer psychedelics that don't produce subjective trips, arguing this misses the whole point. Researchers show that stripping away the profound mental experience risks losing the real magic: psychedelics' unique ability to reshape how we relate to ourselves, each other, and nature. The study examined how the drive to make psychedelics fit neatly into conventional pharmaceutical systems—standardized, scalable, profitable—fundamentally misunderstands what makes them therapeutically powerful. As psychedelic research races forward, this raises a crucial question: can we responsibly scale these medicines without losing what makes them transformative?",
+        "da": "Hvad hvis det vigtigste ved psykedelisk medicin ikke er stoffet selv—men den oplevelse det skaber? En ny analyse udfordrer bestræbelserne på at fremstille psykedelika uden subjektive trips og hævder, at dette misser hele pointen. Forskere viser, at det at fjerne den dybe psykiske oplevelse risikerer at miste det egentlige magi: psykedelikas unikke evne til at omforme, hvordan vi forhold os til os selv, hinanden og naturen. Undersøgelsen belyser, hvordan drivkraften til at få psykedelika til at passe ind i konventionelle farmaceutiske systemer—standardiserede, skalerbare, profitable—fundamentalt misforstår hvad der gør dem terapeutisk kraftfulde. Mens psykedelisk forskning skyder frem, rejser dette et afgørende spørgsmål: kan vi ansvarlligt skalere disse mediciner uden at miste det, der gør dem transformative?"
+      },
+      "added_at": "2026-09-11T12:04:12.046077+00:00"
+    },
+    {
+      "title": "Psychedelic 4-AcO-DMT attenuated looming-induced freezing behaviors by activating PrL CaMKIIα neurons in mice",
+      "url": "https://doi.org/10.1038/s41380-026-03894-9",
+      "source": "OpenAlex",
+      "date": "2026-09-09",
+      "drug": "dmt",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "When mice sense danger approaching, they freeze—a natural survival instinct we share across the animal kingdom. New research shows that 4-AcO-DMT, a psychedelic compound, can actually calm this fear response by activating specific brain cells in the prefrontal cortex. Mice treated with the compound showed less freezing behavior when faced with looming threats, suggesting psychedelics might work on the fundamental fear circuits that keep us stuck. Scientists traced this effect to particular neurons and their molecular machinery, mapping exactly where the magic happens in the brain.\n\nThis study is part of a growing wave of research moving beyond 'does it work?' to 'how exactly does it work?'—the kind of mechanistic detail that builds real medical breakthroughs. By understanding which brain cells psychedelics activate, researchers can develop safer, more targeted treatments for anxiety, PTSD, and other fear-based conditions. We're watching the science mature from curious observations into precise neurobiology.",
+        "da": "Når mus mærker fare nærme sig, fryser de—en naturlig overlevelsesinstinkt, vi deler på tværs af dyreverdenen. Ny forskning viser, at 4-AcO-DMT, et psykedelika-stof, faktisk kan berolige denne frygtrespons ved at aktivere specifikke hjerneceller i præfrontal cortex. Mus behandlet med stoffet viste mindre fryseatfærd, når de mødte truende farer, hvilket tyder på, at psykedelika kan arbejde på de grundlæggende frygtkredse, der holder os fast. Forskerne sporede denne effekt til særlige neuroner og deres molekylære maskineri og kortlagde præcist, hvor magiien sker i hjernen.\n\nDenne undersøgelse er del af en voksende bølge af forskning, der bevæger sig ud over 'virker det?' til 'hvordan virker det præcis?'—den slags mekanistisk detalje, der bygger rigtige medicinske gennembrud. Ved at forstå, hvilke hjerneceller psykedelika aktiverer, kan forskere udvikle sikrere, mere målrettede behandlinger for angst, PTSD og andre frygtstykket tilstande. Vi ser videnskaben modnes fra nysgerrige observationer til præcis neurobi­ologi."
+      },
+      "added_at": "2026-09-11T12:04:12.046077+00:00"
+    },
     {
       "title": "Craving Reduction and Smoking Outcomes in Psilocybin-Assisted and Standard Cessation Care.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42715291/",
@@ -715,71 +780,6 @@
         "da": "Når mennesker tager psykedelika i kliniske forsøg, skal forskere måle hvad de oplever — de dybe, mystiske øjeblikke og de udfordrende, vanskelige. Videnskabsfolk har nu skabt kortere japanske versioner af de vigtigste spørgeskemaer, der bruges til at indfange disse oplevelser, reduceret fra 30 og 26 spørgsmål til blot 4 og 7. Det betyder hurtigere vurderinger og mindre belastning på deltagerne, samtidig med at værktøjernes styrke bevares. Arbejdet involverede omhyggelig oversættelse ifølge internationale standarder, som sikrer at spørgsmålene føles naturlige for japansk-talende. Når psykedelisk terapi nærmer sig faktisk verdensomspændende brug, bliver pålidelige måleredskaber på forskellige sprog afgørende — det handler om at forskning kan ske overalt, og at de utrolige oplevelser mennesker har ikke går tabt i oversættelsen."
       },
       "added_at": "2026-08-28T19:18:18.201745+00:00"
-    },
-    {
-      "title": "AMCP Market Insights: Optimizing managed care approaches to treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42658027/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When standard antidepressants don't work—and for some people they simply don't—life can feel stuck. Treatment-resistant depression affects millions, draining quality of life and straining healthcare systems. Now psilocybin is emerging as a genuinely promising option for people who've tried everything else. A panel of healthcare leaders recently gathered to figure out how to actually make this work in practice: who should get it, how do we know it's worth the cost, and crucially, do we have enough trained therapists to guide people through the experience safely?\n\nThe study mapped out where psychedelic-assisted therapy fits into depression care right now—and it's clear the field is moving fast. Experts agree the evidence is real but want more data comparing psilocybin to other options and understanding exactly which patients benefit most. The biggest practical challenge? Building a real network of mental health professionals trained to administer and support these treatments. As psychedelics shift from research labs into actual healthcare systems, these questions matter enormously for patients waiting for hope.",
-        "da": "Når almindelige antidepressiva ikke virker—og for nogle mennesker gør de simpelthen ikke—kan livet føles låst fast. Behandlingsresistent depression rammer millioner og dræner livskvaliteten og belaster sundhedssystemet. Nu viser psilocybin sig som et ægte lovende alternativ for mennesker, der har prøvet alt. En gruppe sundhedsledere mødte for nylig for at finde ud af, hvordan man faktisk får det til at virke i praksis: hvem skal have det, hvordan ved vi, det er værd prisen, og afgørende—har vi nok uddannede terapeuter til at guide mennesker sikkert gennem oplevelsen?\n\nStudiet kortlagde, hvor psykedelika-assisteret terapi passer ind i depressionsomsorg netop nu—og det er klart, at området udvikler sig hurtigt. Eksperter er enige om, at beviserne er reelle, men vil have mere data om at sammenligne psilocybin med andre muligheder og forstå præcis, hvilke patienter der profiterer mest. Den største praktiske udfordring? At opbygge et reelt netværk af psykiske sundhedsprofessionelle trænet til at administrere og støtte disse behandlinger. Når psykedelika skifter fra forskningstudier til egentlig sundhedspleje, betyder disse spørgsmål enormt for patienter, der venter på håb."
-      },
-      "added_at": "2026-08-28T19:18:18.201745+00:00"
-    },
-    {
-      "title": "Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025-2026).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652632/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Imagine a therapy where a single guided session with psilocybin could shift how your brain processes depression or trauma in ways that talk therapy alone might take months to achieve. New research is mapping exactly how this works—and it's pointing to something remarkable: psychedelics don't just mask symptoms, they seem to help your brain rewire itself. This clinical review brings together the latest evidence on how psilocybin-assisted therapy is being used in real psychiatric settings, showing concrete results for conditions that have resisted traditional treatment.\n\nResearchers are synthesizing findings from clinical practice and studies to understand the mechanisms behind these effects. We're witnessing psychedelic research move from the margins into mainstream psychiatry, with mounting evidence that carefully guided experiences can catalyze genuine healing. This isn't hype—it's rigorous science catching up to something patients and therapists have been noticing: sometimes the most profound shifts come when we're brave enough to look inward with the right support.",
-        "da": "Forestil dig en terapi, hvor en enkelt guidet session med psilocybin kunne ændre, hvordan din hjerne behandler depression eller trauma—på måder, som samtale alene måske ville tage måneder at nå. Ny forskning kortlægger præcis, hvordan det virker—og det peger på noget bemærkelsesværdigt: psykedelika maskerer ikke bare symptomerne, de ser ud til at hjælpe din hjerne med at omstrukturere sig selv. Dette kliniske review samler den seneste evidens om, hvordan psilocybin-assisteret terapi bruges i rigtige psykiatriske behandlingssituationer og viser konkrete resultater for tilstande, som traditionel behandling hidtil har været machtesløs over for.\n\nForskere sammensætter fund fra klinisk praksis og studier for at forstå mekanismerne bag disse effekter. Vi er vidner til, at psykedelika-forskningen bevæger sig fra periferien ind i mainstream-psykiatrien, med voksende evidens for, at omhyggeligt guidede oplevelser kan katalysere egentlig healing. Dette er ikke hype—det er stringent videnskab, som når ind til noget, patienterne og terapeuter har bemærket: nogle gange kommer de mest dybdegående skift, når vi er modige nok til at se indad med den rigtige støtte."
-      },
-      "added_at": "2026-08-27T18:08:15.683583+00:00"
-    },
-    {
-      "title": "Efficacy and tolerability of ketamine in moderate to severe obsessive-compulsive disorder: a systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649323/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "For the roughly half of OCD patients who don't respond to standard treatments, ketamine might offer a lifeline — but not in the way researchers initially hoped. A new systematic review found that a single ketamine infusion can spark rapid relief from obsessive thoughts in about half of patients, yet those benefits typically fade within a week. The real breakthrough? When ketamine was paired with therapy — specifically exposure and response prevention — patients experienced sustained improvement lasting weeks or months, suggesting the drug and therapy work together in ways we're still learning to understand. Researchers analyzed fifteen studies involving 118 participants using established review standards, uncovering both promise and caution: while ketamine proved safe overall, some patients experienced delayed mood crashes 24-48 hours after treatment. This finding adds crucial nuance to the psychedelics and mental health conversation — it's not about finding a magic molecule, but about using ketamine as a strategic tool alongside therapy to help people reclaim their lives from OCD.",
-        "da": "For cirka halvdelen af OCD-patienter, som ikke responderer på standardbehandlinger, kan psykedelika som ketamin være et håb — men ikke helt som forskerne først håbede. En ny systematisk gennemgang viser, at en enkelt ketamininfusion kan skabe hurtig lindring fra tvangstanker hos cirka halvdelen af patienterne, men disse fordele forsvinder typisk inden for en uge. Det virkelige gennembrud? Da ketamin blev kombineret med terapi — specifikt eksponeringsterapi — oplevede patienter vedvarende forbedringer, der varede uger eller måneder, hvilket tyder på, at medicinen og terapien virker sammen på måder, vi stadig lærer at forstå. Forskerne analyserede femten studier med 128 deltagere efter etablerede standarder og afslørede både muligheder og forsigtighed: selvom ketamin viste sig sikkert generelt, oplevede nogle patienter forsinket stemningsfald 24-48 timer efter behandlingen. Denne opdagelse tilføjer vigtig nuance til samtalen om psykedelika og mental sundhed — det handler ikke om at finde et magisk molekyle, men om at bruge ketamin strategisk sammen med terapi."
-      },
-      "added_at": "2026-08-27T18:08:15.683583+00:00"
-    },
-    {
-      "title": "Next-Generation Pharmacotherapies for Unipolar Mood Disorders: A Leading Article on Phase II/III Drug Development Across Diverse Mechanisms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42645703/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "About one in three people with depression don't respond to standard antidepressants—and that's where things are finally getting interesting. A massive wave of new drugs is now in late-stage testing, tackling mood disorders through completely different biological pathways than the old approach. Psychedelics are part of this revolution, alongside cutting-edge compounds targeting glutamate, GABA, and ion channels. This review maps 24 promising drugs currently in Phase II/III clinical trials, showing how the field has exploded since FDA approval of esketamine and brexanolone opened the door to novel mechanisms. We're witnessing a genuine shift: after decades of similar treatments, science is finally offering real alternatives for people who've hit a wall with conventional therapy.",
-        "da": "Omkring hver tredje person med depression reagerer ikke på almindelige antidepressiva—og det er netop her tingene bliver virkelig interessante. En massiv bølge af nye lægemidler er nu i sene testfaser og angriber depressioner gennem helt andre biologiske veje end den gamle tilgang. Psykedelika er en del af denne revolution, sammen med avancerede lægemidler der målretter glutamat, GABA og ionkanaler. Denne review kortlægger 24 lovende lægemidler i Phase II/III kliniske forsøg og viser hvordan området er eksploderet siden FDA godkendte esketamin og brexanolone og åbnede døren til nye mekanismer. Vi er vidne til et ægte skifte: efter årtier med lignende behandlinger tilbyder videnskaben endelig rigtige alternativer for mennesker, der har ramt en mur med konventionel terapi."
-      },
-      "added_at": "2026-08-27T18:08:15.683583+00:00"
-    },
-    {
-      "title": "Psychedelic integration beyond the verbal: participatory-imaginal processing as a hypothesis-generating therapeutic framework.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42656547/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the most healing parts of a psychedelic experience can't be put into words? New research suggests that when cancer patients take psilocybin, they often have intense, embodied experiences that simply don't translate into language—yet most therapy after the trip focuses on talking it through. Scientists now hypothesize that directly engaging with these non-verbal, imaginal experiences might actually be more powerful for lasting healing than trying to turn everything into a narrative. The team developed this idea by observing how psilocybin therapy actually works in practice, and it points to something bigger: we may need to rethink integration itself, moving beyond the talking cure toward approaches that honor the full spectrum of how psychedelics touch us.",
-        "da": "Hvad hvis de mest helbredende dele af en psykedelisk oplevelse slet ikke kan sættes ord på? Ny forskning tyder på, at når kræftpatienter får psilocybin, oplever de ofte intense, kropsbundne erfaringer, som simpelthen ikke lader sig oversætte til sproget—alligevel fokuserer det meste terapi efter turen på at tale det igennem. Forskere har nu en hypotese om, at direkte arbejde med disse ikke-verbale, imaginative oplevelser måske faktisk er stærkere for varig helbredelse end at gøre alt til en historie. Teamet udviklede denne idé ved at observere, hvordan psykedelika-terapi virker i praksis, og det peger på noget større: vi må måske genoverveje integration selv, væk fra den talende kur mod tilgange, der værdsætter hele spektret af, hvordan psykedelika berører os."
-      },
-      "added_at": "2026-08-27T18:08:15.683583+00:00"
     }
   ]
 }
