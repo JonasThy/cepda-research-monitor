@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-13T12:35:38.584677+00:00",
+  "generated_at": "2026-09-14T13:43:22.952462+00:00",
   "items": [
+    {
+      "title": "[The use of psychedelics in psychiatry].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Here's the honest truth: psychedelics are showing real promise in psychiatry, but we're not quite there yet. Psilocybin consistently produces strong improvements in depression, and a synthetic version just cleared major regulatory hurdles in 2025-2026. MDMA-assisted therapy for trauma has the biggest clinical dataset so far—though the FDA pumped the brakes on approval for ethical reasons in 2024. The catch? Many trials haven't quite hit their statistical targets, and the evidence for LSD and ayahuasca remains too weak to draw firm conclusions. Over the past five years, rigorous randomized controlled trials have been testing these compounds across mood disorders, treatment-resistant depression, and PTSD. What's striking is that despite the hype, we're seeing a field maturing from fringe idea to serious medicine—inconsistent results and all. This messy middle phase is actually where breakthrough treatments often land: the effects are real and sometimes dramatic, but science demands we keep asking hard questions before opening the clinic doors.",
+        "da": "Her er den ærlige sandhed: psykedelika viser virkelig løfte inden for psykiatri, men vi er ikke helt i mål endnu. Psilocybin producerer konsistent stærke forbedringer ved depression, og en syntetisk version bestod netop store regulatoriske prøvelser i 2025-2026. MDMA-assisteret terapi til trauma har det største kliniske datasæt hidtil—selvom FDA satte en stopklods på godkendelse på etiske grunde i 2024. Prisen? Mange studier har ikke helt ramt deres statistiske mål, og beviserne for LSD og ayahuasca er stadig for svag til at drages sikre konklusioner. De seneste fem år har rigide randomiserede kontrollerede forsøg testet disse stoffer på humørforstyrrelser, behandlingsresistent depression og PTSD. Det påfaldende er, at trods hype ser vi et fagfelt modne fra marginalt fænomen til seriøs medicin—ulige resultater og alt. Denne rodet mellemfase er faktisk hvor gennembrudsmedicin ofte ender: virkningerne er ægte og nogle gange dramatiske, men videnskaben kræver, at vi bliver ved med at stille svære spørgsmål før klinikkerne åbner."
+      },
+      "added_at": "2026-09-14T13:43:15.539199+00:00"
+    },
     {
       "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
@@ -765,19 +778,6 @@
       "summaries": {
         "en": "Here's something practical: when researchers tested three different ways of taking psilocybin, oral psilocin (the active compound your body makes from psilocybin) worked just as well as traditional oral psilocybin—but with fewer unpleasant side effects. Sublingual psilocin also proved safe and tolerable. These aren't huge differences, but in medicine, reducing nausea and discomfort while keeping the therapeutic benefits intact matters a lot to patients actually taking these compounds.\n\nThe study involved 20 healthy adults trying different formulations in carefully controlled sessions with professional support. What this reveals is that psychedelics research is moving beyond the \"one-size-fits-all\" approach—scientists are now exploring whether tweaking how we administer these compounds could make therapy more accessible and comfortable. As clinical trials expand, finding formulations with better side-effect profiles could be the difference between a treatment people can actually stick with.",
         "da": "Her er noget praktisk: da forskere testede tre forskellige måder at tage psilocybin på, virkede oral psilocin (det aktive stof dit legeme laver fra psilocybin) lige så godt som traditionel oral psilocybin—men med færre ubehagelige bivirkninger. Sublingual psilocin viste sig også sikker og veltoleret. Det er ikke massive forskelle, men inden for medicin betyder det rigtig meget for patienterne, at man kan reducere kvalme og ubehag, mens man beholder de terapeutiske fordele.\n\nStudiet omfattede 20 raske voksne, som prøvede forskellige formuleringer i grundigt kontrollerede sessioner med professionel støtte. Det, som dette afsløres, er at psykedelika-forskning bevæger sig ud over \"one-size-fits-all\"-tilgangen—videnskabsmænd udforsker nu, om små ændringer i, hvordan vi administrerer disse stoffer, kunne gøre terapi mere tilgængelig og behagelig. Når kliniske forsøg udvides, kunne det at finde formuleringer med bedre bivirkningsprofiler være afgørende for, om en behandling er noget, folk kan gennemføre."
-      },
-      "added_at": "2026-08-30T12:39:19.115925+00:00"
-    },
-    {
-      "title": "The role of BDNF promoter VI in mediating protective effects of prophylactic (R,S)-ketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668318/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Here's something striking: a single dose of ketamine given *before* stress hits can protect your brain from depression—and now we know why. Scientists discovered that ketamine's protective power depends on a specific molecular switch in your brain called BDNF, which essentially tells your hippocampus to build new connections and bounce back stronger. Using mice genetically engineered to lack this switch, researchers showed that without it, ketamine loses its preventative punch. This opens a wild new frontier: what if we could give people at high risk of depression a small dose of ketamine before the crisis hits, like a vaccine for the mind? The study adds crucial pieces to the puzzle of how psychedelics work, suggesting that their real superpower might not just be healing existing damage but actually building resilience into our brains before we need it.",
-        "da": "Her er noget bemærkelsesværdigt: en enkelt dosis ketamin givet *før* stress rammer kan beskytte din hjerne mod depression—og nu ved vi hvorfor. Forskere opdagede, at ketamins beskyttende kraft afhænger af en specifik molekylær switch i din hjerne kaldet BDNF, som grundlæggende instruerer din hippocampus til at bygge nye forbindelser og komme tilbage stærkere. Ved at bruge mus, der genetisk er modificeret til at mangle denne switch, viste forskere, at uden den mister ketamin sin forebyggende kraft. Dette åbner en vildt ny verden: hvad hvis vi kunne give mennesker i høj risiko for depression en lille dosis ketamin før krisen rammer, som en vaccine for sindet? Studiet tilføjer vigtige brikker til puslespillet om, hvordan psykedelika virker, og tyder på, at deres reelle superkraft måske ikke kun er at helbrede eksisterende skade, men faktisk at bygge modstandskraft ind i vores hjerner, før vi har brug for det."
       },
       "added_at": "2026-08-30T12:39:19.115925+00:00"
     }
