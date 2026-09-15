@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-14T13:43:22.952462+00:00",
+  "generated_at": "2026-09-15T12:31:04.944405+00:00",
   "items": [
+    {
+      "title": "Correlation of Ketamine and Classic Psychedelics with Pain-Related Neural Connectivity: A Scoping Review of Clinical Experiments on a Potential Therapeutic Target Concerning Ketamine and Classical Psychedelics Administration for Pain Relief",
+      "url": "https://doi.org/10.1177/28314425261489067",
+      "source": "OpenAlex",
+      "date": "2026-09-14",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if the key to managing chronic pain isn't just blocking the signal—but rewiring how your brain *experiences* it? New research shows that ketamine and classic psychedelics like LSD and psilocybin do something fascinating: they reshape the neural networks responsible for how we perceive pain, especially the emotional and mental weight it carries. This isn't about numbing—it's about fundamental shifts in brain connectivity that could open entirely new doors for pain relief.\n\nScientists reviewed six clinical studies examining how these substances alter pain-related brain activity, discovering that ketamine in particular affects large-scale networks known to process emotional and cognitive aspects of suffering. The findings suggest your brain's baseline connectivity might even predict whether you'll respond well to treatment. As psychedelics move from counterculture curiosity to serious neuroscience, this research adds a crucial piece: they're not just creating novel experiences—they're potential tools for rewiring pain itself.",
+        "da": "Hvad hvis løsningen på kronisk smerte ikke bare handler om at blokere signalet—men om at omstrukturere, hvordan din hjerne *oplever* det? Ny forskning viser, at ketamin og klassiske psykedelika som LSD og psilocybin gør noget fascinerende: de omformer de neurale netværk, der bestemmer, hvordan vi fornemmer smerte, især det emotionelle og mentale tryk, det skaber. Det handler ikke om at bedøve—det handler om fundamentale skift i hjernens forbindelser, der kunne åbne helt nye døre for smertelindring.\n\nForsker gennemgik seks kliniske studier, der undersøgte, hvordan disse stoffer ændrer smerterelateret hjerneaktivitet, og opdagede, at ketamin især påvirker store netværk, der behandler følelsesmæssige og kognitive aspekter af lidelse. Resultaterne tyder på, at din hjernes baseline-forbindelser måske endda kan forudsige, om du reagerer godt på behandling. Mens psykedelika bevæger sig fra kontrakulturel nysgerrighed til seriøs neurovidenskab, tilføjer denne forskning et afgørende stykke: de er ikke bare værktøjer til nye oplevelser—de er potentielle midler til at omstrukturere selve smerten."
+      },
+      "added_at": "2026-09-15T12:30:33.131901+00:00"
+    },
+    {
+      "title": "5-HT2A receptor and psychedelics: a trip through the mechanisms of action and therapeutic potential in mental disorders",
+      "url": "https://doi.org/10.1038/s41398-026-04455-y",
+      "source": "OpenAlex",
+      "date": "2026-09-14",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Psychedelics work their magic through a specific brain receptor called 5-HT2A — and understanding exactly how could unlock new treatments for depression, anxiety, and PTSD. This isn't just lab theory: researchers are mapping the precise mechanisms that make these compounds potentially transformative for mental health, moving us beyond the outdated idea that psychedelics are merely recreational substances. The research synthesizes what we know about how psychedelics interact with our brain's chemistry, and it arrives at a crucial moment when clinical trials are showing real promise. This deeper understanding of the 5-HT2A pathway is reshaping how scientists approach mental health treatment, suggesting we're on the verge of genuinely new therapeutic options that work differently from anything currently available.",
+        "da": "Psykedelika virker gennem en specifik hjernereceptor kaldet 5-HT2A — og at forstå præcis hvordan kunne åbne døren til nye behandlinger for depression, angst og PTSD. Det er ikke bare laboratorieteori: forskere kortlægger de præcise mekanismer, der gør disse stoffer potentielt transformerende for mental sundhed, langt ud over den forældede idé om, at psykedelika bare er rekreative. Forskningen sammenfatter, hvad vi ved om, hvordan psykedelika interagerer med vores hjernes kemi, og kommer på et afgørende tidspunkt, hvor kliniske forsøg viser reel lovende effekt. Denne dybere forståelse af 5-HT2A-stien omdanner, hvordan videnskabsmænd griber mental sundhed an, hvilket tyder på, at vi er på tærskelen til genuint nye terapeutiske muligheder, der virker anderledes end noget, vi har i dag."
+      },
+      "added_at": "2026-09-15T12:30:33.131901+00:00"
+    },
+    {
+      "title": "[The use of psychedelics in psychiatry].",
+      "url": "https://doi.org/10.1556/650.2026.33665",
+      "source": "OpenAlex",
+      "date": "2026-09-13",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Psychedelics are moving from fringe curiosity to serious medicine — but the road to the clinic is messier than headlines suggest. Psilocybin shows powerful, consistent effects against depression, and a synthetic version just cleared major regulatory hurdles. Yet here's the catch: even in the most rigorous trials, results don't always hit their statistical targets. MDMA-assisted therapy for trauma has the strongest evidence base, only to be rejected by the FDA on ethical grounds in 2024. So what's actually happening? Researchers conducted randomized controlled trials across depression, treatment-resistant depression, and PTSD over the past five years. The bigger picture is clear: psychedelics genuinely work for some conditions, but clinical evidence remains surprisingly weak given all the excitement. The field is at a crossroads between genuine promise and methodological reality — and that's exactly where honest science should be.",
+        "da": "Psykedelika går fra marginal nysgerrighed til seriøs medicin — men vejen til klinikken er mere røget end overskrifterne antyder. Psilocybin viser kraftfulde, konsistente effekter mod depression, og en syntetisk version har netop passeret vigtige regulatoriske milepæle. Men her er faldgruben: selv i de mest stringente forsøg slår resultaterne ikke altid deres statistiske mål. MDMA-assisteret terapi mod trauma har det stærkeste evidensfundament, kun for at blive afvist af den amerikanske FDA på etiske grunde i 2024. Hvad sker der egentlig? Forskere gennemførte randomiserede kontrollerede forsøg på depression, behandlingsresistent depression og PTSD over de seneste fem år. Det større billede er klart: psykedelika virker virkelig for nogle tilstande, men klinisk evidens er overraskende svag givet al ophidselsen. Området befinder sig på et vejskæl mellem reelt løfte og metodologisk virkelighed — og det er præcis, hvor ærlig videnskab bør være."
+      },
+      "added_at": "2026-09-15T12:30:33.131901+00:00"
+    },
+    {
+      "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What happens when standard antidepressants don't work? A new real-world study is giving us hope: esketamine nasal spray—a psychedelic-adjacent treatment—is showing genuine promise for people with treatment-resistant depression. This isn't lab data; researchers looked at actual patients in real clinics, tracking what actually happened when they tried this option. The findings suggest it's both effective and safe enough to consider when nothing else has worked. As psychedelics move from underground curiosity to legitimate medicine, esketamine is leading the charge—it's already approved in several countries, and studies like this one are building the evidence that doctors need to feel confident prescribing it. We're watching a shift in how mental healthcare handles the hardest cases.",
+        "da": "Hvad sker der, når almindelige antidepressiva ikke virker? Et nyt studie fra virkeligheden giver os håb: esketamin-næsespray—en psykedelika-nær behandling—viser reelt løfte for mennesker med behandlingsresistent depression. Dette er ikke laboratoriedata; forskere fulgte faktiske patienter på rigtige klinikker og registrerede, hvad der skete, da de prøvede denne mulighed. Resultaterne tyder på, at den både virker og er sikker nok til at overveje, når intet andet har hjulpet. Mens psykedelika bevæger sig fra underjordisk nysgerrighed til legitim medicin, er esketamin i spidsen—det er allerede godkendt i flere lande, og studier som dette opbygger det bevis, som læger har brug for for at føle sig trygge ved at ordinere det. Vi er vidne til et skift i, hvordan psykisk sundhedsvæsenet håndterer de sværeste tilfælde."
+      },
+      "added_at": "2026-09-15T12:30:33.131901+00:00"
+    },
+    {
+      "title": "Psychopharmacology at an Inflection Point: From Syndromes to Stratified Mechanisms, Circuit-Based Treatments, and Precision Psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735276/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Here's the reality: almost half of people with depression don't respond to standard antidepressants. But some of those same people get better with ketamine, while others need something completely different. This messy truth is reshaping psychiatry. Researchers are moving away from treating depression as one thing and toward understanding that different brains need different solutions—what works for you might not work for your neighbour. Scientists conducted a broad review of how psychiatric treatment is evolving, and the picture is clear: we're entering an era of precision medicine in mental health. Psychedelics fit into this shift beautifully, offering entirely new mechanisms that bypass traditional pathways and show promise especially for people who've hit dead ends with conventional drugs. Welcome to psychiatry's inflection point.",
+        "da": "Her er virkeligheden: næsten halvdelen af mennesker med depression reagerer ikke på almindelige antidepressiva. Men nogle af de samme mennesker bliver bedre med ketamin, mens andre har brug for noget helt tredje. Denne komplekse sandhed er ved at omforme psykiatrien. Forskere bevæger sig væk fra at behandle depression som én ting og mod at forstå, at forskellige hjerner har brug for forskellige løsninger—hvad der virker for dig, virker måske ikke for din nabo. Videnskabsmænd lavede et bredt review af, hvordan psykiatrisk behandling udvikler sig, og billedet er klart: vi går ind i en æra med præcisionsmedicin inden for mental sundhed. Psykedelika passer perfekt ind i dette skift og tilbyder helt nye mekanismer, der omgår traditionelle veje og viser løfte især for mennesker, der er gået død med konventionelle lægemidler. Velkommen til psykiatriens vendepunkt."
+      },
+      "added_at": "2026-09-15T12:30:33.131901+00:00"
+    },
     {
       "title": "[The use of psychedelics in psychiatry].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
@@ -715,71 +780,6 @@
         "da": "Forskere har netop kortlagt, hvordan DMT bevæger sig gennem kroppen og hvad det faktisk gør — afgørende forberedelse før vi kan teste det som rigtig behandling. Det gode nyt? Det var sikkert hos alle frivillige, med kun milde til moderate effekter og ingen alvorlige bivirkninger. Overraskelsen? Rygere havde omkring dobbelt så meget DMT i blodet som ikke-rygere, sandsynligvis fordi noget i cigaretrøg påvirker, hvordan kroppen nedbryder det. Forskere gav raske personer forskellige doser DMT gennem intravenøs infusion og målte alt fra hjertehastighed til hjernebølger til subjektiv oplevelse. Denne type omhyggelig farmakologisk kortlægning er præcis hvad fagfeltet har brug for lige nu — det er det utilgloriøse men essentielle arbejde, der gør et lovende molekyle til rigtig medicin. I takt med at psykedelika bevæger sig fra underjordisk nysgerrighed til legitim klinisk videnskab, bygger studier som dette fundamentet, der lader os bevæge os sikkert fremad."
       },
       "added_at": "2026-09-01T12:24:35.872811+00:00"
-    },
-    {
-      "title": "Psychedelic renaissance in healthcare: between the biomedical and the existential.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42674855/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "other",
-      "context": "mental-health",
-      "summaries": {
-        "en": "Right now, psychedelics are getting a lot of hype in medicine—but here's the thing: much of it is driven by companies focused on quick profits and individual wellness, which risks widening a troubling gap between pill-based treatments and the deeper, human-centered therapy that talks and stories provide. A new review digs into this tension, asking an important question: as psychedelics move into mainstream healthcare, are we missing something crucial about how they actually work—not just chemically, but in helping people make sense of their lives? The researchers argue that to get psychedelics right, we need to stop treating them as just another drug fix and start honoring the existential and narrative dimensions that make them unique in the first place.",
-        "da": "Lige nu får psykedelika massiv opmærksomhed inden for medicin—men her er kernen: meget af hypen drevet af virksomheder fokuseret på hurtig profit og individuel wellness risikerer at udvide et problematisk skel mellem pille-baserede behandlinger og den dybere, menneskecentrerede terapi som samtalog fortællinger tilbyder. Et nyt review dykker ned i denne spænding og stiller et vigtig spørgsmål: mens psykedelika bevæger sig ind i mainstream sundhedsvæsenet, mister vi noget afgørende om hvordan de faktisk virker—ikke bare kemisk, men i at hjælpe mennesker med at give mening til deres liv? Forskerne argumenterer for at for at få psykedelika rigtigt må vi holde op med at behandle dem som bare endnu en drug-fix og begynde at ærer de eksistentielle og narrative dimensioner som gør dem unikke."
-      },
-      "added_at": "2026-09-01T12:24:35.872811+00:00"
-    },
-    {
-      "title": "Hippocampal synaptic transmission and Ca<sup>2</sup>⁺ signaling are altered by the selective 5-HT<sub>2A</sub> receptor agonist, 25CN-NBOH",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42669378/",
-      "source": "EuropePMC (Denmark)",
-      "date": "2026-08-30",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists just discovered something fascinating about how psychedelics rewire a crucial brain region linked to mood and memory. When researchers exposed hippocampal neurons to a psychedelic compound, it dramatically increased communication between brain cells—boosting both the excited and calming signals neurons send each other. Here's what's wild: this happened through a completely different mechanism than previously thought, suggesting psychedelics have multiple ways of reshaping neural circuits. The team used advanced imaging and electrical recordings on mouse brain tissue to map these changes. This finding matters because while we've mapped psychedelic effects in the prefrontal cortex, the hippocampus has been largely a mystery—yet it's absolutely central to mood regulation and how we process emotions. As psychedelic research accelerates toward clinical breakthroughs, understanding these cellular mechanisms in different brain regions is key to explaining why these compounds show such remarkable promise for depression and anxiety.",
-        "da": "Forskere har lige afsløret noget fascinerende om, hvordan psykedelika omstrukturerer en afgørende hjernedel, der styrer humør og hukommelse. Da forskerne eksponerede hippocampale neuroner for et psykedelika-stof, steg kommunikationen mellem hjerneceller dramatisk—med både øgede spændende og beroligende signaler mellem neuronerneHer er det vildt: det skete gennem en helt anden mekanisme end tidligere antaget, hvilket tyder på at psykedelika har flere måder at omforme neurale kredsløb på. Teamet brugte avanceret mikroskopi og elektriske målinger på musehjernenvæv til at kortlægge disse forandringer. Denne opdagelse betyder noget, fordi selv om vi har kortlagt psykedelika-effekter i præfrontal cortex, har hippocampus været stort set uudforsket—alligevel er den absolut central for humørregulering og hvordan vi behandler følelser. Mens psykedelika-forskningen accelererer mod kliniske gennembrud, er det afgørende at forstå disse cellulære mekanismer i forskellige hjernedele for at forklare, hvorfor disse stoffer viser så bemærkelsesværdig lovende resultater for depression og angst."
-      },
-      "added_at": "2026-08-31T14:53:43.210720+00:00"
-    },
-    {
-      "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin",
-      "url": "https://doi.org/10.1177/02698811261478603",
-      "source": "OpenAlex",
-      "date": "2026-08-29",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if you could get the therapeutic benefits of psilocybin with fewer side effects? A new study compared three different ways of taking psilocybin—the classic oral form, oral psilocin (what your body actually converts psilocybin into), and a sublingual version—all made from whole mushroom extracts. The striking finding: oral psilocin produced nearly identical psychological effects to oral psilocybin, but with notably fewer unwanted physical effects. Researchers gave 20 healthy adults these different formulations in a carefully controlled, randomized trial with therapeutic support. The results suggest that how we deliver psychedelics matters just as much as what we're delivering—and that exploring alternative routes could mean better experiences for people undergoing psychedelic-assisted therapy. This fits neatly into where the field is heading: moving beyond a one-size-fits-all approach to find personalized, optimized treatments.",
-        "da": "Hvad hvis du kunne få psykedelikas terapeutiske fordele med færre bivirkninger? Et nyt studie sammenlignede tre måder at tage psilocybin på—den klassiske oral form, oral psilocin (det som din krop faktisk omdanner psilocybin til), og en sublingual version—alle lavet fra hele svampeekstrakter. Det slående fund: oral psilocin producerede næsten identiske psykologiske effekter som oral psilocybin, men med væsentligt færre uønskede fysiske effekter. Forskerne gav 20 sunde voksne disse forskellige formuleringer i et omhyggeligt kontrolleret, randomiseret forsøg med terapeutisk support. Resultaterne tyder på, at måden vi leverer psykedelika på betyder lige så meget som det, vi leverer—og at det kunne betyde bedre oplevelser for mennesker, der undergår psykedelika-assisteret terapi. Dette passer perfekt ind i hvor området bevæger sig hen: væk fra en one-size-fits-all tilgang mod at finde personaliserede, optimerede behandlinger."
-      },
-      "added_at": "2026-08-31T14:53:43.210720+00:00"
-    },
-    {
-      "title": "Nursing education for emerging psychedelic-assisted therapy: A role-calibrated curriculum approach",
-      "url": "https://doi.org/10.1016/j.nedt.2026.107384",
-      "source": "CrossRef / Nurse Education Today",
-      "date": "2027-1",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "As psychedelic-assisted therapy moves from the lab into clinics, a crucial question emerges: who's actually trained to guide patients through these profound experiences? A new study tackles this head-on by designing a role-calibrated curriculum for nurses—the professionals who'll spend the most time with patients during psychedelic therapy sessions. The research recognizes that nursing psychedelic care isn't just about handing out pills; it's a specialized skill requiring deep knowledge of both the science and the human experience.\n\nThe study maps out what nurses at different experience levels need to know, creating a practical framework for training programs. This matters because psychedelics research is moving fast toward real-world application, and we're still figuring out how to prepare the healthcare workforce. By getting the nursing foundation right now, we're helping ensure that when psychedelic-assisted therapy becomes more widely available, patients will have skilled, knowledgeable guides ready to support them through one of the most meaningful experiences of their lives.",
-        "da": "Mens psykedelika-assisteret terapi bevæger sig fra laboratoriet ind i klinikker, dukker et afgørende spørgsmål op: hvem er egentlig uddannet til at guide patienter gennem disse dybe oplevelser? Et nyt studie griber problemet an ved at designet et rollebaseret curriculum for sygeplejersker—de fagpersoner, som tilbringer mest tid sammen med patienter under psykedelika-terapi. Forskningen erkender, at sygeplejerskefunktionen inden for psykedelika ikke bare handler om at uddele piller; det er en specialiseret færdighed, der kræver dyb viden om både videnskaben og den menneskelige erfaring.\n\nStudiet kortlægger, hvad sygeplejersker på forskellige erfaringsniveauer har brug for at vide, og skaber dermed en praktisk ramme for træningsprogrammer. Det betyder noget, fordi psykedelika-forskningen bevæger sig hurtigt mod virkelighedens anvendelse, og vi er stadig ved at finde ud af, hvordan vi forbereder sundhedsvæsenet. Ved at få sygeplejerskegrundlaget rigtigt nu, hjælper vi med at sikre, at når psykedelika-assisteret terapi bliver mere udbredt, vil patienterne have dygtige, vidende guider klar til at støtte dem gennem en af deres mest meningsfulde oplevelser."
-      },
-      "added_at": "2026-08-31T14:53:43.210720+00:00"
-    },
-    {
-      "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668404/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Here's something practical: when researchers tested three different ways of taking psilocybin, oral psilocin (the active compound your body makes from psilocybin) worked just as well as traditional oral psilocybin—but with fewer unpleasant side effects. Sublingual psilocin also proved safe and tolerable. These aren't huge differences, but in medicine, reducing nausea and discomfort while keeping the therapeutic benefits intact matters a lot to patients actually taking these compounds.\n\nThe study involved 20 healthy adults trying different formulations in carefully controlled sessions with professional support. What this reveals is that psychedelics research is moving beyond the \"one-size-fits-all\" approach—scientists are now exploring whether tweaking how we administer these compounds could make therapy more accessible and comfortable. As clinical trials expand, finding formulations with better side-effect profiles could be the difference between a treatment people can actually stick with.",
-        "da": "Her er noget praktisk: da forskere testede tre forskellige måder at tage psilocybin på, virkede oral psilocin (det aktive stof dit legeme laver fra psilocybin) lige så godt som traditionel oral psilocybin—men med færre ubehagelige bivirkninger. Sublingual psilocin viste sig også sikker og veltoleret. Det er ikke massive forskelle, men inden for medicin betyder det rigtig meget for patienterne, at man kan reducere kvalme og ubehag, mens man beholder de terapeutiske fordele.\n\nStudiet omfattede 20 raske voksne, som prøvede forskellige formuleringer i grundigt kontrollerede sessioner med professionel støtte. Det, som dette afsløres, er at psykedelika-forskning bevæger sig ud over \"one-size-fits-all\"-tilgangen—videnskabsmænd udforsker nu, om små ændringer i, hvordan vi administrerer disse stoffer, kunne gøre terapi mere tilgængelig og behagelig. Når kliniske forsøg udvides, kunne det at finde formuleringer med bedre bivirkningsprofiler være afgørende for, om en behandling er noget, folk kan gennemføre."
-      },
-      "added_at": "2026-08-30T12:39:19.115925+00:00"
     }
   ]
 }
