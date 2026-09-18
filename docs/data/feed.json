@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-17T12:29:21.990784+00:00",
+  "generated_at": "2026-09-18T12:07:15.376536+00:00",
   "items": [
+    {
+      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754621/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Here's something striking: when researchers gave psilocybin to mice with a genetic condition that made them socially withdrawn and compulsive, something remarkable happened. These mice started seeking out new social interactions again—a behavior they'd lost. Even a single dose created changes that lasted at least a week. The study used standard mouse models of OCD and brain imaging to track what was happening, finding that psilocybin specifically activated two brain regions linked to social thinking: the prefrontal cortex and hippocampus. What makes this exciting is that social withdrawal in OCD is often overlooked by doctors, even though it causes real suffering. Psychedelics are opening doors we didn't know existed—not just for mood or anxiety, but for helping people reconnect with others. This is the kind of precise, careful research that's building the case for psychedelics in psychiatry.",
+        "da": "Her er noget slående: da forskere gav psykedelika til mus med en genetisk tilstand, der gjorde dem socialt tilbagetrukne og tvangsmæssige, skete der noget bemærkelsesværdigt. Disse mus begyndte igen at søge ny social kontakt—en adfærd de havde mistet. Selv en enkelt dosis skabte forandringer, der varede mindst en uge. Studiet brugte standardmus-modeller af OCD og hjernebilleddannelse til at spore hvad der skete, og fandt at psykedelika specifikt aktiverede to hjernereioner forbundet med social tænkning: præfrontal cortex og hippocampus. Det spændende er, at social tilbagetrækning ved OCD ofte bliver overset af læger, selvom det forårsager ægte lidelse. Psykedelika åbner døre, vi ikke vidste fandtes—ikke kun for humør eller angst, men for at hjælpe mennesker til at genforbinde med hinanden. Dette er netop den slags præcis, omhyggelig forskning, der bygger sagen for psykedelika inden for psykiatri."
+      },
+      "added_at": "2026-09-18T12:06:40.269768+00:00"
+    },
+    {
+      "title": "Mechanistic Basis for 5-HT2AR Over 5-HT2BR Activation",
+      "url": "https://doi.org/10.1038/s41467-026-77659-x",
+      "source": "OpenAlex",
+      "date": "2026-09-17",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Scientists just cracked a crucial code for safer psychedelic medicines. The challenge: psychedelics work brilliantly on one brain receptor (5-HT2A), but can cause heart valve problems by activating another (5-HT2B). Now researchers have figured out exactly how to design molecules that hit the therapeutic target while avoiding the dangerous one—like threading a molecular needle. They tested their blueprint with a new compound called IHCH-2330 and confirmed it works using cutting-edge 3D imaging. This isn't just lab success; it's the kind of precision design that could let us harness psychedelika's healing potential without the health risks that have worried regulators. We're watching real-time progress in turning psychedelics into safe, targeted medicines.",
+        "da": "Forskere har netop knækket en vigtig kode for sikrere psykedelika-medicin. Udfordringen: psykedelika virker glimrende på en hjernereceptor (5-HT2A), men kan give hjerteklapproblemer ved at aktivere en anden (5-HT2B). Nu har forskere fundet ud af præcis, hvordan man designer molekyler, der rammer det terapeutiske mål uden at ramme det farlige—som at trække en molekylær nål. De testede deres design med et nyt stof kaldet IHCH-2330 og bekræftede det virker med avanceret 3D-billeddannelse. Det er ikke bare laboratoriessucces; det er præcisionsdesign, der kunne lade os udnytte psykedelikas helbredende potentiale uden de helbredsmæssige risici, som har bekymret regulatorer. Vi oplever realtidsfremskridt i at gøre psykedelika til sikker, målrettet medicin."
+      },
+      "added_at": "2026-09-18T12:06:40.269768+00:00"
+    },
+    {
+      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal–hippocampal circuitry",
+      "url": "https://doi.org/10.1038/s41380-026-03879-8",
+      "source": "OpenAlex",
+      "date": "2026-09-17",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What if a psychedelic could help restore social connection in people struggling with obsessive-compulsive disorder? New research shows psilocybin reversed social withdrawal in mice with compulsive behaviors, helping them engage with new social contacts again—an effect that lasted a week after just one dose. Scientists traced this recovery to activity in specific brain regions involved in social thinking and memory, suggesting psychedelics might work by rewiring how our brains process social information. This study adds crucial evidence to a growing picture: psychedelics aren't just producing altered states, they're potentially reshaping brain circuits in ways that could address real symptoms that standard treatments often miss. As research moves toward human trials, findings like these help explain why people report feeling more socially connected after psychedelic experiences—and why scientists are increasingly excited about their therapeutic potential.",
+        "da": "Hvad hvis et psykedelikum kunne hjælpe med at genoprette social kontakt hos mennesker, der kæmper med tvangslidelse? Ny forskning viser, at psilocybin vendte social tilbagetrækning hos mus med tvangspræget adfærd, hvilket hjalp dem med at engagere sig i ny social kontakt igen—en effekt, der varede en uge efter kun én dosis. Forskere sporede denne bedring til aktivitet i specifikke hjernebaner involveret i social tænkning og hukommelse, hvilket tyder på, at psykedelika virker ved at omstrukturere, hvordan vores hjerner behandler social information. Denne undersøgelse tilføjer afgørende beviser til et voksende billede: psykedelika producerer ikke bare ændrede bevidsthedstilstande, de omstrukturerer potentielt hjernebaner på måder, der kunne adressere rigtige symptomer, som standardbehandlinger ofte overser. Når forskningen bevæger sig mod menneskeforsøg, hjælper findings som disse med at forklare, hvorfor mennesker rapporterer at føle sig mere socialt forbundet efter psykedeliske oplevelser—og hvorfor forskere bliver stadig mere begejstrede for deres terapeutiske potentiale."
+      },
+      "added_at": "2026-09-18T12:06:40.269768+00:00"
+    },
+    {
+      "title": "Structure-based design of subtype-selective psychedelic analogs",
+      "url": "https://doi.org/10.1038/s41467-026-77658-y",
+      "source": "OpenAlex",
+      "date": "2026-09-17",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Imagine a psychedelic medicine that gives you the therapeutic benefits without the cardiac risks—researchers just moved closer to making it real. Scientists have designed new psychedelic compounds that activate the brain receptor responsible for healing depression and PTSD, while deliberately avoiding a different receptor that can damage the heart. This is a game-changer because classical psychedelics trigger both, and that heart problem has been a genuine safety concern holding back their medical use.\n\nUsing cutting-edge cryo-EM imaging to map receptor structures at atomic detail, the team engineered compounds that discriminate between two nearly identical serotonin receptors—a feat many thought impossible. The new molecules worked in animal depression models and represent a blueprint for safer psychedelic medicines. This fits perfectly into psychedelic research's current momentum: we're moving from \"does this work?\" to \"how can we make it work better and safer?\" That's the sign of a field growing up.",
+        "da": "Forestil dig et psykedelika-medicin, der giver dig de terapeutiske fordele uden hjerteskaderne—forskere er netop kommet tættere på det virkelighed. Videnskabsmænd har designet nye psykedelika-forbindelser, der aktiverer hjernereceptoren bag depression og PTSD-helbredelse, samtidig med at de bevidst undgår en anden receptor, der kan skade hjertet. Det er afgørende, fordi klassiske psykedelika påvirker begge dele, og det hjerteproblem har været en ægte sikkerhedsbetænkelighed, der holder deres medicinske brug tilbage.\n\nMed ultranmoderne cryo-EM-billeddannelse til at kortlægge receptorstrukturer på atomær detaljegrad designede holdet forbindelser, der skelner mellem to næsten identiske serotoninreceptorer—en bedrift mange troede var umulig. De nye molekyler virkede i dyrmodeller for depression og udgør en blueprint for sikrere psykedelika-medicin. Det passer perfekt til psykedelika-forskningens nuværende fremdrift: vi går fra \"virker det?\" til \"hvordan gør vi det bedre og sikrere?\" Det er tegnet på et felt, der bliver voksent."
+      },
+      "added_at": "2026-09-18T12:06:40.269768+00:00"
+    },
+    {
+      "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755297/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Here's something quietly important: researchers just figured out how to properly measure what psychedelics actually do to people over time. The old questionnaire was over 140 items long and kind of a mess—turns out it wasn't even measuring what people thought it was. The new version? 14 focused questions that clearly separate positive effects (like insight and connection) from negative ones (like anxiety or confusion). Scientists tested this with real data from both therapy sessions and research studies, making sure the questions actually make sense to people. This matters because psychedelic research is getting serious—moving from curiosity into medicine. You need solid measurement tools to understand what's really happening, spot who benefits most, and eventually help doctors know how to use these substances safely. This validated questionnaire is like getting a reliable thermometer for the field.",
+        "da": "Her er noget stille vigtigt: forskere har lige fundet ud af, hvordan man skal måle hvad psykedelika rent faktisk gør ved mennesker over tid. Det gamle spørgeskema havde over 140 spørgsmål og var en rod—det viste sig, at det ikke engang målte det, som folk troede det gjorde. Den nye version? 14 fokuserede spørgsmål, som klart adskiller positive effekter (som indsigt og forbindelse) fra negative (som angst eller forvirring). Forskerne testede det med rigtige data fra både terapisessioner og forskningsstudier og sikrede sig, at spørgsmålene giver mening for mennesker. Det betyder noget, fordi psykedelikaforskning bliver seriøs—bevæger sig fra nysgerrighed ind i medicin. Du skal bruge pålidelige målingsværktøjer til at forstå hvad der virkelig sker, finde ud af hvem der får mest gavn, og til sidst hjælpe læger med at vide hvordan man bruger disse stoffer sikkert. Dette validerede spørgeskema er som at få et pålideligt termometer til området."
+      },
+      "added_at": "2026-09-18T12:06:40.269768+00:00"
+    },
     {
       "title": "Surrender, disidentification, and reappraisal: a qualitative comparison of psilocybin responders and non-responders in treatment-resistant OCD.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42746496/",
@@ -715,71 +780,6 @@
         "da": "Irland forbereder sig stilfærdigt på psykedelika-assisteret terapi — og mennesker i sundhedsvæsen, psykisk helbred og politik ønsker faktisk at det skal ske. En ny survey spurgte interessenter på tværs af landet, hvad de mener om at bringe disse behandlinger ind i klinisk praksis, og billedet der tegner sig er overraskende håbefuldt: der er ægte appetit på forandring, men også klare spørgsmål om at gøre det rigtigt. Forskerne talte med mennesker på frontlinjen — terapeuter, læger, politikere — for at forstå hvad Irland har brug for for at få det til at virke praktisk og sikkert. Den slags forberedende arbejde betyder enormt meget. Når psykedelika bevæger sig fra forsøgslaboratorier mod rigtige klinikker, skal landene finde ud af træning, regulering og integration. Irlands survey er præcis den slags tænkning der omdanner videnskabelig løfte til faktisk sundhedsændring."
       },
       "added_at": "2026-09-04T12:01:14.984123+00:00"
-    },
-    {
-      "title": "The subtle science: a systematic review of psilocybin magic mushroom and truffle microdosing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42688116/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "People microdosing psilocybin report feeling better mentally, more creative, and sharper cognitively — but here's the honest part: most of this evidence comes from people's own accounts rather than rigorous lab testing, so we need to be careful about what we actually know versus what people hope is true. Researchers reviewed 11 studies involving over 3,200 adults from across the globe to map out what's being claimed about microdosing magic mushrooms and truffles. The findings reveal a curious gap: while roughly 86% of people microdose for personal wellness rather than medical reasons, the scientific picture remains blurry. This review highlights exactly where psychedelic research stands right now — we're at the stage of listening closely to what people experience, but we urgently need more controlled studies to separate genuine effects from placebo and expectation. It's the kind of groundwork that makes future breakthroughs possible.",
-        "da": "Folk der microdoser psilocybin rapporterer om bedre mental sundhed, mere kreativitet og skarpere hjerner — men her er det ærlige: det meste af denne evidens kommer fra menneskers egne erfaringer snarere end stiv laboratorieforskning, så vi skal være forsigtige med hvad vi egentlig ved versus hvad folk håber på. Forskere gennemgik 11 studier med over 3.200 voksne fra hele verden for at kortlægge hvad der bliver hævdet om microdosering af magiske svampe og trøfler. Fundet afslører et interessant hul: mens cirka 86% microdoser for personlig velbefindende snarere end medicinske årsager, er det videnskabelige billede uklart. Denne oversigt viser præcis hvor psykedelika-forskningen står nu — vi er på stadiet hvor vi lytter tæt til hvad mennesker oplever, men vi har desperat brug for flere kontrollerede studier for at skelne ægte effekter fra placebo og forventning. Det er den slags grundarbejde, der gør fremtidige gennembrud mulige."
-      },
-      "added_at": "2026-09-04T12:01:14.984123+00:00"
-    },
-    {
-      "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When standard antidepressants fail people with bipolar depression, hope runs thin. But a new Canadian trial shows ketamine infusions might offer real relief: people who received four doses of ketamine over two weeks saw significant drops in depression symptoms, outperforming the control group. The catch? We still need to watch carefully for mood destabilization, since bipolar brains respond differently than others. Researchers gave ketamine intravenously in a rigorous, double-blind study with people who'd already tried at least two other treatments without success. This matters because bipolar depression is notoriously hard to treat—existing drugs often fall flat. As psychedelics move beyond hype into serious clinical testing, this research shows us ketamine's potential in populations previously considered too risky. The question now isn't whether it works, but how to use it safely and wisely.",
-        "da": "Når almindelige antidepressiva ikke virker for mennesker med bipolar depression, bliver håbet lille. Men et nyt canadisk forsøg viser, at psykedelika som ketamin kan give ægte lindring: mennesker som fik fire doser ketamin over to uger oplevede betydelige fald i depressionssymptomer og klarede sig bedre end kontrolgruppen. Hagen? Vi skal være opmærksomme på humørsvingninger, fordi bipolare hjerner reagerer anderledes end andre. Forskerne gav ketamin intravenøst i et grundigt, dobbeltblindt studie med mennesker, som allerede havde prøvet mindst to andre behandlinger uden succes. Det betyder noget, fordi bipolar depression er notorisk svær at behandle—eksisterende lægemidler fungerer ofte ikke. Mens psykedelika bevæger sig fra hype mod seriøs klinisk forskning, viser denne undersøgelse ketamins potentiale hos befolkningsgrupper, der tidligere blev betragtet som for risikofyldt. Spørgsmålet nu er ikke længere, om det virker, men hvordan man bruger det sikkert og klogt."
-      },
-      "added_at": "2026-09-03T11:59:17.945999+00:00"
-    },
-    {
-      "title": "Real-world clinical practice, effectiveness and safety of esketamine nasal spray in major depressive disorder patients: a French prospective cohort (ELLIPSE study).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682977/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "After years of hitting dead ends with antidepressants, many people with severe depression still had nowhere to turn. A new French study followed 200 patients with treatment-resistant depression who tried esketamine nasal spray—and found that over half experienced significant symptom relief within two months, with one-third reaching remission. The improvements stuck around for a full year. Researchers tracked real patients in actual clinics (not just controlled lab settings) between 2021 and 2023, measuring their depression scores month by month. While side effects like brief dissociative states happened in about two-thirds of patients, they were generally manageable. This matters because it's the first large real-world evidence that esketamine actually works outside of clinical trials—filling a crucial gap in our understanding of how this promising treatment performs when doctors use it in everyday practice. As psychedelics move from counterculture to clinical reality, studies like this are essential for understanding what works for whom.",
-        "da": "Efter år med at slå hovedet mod muren med almindelige antidepressiva havde mange mennesker med alvorlig depression intet håb tilbage. Et nyt fransk studie fulgte 200 patienter med behandlingsresistent depression, der prøvede esketamin-næsespray—og fandt ud af, at over halvdelen oplevede betydelig symptombedring inden for to måneder, og en tredjedel nåede fuldstændig remission. Forbedringerne holdt sig hele året. Forskerne fulgte rigtige patienter i almindelige klinikker (ikke kun kontrollerede laboratorieforhold) mellem 2021 og 2023 og målte deres depressionsscore måned efter måned. Selvom bivirkninger som kortvarig dissociation forekom hos omkring to tredjedel af patienterne, var de generelt håndterbare. Det betyder noget, fordi det er det første større bevis fra virkeligheden for, at psykedelika som esketamin faktisk virker uden for kliniske forsøg—og udfylder et afgørende hul i vores forståelse. Mens psykedelika bevæger sig fra modkultur til klinisk virkelighed, er sådanne studier vigtige for at forstå hvad der virker for hvem."
-      },
-      "added_at": "2026-09-03T11:59:17.945999+00:00"
-    },
-    {
-      "title": "Measuring the contents of hallucinations from psychedelics and stroboscopic light: the Six-Dimensional Visual Hallucination Questionnaire",
-      "url": "https://doi.org/10.1098/rsos.260647",
-      "source": "OpenAlex",
-      "date": "2026-09-02",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "What exactly do you see when you're on psychedelics? Researchers just created a precise tool to measure it. The new Six-Dimensional Visual Hallucination Questionnaire breaks down what people experience into six key elements—from geometric patterns and detail level to how vivid and focused the visions are. Testing it on nearly 1,000 people, they found something fascinating: psychedelics produce hallucinations packed with meaning and intricate detail, while simple strobe lights trigger mostly basic geometric shapes. This matters because understanding the texture of hallucinations—what's actually happening in your visual experience—helps scientists decode how the brain constructs reality itself.",
-        "da": "Hvad ser du præcist, når du tager psykedelika? Forskere har netop udviklet et præcist værktøj til at måle det. Det nye Six-Dimensional Visual Hallucination Questionnaire opdeler det, mennesker oplever, i seks nøgleelementer—fra geometriske mønstre og detaljegrad til hvor levende og fokuseret visioner er. Da de testede det på næsten 1.000 mennesker, opdagede de noget fascinerende: psykedelika producerer hallucinationer fulde af betydning og indviklede detaljer, mens simple strobelys primært udløser basale geometriske former. Det betyder noget, fordi når videnskabsmænd forstår teksturen af hallucinationer—hvad der rent faktisk foregår i din visuelle oplevelse—hjælper det dem med at tyde, hvordan hjernen konstruerer virkeligheden selv."
-      },
-      "added_at": "2026-09-03T11:59:17.945999+00:00"
-    },
-    {
-      "title": "Through the Looking-Glass: A Scoping Review of Psychological Mechanisms of Psychedelic-Assisted Therapy for Substance Use Disorders",
-      "url": "https://doi.org/10.1007/s40429-026-00783-7",
-      "source": "OpenAlex",
-      "date": "2026-09-02",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the key to breaking free from addiction lies not in willpower alone, but in a profound shift in how you see yourself and the world? A major review of 37 studies shows that psychedelics like psilocybin, ketamine, and MDMA appear to rewire people's relationship with substance use by triggering deep emotional breakthroughs, mystical experiences, and a fundamental reimagining of identity and values. Researchers analyzed over 1,000 people across these studies and found six core ways psychedelics seem to work their magic: emotional processing, meaning-making, identity transformation, mystical experiences, stronger relationships, and renewed motivation. The science is still early, but the pattern is clear: psychedelics aren't just another medical tool—they're opening a completely different door to how we treat addiction, one that works through psychological and spiritual dimensions we're only beginning to understand.",
-        "da": "Hvad hvis nøglen til at bryde fri fra afhængighed ikke blot ligger i vilje, men i en dyb omkalfatring af, hvordan du ser dig selv og verden? En omfattende analyse af 37 studier viser, at psykedelika som psilocybin, ketamin og MDMA synes at omvurdere menneskers forhold til stofmisbrug ved at udløse dybe følelsesmæssige gennembrud, mystiske oplevelser og en grundlæggende omtolkning af identitet og værdier. Forskere analyserede over 1.000 mennesker på tværs af studierne og fandt seks centrale mekanismer: følelsesbehandling, meningsskabelse, identitetstransformation, mystiske erfaringer, styrket relationer og fornyet motivation. Videnskaben er stadig i sin vorden, men mønsteret er klart: psykedelika er ikke bare endnu et medicinsk værktøj—de åbner en helt anden dør til, hvordan vi behandler afhængighed, en der arbejder gennem psykologiske og åndelige dimensioner, som vi først er ved at forstå."
-      },
-      "added_at": "2026-09-03T11:59:17.945999+00:00"
     }
   ]
 }
