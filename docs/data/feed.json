@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-18T12:07:15.376536+00:00",
+  "generated_at": "2026-09-19T11:50:16.706959+00:00",
   "items": [
+    {
+      "title": "Short-term ketamine interventions for depressive disorders: practical best-practice recommendations for psychiatrists using oral, subcutaneous, and nasal formulations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756688/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When depression won't budge with standard antidepressants, ketamine might offer a lifeline—and it's working fast. Recent research shows that ketamine and esketamine can dramatically reduce depressive symptoms in days or weeks, not months, giving people who are really struggling a genuine shot at relief. Psychiatrists now have practical guidance on how to use different forms of ketamine—pills, injections, nasal sprays—safely and effectively. This narrative review synthesized evidence across studies and regulatory frameworks to create a roadmap for doctors. The findings fit into an exciting shift in psychiatry: we're moving beyond waiting for medication to slowly kick in. Psychedelics and ketamine are opening doors to faster, more targeted interventions for the hardest-to-treat cases, and understanding how to use these tools properly is crucial as they become more available.",
+        "da": "Når depression ikke giver efter for almindelige antidepressiva, kan ketamin tilbyde håb—og det virker hurtigt. Ny forskning viser, at ketamin og esketamin kan mindske depressive symptomer dramatisk inden for dage eller uger, ikke måneder, og giver mennesker, der virkelig kæmper, en reel chance for lindring. Psykiatere har nu praktisk vejledning i, hvordan man bruger forskellige former for ketamin—piller, injektioner, næsespray—sikkert og effektivt. Denne forskningsgennemgang sammensyntesiserede beviser på tværs af studier og reguleringsrammer for at skabe et kort for læger. Fundet passer ind i en spændende udvikling inden for psykiatri: vi bevæger os væk fra at vente på, at medicin langsomt virker. Psykedelika og ketamin åbner døre til hurtigere, mere målrettede behandlinger for de vanskeligste tilfælde, og at forstå, hvordan man bruger disse værktøjer korrekt, er afgørende, mens de bliver mere tilgængelige."
+      },
+      "added_at": "2026-09-19T11:49:44.974991+00:00"
+    },
+    {
+      "title": "An Open-Label, Dose-Escalation Trial of Psilocybin-Assisted Therapy for Bipolar II Depression",
+      "url": "https://doi.org/10.4088/jcp.25m16227",
+      "source": "OpenAlex",
+      "date": "2026-09-18",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if psilocybin could help people with bipolar II depression find relief when traditional treatments fall short? A new trial is exploring exactly that—giving carefully dosed psilocybin alongside therapy to people living with this notoriously difficult form of depression. Early results suggest this combination might offer genuine hope for those who've struggled to find answers. Researchers gradually increased doses in a controlled setting, watching closely to understand both benefits and safety. This study slots into a broader shift in psychiatry: psychedelics are moving from counterculture myth to serious medicine, with growing evidence suggesting they could reshape how we treat stubborn mood disorders.",
+        "da": "Hvad hvis psykedelika kunne hjælpe mennesker med bipolar II depression, når traditionelle behandlinger ikke virker? Et nyt forsøg udforsker netop det—at give omhyggeligt doseret psilocybin sammen med terapi til mennesker, der lever med denne notorisk svære depressionsform. Tidlige resultater tyder på, at denne kombination kan give reel håb for dem, der har kæmpet for at finde svar. Forskere øgede gradvist doserne i kontrollererede forhold og overvågede nøje både fordele og sikkerhed. Dette studie passer ind i en bredere udvikling inden for psykiatri: psykedelika bevæger sig fra modekultmyte til seriøs medicin, med voksende evidens for, at de kunne omforme hvordan vi behandler hårdnakkede stemningsforstyrrelser."
+      },
+      "added_at": "2026-09-19T11:49:44.974991+00:00"
+    },
+    {
+      "title": "Serotonergic psychedelics and amphetamine shift male rat ultrasonic vocalizations toward call patterns associated with positively valenced states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759593/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "lsd",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Rats on psychedelics and amphetamine literally sound happier. Researchers used AI to analyze nearly 48,000 ultrasonic calls from rats given LSD, DOI, or amphetamine, finding that these substances shifted their \"vocal repertoire\" away from neutral alarm calls and toward patterns linked to positive emotional states. It's a clever way to peek into what animals might be feeling—when rats are rewarded or content, their calls change in characteristic ways, and psychedelics seem to nudge them in that direction.\n\nThe study used machine learning to map rat vocalizations with precision, revealing that psychedelics don't just make rats chattier, they change *what* they're \"saying.\" This fits into a growing picture in psychedelic research: these compounds appear to shift brain states toward more positive, engaged modes—something we see in human studies too. It's early-stage work, but it adds another piece of evidence that psychedelics genuinely alter emotional and neural states in measurable ways.",
+        "da": "Rotter på psykedelika og amfetamin lyder bogstaveligt talt gladere. Forskere brugte kunstig intelligens til at analysere næsten 48.000 ultralydskald fra rotter, der blev givet LSD, DOI eller amfetamin, og fandt, at disse stoffer skiftede deres \"vokalrepertoire\" væk fra neutrale alarmkald og mod mønstre forbundet med positive følelsestilstande. Det er en smart måde at få indsigt i, hvad dyr måske føler—når rotter bliver belønnet eller er tilfredse, ændres deres kald på karakteristiske måder, og psykedelika ser ud til at skubbe dem i den retning.\n\nStudiet brugte maskinlæring til at kortlægge rottekaldelyden med præcision og viste, at psykedelika ikke bare gør rotter snavsere; de ændrer *hvad* de \"siger.\" Det passer ind i et voksende billede inden for psykedelikaforskning: disse stoffer ser ud til at skifte hjernens tilstand mod mere positive, engagerede tilstande—noget vi også ser i menneskestudier. Det er tidligt arbejde, men det tilføjer endnu et bevis på, at psykedelika virkelig ændrer følelsesmæssige og neurale tilstande på målbare måder."
+      },
+      "added_at": "2026-09-19T11:49:44.974991+00:00"
+    },
+    {
+      "title": "Novel pharmacotherapies for opioid use disorder and opioid withdrawal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755825/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "ibogaine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "The opioid crisis isn't going away—and traditional medications alone aren't enough. A new review reveals promising alternatives on the horizon: ketamine shows early signs of reducing cravings and withdrawal symptoms, cannabidiol may ease anxiety-driven relapse, and psychedelics like ibogaine demonstrate potential for breaking the withdrawal cycle. These aren't replacements for existing treatments, but they target the brain's reward system in completely new ways, potentially helping people who haven't responded to standard care.\n\nScientists examined emerging therapies across multiple drug classes to understand how they could complement methadone and buprenorphine. The evidence is still early—especially for psychedelics, where safety and regulation remain thorny issues—but the pattern is clear: we're moving toward a toolkit rather than a one-size-fits-all approach. This research signals a crucial shift in how we think about addiction treatment: not just blocking opioid receptors, but actually rewiring the brain systems that drive dependence. It's a reminder that when one path isn't working, science keeps looking for new ones.",
+        "da": "Opioidkrisen forsvinder ikke—og traditionelle medicin alene er ikke nok. En ny review afslører lovende alternativer på horisonten: ketamin viser tidlige tegn på at reducere trang og abstinensymptomer, cannabidiol kan lette angst-drevet tilbagefald, og psykedelika som ibogain demonstrerer potentiale for at bryde abstinencyklussen. Det er ikke erstatninger for eksisterende behandlinger, men de målretter hjernens belønningssystem på helt nye måder og kan potentielt hjælpe mennesker, som ikke har responderet på standardbehandling.\n\nForskere undersøgte nye terapier på tværs af flere stofklasser for at forstå, hvordan de kunne supplere methadon og buprenorphin. Beviserne er stadig tidlige—især for psykedelika, hvor sikkerhed og regulering stadig er vanskelige spørgsmål—men mønstret er klart: vi bevæger os mod et værktøjskasse i stedet for en tilgang, der passer alle. Denne forskning signalerer et afgørende skifte i, hvordan vi tænker på afhængighedsbehandling: ikke blot at blokere opioidreceptorer, men faktisk at omvire hjernens systemer, der driver afhængighed. Det er en påmindelse om, at når en vej ikke virker, fortsætter videnskaben med at søge nye."
+      },
+      "added_at": "2026-09-19T11:49:44.974991+00:00"
+    },
+    {
+      "title": "A Case of Acute Mania and Rhabdomyolysis Associated With Long-Term, Daily Psilocybin Use",
+      "url": "https://doi.org/10.1097/jcp.0000000000002262",
+      "source": "OpenAlex",
+      "date": "2026-09-18",
+      "drug": "psilocybin",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "A new case study is raising important questions about what happens when people use psilocybin every single day for extended periods. Researchers documented a person who developed severe manic symptoms and a dangerous muscle condition called rhabdomyolysis linked to long-term daily psilocybin use—a rare but serious finding that reminds us these substances deserve careful, honest attention. This single case report is exactly the kind of clinical observation that helps the field understand not just the potential benefits of psychedelics, but their real-world risks too. As psychedelic research expands and more people explore these substances, this kind of rigorous documentation matters: it's how we build the nuanced, balanced picture we need to use these tools safely and responsibly.",
+        "da": "Et nyt case-studie stiller vigtige spørgsmål om, hvad der sker, når mennesker bruger psilocybin hver eneste dag over længere tid. Forskere dokumenterede en person, der udviklede alvorlige maniske symptomer og en farlig muskellidelse kaldet rabdomyolyse knyttet til langtidsligt daglig psilocybin-brug—et sjældent, men alvorligt fund, som minder os om, at disse stoffer fortjener opmærksom, ærlighed. Denne case-rapport er præcis den slags klinisk observation, der hjælper området med at forstå ikke blot psykedelikas potentielle fordele, men også deres faktiske risici. Som psykedelisk forskning udvides og flere mennesker udforsker disse stoffer, betyder denne form for streng dokumentation noget: det er sådan, vi opbygger det nuancerede, afbalancerede billede, vi har brug for for at bruge disse værktøjer sikkert og ansvarligt."
+      },
+      "added_at": "2026-09-19T11:49:44.974991+00:00"
+    },
     {
       "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42754621/",
@@ -715,71 +780,6 @@
         "da": "Ketamin løfter ikke bare depressionen—det kan også være med til at få den tågede tænkning til at klare sig igen. Et nyt studie kortlagde, hvordan ketamin virker på molekylært niveau, og opdagede at det påvirker mindst 20 vigtige hjerneceller forbundet med både humør og kognitiv funktion. Forskerne brugte avanceret bioinformatik til at spore ketamins signalveje og fandt ud af, at det især påvirker dopaminsignalering og betændelse i hjernen. Det betyder noget, fordi kognitive problemer—svært ved at koncentrere sig, hukommelseshuller, mental træthed—er en stor del af depression, som ofte bliver overset. Mens psykedelika-forskningen udvider sig fra symptomlindrende behandling mod faktisk hjerneheling, giver forståelsen af ketamins flertarget-tilgang os et klarere billede af, hvordan disse molekyler kan genoprette ikke bare humøret, men også den mentale klarhed."
       },
       "added_at": "2026-09-05T11:10:14.925485+00:00"
-    },
-    {
-      "title": "Pα+ Library: Psychedelic REMS",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-library-psychedelic-rems/",
-      "source": "Psychedelic Alpha",
-      "date": "Thu, 03 Se",
-      "drug": "other",
-      "context": "policy",
-      "summaries": {
-        "en": "As psychedelic therapies inch closer to FDA approval, a crucial question looms: how will they actually reach patients? New attention is turning to REMS—Risk Evaluation and Mitigation Strategies—the safety frameworks that will likely shape how these treatments are delivered in the real world. Think of it as the guardrails that could make psychedelic therapy accessible while keeping people safe.\n\nResearchers are mapping out what REMS might look like for psychedelics, examining how other regulated medicines have used these frameworks. This matters because it's not just about whether these therapies work in studies—it's about building the infrastructure to deliver them responsibly when they're available to you. As psychedelic research accelerates from lab to clinic, understanding REMS is becoming essential to the bigger picture of how breakthrough treatments actually become part of mainstream medicine.",
-        "da": "Efterhånden som psykedelika-terapier nærmer sig FDA-godkendelse, dukker et afgørende spørgsmål op: hvordan kommer de egentlig til patienterne? Opmærksomheden rettes nu mod REMS—Risk Evaluation and Mitigation Strategies—de sikkerhedsmekanismer, der sandsynligvis kommer til at forme hvordan disse behandlinger leveres i praksis. Tænk på det som skinnerne, der kan gøre psykedelika-terapi tilgængelig og samtidig holde folk sikre.\n\nForsker kortlægger hvordan REMS kunne se ud for psykedelika ved at undersøge hvordan andre regulerede lægemidler har brugt disse systemer. Det betyder noget, fordi det ikke blot handler om at terapierne virker i studier—det handler om at bygge infrastrukturen til at levere dem ansvarligt når de bliver tilgængelige for dig. Som psykedelika-forskningen accelererer fra laboratorium til klinik, bliver forståelsen af REMS central for det større billede af hvordan gennembrudsterapier faktisk bliver del af almindelig medicin."
-      },
-      "added_at": "2026-09-05T11:10:14.925485+00:00"
-    },
-    {
-      "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693902/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "mdma",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if healing from trauma didn't just help you—it helped your relationship too? A new pilot study gave eight military veterans with PTSD and their partners MDMA-assisted therapy combined with couples counseling. The results were striking: veterans saw major drops in PTSD symptoms, but here's the real breakthrough—both partners reported huge improvements in how they connected with each other, with gains that stuck around months later. Researchers used a structured eight-session protocol with two MDMA sessions woven into couples therapy, tracking both trauma recovery and relationship health. This fits into a growing shift in psychedelic research: moving beyond treating individual symptoms toward healing the whole person, including their most important relationships. For veterans especially, where deployment and trauma can shatter bonds with loved ones, this suggests psychedelics might help rebuild what war breaks apart.",
-        "da": "Hvad hvis det at hele sig fra traumer ikke bare hjalp dig—men også dit forhold? Et nyt pilotprojekt gav otte militærveteraner med PTSD og deres partnere MDMA-assisteret terapi kombineret med parterapi. Resultaterne var slående: veteranerne så store fald i PTSD-symptomer, men her er det virkelige gennembrud—begge partnere rapporterede enorme forbedringer i, hvordan de forbandt med hinanden, med resultater der holdt måneder senere. Forskerne brugte et struktureret otte-sessionsprogram med to MDMA-sessioner vævet ind i parterapi, hvor de sporede både traume-helbredelse og forhold-sundhed. Dette passer ind i en voksende forskning med psykedelika: væk fra at behandle individuelle symptomer hen imod at hele hele mennesket, inklusive deres vigtigste forhold. For veteraner især, hvor udsendelser og traumer kan ødelægge bånd til elskede, tyder dette på at psykedelika kan hjælpe med at genopbygge hvad krig ødelægger."
-      },
-      "added_at": "2026-09-04T12:01:14.984123+00:00"
-    },
-    {
-      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691184/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Millions of cancer patients suffer from chemotherapy's brutal side effect: nerve damage that can steal sensation from their fingers and toes, sometimes permanently. New research just showed that a couple of doses of psilocybin before chemo could prevent this from happening—without weakening the cancer treatment itself. Scientists gave psilocybin to mice before chemotherapy and found it protected the tiny nerve endings in their skin by keeping the energy powerhouses inside nerve cells working properly, while also steadying brain activity. This is one of those rare moments where psychedelics might offer something medicine has been desperately searching for: a real solution to a problem that affects millions. As psychedelic research moves from 'fascinating molecules' into 'concrete treatments for hard-to-solve problems,' this finding is exactly the kind of bridge between traditional medicine and these remarkable compounds that could change how we think about cancer care.",
-        "da": "Millioner af kræftpatienter lider under kemoterapiens grusom bivirkning: nerveskader der kan tage følelsen fra fingre og tæer, nogle gange permanent. Ny forskning viser netop, at et par doser psykedelika før kemoterapien kunne forhindre dette – uden at svække selve kræftbehandlingen. Forskere gav psykedelika til mus før kemoterapien og fandt ud af, at det beskyttede de små nerveender i deres hud ved at holde energikraftværkerne inde i nerveceller i gang, mens det samtidig stabiliserede hjernens aktivitet. Dette er et af de sjældne øjeblikke, hvor psykedelika kunne tilbyde noget som medicinen desperat har søgt efter: en rigtig løsning på et problem som påvirker millioner. Når psykedelisk forskning bevæger sig fra 'fascinerende molekyler' til 'konkrete behandlinger for svært løselige problemer', er denne opdagelse præcis den slags bro mellem traditionel medicin og disse bemærkelsesværdige stoffer som kunne ændre på hvordan vi tænker kræftbehandling."
-      },
-      "added_at": "2026-09-04T12:01:14.984123+00:00"
-    },
-    {
-      "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689687/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "dmt",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Scientists just tested a new modified version of DMT called CYB004 in humans—and it's a game-changer for how long the experience lasts. While regular DMT's effects fade in minutes, this deuterated version kept people in the psychedelic state for 40-60 minutes, giving researchers a much bigger window to study what's actually happening in the brain. The catch? Higher doses triggered intense experiences that made some participants drop out, but lower doses proved safe and well-tolerated, opening doors for future research.\n\nThis was a rigorous, controlled study where healthy volunteers received carefully measured IV doses while scientists tracked their brain activity, vital signs, and subjective experiences. It's a perfect example of how psychedelic research is evolving—moving beyond asking \"is this safe?\" to asking \"how can we optimize these compounds to learn more?\" By extending the duration without changing the fundamental effects, CYB004 gives neuroscientists a better tool to map exactly how psychedelics reshape consciousness and potentially treat conditions like depression and PTSD.",
-        "da": "Forskere har netop testet en ny modificeret version af DMT kaldet CYB004 på mennesker—og det er game-changing for, hvor længe oplevelsen varer. Mens almindelig DMT's effekter forsvinder på minutter, holdt denne deutererede version mennesker i psykedelisk tilstand i 40-60 minutter, hvilket giver forskerne et langt større tidsvindue til at studere, hvad der faktisk sker i hjernen. Fangsten? Højere doser udløste intense oplevelser, der fik nogle forsøgspersoner til at melde sig ud, men lavere doser viste sig sikre og veltolererede, hvilket åbner døre for fremtidig forskning.\n\nDette var et stringent, kontrolleret studie, hvor raske frivillige fik nøje målte IV-doser, mens forskere fulgte deres hjernaktivitet, vitale tegn og subjektive oplevelser. Det er et perfekt eksempel på, hvordan psykedelika-forskning udvikler sig—ud over at spørge \"er dette sikkert?\" til at spørge \"hvordan kan vi optimere disse stoffer for at lære mere?\" Ved at forlænge varigheden uden at ændre de grundlæggende effekter, giver CYB004 neuroforskere et bedre værktøj til at kortlægge præcist, hvordan psykedelika omformer bevidstheden og potentielt behandler tilstande som depression og PTSD."
-      },
-      "added_at": "2026-09-04T12:01:14.984123+00:00"
-    },
-    {
-      "title": "Implementing psychedelic-assisted therapy in Ireland: perspectives from a national stakeholder survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693921/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "other",
-      "context": "policy",
-      "summaries": {
-        "en": "Ireland is quietly gearing up for psychedelic-assisted therapy — and people working in healthcare, mental health, and policy actually want it to happen. A new survey asked stakeholders across the country what they think about bringing these treatments into clinical practice, and the picture that emerged is surprisingly hopeful: there's real appetite for change, but also clear-eyed questions about how to do it right. The researchers talked to people on the front lines — therapists, doctors, policymakers — to understand what Ireland needs to make this work practically and safely. This kind of groundwork matters enormously. As psychedelics move from research labs toward real clinics, countries need to figure out training, regulation, and integration. Ireland's survey is exactly the kind of thinking that turns scientific promise into actual healthcare change.",
-        "da": "Irland forbereder sig stilfærdigt på psykedelika-assisteret terapi — og mennesker i sundhedsvæsen, psykisk helbred og politik ønsker faktisk at det skal ske. En ny survey spurgte interessenter på tværs af landet, hvad de mener om at bringe disse behandlinger ind i klinisk praksis, og billedet der tegner sig er overraskende håbefuldt: der er ægte appetit på forandring, men også klare spørgsmål om at gøre det rigtigt. Forskerne talte med mennesker på frontlinjen — terapeuter, læger, politikere — for at forstå hvad Irland har brug for for at få det til at virke praktisk og sikkert. Den slags forberedende arbejde betyder enormt meget. Når psykedelika bevæger sig fra forsøgslaboratorier mod rigtige klinikker, skal landene finde ud af træning, regulering og integration. Irlands survey er præcis den slags tænkning der omdanner videnskabelig løfte til faktisk sundhedsændring."
-      },
-      "added_at": "2026-09-04T12:01:14.984123+00:00"
     }
   ]
 }
