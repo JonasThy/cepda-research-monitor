@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-09-26T12:06:19.616520+00:00",
+  "generated_at": "2026-09-27T12:50:52.964676+00:00",
   "items": [
+    {
+      "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800500/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine works fast and broad. New research shows it tackles multiple depression symptoms simultaneously—sadness, hopelessness, even suicidal thoughts—within just four hours. Scientists analyzed data from 132 people with treatment-resistant depression who had tried everything else, comparing ketamine to control treatments across two rigorous trials. By mapping how symptoms connect to each other, researchers discovered that ketamine doesn't just fix one thing; it creates a ripple effect that disrupts the entire depression network. This points to something genuinely different about how psychedelics work: they might reset broken patterns rather than simply turning down individual symptoms. As ketamine and other psychedelics move deeper into clinical psychiatry, understanding these broad, interconnected effects could be key to predicting who benefits most and why.",
+        "da": "Ketamin virker hurtigt og bredt. Ny forskning viser, at det påvirker flere depressionsymptomer samtidigt—tristhed, håbløshed, selv tanker om selvskade—på blot fire timer. Forskere analyserede data fra 132 mennesker med behandlingsresistent depression, der havde prøvet alt muligt, ved at sammenligne ketamin med kontrol på tværs af to strenge studier. Ved at kortlægge, hvordan symptomer hænger sammen, opdagede de, at ketamin ikke bare fikser én ting; det skaber en kaskadeeffekt, der forstyrrer hele depressionsmønstret. Det peger på noget væsentligt anderledes ved, hvordan psykedelika virker: de nulstiller måske ødelagte mønstre snarere end blot at dæmpe individuelle symptomer. Når ketamin og andre psykedelika bevæger sig dybere ind i psykiatrien, kunne forståelsen af disse brede, sammenhængende effekter være nøglen til at forudsige, hvem der får gavn, og hvorfor."
+      },
+      "added_at": "2026-09-27T12:50:39.780782+00:00"
+    },
+    {
+      "title": "Deciphering the allosteric landscape of 5-HT2 receptors: integrated molecular dynamics and fragment molecular orbital analyses of activation mechanisms",
+      "url": "https://doi.org/10.1007/s43440-026-00909-8",
+      "source": "OpenAlex",
+      "date": "2026-09-25",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Scientists have just mapped out how psychedelics actually flip the switch in your brain at the molecular level—and it's way more sophisticated than anyone thought. Rather than a simple on-off mechanism, these receptors (the 5-HT2 family that psychedelics target) operate through an intricate network of cooperative signals, like a coordinated relay race rather than a single light switch. The research used cutting-edge computer simulations to trace exactly how molecules move and interact when psychedelics bind to these receptors, revealing that different receptor subtypes respond uniquely—which could explain why psychedelics affect people so variably. This detailed molecular blueprint is a game-changer for psychedelic science: understanding *how* these compounds work at this granular level opens the door to designing better therapies and potentially predicting which compounds might help which conditions.",
+        "da": "Videnskabsmænd har netop kortlagt, hvordan psykedelika faktisk tænder for brancherne i dit hjerne på molekylært niveau—og det er langt mere sofistikeret end nogen troede. I stedet for en simpel tænd-sluk-mekanisme fungerer disse receptorer (5-HT2-familien, som psykedelika målretter mod) gennem et intrikat netværk af samarbejdende signaler, som et koordineret stafetløb snarere end en enkelt lysknap. Forskningen brugte avancerede computersimuleringer til at spore præcist, hvordan molekyler bevæger sig og interagerer, når psykedelika binder til disse receptorer, og det afslører, at forskellige receptortyper reagerer unikt—hvilket kan forklare, hvorfor psykedelika påvirker mennesker så variabelt. Dette detaljerede molekylære billede er et game-changer for psykedelika-forskningen: hvis vi forstår *hvordan* disse stoffer virker på dette granulære niveau, åbner det døren til at designe bedre terapier og potentielt forudsige, hvilke forbindelser der kunne hjælpe hvilke tilstande."
+      },
+      "added_at": "2026-09-27T12:50:39.780782+00:00"
+    },
     {
       "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
@@ -754,32 +780,6 @@
         "da": "Hvad hvis en enkelt dosis MDMA kunne hjælpe med at reducere alkoholtrang? Ny forskning viser, at rotter givet MDMA dramatisk reducerede deres drikning—og videnskabsmænd opdagede præcis hvorfor. Stoffet ser ud til at omstrukturere visse hjernecenter, der driver afhængighed, specifikt gennem to systemer (nociceptin og dynorphin), som normalt driver os mod tvangspræget adfærd. Forskere gav MDMA til alkoholpræfererende rotter og fulgte, hvad der ændrede sig i deres hjerner på genetisk niveau, og fandt målbare skift i, hvordan disse afhængighedsrelaterede systemer fungerer. Det passer ind i et voksende billede af psykedelika som præcisionværktøjer til omstrukturering af usunde mønstre—ikke blot gennem vilje, men ved faktisk at ændre hjernens kemi. Når afhængighedsforskning ekspanderer ud over traditionelle behandlinger, tyder studier som dette på, at psykedelika kan tilbyde nye veje for mennesker, der kæmper med alkoholafhængighed."
       },
       "added_at": "2026-09-13T12:35:18.638337+00:00"
-    },
-    {
-      "title": "Psilocybin",
-      "url": "https://doi.org/10.1001/jama.2026.11874",
-      "source": "OpenAlex",
-      "date": "2026-09-10",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if a single dose of psilocybin could rewire how your brain processes depression—not just masking symptoms, but potentially creating lasting shifts in how you experience life? New research is zeroing in on psilocybin's remarkable ability to treat depression, especially when traditional treatments have fallen short. The findings suggest something deeper is happening: psychedelics aren't just chemical band-aids, they're catalysts for real change in the brain.\n\nScientists are mapping out exactly how and when psilocybin works best, along with crucial safety data as the field moves toward clinical use. This research joins a growing wave of psychedelic science that's completely reshaping psychiatry—moving us from the era of managing symptoms toward genuinely transforming mental health. We're witnessing the early chapters of something significant.",
-        "da": "Hvad hvis en enkelt dosis psykedelika kunne omstrukturere, hvordan din hjerne behandler depression—ikke bare dække symptomerne over, men potentielt skabe varige skift i, hvordan du oplever livet? Ny forskning zoomer ind på psykedelikas bemærkelsesværdige evne til at behandle depression, især når traditionelle behandlinger ikke har virket. Fundet tyder på noget dybere: psykedelika er ikke blot kemiske plaster, de er katalysatorer for rigtig forandring i hjernen.\n\nForsker kortlægger præcist hvordan og hvornår psykedelika virker bedst, sammen med afgørende sikkerhedsdata mens området bevæger sig mod klinisk brug. Denne forskning slutter sig til en voksende bølge af psykedelikaforskning, der helt omformer psykiatrien—og fører os fra en æra med symptomhåndtering mod at genuint transformere mental sundhed. Vi er vidne til de tidlige kapitler i noget væsentligt."
-      },
-      "added_at": "2026-09-12T11:30:45.218718+00:00"
-    },
-    {
-      "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725633/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Ever felt like you've been somewhere before, even though you haven't? Psychedelics do something similar—they create powerful feelings of familiarity that researchers are now studying seriously for the first time. A new study compared how psychedelic-evoked familiarity feels compared to everyday déjà vu and memories, surveying over 1,000 people to map out this strange and compelling experience. The researchers used detailed questionnaires to explore what makes these moments tick, and the results suggest this \"I know this\" sensation might be more than just noise—it could be therapeutically important. This work is part of a bigger shift in psychedelic science: moving beyond just measuring whether trips help depression or anxiety, and actually understanding the texture of the experience itself. These intimate details of how psychedelics reshape our sense of reality might hold clues to why they're so potent for healing.",
-        "da": "Har du nogensinde følt, at du var et sted før, selvom det var første gang? Psykedelika frembringer noget lignende—intense fornemmelser af genkendelighed, som forskere nu seriøst undersøger for første gang. Et nyt studie sammenlignede, hvordan psykedelika-fremkaldt genkendelighed føles i forhold til dagligdags déjà vu og minder, og spurgte over 1.000 mennesker om denne mærkelige og fængslende oplevelse. Forskerne brugte detaljerede spørgeskemaer til at forstå, hvad der får disse øjeblikke til at virke, og resultaterne tyder på, at denne \"jeg kender dette\"-følelse måske er mere end bare støj—det kunne være terapeutisk vigtig. Dette arbejde er del af en større forskydning inden for psykedelika-videnskaben: væk fra bare at måle, om trips hjælper depression eller angst, og hen imod faktisk at forstå oplevelsens tekstur. Disse intime detaljer om, hvordan psykedelika omformer vores virkeligheds-fornemmelse, kunne give vigtige spor til, hvorfor de er så potente for helbredelse."
-      },
-      "added_at": "2026-09-12T11:30:45.218718+00:00"
     }
   ]
 }
