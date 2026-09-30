@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-09-29T13:50:08.049877+00:00",
+  "generated_at": "2026-09-30T13:23:01.109767+00:00",
   "items": [
+    {
+      "title": "Moving beyond 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809102/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Scientists just cracked something big: psychedelics don't work through serotonin alone. Researchers analyzed nearly 4,500 firsthand trip reports and mapped them against 21 different psychedelic drugs and their receptor profiles. The result? A whole new picture of how these substances actually reshape consciousness—involving way more brain systems than we thought. This matters because it explains why psychedelics help with depression, anxiety, and PTSD in ways that traditional drugs can't.\n\nThe study used AI to find semantic patterns in people's actual experiences, then linked those patterns to receptor biology without forcing old assumptions onto the data. As psychedelic therapy moves closer to the clinic, understanding these mechanisms—beyond just serotonin—could help us design safer, more targeted treatments and predict who benefits most. It's a reminder that nature's complexity often teaches us more than our theories do.",
+        "da": "Forskere har lige afsløret noget stort: psykedelika virker ikke kun gennem serotonin. Et team analyserede næsten 4.500 førstehåndsbeskrivelser af trips og kortlagde dem mod 21 forskellige psykedelika og deres receptorbindinger. Resultatet? Et helt nyt billede af, hvordan disse stoffer omformer bevidstheden—via mange flere hjernebaner end vi troede. Det betyder noget, fordi det forklarer, hvorfor psykedelika hjælper med depression, angst og PTSD på måder, som traditionelle mediciner ikke kan.\n\nStudiet brugte AI til at finde mønstre i menneskers faktiske oplevelser og knyttede dem til receptorbiologi uden at presse gamle antagelser ned over dataene. Mens psykedelisk terapi nærmer sig klinikkene, kunne forståelsen af disse mekanismer—langt ud over blot serotonin—hjælpe os med at designe sikrere, mere målrettede behandlinger. Det er en påmindelse om, at naturens kompleksitet ofte lærer os mere end vores teorier gør."
+      },
+      "added_at": "2026-09-30T13:22:48.760305+00:00"
+    },
+    {
+      "title": "Adverse Health Outcomes of Psilocybin, LSD, MDMA, Ibogaine, and 5-MeO-DMT.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809289/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "other",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "Most people who use psychedelics don't end up in the hospital — but when things go wrong, they usually involve panic, anxiety, or trips that feel overwhelming rather than dangerous physical emergencies. A new US study looked at thousands of adults and found that adverse outcomes from psilocybin, LSD, MDMA, ibogaine, and 5-MeO-DMT are real but relatively rare, with psychological distress being far more common than physical harm. Researchers analyzed a nationally representative survey to map out what actually happens when people use these substances, measuring everything from hospitalizations to emergency room visits. This kind of honest, evidence-based look at risks matters as psychedelic research moves forward — we need to understand both the therapeutic potential and the genuine challenges so we can support safe, informed use and develop better harm reduction strategies.",
+        "da": "De fleste mennesker der bruger psykedelika ender ikke på hospitalet — men når det går galt, handler det typisk om panik, angst eller trips der føles overvældende snarere end farlige fysiske nødsituationer. Et nyt amerikansk studie kiggede på tusinder af voksne og fandt, at uønskede følger fra psilocybin, LSD, MDMA, ibogain og 5-MeO-DMT er virkelige men relativt sjældne, hvor psykologisk belastning er langt mere almindelig end fysisk skade. Forskere analyserede en repræsentativ landsdel survey for at kortlægge hvad der faktisk sker når mennesker bruger disse stoffer, og målte alt fra indlæggelser til besøg på skadestuen. Denne ærlige, evidensbaseret blik på risici betyder noget mens psykedelisk forskning udvikler sig — vi skal forstå både det terapeutiske potentiale og de virkelige udfordringer, så vi kan støtte sikker, informeret brug og udvikle bedre strategier for skadesreduktion."
+      },
+      "added_at": "2026-09-30T13:22:48.760305+00:00"
+    },
     {
       "title": "Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42805468/",
@@ -752,32 +778,6 @@
       "summaries": {
         "en": "Psychedelics work their magic through a specific brain receptor called 5-HT2A — and understanding exactly how could unlock new treatments for depression, anxiety, and PTSD. This isn't just lab theory: researchers are mapping the precise mechanisms that make these compounds potentially transformative for mental health, moving us beyond the outdated idea that psychedelics are merely recreational substances. The research synthesizes what we know about how psychedelics interact with our brain's chemistry, and it arrives at a crucial moment when clinical trials are showing real promise. This deeper understanding of the 5-HT2A pathway is reshaping how scientists approach mental health treatment, suggesting we're on the verge of genuinely new therapeutic options that work differently from anything currently available.",
         "da": "Psykedelika virker gennem en specifik hjernereceptor kaldet 5-HT2A — og at forstå præcis hvordan kunne åbne døren til nye behandlinger for depression, angst og PTSD. Det er ikke bare laboratorieteori: forskere kortlægger de præcise mekanismer, der gør disse stoffer potentielt transformerende for mental sundhed, langt ud over den forældede idé om, at psykedelika bare er rekreative. Forskningen sammenfatter, hvad vi ved om, hvordan psykedelika interagerer med vores hjernes kemi, og kommer på et afgørende tidspunkt, hvor kliniske forsøg viser reel lovende effekt. Denne dybere forståelse af 5-HT2A-stien omdanner, hvordan videnskabsmænd griber mental sundhed an, hvilket tyder på, at vi er på tærskelen til genuint nye terapeutiske muligheder, der virker anderledes end noget, vi har i dag."
-      },
-      "added_at": "2026-09-15T12:30:33.131901+00:00"
-    },
-    {
-      "title": "[The use of psychedelics in psychiatry].",
-      "url": "https://doi.org/10.1556/650.2026.33665",
-      "source": "OpenAlex",
-      "date": "2026-09-13",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psychedelics are moving from fringe curiosity to serious medicine — but the road to the clinic is messier than headlines suggest. Psilocybin shows powerful, consistent effects against depression, and a synthetic version just cleared major regulatory hurdles. Yet here's the catch: even in the most rigorous trials, results don't always hit their statistical targets. MDMA-assisted therapy for trauma has the strongest evidence base, only to be rejected by the FDA on ethical grounds in 2024. So what's actually happening? Researchers conducted randomized controlled trials across depression, treatment-resistant depression, and PTSD over the past five years. The bigger picture is clear: psychedelics genuinely work for some conditions, but clinical evidence remains surprisingly weak given all the excitement. The field is at a crossroads between genuine promise and methodological reality — and that's exactly where honest science should be.",
-        "da": "Psykedelika går fra marginal nysgerrighed til seriøs medicin — men vejen til klinikken er mere røget end overskrifterne antyder. Psilocybin viser kraftfulde, konsistente effekter mod depression, og en syntetisk version har netop passeret vigtige regulatoriske milepæle. Men her er faldgruben: selv i de mest stringente forsøg slår resultaterne ikke altid deres statistiske mål. MDMA-assisteret terapi mod trauma har det stærkeste evidensfundament, kun for at blive afvist af den amerikanske FDA på etiske grunde i 2024. Hvad sker der egentlig? Forskere gennemførte randomiserede kontrollerede forsøg på depression, behandlingsresistent depression og PTSD over de seneste fem år. Det større billede er klart: psykedelika virker virkelig for nogle tilstande, men klinisk evidens er overraskende svag givet al ophidselsen. Området befinder sig på et vejskæl mellem reelt løfte og metodologisk virkelighed — og det er præcis, hvor ærlig videnskab bør være."
-      },
-      "added_at": "2026-09-15T12:30:33.131901+00:00"
-    },
-    {
-      "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What happens when standard antidepressants don't work? A new real-world study is giving us hope: esketamine nasal spray—a psychedelic-adjacent treatment—is showing genuine promise for people with treatment-resistant depression. This isn't lab data; researchers looked at actual patients in real clinics, tracking what actually happened when they tried this option. The findings suggest it's both effective and safe enough to consider when nothing else has worked. As psychedelics move from underground curiosity to legitimate medicine, esketamine is leading the charge—it's already approved in several countries, and studies like this one are building the evidence that doctors need to feel confident prescribing it. We're watching a shift in how mental healthcare handles the hardest cases.",
-        "da": "Hvad sker der, når almindelige antidepressiva ikke virker? Et nyt studie fra virkeligheden giver os håb: esketamin-næsespray—en psykedelika-nær behandling—viser reelt løfte for mennesker med behandlingsresistent depression. Dette er ikke laboratoriedata; forskere fulgte faktiske patienter på rigtige klinikker og registrerede, hvad der skete, da de prøvede denne mulighed. Resultaterne tyder på, at den både virker og er sikker nok til at overveje, når intet andet har hjulpet. Mens psykedelika bevæger sig fra underjordisk nysgerrighed til legitim medicin, er esketamin i spidsen—det er allerede godkendt i flere lande, og studier som dette opbygger det bevis, som læger har brug for for at føle sig trygge ved at ordinere det. Vi er vidne til et skift i, hvordan psykisk sundhedsvæsenet håndterer de sværeste tilfælde."
       },
       "added_at": "2026-09-15T12:30:33.131901+00:00"
     }
