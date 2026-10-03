@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-02T13:39:26.918968+00:00",
+  "generated_at": "2026-10-03T12:17:16.325088+00:00",
   "items": [
+    {
+      "title": "Effects of Repeated Ketamine Infusions on Suicidal Ideation in Treatment-Resistant Depression and Associated Changes in Selected Plasma Biomarkers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826739/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When people with severe depression that won't respond to normal treatments get repeated ketamine infusions, their suicidal thoughts actually decrease—even modestly, that's significant when nothing else has worked. Researchers gave patients four low-dose ketamine treatments over two weeks and tracked both their suicide-related thoughts and eleven different biomarkers in their blood to see if any could predict who responds best. The study found real improvements in suicidal ideation scores, and while the blood markers didn't reveal a smoking gun yet, the patterns are intriguing enough to chase further. This fits into a growing picture: ketamine is proving to be one of the fastest-acting tools we have for people in acute psychological crisis, and understanding the biology behind it could help us get better at matching patients to the right treatments.",
+        "da": "Når mennesker med alvorlig depression, der ikke reagerer på normale behandlinger, får gentagne ketamininfusioner, falder deres selvmordstanker faktisk—selv moderat er det betydningsfuldt, når intet andet virker. Forskere gav patienter fire lave doser ketamin over to uger og fulgte både deres selvmordstanker og elleve forskellige biomarkører i blodet for at se, om nogle kunne forudsige, hvem der responderer bedst. Studiet fandt faktiske forbedringer i selvmordstanke-scoringer, og selvom blodmarkererne ikke afslørede noget afgørende endnu, er mønstrene interessante nok til at undersøge videre. Dette passer ind i et voksende billede: psykedelika viser sig at være et af vores hurtigst virkende værktøjer for mennesker i akut psykologisk krise, og at forstå biologien bag det kunne hjælpe os med bedre at matche patienter til de rigtige behandlinger."
+      },
+      "added_at": "2026-10-03T12:17:04.557184+00:00"
+    },
+    {
+      "title": "Reliability of self-reported real-world psychedelic use – A test-retest study in a population sample",
+      "url": "https://doi.org/10.1016/j.psyche.2026.100040",
+      "source": "CrossRef / Psychedelics",
+      "date": "2026-12",
+      "drug": "other",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "When people talk about their psychedelic experiences, can we actually trust what they're telling us? A new study tested exactly that—asking the same people about their psychedelic use twice and comparing the answers. The results matter because researchers worldwide are building our understanding of how psychedelics affect real people in real life, and that research only works if we know the data is reliable. The team used a test-retest approach on a general population sample to see how consistent people's reports were. This kind of foundational work is quietly essential right now: as psychedelic science moves from the lab into the clinic and into policy conversations, we need rock-solid methods for measuring what actually happens when people use these substances. Getting the basics right means the bigger discoveries ahead will stand on solid ground.",
+        "da": "Når mennesker fortæller om deres psykedelika-oplevelser, kan vi egentlig stole på det, de siger? Et nyt studie testede præcis det—ved at spørge de samme mennesker om deres psykedelika-brug to gange og sammenligne svarene. Resultaterne betyder noget, fordi forskere verden over er ved at opbygge vores forståelse af, hvordan psykedelika påvirker rigtige mennesker i virkelige liv, og den forskning fungerer kun, hvis vi ved, at dataene er pålidelige. Holdet brugte en test-retest-tilgang på en repræsentativ stikprøve af befolkningen for at se, hvor konsistente menneskers rapporter var. Sådan her grundlæggende arbejde er stille væsentligt lige nu: når psykedelika-forskning bevæger sig fra laboratoriet ind i klinikken og ind i politiske debatter, har vi brug for solide metoder til at måle, hvad der faktisk sker, når mennesker bruger disse stoffer. At få det grundlæggende rigtigt betyder, at større opdagelser fremover hviler på fast grund."
+      },
+      "added_at": "2026-10-03T12:17:04.557184+00:00"
+    },
     {
       "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
@@ -752,32 +778,6 @@
       "summaries": {
         "en": "What separates people who find relief from treatment-resistant OCD through psilocybin from those who don't? A new study reveals something striking: responders tend to experience a shift toward surrender and letting go, while non-responders often stay locked in a struggle to control their thoughts. The people who improved managed to separate their sense of self from their OCD, treated themselves with compassion, and spontaneously started seeing their obsessions as trivial rather than threatening—a profound reframing that happens during the experience itself.\n\nResearchers interviewed six people from a clinical trial roughly a month after their single psilocybin dose, comparing those with marked improvement to those with little change. The pattern emerging from these conversations suggests that the magic isn't just chemical—it's deeply psychological. This adds crucial nuance to how we understand psychedelics in mental health: they seem to work best when people can access a state of acceptance rather than resistance. As psychedelic research moves toward real-world treatment, understanding these psychological processes matters enormously.",
         "da": "Hvad adskiller mennesker, der finder lindring fra behandlingsresistent OCD gennem psykedelika, fra dem, der ikke gør? Et nyt studie afslører noget slående: dem der blev bedre havde tendens til at opleve et skift mod accept og losladen, mens dem der ikke blev bedre ofte blev fastlåst i en kamp for kontrol. De mennesker, der forbedrede sig, lykkedes at adskille deres jeg fra deres OCD, behandlede sig selv med medfølelse, og begyndte spontant at se deres tvangstanker som ubetydelige snarere end truende—en dyb omfortolkning, der sker under oplevelsen selv.\n\nForskere interviewede seks mennesker fra et klinisk forsøg cirka en måned efter deres enkelt psykedelika-dosis og sammenlignede dem med markant forbedring med dem med minimal ændring. Det mønster, der træder frem fra disse samtaler, foreslår, at magien ikke blot er kemisk—det er dybt psykologisk. Dette tilføjer afgørende nuancer til vores forståelse af psykedelika i mental sundhed: de virker bedst, når mennesker kan få adgang til tilstand af accept snarere end modstand. I takt med at psykedelika-forskningen bevæger sig mod behandling i den virkelige verden, betyder det enormt at forstå disse psykologiske processer."
-      },
-      "added_at": "2026-09-17T12:28:44.893968+00:00"
-    },
-    {
-      "title": "Exploratory safety, tolerability, and feasibility of psilocybin-assisted psychotherapy for adults with co-occurring treatment-resistant depression and cluster B personality disorders",
-      "url": "https://doi.org/10.1038/s44184-026-00248-9",
-      "source": "OpenAlex",
-      "date": "2026-09-16",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Here's something remarkable: people with severe depression that hasn't responded to traditional treatments, combined with certain personality patterns, saw their suicidal thoughts cut in half after psilocybin-assisted therapy. In this first-ever trial of its kind, participants showed meaningful improvements that lasted six months—and crucially, the treatment was safe and well-tolerated. Researchers worked with ten adults in a controlled clinical setting, measuring depression symptoms and suicidal ideation carefully before and after the experience. This study opens a door that's been locked until now: it shows psychedelics might help people who've exhausted other options, especially those with complex mental health profiles. As psychedelic research moves beyond 'classic' depression into messier, more complicated cases, this is exactly the kind of careful, honest evidence the field needs to understand who benefits and why.",
-        "da": "Her er noget bemærkelsesværdigt: mennesker med alvorlig depression, som ikke reagerer på traditionelle behandlinger, kombineret med visse personlighedsmønstre, oplevede deres selvmordstanker skåret i halvdelen efter psykedelika-assisteret terapi. I dette første forsøg af sin slags så deltagerne meningsfulde forbedringer, der holdt i seks måneder—og afgørende var behandlingen sikker og velkontrolleret. Forskere arbejdede med ti voksne i et kontrolleret klinisk miljø og målte depressionsymptomer og selvmordstanker omhyggeligt før og efter oplevelsen. Dette studie åbner en dør, der har været låst hidtil: det viser, at psykedelika kunne hjælpe mennesker, som har brugt andre muligheder op, især dem med komplekse psykiske sundhedsprofiler. Mens psykedelika-forskning bevæger sig ud over 'klassisk' depression ind i mere indviklede tilfælde, er dette præcis den slags omhyggelig, ærlig evidens, som feltet har brug for for at forstå, hvem der får gavn, og hvorfor."
-      },
-      "added_at": "2026-09-17T12:28:44.893968+00:00"
-    },
-    {
-      "title": "Uso de psicodélicos no tratamento da depressão resistente: eficácia clínica e perspectivas terapêuticas",
-      "url": "https://doi.org/10.55892/jrg.v9i21.3741",
-      "source": "OpenAlex",
-      "date": "2026-09-16",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if one or two carefully guided sessions could lift depression that's resisted years of medication? New research on psychedelics like psilocybin shows rapid antidepressant effects that last weeks or months — a genuinely different approach for people stuck in treatment-resistant depression. Scientists reviewed nine clinical trials from 2016 onwards, finding that psilocybin produced clinically meaningful improvements in depressive symptoms, though results weren't uniformly perfect. Ayahuasca and DMT also showed early promise. This fits into a bigger shift in how we think about mental health: instead of daily pills, we're exploring whether psychedelics in supervised settings could help reset the brain's relationship with mood. The safety data looks encouraging so far, and as more rigorous trials wrap up, we're getting clearer answers about whether this could genuinely transform options for people who've hit dead ends.",
-        "da": "Hvad hvis en eller to omhyggeligt vejledt sessionn kunne løfte depression, der har modstået år af medicin? Ny forskning på psykedelika som psilocybin viser hurtige antidepressive effekter, der varer uger eller måneder — en genuint anden tilgang for mennesker, der sidder fast i behandlingsresistent depression. Forskere gennemgik ni kliniske forsøg fra 2016 og fremad og fandt, at psilocybin producerede klinisk meningsfulde forbedringer i depressive symptomer, selvom resultaterne ikke var ensartet perfekte. Ayahuasca og DMT viste også tidlige tegn på virkning. Dette passer ind i en større forskel i, hvordan vi tænker på mental sundhed: i stedet for daglige piller udforsker vi, om psykedelika i overvågede indstillinger kunne hjælpe med at nulstille hjernens forhold til stemning. Sikkerheden ser lovende ud hidtil, og efterhånden som flere stringente forsøg afsluttes, får vi klarere svar på, om dette kunne virkelig transformere muligheder for mennesker, der har ramt dead ends."
       },
       "added_at": "2026-09-17T12:28:44.893968+00:00"
     }
