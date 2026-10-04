@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-03T12:17:16.325088+00:00",
+  "generated_at": "2026-10-04T13:04:55.174470+00:00",
   "items": [
+    {
+      "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Imagine being locked in your own body, aware but unable to respond—that's the reality for people in disorders of consciousness like coma or vegetative states. Scientists just discovered something unexpected: psychedelics like psilocybin and LSD might help wake up these dormant brain networks. These substances work by boosting neural plasticity and reshaping how different brain regions communicate, potentially offering hope where conventional medicine has hit a wall.\n\nResearchers reviewed how psychedelics interact with the brain's fundamental architecture, combined with new neuroimaging that can finally detect hidden activity in seemingly unresponsive patients. This opens a radical new direction for neurology—one that treats the brain's wiring itself rather than just symptoms. It's early days, but it signals a shift in how we might tackle one of medicine's hardest problems.",
+        "da": "Forestil dig at være låst inde i din egen krop, bevidst men ude af stand til at reagere—det er virkeligheden for mennesker med bevidsthedsforstyrrelser som koma eller vegetativ tilstand. Forskere har lige opdaget noget uventet: psykedelika som psilocybin og LSD kunne måske hjælpe med at væcke disse sovende hjernenetværk til live. Disse stoffer virker ved at øge neural plastisitet og omforme, hvordan forskellige hjernedele kommunikerer—potentielt en håbefuld vej der hvor traditionel medicin er gået i stå.\n\nForskere har undersøgt, hvordan psykedelika påvirker hjernens grundlæggende arkitektur, kombineret med ny hjernescanning, der endelig kan opdage skjult aktivitet hos tilsyneladende uresponsive patienter. Det åbner en radikalt ny retning for neurologi—en som behandler selve hjernens ledninger i stedet for bare symptomer. Det er tidlige dage, men det signalerer et skift i, hvordan vi kunne tackle et af medicinens sværeste problemer."
+      },
+      "added_at": "2026-10-04T13:04:30.492833+00:00"
+    },
+    {
+      "title": "Serotonergic Toxicity and Hyponatremia Associated with Antidepressant Therapy: The Pivotal Role of SIADH",
+      "url": "https://doi.org/10.1007/s40261-026-01599-z",
+      "source": "OpenAlex",
+      "date": "2026-10-03",
+      "drug": "psilocybin",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "When antidepressants flood your system with serotonin, they can accidentally trigger your body to hold onto too much water—a dangerous combination that doctors have often treated as two separate problems. New research reveals they're actually connected: excessive serotonin can mess with the hormones controlling water balance, leading to dangerously low sodium levels and brain swelling. This matters because it explains why some people on these medications get seriously ill, and it shows us how to spot and treat the problem better.\n\nScientists reviewed decades of research on antidepressants, ketamine, psilocybin, and other serotonergic drugs to map out exactly how this happens. As psychedelics move into clinical settings for treating depression and PTSD, understanding these hidden risks becomes crucial—not to scare anyone away, but to help doctors use these powerful tools safely and know what warning signs to watch for.",
+        "da": "Når antidepressiver oversvømmer din krop med serotonin, kan de ved et uheld få din krop til at holde på for meget vand—en farlig kombination som læger ofte har behandlet som to separate problemer. Ny forskning viser, at de faktisk er forbundne: for meget serotonin kan forstyrre hormonerne, der kontrollerer vandbalancen, hvilket fører til farligt lavt natriumindhold og hjernesvulst. Det betyder noget, fordi det forklarer, hvorfor nogle mennesker på disse lægemidler bliver alvorligt syge, og det viser os, hvordan vi kan få øje på og behandle problemet bedre.\n\nForskere gennemgik årtiers forskning på antidepressiver, ketamin, psilocybin og andre serotonin-aktive stoffer for at kortlægge præcis, hvordan det sker. Når psykedelika kommer ind i kliniske settings til behandling af depression og PTSD, bliver det afgørende at forstå disse skjulte risici—ikke for at skræmme folk væk, men for at hjælpe læger med at bruge disse kraftfulde værktøjer sikkert og vide, hvilke advarselstegn de skal passe på."
+      },
+      "added_at": "2026-10-04T13:04:30.492833+00:00"
+    },
+    {
+      "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics",
+      "url": "https://doi.org/10.1038/s41380-026-03918-4",
+      "source": "OpenAlex",
+      "date": "2026-10-03",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if psychedelics could help people wake up from disorders of consciousness? New research is exploring whether these substances might reach parts of the brain that traditional treatments can't, potentially offering hope to patients in minimally conscious states or emerging from comas. Scientists are investigating how psychedelics affect neural communication and brain reorganization in ways that could unlock dormant cognitive function.\n\nThis emerging field represents a bold expansion of psychedelic research beyond mental health into neurology and consciousness itself. As studies map how psychedelics interact with brain networks, we're discovering that these medicines might do far more than shift our mood or perspective—they could literally rewire how the brain communicates with itself. It's early days, but the implications are profound.",
+        "da": "Hvad hvis psykedelika kunne hjælpe mennesker med at vågne op fra bevidsthedsforstyrrelser? Ny forskning udforsker, om disse stoffer kan nå dele af hjernen, som traditionelle behandlinger ikke kan, og potentielt give håb til patienter i minimalt bevidste tilstande eller der vågner fra koma. Forskere undersøger, hvordan psykedelika påvirker neural kommunikation og hjernens reorganisering på måder, der kunne låse op for sovende kognitiv funktion.\n\nDette nye felt repræsenterer en dristig udvidelse af psykedelika-forskning ud over mental sundhed og ind i neurologi og bevidsthed selv. Når studier kortlægger, hvordan psykedelika interagerer med hjernenetværk, opdager vi, at disse mediciner måske gør meget mere end at ændre vores humør eller perspektiv—de kunne faktisk omstrukturere, hvordan hjernen kommunikerer med sig selv. Det er tidlige dage, men implikationerne er omfattende."
+      },
+      "added_at": "2026-10-04T13:04:30.492833+00:00"
+    },
+    {
+      "title": "Rapid pace of psychedelics development brings regulatory complexities",
+      "url": "https://doi.org/10.1002/pu.31507",
+      "source": "OpenAlex",
+      "date": "2026-10-02",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "Psychedelics are moving fast—maybe too fast for the rules to keep up. Right now, people are demanding access to these treatments way quicker than governments can write regulations, creating a messy gap between what's scientifically promising and what's actually legal. New commentaries in JAMA Psychiatry and the New England Journal of Medicine reveal how approval conditions, federal-state disagreements, and shifting policies could either open doors or slam them shut for patients who need these medicines.\n\nResearchers are sounding the alarm: we're at a crucial moment where how we regulate psychedelics over the next few years will shape everything—who gets access, how safe the treatments stay, and whether this scientific breakthrough becomes real medicine or gets tangled in bureaucracy. The conversation isn't just about whether psychedelics work anymore; it's about building a smart regulatory framework that keeps pace with the science.",
+        "da": "Psykedelika udvikler sig hurtigt—måske for hurtigt til at reglerne kan følge med. For tiden efterspørger mennesker adgang til disse behandlinger langt hurtigere, end regeringer kan skrive regulering, hvilket skaber et roddet hul mellem det, der er videnskabeligt lovende, og det, der faktisk er lovligt. Nye kommentarer i JAMA Psychiatry og New England Journal of Medicine afslører, hvordan godkendelsesvilkår, uenigheder mellem stat og føderale niveau, og skiftende politikker kunne åbne eller lukke døre for patienter, der har brug for disse mediciner.\n\nForsker advarer: vi er på et afgørende tidspunkt, hvor måden vi regulerer psykedelika på de næste år, vil forme alt—hvem der får adgang, hvor sikre behandlingerne forbliver, og om dette videnskabeligt gennembrud bliver rigtig medicin eller bliver viklet ind i bureaukrati. Samtalen handler ikke længere bare om, hvorvidt psykedelika virker; det handler om at bygge en smart reguleringsramme, der følger med videnskaben."
+      },
+      "added_at": "2026-10-04T13:04:30.492833+00:00"
+    },
     {
       "title": "Effects of Repeated Ketamine Infusions on Suicidal Ideation in Treatment-Resistant Depression and Associated Changes in Selected Plasma Biomarkers.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826739/",
@@ -728,58 +780,6 @@
         "da": "Forskere har netop knækket en vigtig kode for sikrere psykedelika-medicin. Udfordringen: psykedelika virker glimrende på en hjernereceptor (5-HT2A), men kan give hjerteklapproblemer ved at aktivere en anden (5-HT2B). Nu har forskere fundet ud af præcis, hvordan man designer molekyler, der rammer det terapeutiske mål uden at ramme det farlige—som at trække en molekylær nål. De testede deres design med et nyt stof kaldet IHCH-2330 og bekræftede det virker med avanceret 3D-billeddannelse. Det er ikke bare laboratoriessucces; det er præcisionsdesign, der kunne lade os udnytte psykedelikas helbredende potentiale uden de helbredsmæssige risici, som har bekymret regulatorer. Vi oplever realtidsfremskridt i at gøre psykedelika til sikker, målrettet medicin."
       },
       "added_at": "2026-09-18T12:06:40.269768+00:00"
-    },
-    {
-      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal–hippocampal circuitry",
-      "url": "https://doi.org/10.1038/s41380-026-03879-8",
-      "source": "OpenAlex",
-      "date": "2026-09-17",
-      "drug": "psilocybin",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "What if a psychedelic could help restore social connection in people struggling with obsessive-compulsive disorder? New research shows psilocybin reversed social withdrawal in mice with compulsive behaviors, helping them engage with new social contacts again—an effect that lasted a week after just one dose. Scientists traced this recovery to activity in specific brain regions involved in social thinking and memory, suggesting psychedelics might work by rewiring how our brains process social information. This study adds crucial evidence to a growing picture: psychedelics aren't just producing altered states, they're potentially reshaping brain circuits in ways that could address real symptoms that standard treatments often miss. As research moves toward human trials, findings like these help explain why people report feeling more socially connected after psychedelic experiences—and why scientists are increasingly excited about their therapeutic potential.",
-        "da": "Hvad hvis et psykedelikum kunne hjælpe med at genoprette social kontakt hos mennesker, der kæmper med tvangslidelse? Ny forskning viser, at psilocybin vendte social tilbagetrækning hos mus med tvangspræget adfærd, hvilket hjalp dem med at engagere sig i ny social kontakt igen—en effekt, der varede en uge efter kun én dosis. Forskere sporede denne bedring til aktivitet i specifikke hjernebaner involveret i social tænkning og hukommelse, hvilket tyder på, at psykedelika virker ved at omstrukturere, hvordan vores hjerner behandler social information. Denne undersøgelse tilføjer afgørende beviser til et voksende billede: psykedelika producerer ikke bare ændrede bevidsthedstilstande, de omstrukturerer potentielt hjernebaner på måder, der kunne adressere rigtige symptomer, som standardbehandlinger ofte overser. Når forskningen bevæger sig mod menneskeforsøg, hjælper findings som disse med at forklare, hvorfor mennesker rapporterer at føle sig mere socialt forbundet efter psykedeliske oplevelser—og hvorfor forskere bliver stadig mere begejstrede for deres terapeutiske potentiale."
-      },
-      "added_at": "2026-09-18T12:06:40.269768+00:00"
-    },
-    {
-      "title": "Structure-based design of subtype-selective psychedelic analogs",
-      "url": "https://doi.org/10.1038/s41467-026-77658-y",
-      "source": "OpenAlex",
-      "date": "2026-09-17",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Imagine a psychedelic medicine that gives you the therapeutic benefits without the cardiac risks—researchers just moved closer to making it real. Scientists have designed new psychedelic compounds that activate the brain receptor responsible for healing depression and PTSD, while deliberately avoiding a different receptor that can damage the heart. This is a game-changer because classical psychedelics trigger both, and that heart problem has been a genuine safety concern holding back their medical use.\n\nUsing cutting-edge cryo-EM imaging to map receptor structures at atomic detail, the team engineered compounds that discriminate between two nearly identical serotonin receptors—a feat many thought impossible. The new molecules worked in animal depression models and represent a blueprint for safer psychedelic medicines. This fits perfectly into psychedelic research's current momentum: we're moving from \"does this work?\" to \"how can we make it work better and safer?\" That's the sign of a field growing up.",
-        "da": "Forestil dig et psykedelika-medicin, der giver dig de terapeutiske fordele uden hjerteskaderne—forskere er netop kommet tættere på det virkelighed. Videnskabsmænd har designet nye psykedelika-forbindelser, der aktiverer hjernereceptoren bag depression og PTSD-helbredelse, samtidig med at de bevidst undgår en anden receptor, der kan skade hjertet. Det er afgørende, fordi klassiske psykedelika påvirker begge dele, og det hjerteproblem har været en ægte sikkerhedsbetænkelighed, der holder deres medicinske brug tilbage.\n\nMed ultranmoderne cryo-EM-billeddannelse til at kortlægge receptorstrukturer på atomær detaljegrad designede holdet forbindelser, der skelner mellem to næsten identiske serotoninreceptorer—en bedrift mange troede var umulig. De nye molekyler virkede i dyrmodeller for depression og udgør en blueprint for sikrere psykedelika-medicin. Det passer perfekt til psykedelika-forskningens nuværende fremdrift: vi går fra \"virker det?\" til \"hvordan gør vi det bedre og sikrere?\" Det er tegnet på et felt, der bliver voksent."
-      },
-      "added_at": "2026-09-18T12:06:40.269768+00:00"
-    },
-    {
-      "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42755297/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Here's something quietly important: researchers just figured out how to properly measure what psychedelics actually do to people over time. The old questionnaire was over 140 items long and kind of a mess—turns out it wasn't even measuring what people thought it was. The new version? 14 focused questions that clearly separate positive effects (like insight and connection) from negative ones (like anxiety or confusion). Scientists tested this with real data from both therapy sessions and research studies, making sure the questions actually make sense to people. This matters because psychedelic research is getting serious—moving from curiosity into medicine. You need solid measurement tools to understand what's really happening, spot who benefits most, and eventually help doctors know how to use these substances safely. This validated questionnaire is like getting a reliable thermometer for the field.",
-        "da": "Her er noget stille vigtigt: forskere har lige fundet ud af, hvordan man skal måle hvad psykedelika rent faktisk gør ved mennesker over tid. Det gamle spørgeskema havde over 140 spørgsmål og var en rod—det viste sig, at det ikke engang målte det, som folk troede det gjorde. Den nye version? 14 fokuserede spørgsmål, som klart adskiller positive effekter (som indsigt og forbindelse) fra negative (som angst eller forvirring). Forskerne testede det med rigtige data fra både terapisessioner og forskningsstudier og sikrede sig, at spørgsmålene giver mening for mennesker. Det betyder noget, fordi psykedelikaforskning bliver seriøs—bevæger sig fra nysgerrighed ind i medicin. Du skal bruge pålidelige målingsværktøjer til at forstå hvad der virkelig sker, finde ud af hvem der får mest gavn, og til sidst hjælpe læger med at vide hvordan man bruger disse stoffer sikkert. Dette validerede spørgeskema er som at få et pålideligt termometer til området."
-      },
-      "added_at": "2026-09-18T12:06:40.269768+00:00"
-    },
-    {
-      "title": "Surrender, disidentification, and reappraisal: a qualitative comparison of psilocybin responders and non-responders in treatment-resistant OCD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42746496/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What separates people who find relief from treatment-resistant OCD through psilocybin from those who don't? A new study reveals something striking: responders tend to experience a shift toward surrender and letting go, while non-responders often stay locked in a struggle to control their thoughts. The people who improved managed to separate their sense of self from their OCD, treated themselves with compassion, and spontaneously started seeing their obsessions as trivial rather than threatening—a profound reframing that happens during the experience itself.\n\nResearchers interviewed six people from a clinical trial roughly a month after their single psilocybin dose, comparing those with marked improvement to those with little change. The pattern emerging from these conversations suggests that the magic isn't just chemical—it's deeply psychological. This adds crucial nuance to how we understand psychedelics in mental health: they seem to work best when people can access a state of acceptance rather than resistance. As psychedelic research moves toward real-world treatment, understanding these psychological processes matters enormously.",
-        "da": "Hvad adskiller mennesker, der finder lindring fra behandlingsresistent OCD gennem psykedelika, fra dem, der ikke gør? Et nyt studie afslører noget slående: dem der blev bedre havde tendens til at opleve et skift mod accept og losladen, mens dem der ikke blev bedre ofte blev fastlåst i en kamp for kontrol. De mennesker, der forbedrede sig, lykkedes at adskille deres jeg fra deres OCD, behandlede sig selv med medfølelse, og begyndte spontant at se deres tvangstanker som ubetydelige snarere end truende—en dyb omfortolkning, der sker under oplevelsen selv.\n\nForskere interviewede seks mennesker fra et klinisk forsøg cirka en måned efter deres enkelt psykedelika-dosis og sammenlignede dem med markant forbedring med dem med minimal ændring. Det mønster, der træder frem fra disse samtaler, foreslår, at magien ikke blot er kemisk—det er dybt psykologisk. Dette tilføjer afgørende nuancer til vores forståelse af psykedelika i mental sundhed: de virker bedst, når mennesker kan få adgang til tilstand af accept snarere end modstand. I takt med at psykedelika-forskningen bevæger sig mod behandling i den virkelige verden, betyder det enormt at forstå disse psykologiske processer."
-      },
-      "added_at": "2026-09-17T12:28:44.893968+00:00"
     }
   ]
 }
