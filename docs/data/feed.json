@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-10-04T13:04:55.174470+00:00",
+  "generated_at": "2026-10-05T15:37:50.324554+00:00",
   "items": [
+    {
+      "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
+      "url": "https://psychedelicalpha.com/news/oregon-backtracks-on-fee-hike-california-funds-psychedelic-research-dea-moves-to-schedule-5-tryptamines/",
+      "source": "Psychedelic Alpha",
+      "date": "Mon, 05 Oc",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "California just greenlit public funding for psychedelic research — a huge signal that governments are starting to see these substances as legitimate medicine, not just controversy. Meanwhile, the DEA is moving certain tryptamines to Schedule 5, the lowest restriction level, which could open doors for research that's been locked for decades. This podcast breaks down what these policy shifts actually mean for the scientists working to bring psychedelics into hospitals and clinics. As Oregon recalibrates its approach and funding starts flowing, we're watching the rules of the game change in real time — and it matters for anyone hoping these tools might help with depression, anxiety, and trauma.",
+        "da": "Californien har lige godkendt offentlig finansiering til psykedelika-forskning — et massivt signal om, at regeringer begynder at se disse stoffer som legitim medicin, ikke bare kontrovers. Samtidig flytter DEA visse tryptaminer til Schedule 5, det laveste restriktionsniveau, hvilket kunne åbne døre for forskning, der har været låst i årtier. Denne podcast gennemgår, hvad disse politiske skift egentlig betyder for de forskere, der arbejder på at få psykedelika ind i hospitaler og klinikker. Mens Oregon justerer sin tilgang og finansiering begynder at flyde, ser vi reglerne for spillet ændre sig i realtid — og det betyder noget for alle, der håber, at disse værktøjer kunne hjælpe med depression, angst og trauma."
+      },
+      "added_at": "2026-10-05T15:37:33.045733+00:00"
+    },
+    {
+      "title": "Novel Aminocyclohexenyl-6,6-bicyclic Compounds as 5-HT2A Receptor Agonists for Treating Depression, Anxiety, Substance Abuse, and Headaches",
+      "url": "https://doi.org/10.1021/acsmedchemlett.6c00490",
+      "source": "OpenAlex",
+      "date": "2026-10-02",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Scientists have designed entirely new molecules that could tackle depression, anxiety, addiction, and chronic headaches—all by activating the same brain receptor that psychedelics naturally target. These synthetic compounds are engineered to be more precise and controllable than traditional psychedelics, offering a potential path toward treatments that harness psychedelic science without requiring a full psychedelic experience. Researchers developed and tested these novel compounds in the lab, marking another step in how we're learning to work with the brain's serotonin system in smarter ways. This fits into a larger shift in medicine: instead of waiting for nature to provide the tools, we're now designing them ourselves, which could mean safer, more accessible options for millions of people struggling with conditions that don't respond well to existing treatments.",
+        "da": "Forskere har designet helt nye molekyler, der potentielt kan behandle depression, angst, afhængighed og kroniske hovedpine—ved at aktivere den samme hjernereceptor, som psykedelika naturligt påvirker. Disse syntetiske stoffer er konstrueret til at være mere præcise og kontrollable end traditionelle psykedelika, og de åbner mulighed for behandlinger, der udnytter psykedelikas kraft uden at kræve en fuld psykedelisk oplevelse. Forskerne udviklede og testede disse nye forbindelser i laboratoriet, og det er endnu et skridt i, hvordan vi lærer at arbejde klogere med hjernens serotoninssystem. Det passer ind i en større forandring inden for medicin: i stedet for at vente på, at naturen giver os værktøjerne, designer vi dem nu selv—hvilket kunne betyde sikrere, mere tilgængelige muligheder for millioner af mennesker, der kæmper med tilstande, som eksisterende behandlinger ikke virker på."
+      },
+      "added_at": "2026-10-05T15:37:33.045733+00:00"
+    },
+    {
+      "title": "Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831801/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if recovery from alcohol addiction meant actually feeling better—not just drinking less? A major review of 18 studies found that naltrexone genuinely improved people's mental and physical quality of life while tackling alcohol use disorder. But here's what caught researchers' attention: psilocybin, the psychedelic compound from magic mushrooms, also showed promise for boosting wellbeing in early trials. Scientists analyzed data from over 4,000 participants across randomized controlled trials testing different medications. The findings matter because quality of life is what keeps people in recovery long-term—it's not enough to simply reduce cravings. As psychedelics enter the mainstream conversation about mental health treatment, this research hints at an exciting possibility: could these substances work alongside or even offer new pathways for people struggling with addiction? The evidence is early, but it's enough to keep watching.",
+        "da": "Hvad hvis helbredelse fra alkoholmisbrug betød faktisk at have det bedre—ikke bare at drikke mindre? En stor oversigt over 18 studier viste, at naltrexone forbedrede menneskers mentale og fysiske livskvalitet i behandlingen af alkoholforgiftning. Men det, som forskerne blev særligt opmærksomme på: psilocybin, det psykedeliske stof fra tryllehatte, viste også lovende resultater for at øge trivsel i tidlige forsøg. Videnskabsmænd analyserede data fra over 4.000 deltagere på tværs af randomiserede kontrollerede studier, der testede forskellige mediciner. Resultaterne betyder noget, fordi livskvalitet er det, der holder folk i bedring på længere sigt—det er ikke nok blot at reducere trang. Mens psykedelika træder ind i mainstream-samtalen om mental sundhedsbehandling, peger denne forskning på en spændende mulighed: kunne disse stoffer arbejde sammen med eller endda tilbyde nye veje for mennesker, der kæmper med misbrug? Beviserne er tidlige, men nok til at holde øje med udviklingen."
+      },
+      "added_at": "2026-10-05T15:37:33.045733+00:00"
+    },
     {
       "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
@@ -741,45 +780,6 @@
         "da": "Opioidkrisen forsvinder ikke—og traditionelle medicin alene er ikke nok. En ny review afslører lovende alternativer på horisonten: ketamin viser tidlige tegn på at reducere trang og abstinensymptomer, cannabidiol kan lette angst-drevet tilbagefald, og psykedelika som ibogain demonstrerer potentiale for at bryde abstinencyklussen. Det er ikke erstatninger for eksisterende behandlinger, men de målretter hjernens belønningssystem på helt nye måder og kan potentielt hjælpe mennesker, som ikke har responderet på standardbehandling.\n\nForskere undersøgte nye terapier på tværs af flere stofklasser for at forstå, hvordan de kunne supplere methadon og buprenorphin. Beviserne er stadig tidlige—især for psykedelika, hvor sikkerhed og regulering stadig er vanskelige spørgsmål—men mønstret er klart: vi bevæger os mod et værktøjskasse i stedet for en tilgang, der passer alle. Denne forskning signalerer et afgørende skifte i, hvordan vi tænker på afhængighedsbehandling: ikke blot at blokere opioidreceptorer, men faktisk at omvire hjernens systemer, der driver afhængighed. Det er en påmindelse om, at når en vej ikke virker, fortsætter videnskaben med at søge nye."
       },
       "added_at": "2026-09-19T11:49:44.974991+00:00"
-    },
-    {
-      "title": "A Case of Acute Mania and Rhabdomyolysis Associated With Long-Term, Daily Psilocybin Use",
-      "url": "https://doi.org/10.1097/jcp.0000000000002262",
-      "source": "OpenAlex",
-      "date": "2026-09-18",
-      "drug": "psilocybin",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "A new case study is raising important questions about what happens when people use psilocybin every single day for extended periods. Researchers documented a person who developed severe manic symptoms and a dangerous muscle condition called rhabdomyolysis linked to long-term daily psilocybin use—a rare but serious finding that reminds us these substances deserve careful, honest attention. This single case report is exactly the kind of clinical observation that helps the field understand not just the potential benefits of psychedelics, but their real-world risks too. As psychedelic research expands and more people explore these substances, this kind of rigorous documentation matters: it's how we build the nuanced, balanced picture we need to use these tools safely and responsibly.",
-        "da": "Et nyt case-studie stiller vigtige spørgsmål om, hvad der sker, når mennesker bruger psilocybin hver eneste dag over længere tid. Forskere dokumenterede en person, der udviklede alvorlige maniske symptomer og en farlig muskellidelse kaldet rabdomyolyse knyttet til langtidsligt daglig psilocybin-brug—et sjældent, men alvorligt fund, som minder os om, at disse stoffer fortjener opmærksom, ærlighed. Denne case-rapport er præcis den slags klinisk observation, der hjælper området med at forstå ikke blot psykedelikas potentielle fordele, men også deres faktiske risici. Som psykedelisk forskning udvides og flere mennesker udforsker disse stoffer, betyder denne form for streng dokumentation noget: det er sådan, vi opbygger det nuancerede, afbalancerede billede, vi har brug for for at bruge disse værktøjer sikkert og ansvarligt."
-      },
-      "added_at": "2026-09-19T11:49:44.974991+00:00"
-    },
-    {
-      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754621/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "psilocybin",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Here's something striking: when researchers gave psilocybin to mice with a genetic condition that made them socially withdrawn and compulsive, something remarkable happened. These mice started seeking out new social interactions again—a behavior they'd lost. Even a single dose created changes that lasted at least a week. The study used standard mouse models of OCD and brain imaging to track what was happening, finding that psilocybin specifically activated two brain regions linked to social thinking: the prefrontal cortex and hippocampus. What makes this exciting is that social withdrawal in OCD is often overlooked by doctors, even though it causes real suffering. Psychedelics are opening doors we didn't know existed—not just for mood or anxiety, but for helping people reconnect with others. This is the kind of precise, careful research that's building the case for psychedelics in psychiatry.",
-        "da": "Her er noget slående: da forskere gav psykedelika til mus med en genetisk tilstand, der gjorde dem socialt tilbagetrukne og tvangsmæssige, skete der noget bemærkelsesværdigt. Disse mus begyndte igen at søge ny social kontakt—en adfærd de havde mistet. Selv en enkelt dosis skabte forandringer, der varede mindst en uge. Studiet brugte standardmus-modeller af OCD og hjernebilleddannelse til at spore hvad der skete, og fandt at psykedelika specifikt aktiverede to hjernereioner forbundet med social tænkning: præfrontal cortex og hippocampus. Det spændende er, at social tilbagetrækning ved OCD ofte bliver overset af læger, selvom det forårsager ægte lidelse. Psykedelika åbner døre, vi ikke vidste fandtes—ikke kun for humør eller angst, men for at hjælpe mennesker til at genforbinde med hinanden. Dette er netop den slags præcis, omhyggelig forskning, der bygger sagen for psykedelika inden for psykiatri."
-      },
-      "added_at": "2026-09-18T12:06:40.269768+00:00"
-    },
-    {
-      "title": "Mechanistic Basis for 5-HT2AR Over 5-HT2BR Activation",
-      "url": "https://doi.org/10.1038/s41467-026-77659-x",
-      "source": "OpenAlex",
-      "date": "2026-09-17",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists just cracked a crucial code for safer psychedelic medicines. The challenge: psychedelics work brilliantly on one brain receptor (5-HT2A), but can cause heart valve problems by activating another (5-HT2B). Now researchers have figured out exactly how to design molecules that hit the therapeutic target while avoiding the dangerous one—like threading a molecular needle. They tested their blueprint with a new compound called IHCH-2330 and confirmed it works using cutting-edge 3D imaging. This isn't just lab success; it's the kind of precision design that could let us harness psychedelika's healing potential without the health risks that have worried regulators. We're watching real-time progress in turning psychedelics into safe, targeted medicines.",
-        "da": "Forskere har netop knækket en vigtig kode for sikrere psykedelika-medicin. Udfordringen: psykedelika virker glimrende på en hjernereceptor (5-HT2A), men kan give hjerteklapproblemer ved at aktivere en anden (5-HT2B). Nu har forskere fundet ud af præcis, hvordan man designer molekyler, der rammer det terapeutiske mål uden at ramme det farlige—som at trække en molekylær nål. De testede deres design med et nyt stof kaldet IHCH-2330 og bekræftede det virker med avanceret 3D-billeddannelse. Det er ikke bare laboratoriessucces; det er præcisionsdesign, der kunne lade os udnytte psykedelikas helbredende potentiale uden de helbredsmæssige risici, som har bekymret regulatorer. Vi oplever realtidsfremskridt i at gøre psykedelika til sikker, målrettet medicin."
-      },
-      "added_at": "2026-09-18T12:06:40.269768+00:00"
     }
   ]
 }
