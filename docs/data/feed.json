@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-10T13:20:50.396464+00:00",
+  "generated_at": "2026-10-11T13:50:05.196040+00:00",
   "items": [
+    {
+      "title": "Psychedelics and Sleep: Preclinical and Human Studies—A Systematic Review",
+      "url": "https://doi.org/10.65801/pcp.3606",
+      "source": "OpenAlex",
+      "date": "2026-10-10",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What happens to your sleep when you take psychedelics? New research shows something fascinating: classic psychedelics like LSD and psilocybin mess with your REM sleep in the short term—delaying it, reducing it, and keeping you more awake through the night. But here's the twist: when people actually report back on how they slept, many say it didn't feel that bad, and some even notice their sleep problems improve in the weeks after. Scientists reviewed 12 studies combining lab work and real-world observations to piece together this puzzle. This matters because sleep is where your brain processes emotions and builds new connections—exactly what psychedelics are supposed to help with. As psychedelics move closer to becoming real treatments for depression and anxiety, understanding these sleep changes is becoming crucial to getting the timing and dosing just right.",
+        "da": "Hvad sker der med din søvn når du tager psykedelika? Ny forskning viser noget fascinerende: klassiske psykedelika som LSD og psilocybin rocker op i din REM-søvn på kort sigt—de forsinker det, reducerer det og holder dig mere vågen gennem natten. Men her er vendingen: når mennesker faktisk rapporterer tilbage om hvordan de sov, siger mange at det ikke var så slemt, og nogle bemærker endda at deres søvnproblemer bliver bedre i ugerne efter. Forskere gennemgik 12 studier kombineret laboratoriearbejde og virkelighedsobservationer for at løse gåden. Det betyder noget fordi søvn er hvor din hjerne behandler følelser og bygger nye forbindelser—præcis hvad psykedelika skal hjælpe med. Når psykedelika nærmer sig at blive rigtige behandlinger for depression og angst, bliver det afgørende at forstå disse søvnændringer for at få timing og dosering præcis rigtig."
+      },
+      "added_at": "2026-10-11T13:49:52.482465+00:00"
+    },
+    {
+      "title": "Adverse reactions to psychedelics in naturalistic settings are associated with current psychopathology and well-being: A correlational study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858725/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "other",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "New research reveals something important: people who experience difficult reactions to psychedelics often share something in common — they're already struggling with anxiety, depression, or other mental health challenges. The study tracked over 1,000 people who used psychedelics outside clinical settings and found that bad trips weren't random; they clustered among those dealing with current psychological strain. Younger users and those taking psychedelics frequently also reported more trouble.\n\nScientists collected this data through detailed online surveys, mapping how adverse reactions connect to mental health, setting, and who you're with when you trip. This matters because as psychedelics move toward medical use, we're learning that preparation and screening matter enormously — it's not just about the substance itself, but about meeting people where they are psychologically. This research adds crucial real-world evidence to what therapists have long suspected: set and setting aren't luxuries, they're foundational to safety.",
+        "da": "Ny forskning afslørede noget vigtigt: mennesker, der oplever vanskelige reaktioner på psykedelika, har ofte noget til fælles — de kæmper allerede med angst, depression eller andre psykiske udfordringer. Studiet fulgte over 1.000 personer, som brugte psykedelika uden for kliniske rammer, og fandt ud af, at dårlige ture ikke var tilfældige; de koncentrerede sig blandt dem, der håndterede nuværende psykisk belastning. Yngre brugere og dem, som tog psykedelika ofte, rapporterede også mere besvær.\n\nForskere indsamlede denne data gennem detaljerede onlineundersøgelser, der kortlagde, hvordan uønskede reaktioner forbinder sig til mental sundhed, setting og hvem du er sammen med, når du tager psykedelika. Det betyder noget, fordi mens psykedelika bevæger sig mod medicinsk brug, lærer vi, at forberedelse og screening betyder enormt meget — det handler ikke kun om stoffet selv, men om at møde mennesker dér, hvor de er psykologisk. Denne forskning tilføjer vigtig virkelighed til det, som terapeuter længe har mistankt: set og setting er ikke luksus, de er grundlæggende for sikkerhed."
+      },
+      "added_at": "2026-10-11T13:49:52.482465+00:00"
+    },
     {
       "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42855888/",
@@ -752,32 +778,6 @@
       "summaries": {
         "en": "What if the key to breaking free from obsessive thoughts lies in a profound sense of awe and connection? New research on psilocybin for treatment-resistant OCD suggests that people who experience deep mystical states during their sessions—feelings of unity, transcendence, and timelessness—show the most lasting improvement in their symptoms, even a year later. Importantly, having a challenging or difficult trip didn't predict worse outcomes, suggesting that comfort during the experience matters less than the depth of meaning people find.\n\nScientists followed 27 people with OCD that hadn't responded to standard treatments, tracking their mystical experiences and OCD symptoms over a year. The findings add another piece to an exciting puzzle: across depression, anxiety, addiction, and now OCD, the same pattern keeps emerging—the most transformative therapeutic effects seem tied to these profound, awe-filled moments. This shifts how we think about healing with psychedelics: it's not just about the drug itself, but about what happens in the mind when people encounter something genuinely bigger than themselves.",
         "da": "Hvad hvis nøglen til at bryde fri fra tvangstanker ligger i en dyb følelse af undren og sammenhæng? Ny forskning om psilocybin til behandlingsresistent OCD tyder på, at mennesker, som oplever dybe mystiske tilstande under deres sessions—fornemmelser af enhed, transcendens og tidløshed—viser den mest varig forbedring af deres symptomer, selv et år senere. Det vigtige er, at en vanskelig eller ubehagelig oplevelse under sessionerne ikke forudsagde dårligere resultater, hvilket tyder på, at komforten under oplevelsen betyder mindre end den dybde af betydning, som mennesker finder.\n\nForskerne fulgte 27 mennesker med OCD, som ikke havde reageret på standardbehandlinger, og fulgte deres mystiske oplevelser og OCD-symptomer over et år. Resultaterne tilføjer et nyt stykke til et spændende puslespil: på tværs af depression, angst, misbrug og nu OCD ser man samme mønster igen og igen—de mest transformative terapeutiske effekter ser ud til at være forbundet med disse dybe, underfyldte øjeblikke. Dette skifter hvordan vi tænker på helbredelse med psykedelika: det handler ikke bare om stoffet selv, men om hvad der sker i sindet, når mennesker møder noget, der er virkelig større end dem selv."
-      },
-      "added_at": "2026-09-24T12:35:26.747057+00:00"
-    },
-    {
-      "title": "A Multi-Site Evaluation of a Psychedelic Medicine Curriculum for Psychiatry Trainees.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778871/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Future psychiatrists are getting their first real education in psychedelic medicine—and it's making a real difference. A new 6-hour course rolled out across four U.S. psychiatry programs showed that trainees walked away with significantly better knowledge and, more importantly, genuine confidence in talking to patients about psychedelics. They felt better equipped to explain the science, discuss harm reduction, and address risks. Most had barely learned anything about psychedelics before taking the course, which tells you something about how new this field still is in medical training. This curriculum study matters because it shows we can actually teach clinicians to engage thoughtfully with this emerging medicine. As psychedelic research accelerates from labs into real clinical practice, we need doctors who understand the science and can have honest conversations with patients. This is what that pipeline looks like taking shape.",
-        "da": "Fremtidens psykiatere får endelig ordentlig undervisning i psykedelika-medicin—og det gør en virkelig forskel. Et nyt 6-timers kursus på tværs af fire amerikanske psykiatri-uddannelser viste, at læger gik derfra med markant bedre viden og, vigtigere endnu, reel selvtillid til at tale med patienter om psykedelika. De følte sig bedre rustet til at forklare videnskaben, diskutere skadesreduktion og håndtere risici. De fleste havde næsten ikke lært noget om psykedelika før kurset, hvilket siger noget om hvor nyt det stadig er i medicinsk uddannelse. Dette kursusstudium betyder noget, fordi det viser, at vi faktisk kan uddanne læger til at gribe psykedelika-medicinen ansvarligt an. Mens psykedelika-forskningen accelererer fra laboratorier ind i klinikken, har vi brug for læger, der forstår videnskaben og kan have ærlige samtaler med patienter. Det er sådan denne pipeline tager form."
-      },
-      "added_at": "2026-09-24T12:35:26.747057+00:00"
-    },
-    {
-      "title": "Feasibility and tolerability of virtual reality during esketamine treatment: A pilot study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778030/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When people get ketamine treatment for depression, the experience can feel intense and uncomfortable—especially visually and aurally. Now researchers are asking: what if we could shape that experience with virtual reality? A new pilot study found that most patients were open to the idea, though early tests revealed some practical challenges (like nausea for glasses-wearers). This matters because how patients *feel* during psychedelic-assisted therapy might actually influence how well it works. As ketamine and esketamine become mainstream depression treatments, scientists are exploring whether immersive environments could make the experience safer, more tolerable, and ultimately more therapeutic.",
-        "da": "Når mennesker får ketamin-behandling for depression, kan oplevelsen føles intens og ubehagelig—især visuelt og auditivt. Nu spørger forskere: hvad hvis vi kunne forme den oplevelse med virtual reality? Et nyt pilotprojekt viste, at de fleste patienter var åbne over for ideen, selvom tidlige test afslørede nogle praktiske udfordringer (som kvalme for brille-brugere). Det betyder noget, fordi hvordan patienter *føler sig* under psykedelika-assisteret terapi måske faktisk påvirker, hvor godt det virker. Efterhånden som ketamin og esketamin bliver mainstream-behandlinger for depression, udforsker videnskabsmænd, om immersive miljøer kunne gøre oplevelsen mere sikker, mere tolerabel og i sidste ende mere terapeutisk."
       },
       "added_at": "2026-09-24T12:35:26.747057+00:00"
     }
