@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-11T13:50:05.196040+00:00",
+  "generated_at": "2026-10-12T16:33:27.093688+00:00",
   "items": [
+    {
+      "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860436/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "mdma",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "New research shows that MDMA-assisted therapy cuts PTSD symptoms more than twice as effectively as placebo—and helps people actually recover, not just feel a bit better. In fact, people receiving MDMA therapy were 2.25 times more likely to fully remit from PTSD. Scientists analyzed six rigorous clinical trials with 286 participants to reach these findings. This living review is crucial because psychedelic research moves fast, and tracking what actually works matters as MDMA-assisted therapy edges closer to becoming a regulated treatment. We're seeing concrete evidence that this approach deserves serious attention in psychiatry—not hype, just solid science showing real hope for people stuck with trauma.",
+        "da": "Ny forskning viser, at MDMA-assisteret terapi reducerer PTSD-symptomer mere end dobbelt så effektivt som placebo—og hjælper mennesker til faktisk at blive raske, ikke bare føle sig lidt bedre. Folk i behandling med MDMA var faktisk 2,25 gange mere tilbøjelige til fuldstændigt at blive symptomfri for PTSD. Forskere analyserede seks stringente kliniske forsøg med 286 deltagere for at nå disse resultater. Dette løbende review er afgørende fordi psykedelika-forskningen bevæger sig hurtigt, og det betyder noget at følge med i, hvad der faktisk virker, når MDMA-assisteret terapi nærmer sig godkendelse som ordinær behandling. Vi ser konkrete beviser for, at denne tilgang fortjener alvorlig opmærksomhed inden for psykiatri—ikke hype, bare solid videnskab der giver ægte håb til mennesker, der sidder fast med traumer."
+      },
+      "added_at": "2026-10-12T16:33:13.795020+00:00"
+    },
+    {
+      "title": "Drug arrests and seizures in Japan, 2015-2025 (National Police Agency)",
+      "url": "https://doi.org/10.17605/osf.io/asjv4",
+      "source": "OpenAlex",
+      "date": "2026-10-11",
+      "drug": "psilocybin",
+      "context": "policy",
+      "summaries": {
+        "en": "Japan's drug enforcement data just got a major spotlight—not because arrests are skyrocketing, but because it reveals something crucial about how different countries handle psychedelics as medicine becomes real. As psilocybin enters Phase 3 clinical trials globally, Japan's regulatory approach stands in sharp contrast to countries rethinking drug policy. This dataset, tracking arrests and seizures from 2015-2025, shows the messy reality: while some nations debate therapeutic access, enforcement remains the default in others. The data tells a human story about timing—people seeking treatment options today might live in a country where the science is approved tomorrow, or never. Researchers compiled this to expose regulatory fragmentation: the same molecule, studied in clinical trials, remains criminalized in different ways across borders. It's a wake-up call that access to future psychedelic medicines won't depend solely on science, but on which country you call home. Understanding these gaps is the first step toward fairer, more evidence-based drug policy.",
+        "da": "Japans narkotikahåndhævelsesdata får nu massiv opmærksomhed—ikke fordi arrestationerne eksploderer, men fordi det afslører noget afgørende om, hvordan forskellige lande håndterer psykedelika når medicinen bliver virkelighed. Mens psilocybin går ind i fase 3-forsøg globalt, står Japans regulatoriske tilgang i skarp kontrast til lande, der genovervejer narkotikapolitik. Dette datasæt, som følger arrestationer og beslaglæggelser fra 2015-2025, viser den rodede virkelighed: mens nogle nationer debatterer terapeutisk adgang, er håndhævelse stadig standarden andre steder. Data fortæller en menneskelig historie om timing—mennesker, der søger behandlingsmuligheder i dag, kan leve i et land hvor videnskaben godkendes i morgen, eller aldrig. Forskere samlede dette for at blotlægge regulatorisk fragmentering: samme molekyle, studeret i kliniske forsøg, forbliver kriminaliseret på forskellige måder på tværs af grænserne. Det er en vækkekald om, at adgang til fremtidige psykedelika-medicin ikke kun afhænger af videnskab, men af hvilket land du kalder hjem. At forstå disse huller er første skridt mod mere retfærdig og evidensbaseret narkotikapolitik."
+      },
+      "added_at": "2026-10-12T16:33:13.795020+00:00"
+    },
     {
       "title": "Psychedelics and Sleep: Preclinical and Human Studies—A Systematic Review",
       "url": "https://doi.org/10.65801/pcp.3606",
@@ -754,32 +780,6 @@
         "da": "Når du tager psykedelika, kan timing være afgørende. Ny forskning tyder på, at rytmen og strukturen i, hvordan din hjerne behandler information under en tur, dramatisk former det, du faktisk oplever—fra følelserne der dukker op til indsigterne der bliver hængende. Det er ikke bare abstrakt neurovidenskab; det betyder, at vi kunne bruge psykedelika mere effektivt i terapi og personlig udvikling, hvis vi forstår disse tidsmønstre bedre. Forskerne undersøgte, hvordan hjernens tidsmåling ændrer sig under psykedelika, og resultaterne passer perfekt ind i det større billede: vi bevæger os væk fra 'hvad gør dette stof?' hen imod 'hvordan arbejder vi intelligent med disse værktøjer?' Mens psykedelikaforskningen skyder fart klinisk, kunne denne dybere forståelse af selve oplevelsen være det manglende brik, der hjælper os med at låse deres fulde potentiale op."
       },
       "added_at": "2026-09-25T12:36:52.914926+00:00"
-    },
-    {
-      "title": "Prolonged Psychological Distress Following Recreational LSD Use in a Young Adult with Multiple Vulnerability Factors: A Case Report",
-      "url": "https://doi.org/10.53941/cna.2026.100015",
-      "source": "OpenAlex",
-      "date": "2026-09-24",
-      "drug": "lsd",
-      "context": "mental-health",
-      "summaries": {
-        "en": "Not all psychedelic trips end well. A 19-year-old took LSD alone and found himself in the emergency room with suicidal thoughts, anxiety, and panic attacks that wouldn't quit—returning three times over a month despite treatment. What makes this case striking? He likely had an underlying obsessive thinking pattern that the LSD triggered into full view, a reminder that psychedelics aren't one-size-fits-all and certain people face real risks. Researchers documented his journey through psychiatric care as a cautionary case study, tracking how he gradually stabilized with the right medication and support. This fits into a crucial conversation happening in psychedelic science right now: while clinical trials show promise for therapeutic use, we're learning that set, setting, and who you are matter enormously—and that screening for vulnerability factors before someone trips could be genuinely life-saving.",
-        "da": "Ikke alle psykedelika-oplevelser ender godt. En 19-årig tog LSD alene og endte på skadestuen med selvmordstanker, angst og panikangreb, der ikke ville stoppe—han blev indlagt tre gange på en måned på trods af behandling. Hvad gør denne sag særlig? Han havde sandsynligvis et underliggende tvangstanke-mønster, som LSD'en udløste i fuld kraft, en påmindelse om, at psykedelika ikke er for alle, og at visse mennesker står over for rigtige risici. Forskere dokumenterede hans vej gennem psykiatrisk behandling som en advarende case-studie og fulgte, hvordan han gradvist stabiliserede sig med den rette medicin og støtte. Det passer ind i en vigtig samtale, der foregår inden for psykedelika-forskningen netop nu: mens kliniske studier viser lovende resultater til terapeutisk brug, lærer vi, at hvem du er, samt omgivelserne betyder enormt meget—og at screening for sårbare faktorer før en trip kunne være virkelig livreddende."
-      },
-      "added_at": "2026-09-25T12:36:52.914926+00:00"
-    },
-    {
-      "title": "Mystical but not challenging experiences predict symptom improvement after psilocybin for treatment-resistant OCD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42775190/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the key to breaking free from obsessive thoughts lies in a profound sense of awe and connection? New research on psilocybin for treatment-resistant OCD suggests that people who experience deep mystical states during their sessions—feelings of unity, transcendence, and timelessness—show the most lasting improvement in their symptoms, even a year later. Importantly, having a challenging or difficult trip didn't predict worse outcomes, suggesting that comfort during the experience matters less than the depth of meaning people find.\n\nScientists followed 27 people with OCD that hadn't responded to standard treatments, tracking their mystical experiences and OCD symptoms over a year. The findings add another piece to an exciting puzzle: across depression, anxiety, addiction, and now OCD, the same pattern keeps emerging—the most transformative therapeutic effects seem tied to these profound, awe-filled moments. This shifts how we think about healing with psychedelics: it's not just about the drug itself, but about what happens in the mind when people encounter something genuinely bigger than themselves.",
-        "da": "Hvad hvis nøglen til at bryde fri fra tvangstanker ligger i en dyb følelse af undren og sammenhæng? Ny forskning om psilocybin til behandlingsresistent OCD tyder på, at mennesker, som oplever dybe mystiske tilstande under deres sessions—fornemmelser af enhed, transcendens og tidløshed—viser den mest varig forbedring af deres symptomer, selv et år senere. Det vigtige er, at en vanskelig eller ubehagelig oplevelse under sessionerne ikke forudsagde dårligere resultater, hvilket tyder på, at komforten under oplevelsen betyder mindre end den dybde af betydning, som mennesker finder.\n\nForskerne fulgte 27 mennesker med OCD, som ikke havde reageret på standardbehandlinger, og fulgte deres mystiske oplevelser og OCD-symptomer over et år. Resultaterne tilføjer et nyt stykke til et spændende puslespil: på tværs af depression, angst, misbrug og nu OCD ser man samme mønster igen og igen—de mest transformative terapeutiske effekter ser ud til at være forbundet med disse dybe, underfyldte øjeblikke. Dette skifter hvordan vi tænker på helbredelse med psykedelika: det handler ikke bare om stoffet selv, men om hvad der sker i sindet, når mennesker møder noget, der er virkelig større end dem selv."
-      },
-      "added_at": "2026-09-24T12:35:26.747057+00:00"
     }
   ]
 }
