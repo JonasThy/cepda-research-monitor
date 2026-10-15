@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-14T12:41:46.316973+00:00",
+  "generated_at": "2026-10-15T12:30:45.224224+00:00",
   "items": [
+    {
+      "title": "\"Am I a candidate for magic mushrooms?\" A mystery shopper study of Oregon psilocybin service centers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42871231/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "psilocybin",
+      "context": "policy",
+      "summaries": {
+        "en": "Oregon just became the first US state to let people access supervised psilocybin services legally—and researchers wanted to know: what's actually happening? They called 22 licensed centers pretending to be people seeking help for depression. The good news? Every single center took safety seriously, asking detailed questions about psychiatric history and never pushing anyone to stop antidepressants. But here's the catch: the median cost is $1,900 per session, and many centers are struggling financially under licensing fees. This mystery shopper study reveals a system that's playing it cautious—which protects people—but might be pricing out those who need it most. As psychedelics move from underground to regulated spaces, Oregon's early experiment shows us both the promise and the real-world challenges ahead.",
+        "da": "Oregon blev lige det første amerikanske stat, der tillader lovlig, overvåget psykedelika-behandling—og forskere ville vide: hvad sker der egentlig? De ringede til 22 licenserede centre og udgav sig for at være mennesker, der søgte hjælp for depression. Den gode nyhed? Hvert eneste center tog sikkerhed seriøst, stillede detaljerede spørgsmål om psykiatrisk historie og pressede aldrig nogen til at stoppe antidepressiva. Men der er en hage: mediankostnaden er $1.900 pr. session, og mange centre kæmper økonomisk med licensgebyrer. Dette mystery shopper-studie viser os et system, der spiller det sikkert—som beskytter mennesker—men muligvis udelukker dem, der har størst brug for det. Mens psykedelika bevæger sig fra underjorden til regulerede rum, viser Oregons tidlige eksperiment både løftet og de virkelige udfordringer forude."
+      },
+      "added_at": "2026-10-15T12:30:13.926164+00:00"
+    },
+    {
+      "title": "AI-assisted characterization of psychedelic clinical trials from ClinicalTrials.gov",
+      "url": "https://doi.org/10.1186/s13063-026-10053-6",
+      "source": "OpenAlex",
+      "date": "2026-10-14",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "There are now over 400 clinical trials testing psychedelics for mental health — and psilocybin is leading the charge, with depression as the top target. Researchers used AI to map this explosive growth across ClinicalTrials.gov, finding psilocybin in 244 trials, MDMA in 99, and LSD, DMT, and other compounds filling out the landscape. A team connected an AI language model directly to the trial registry to pull and organize this messy, sprawling data automatically — something that would take humans months to do by hand. This snapshot reveals where psychedelic medicine is actually heading: depression and PTSD are the clinical frontlines, and the field is moving fast enough that AI is now the only practical way to keep track. Welcome to the new era of psychedelic research.",
+        "da": "Der findes nu over 400 kliniske forsøg, der tester psykedelika mod psykiske lidelser — og psilocybin fører an, med depression som det vigtigste mål. Forskere brugte kunstig intelligens til at kortlægge denne eksplosive vækst på ClinicalTrials.gov og fandt psilocybin i 244 forsøg, MDMA i 99, og LSD, DMT og andre stoffer udfylder landskabet. Et team forbandt en AI-sprogmodel direkte til forsøgsregistret for automatisk at trække og organisere denne rodet, spredt data — noget der ville tage mennesker måneder at gøre manuelt. Dette øjebliksbillede afslører, hvor psykedelisk medicin faktisk er på vej: depression og PTSD er de kliniske frontlinjer, og området udvikler sig så hurtigt, at AI nu er den eneste praktiske måde at følge med på. Velkommen til psykedelisk forskeringens nye æra."
+      },
+      "added_at": "2026-10-15T12:30:13.926164+00:00"
+    },
+    {
+      "title": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1682810",
+      "source": "OpenAlex",
+      "date": "2026-10-14",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network",
+        "da": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network"
+      },
+      "added_at": "2026-10-15T12:30:13.926164+00:00"
+    },
+    {
+      "title": "[Connectome and Depression: Towards Precision Psychiatry Based on Brain Networks].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858129/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Scientists are mapping the brain's wiring to finally understand why depression hits different people in different ways—and more importantly, which treatments will actually work for *you*. A new review shows that brain scan patterns can reveal whether someone will respond to therapy, antidepressants, or even ketamine, opening a door to truly personalized mental healthcare instead of trial-and-error guessing. Researchers analyzed brain imaging studies looking at how depression disrupts key networks involved in mood, reward, and decision-making. The takeaway? We're moving toward \"precision psychiatry\"—medicine tailored to your brain, not a one-size-fits-all approach. It's still early, and real clinical challenges remain, but understanding these neural patterns is a fundamental shift that could transform how we treat depression.",
+        "da": "Forskere kortlægger hjernens forbindelser for endelig at forstå, hvorfor depression rammer forskellige mennesker på forskellige måder—og vigtigere: hvilken behandling der faktisk virker for *dig*. En ny oversigt viser, at hjernescans kan afsløre, om man reagerer på terapi, antidepressiva eller endda ketamin, og åbner døren til virkelig personaliseret psykisk sundhedssorg i stedet for prøve-og-fejl. Forskere analyserede hjernebillede-studier, der kiggede på, hvordan depression forstyrrer vigtige netværk involveret i stemning, belønning og beslutningstagning. Konklusionen? Vi bevæger os mod \"præcisions-psykiatri\"—medicin skræddersyet til din hjerne, ikke en løsning der passer alle. Det er stadig tidligt, og rigtige kliniske udfordringer består, men forståelsen af disse neurale mønstre er et fundamentalt skift, der kan transformere, hvordan vi behandler depression."
+      },
+      "added_at": "2026-10-15T12:30:13.926164+00:00"
+    },
+    {
+      "title": "Salud intercultural en Pastaza: regulación del uso de plantas medicinales y de la ayahuasca",
+      "url": "https://doi.org/10.62574/n08gyqka",
+      "source": "OpenAlex",
+      "date": "2026-10-14",
+      "drug": "ayahuasca",
+      "context": "policy",
+      "summaries": {
+        "en": "Ayahuasca has been used for centuries in Amazonian communities, but when taken outside that cultural context—like in retreat centers around the world—the risks multiply fast. A new study examining legal frameworks and scientific evidence in Ecuador's Pastaza region found a troubling gap: while indigenous medicine is constitutionally recognized, there are zero specific safety standards, dosing guidelines, or protections for traditional knowledge. The research reviewed international law, ethnobotanical data, and clinical evidence to understand how psychedelics like ayahuasca should actually be regulated. The conclusion? We need rules created *with* indigenous communities and knowledge keepers, not imposed from outside. This matters because it points toward a smarter future where psychedelics are respected both as powerful medicines and as part of living cultures.",
+        "da": "Ayahuasca er blevet brugt i århundreder i amazonske samfund, men når det tages uden for den kulturelle sammenhæng—som på retreats rundt omkring i verden—stiger risiciene hurtigt. Et nyt studie af juridiske rammer og videnskabelig evidens i Ecuadors Pastaza-region afslørede et bekymrende hul: selvom oprindelig medicin er forfatningsmæssigt anerkendt, findes der nul specifikke sikkerhedsstandarder, doseringsretningslinjer eller beskyttelse af traditionel viden. Forskningen gennemgik international lov, etnobotaniske data og klinisk evidens for at forstå, hvordan psykedelika som ayahuasca egentlig bør reguleres. Konklusionen? Vi har brug for regler skabt *sammen med* oprindelige samfund og videnskeepere, ikke påtvunget udefra. Dette betyder noget, fordi det peger mod en smartere fremtid, hvor psykedelika respekteres både som kraftfulde mediciner og som del af levende kulturer."
+      },
+      "added_at": "2026-10-15T12:30:13.926164+00:00"
+    },
     {
       "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
@@ -715,71 +780,6 @@
         "da": "Ketamin virker hurtigt for alvorlig depression, men det virker ikke for alle—og nu kommer vi tættere på at finde ud af hvem det faktisk hjælper. En stor gennemgang af 150 studier viste, at dit udgangspunkt for depression, angstniveauer, søvnmønstre, inflammationsmarkører, B12-vitamin, gener og endda tidlig hjernaktivitet kan forudsige om IV-ketamin bliver dit gennembrud. Forskere kombinerede kliniske data, hjernescans, blodprøver og kognitive tests for at tegne et klarere billede af hvad der gør nogen til en god kandidat. Det betyder noget, fordi depression, som ikke har reageret på standardbehandlinger, er ødelæggende—og hvis vi kan forudsige hvem der får gavn af ketamin før behandlingen starter, kan vi springe forsøg-og-fejl over og få folk lindring hurtigere. Det større billede: psykedelika-forskningen bevæger sig mod præcisionsmedicin, idet man forstår at hjernekemi ikke er en størrelse der passer alle, og at fremtiden for depressionbehandling ligger i at matche den rette person til den rette intervention baseret på deres unikke biologi."
       },
       "added_at": "2026-09-29T13:49:40.272735+00:00"
-    },
-    {
-      "title": "[Psychedelics and the unconscious: What are their clinical implications?].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805745/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psychedelics might be opening a door to parts of our mind we usually can't reach. New research is examining how these substances shift our consciousness in ways that surface psychological content that's normally hidden—and it turns out this access could be genuinely therapeutic, if done right. Scientists reviewed what psychedelics actually do to the unconscious mind, exploring how the altered states they create might help people work through deep stuff. The catch? Setting matters enormously, and so does what happens after the trip ends. As psychedelic research gains momentum in psychiatry, understanding the unconscious piece of the puzzle is becoming crucial to figuring out why these medicines work—and how to use them wisely.",
-        "da": "Psykedelika kan åbne en dør til dele af vores sind, som vi normalt ikke kan nå. Ny forskning undersøger, hvordan disse stoffer skifter vores bevidsthed på måder, der bringer psykologisk indhold til overfladen—indhold, der normalt er skjult—og det viser sig, at denne adgang faktisk kan være terapeutisk, hvis det gøres rigtigt. Forskere gennemgik, hvad psykedelika gør ved det ubevidste sind, og udforsker, hvordan de ændrede tilstande, de skaber, kan hjælpe mennesker med at arbejde gennem dybt stof. Haken? Miljøet betyder enormt meget, og det gør integrationen efter oplevelsen også. Mens psykedelisk forskning får momentum inden for psykiatri, bliver det afgørende at forstå det ubevidste stykke af puslespillet for at finde ud af, hvorfor disse mediciner virker—og hvordan man bruger dem klogt."
-      },
-      "added_at": "2026-09-29T13:49:40.272735+00:00"
-    },
-    {
-      "title": "Working with post-psychedelic difficulties: a meta-aggregation of users’ experiences and implications for counselling practice",
-      "url": "https://doi.org/10.1080/09515070.2026.2732966",
-      "source": "OpenAlex",
-      "date": "2026-09-27",
-      "drug": "other",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "Not every psychedelic experience ends with a neat insight and a smile. A new review of over 700 people reveals that challenging trips and the messy aftermath are far more common than we often discuss—and that what helps one person might not help another. The research, which analysed seven studies from the past five years, shows that people struggle with everything from lingering distress to identity confusion, but they're surprisingly creative at finding their own ways through it. Here's what matters: as psychedelics move beyond the clinic and into people's lives, therapists and supporters need to move away from one-size-fits-all approaches. Instead, the evidence points toward flexible, harm-reduction-focused support that meets people where they are, respects their different experiences, and helps them make sense of what happened. This isn't a reason to fear psychedelics—it's a call to get smarter about how we prepare, guide, and support the people using them.",
-        "da": "Ikke alle psykedelika-oplevelser ender med en pæn indsigt og et smil. En ny forskningstgennemgang af over 700 mennesker afslører, at vanskelige trips og det rodede efterspil er langt mere almindeligt, end vi plejer at tale om—og at det, der hjælper én person, måske ikke hjælper en anden. Forskningen, som analyserede syv studier fra de seneste fem år, viser, at mennesker kæmper med alt fra vedvarende ubehag til identitetsforvirring, men de er overraskende kreative til at finde deres egne veje gennem det. Her er det vigtige: når psykedelika bevæger sig ud over klinikken og ind i menneskers liv, skal terapeuter og støttepersoner væk fra en-løsning-passer-alle-tilgange. I stedet peger beviser mod fleksibel, skadereduktion-fokuseret støtte, der møder mennesker, hvor de er, respekterer deres forskellige oplevelser, og hjælper dem med at give mening til, hvad der skete. Dette er ikke en grund til at være bange for psykedelika—det er et opråb om at blive smartere til, hvordan vi forbereder, vejleder og støtter de mennesker, der bruger dem."
-      },
-      "added_at": "2026-09-28T15:01:48.608613+00:00"
-    },
-    {
-      "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800500/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Ketamine works fast and broad. New research shows it tackles multiple depression symptoms simultaneously—sadness, hopelessness, even suicidal thoughts—within just four hours. Scientists analyzed data from 132 people with treatment-resistant depression who had tried everything else, comparing ketamine to control treatments across two rigorous trials. By mapping how symptoms connect to each other, researchers discovered that ketamine doesn't just fix one thing; it creates a ripple effect that disrupts the entire depression network. This points to something genuinely different about how psychedelics work: they might reset broken patterns rather than simply turning down individual symptoms. As ketamine and other psychedelics move deeper into clinical psychiatry, understanding these broad, interconnected effects could be key to predicting who benefits most and why.",
-        "da": "Ketamin virker hurtigt og bredt. Ny forskning viser, at det påvirker flere depressionsymptomer samtidigt—tristhed, håbløshed, selv tanker om selvskade—på blot fire timer. Forskere analyserede data fra 132 mennesker med behandlingsresistent depression, der havde prøvet alt muligt, ved at sammenligne ketamin med kontrol på tværs af to strenge studier. Ved at kortlægge, hvordan symptomer hænger sammen, opdagede de, at ketamin ikke bare fikser én ting; det skaber en kaskadeeffekt, der forstyrrer hele depressionsmønstret. Det peger på noget væsentligt anderledes ved, hvordan psykedelika virker: de nulstiller måske ødelagte mønstre snarere end blot at dæmpe individuelle symptomer. Når ketamin og andre psykedelika bevæger sig dybere ind i psykiatrien, kunne forståelsen af disse brede, sammenhængende effekter være nøglen til at forudsige, hvem der får gavn, og hvorfor."
-      },
-      "added_at": "2026-09-27T12:50:39.780782+00:00"
-    },
-    {
-      "title": "Deciphering the allosteric landscape of 5-HT2 receptors: integrated molecular dynamics and fragment molecular orbital analyses of activation mechanisms",
-      "url": "https://doi.org/10.1007/s43440-026-00909-8",
-      "source": "OpenAlex",
-      "date": "2026-09-25",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists have just mapped out how psychedelics actually flip the switch in your brain at the molecular level—and it's way more sophisticated than anyone thought. Rather than a simple on-off mechanism, these receptors (the 5-HT2 family that psychedelics target) operate through an intricate network of cooperative signals, like a coordinated relay race rather than a single light switch. The research used cutting-edge computer simulations to trace exactly how molecules move and interact when psychedelics bind to these receptors, revealing that different receptor subtypes respond uniquely—which could explain why psychedelics affect people so variably. This detailed molecular blueprint is a game-changer for psychedelic science: understanding *how* these compounds work at this granular level opens the door to designing better therapies and potentially predicting which compounds might help which conditions.",
-        "da": "Videnskabsmænd har netop kortlagt, hvordan psykedelika faktisk tænder for brancherne i dit hjerne på molekylært niveau—og det er langt mere sofistikeret end nogen troede. I stedet for en simpel tænd-sluk-mekanisme fungerer disse receptorer (5-HT2-familien, som psykedelika målretter mod) gennem et intrikat netværk af samarbejdende signaler, som et koordineret stafetløb snarere end en enkelt lysknap. Forskningen brugte avancerede computersimuleringer til at spore præcist, hvordan molekyler bevæger sig og interagerer, når psykedelika binder til disse receptorer, og det afslører, at forskellige receptortyper reagerer unikt—hvilket kan forklare, hvorfor psykedelika påvirker mennesker så variabelt. Dette detaljerede molekylære billede er et game-changer for psykedelika-forskningen: hvis vi forstår *hvordan* disse stoffer virker på dette granulære niveau, åbner det døren til at designe bedre terapier og potentielt forudsige, hvilke forbindelser der kunne hjælpe hvilke tilstande."
-      },
-      "added_at": "2026-09-27T12:50:39.780782+00:00"
-    },
-    {
-      "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the key to quitting smoking wasn't willpower alone, but a medicine that rewires how your brain handles cravings and change? A new pilot study gave seven long-term smokers three doses of ketamine paired with therapy, and something striking happened: everyone stuck with the treatment, smoking dropped, and cravings eased—without serious side effects. This matters because traditional smoking cessation methods work for maybe 30% of people, leaving millions frustrated after repeated failed attempts. The study combined ketamine's neuroplasticity-boosting effects with motivational therapy to strengthen both brain flexibility and psychological resolve. As psychedelics research expands beyond depression and PTSD, this work hints at a much bigger possibility: using these medicines to help people break free from addiction patterns that have resisted every other approach. Early days, sure, but it's the kind of finding that makes you wonder what we've been missing.",
-        "da": "Hvad hvis nøglen til at stoppe med at ryge ikke var vilje alene, men et medicin der omformer hvordan din hjerne håndterer trang og forandring? Et nyt pilotforsøg gav syv langtidsrygere tre doser ketamin kombineret med terapi, og noget bemærkelsesværdigt skete: alle fuldførte behandlingen, rygningen faldt, og trangene mindskedes—uden alvorlige bivirkninger. Dette betyder noget, fordi traditionelle rygestopmetoder virker for måske 30% af mennesker, hvilket efterlader millioner frustrerede efter gentagne fejlslagne forsøg. Studiet kombinerede ketamins evne til at øge neuroplasticitet med motivationsterapi for at styrke både hjernens fleksibilitet og psykologisk vilje. Mens psykedelika-forskning udvides ud over depression og PTSD, antyder dette arbejde en meget større mulighed: at bruge disse mediciner til at hjælpe mennesker med at bryde fri af afhængighedsmønstre som har modstået alle andre tilgange. Det er tidligt stadig, men det er netop den slags fund der får dig til at undre dig over hvad vi har overset."
-      },
-      "added_at": "2026-09-26T12:05:53.464633+00:00"
     }
   ]
 }
