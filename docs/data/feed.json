@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-16T12:09:03.340006+00:00",
+  "generated_at": "2026-10-17T11:27:42.216570+00:00",
   "items": [
+    {
+      "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "psilocybin",
+      "context": "mental-health",
+      "summaries": {
+        "en": "French psychiatrists and psychologists are warming up to psychedelics—but with caution. A new survey of nearly 300 mental health professionals found that 53% see real therapeutic promise in substances like psilocybin and LSD, especially for treatment-resistant depression. Yet most remain skeptical about recreational use, and many know surprisingly little about psychedelics beyond the headlines. Researchers asked French caregivers about their knowledge and attitudes toward psychedelics in a December 2023–January 2024 survey, just as France was launching its first official clinical trials. The findings matter because they show where the psychiatric establishment stands as psychedelic research accelerates globally—and what gaps need filling. Right now, openness to psychedelics among French mental health professionals sits somewhere between curiosity and caution, a realistic snapshot of how mainstream medicine is slowly, thoughtfully reconsidering these compounds.",
+        "da": "Franske psykiatere og psykologer bliver mere åbne over for psykedelika—men med forsigtighed. En ny undersøgelse af knap 300 psykiske sundhedsprofessionelle viser, at 53% ser reel terapeutisk potentiale i stoffer som psilocybin og LSD, især til behandlingsresistent depression. Alligevel er de fleste skeptiske over for rekreativt brug, og mange ved overraskende lidt om psykedelika ud over mediebråk. Forskere spurgte franske sundhedspersonale om deres viden og holdninger til psykedelika i december 2023–januar 2024, lige da Frankrig lancerede sine første officielle kliniske forsøg. Resultaterne betyder noget, fordi de viser hvor det psykiatriske establishment står, mens psykedelika-forskningen accelererer globalt—og hvor der er huller at fylde. Lige nu ligger åbenhedet blandt franske psykiske sundhedsprofessionelle et sted mellem nysgerrighed og forsigtighed, et realistisk billede af, hvordan medicinen langsomt, tankefuldt overvejer disse stoffer på ny."
+      },
+      "added_at": "2026-10-17T11:27:11.568346+00:00"
+    },
+    {
+      "title": "After the Trip: A Qualitative Study of Healthy Individuals' Motor Experiences Following Different Doses of Psilocybin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886634/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Your body feels different on psychedelics—but maybe not in the way you'd think. New research found that people on psilocybin report surprisingly mixed experiences with movement: some feel clumsy or slow, others feel more fluid and connected to their bodies. Interestingly, these motor shifts seem dose-dependent, meaning the strength of the experience really matters. Researchers interviewed 12 healthy participants about their physical sensations after doing movement tasks on different amounts of psilocybin, then carefully analyzed what they said. This work fills a real gap in psychedelic science—we know a lot about the mind-bending aspects, but less about how your nervous system actually experiences its own movement. As researchers push toward therapeutic uses, understanding these physical dimensions matters for safety and helping people have better experiences.",
+        "da": "Din krop føles anderledes på psykedelika—men måske ikke som du skulle tro. Ny forskning viser, at mennesker på psilocybin rapporterer overraskende blandede oplevelser med bevægelse: nogle føler sig klumset eller langsomme, andre føler sig mere flydende og forbundne med deres kroppe. Interessant nok synes disse motoriske skift at være dosisafhængige, hvilket betyder, at styrken af oplevelsen virkelig betyder noget. Forskerne interviewede 12 raske deltagere om deres fysiske fornemmelser efter at have udført bevægelsesopgaver ved forskellige mængder psilocybin og analyserede derefter omhyggeligt det, de sagde. Dette arbejde udfylder et reelt hul i psykedelika-forskningen—vi ved meget om de sindsbevægende aspekter, men mindre om, hvordan dit nervesystem faktisk oplever sin egen bevægelse. Når forskere arbejder mod terapeutiske anvendelser, betyder det at forstå disse fysiske dimensioner noget for sikkerhed og for at hjælpe mennesker med at få bedre oplevelser."
+      },
+      "added_at": "2026-10-17T11:27:11.568346+00:00"
+    },
+    {
+      "title": "Coding and Classification Errors in Study of Psilocybin Services",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2026.44571",
+      "source": "OpenAlex",
+      "date": "2026-10-16",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "A new study has caught some important mistakes in how psilocybin services are being tracked and classified — and that matters more than you'd think. When researchers looked at the data, they found coding errors that could make it harder to actually understand what's working in these emerging treatment programmes. Getting the details right isn't boring bureaucracy; it's the foundation for knowing whether psilocybin therapy really helps people and how to do it better. The researchers reviewed existing datasets to spot these problems, shining a light on a gap in how we're documenting this rapidly growing field. As psilocybin services expand globally and research accelerates, having clear, consistent standards matters hugely — it's the difference between hype and solid science.",
+        "da": "En ny undersøgelse har afsløret vigtige fejl i, hvordan psilocybin-tjenester bliver registreret og klassificeret — og det betyder mere end du tror. Da forskere kiggede på dataene, fandt de kodningsfejl, der kunne gøre det sværere at forstå, hvad der virker i disse nye behandlingsprogrammer. At få detaljerne rigtigt er ikke kedeligt bureaukrati; det er grundlaget for at vide, om psilocybin-terapi virkelig hjælper mennesker og hvordan vi gør det bedre. Forskerne gennemgik eksisterende datasæt for at finde disse problemer og kastede lys på et hul i, hvordan vi dokumenterer dette hurtigt voksende felt. Efterhånden som psilocybin-tjenester ekspanderer globalt og forskningen accelererer, betyder klare, ensartede standarder enormt meget — det er forskellen mellem hype og solid videnskab."
+      },
+      "added_at": "2026-10-17T11:27:11.568346+00:00"
+    },
+    {
+      "title": "Adverse outcomes of psychedelics self‐reported: Survey",
+      "url": "https://doi.org/10.1002/adaw.35083",
+      "source": "OpenAlex",
+      "date": "2026-10-16",
+      "drug": "other",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "A major U.S. survey reveals which psychedelics cause the most problems: ibogaine and 5-MeO-DMT topped the list for adverse effects per dose, while psilocybin, LSD, and MDMA caused more total problems simply because more people use them. Ibogaine stood out for heart risks, which researchers already knew to watch for. This matters because these substances are now in serious clinical trials for depression, anxiety, and other psychiatric conditions—and we need honest data about what can go wrong to help doctors and patients make informed decisions.\n\nThe researchers surveyed nearly 2,000 American adults about their experiences over the past year, making this one of the first large-scale snapshots of real-world safety. While the study can't prove cause-and-effect, it adds crucial ground-truth to the conversation happening in labs and clinics right now: psychedelics show genuine promise, but they're not risk-free, and different substances carry different dangers.",
+        "da": "En stor amerikansk undersøgelse afslører, hvilke psykedelika der forårsager flest problemer: ibogain og 5-MeO-DMT toppede listen for bivirkninger pr. dosis, mens psilocybin, LSD og MDMA forårsagede flere samlede problemer, simpelthen fordi flere mennesker bruger dem. Ibogain skiller sig ud for hjertekomplikationer, som forskere allerede vidste, man skulle være opmærksom på. Det betyder noget, fordi disse stoffer nu er i seriøse kliniske forsøg for depression, angst og andre psykiatriske tilstande—og vi har brug for ærlig data om, hvad der kan gå galt, så læger og patienter kan træffe informerede beslutninger.\n\nForskerne adspurgte næsten 2.000 amerikanske voksne om deres erfaringer over det seneste år, hvilket gør dette til et af de første store øjebliksbilleder af sikkerhed i den virkelige verden. Selvom studiet ikke kan bevise årsag og virkning, tilføjer det vigtig indsigt til samtalen, der foregår på laboratorier og klinikker lige nu: psykedelika viser ægte løfte, men de er ikke risikofrie, og forskellige stoffer bærer forskellige farer."
+      },
+      "added_at": "2026-10-17T11:27:11.568346+00:00"
+    },
+    {
+      "title": "Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry and Gas Chromatography-Mass Spectrometry Screening of Classical Psychoactive Substances, Novel Psychoactive Substances, and Metabolites in Postmortem Urine Samples",
+      "url": "https://europepmc.org/article/PMC/PMC13666820",
+      "source": "EuropePMC (Denmark)",
+      "date": "2026-09-28",
+      "drug": "other",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "Researchers have developed a sophisticated new way to detect psychedelics and their metabolites in postmortem samples—a breakthrough that could transform how forensic scientists understand deaths involving these substances. Using advanced chemical analysis techniques, scientists can now identify not just what someone took, but also trace the byproducts their body created, painting a much clearer picture than ever before.\n\nThis Danish study represents a crucial shift in how we approach psychedelic research scientifically. By creating better forensic tools, researchers aren't just solving mysteries—they're building the foundation for understanding how these substances interact with human biology at the deepest level. As psychedelics move from underground into clinical trials and legitimate research, having this kind of precise analytical capability matters enormously for safety, regulation, and our growing knowledge of how these compounds actually work.",
+        "da": "Forskere har udviklet en sofistikeret ny metode til at opdage psykedelika og deres metabolitter i obduktionsprøver—et gennembrud, der kunne transformere, hvordan retsmedicinere forstår dødsfald involverende disse stoffer. Ved hjælp af avancerede kemiske analyseteknikker kan videnskabsmændene nu identificere ikke bare hvad nogen tog, men også spore de biprodukter deres krop dannede, hvilket giver et meget klarere billede end nogensinde før.\n\nDenne danske undersøgelse repræsenterer et afgørende skift i, hvordan vi behandler psykedelika-forskning videnskabeligt. Ved at skabe bedre retsmedicinske værktøjer bygger forskerne ikke bare på løsning af mysterier—de konstruerer fundamentet for at forstå, hvordan disse stoffer interagerer med menneskelig biologi på det dybeste niveau. Efterhånden som psykedelika bevæger sig fra underjorden ind i kliniske forsøg og legitim forskning, betyder denne præcise analytiske kapacitet enormt meget for sikkerhed, regulering og vores voksende kendskab til, hvordan disse forbindelser faktisk virker."
+      },
+      "added_at": "2026-10-17T11:27:11.568346+00:00"
+    },
     {
       "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
@@ -715,71 +780,6 @@
         "da": "Psykedelika kan åbne dybe døre til healing, men en ny undersøgelse advarer om, at de intense oplevelser de skaber ikke automatisk betyder, at vi skal stole på dem som præcise minder. Forskere fandt ud af, at mennesker—især traumeoverlevere—under psykedelika-assisteret terapi kan være helt sikre på oplevelser, der måske ikke afspejler hvad der faktisk skete. De levende, meningsfulde fornemmelser føles rigtige, men følelser er ikke fakta, og terapeuter har brug for det, forskerne kalder \"epistemisk disciplin\": visdommen til at holde rum for kraftfulde indsigter uden at behandle dem som historiske sandheder.\n\nDenne undersøgelse, som undersøgte hvordan hukommelse, bindingsmønstre og tidligere misbrug former vores sårbarhed under terapi, tilføjer et afgørende etisk lag til psykedelika-forskningen. Mens disse mediciner bevæger sig mod klinisk mainstream-brug, lærer feltet, at sikkerhed betyder mere end fysisk velbefindende—det handler om at beskytte menneskers evne til at tænke klart om deres egne oplevelser. Budskabet er ikke pessimistisk; det handler om at gøre dette arbejde ansvarligt, med terapeuter trænet til at guide mennesker gennem usikkerhed med medfølelse i stedet for falsk sikkerhed."
       },
       "added_at": "2026-10-02T13:39:00.088414+00:00"
-    },
-    {
-      "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if a single treatment could tackle both the invisible wounds of trauma and the stubborn headaches that often follow? Researchers are testing exactly that—combining ketamine infusions with a nerve-blocking procedure to see if they work better together for people struggling with PTSD and traumatic brain injury headaches. The catch? Current treatments often mean taking multiple drugs with mixed results, so there's real hope here for something simpler that actually works.\n\nThis large international trial across the US and Ukraine will follow 210 patients to compare ketamine alone, nerve blocks alone, both together, and placebos—all carefully measured over six months. It's the kind of pragmatic, real-world research that could shift how clinicians approach these overlapping conditions, finally moving beyond the one-size-fits-all approach that leaves so many people frustrated.",
-        "da": "Hvad hvis en enkelt behandling kunne løse både traumets usynlige ar og de stædige hovedpiner, der ofte følger efter? Forskere tester præcis det—at kombinere ketamin-infusioner med en nerveblokadeprocedure for at se, om de virker bedre sammen for mennesker, der kæmper med PTSD og traumatisk hjerneskaderelateret hovedpine. Sagen? Nuværende behandlinger betyder ofte at tage flere lægemidler med blandede resultater, så der er ægte håb her for noget enklere, der faktisk virker.\n\nDenne store internationale undersøgelse på tværs af USA og Ukraine vil følge 210 patienter for at sammenligne ketamin alene, nerveblokader alene, begge sammen og placebos—alt omhyggeligt målt over seks måneder. Det er den slags praktisk, virkelighedsnær forskning, der kunne ændre, hvordan klinikere tackler disse overlappende tilstande, og endelig bevæge sig væk fra one-size-fits-all-tilgangen, der efterlader så mange mennesker frustrerede."
-      },
-      "added_at": "2026-10-01T14:16:59.644432+00:00"
-    },
-    {
-      "title": "Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812990/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When standard antidepressants don't work, people with treatment-resistant depression have nowhere left to turn—but psychedelics like psilocybin and ayahuasca are showing real promise. Research reveals both compounds can rapidly reduce depressive symptoms, with psilocybin demonstrating particularly lasting effects. The catch? Most studies happen in pristine lab settings with carefully selected patients, excluding those with the messiest real-world challenges: multiple medications, high suicide risk, or other health conditions. A new review digs into what we actually know and what we're missing, examining not just whether these compounds work, but how the science is done and whether the findings will hold up when people take them outside the clinic. As psychedelic research moves from fringe to mainstream, these honest questions about study design and ethics aren't obstacles—they're exactly what we need to get this right.",
-        "da": "Når almindelige antidepressiva ikke virker, står mennesker med behandlingsresistent depression uden veje tilbage—men psykedelika som psilocybin og ayahuasca viser reel lovende effekt. Forskning viser, at begge stoffer kan reducere depressive symptomer hurtigt, hvor psilocybin især demonstrerer varige effekter. Problemet? De fleste studier foregår i rene laboratorieforhold med omhyggeligt udvalgte patienter, der udelukker dem med de mest komplekse virkeligheds-udfordringer: flere mediciner, høj selvmordrisiko eller andre helbredstilstande. En ny oversigt udforsker, hvad vi faktisk ved og hvad vi overser, og undersøger ikke blot om stofferne virker, men hvordan videnskaben udføres og om resultaterne holder når mennesker bruger dem uden for klinikken. Efterhånden som psykedelika-forskning bevæger sig fra randzone til mainstream, er disse ærlige spørgsmål om studiedesign og etik ikke forhindringer—de er præcis hvad vi har brug for for at få det rigtigt."
-      },
-      "added_at": "2026-10-01T14:16:59.644432+00:00"
-    },
-    {
-      "title": "Add-on intravenous ketamine eliminates treatment lag period in severe non-treatment-resistant major depression: Rapid antidepressant and anti-suicidal effects - A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812942/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When depression hits hard, waiting weeks for medication to work can be dangerous—suicide risk peaks in those critical first weeks. A new study found something striking: adding ketamine infusions to standard treatment cut through that deadly waiting period, with 58% of severely depressed patients showing major improvement within 12 days, compared to just 29% on standard treatment alone. Even better, suicidal thoughts dropped significantly in the ketamine group. Researchers gave 40 patients with severe depression either ketamine or placebo alongside their regular antidepressants over two weeks. This is early-stage research that needs bigger follow-up studies, but it hints at something important: psychedelics might not just help people stuck on failed treatments—they could save lives right now, in those dangerous early weeks when people need relief most.",
-        "da": "Når depressionen rammer hårdt, kan det være dødeligt at vente på, at medicinen virker—selvmordsfaren er størst i de første kritiske uger. Et nyt studie fandt noget bemærkelsesværdigt: når man tilføjede ketamin-infusioner til standardbehandling, reduceredes denne dødbringende ventetid markant—58% af alvorligt deprimerede patienter viste betydelig forbedring inden for 12 dage, sammenlignet med blot 29% på standardbehandling alene. Endnu bedre: selvmordstanker faldt markant i ketamingruppen. Forskere gav 40 patienter med alvorlig depression enten ketamin eller placebo sammen med deres almindelige antidepressiver over to uger. Dette er forskning på tidligt stadium, der skal bekræftes i større studier, men det peger på noget vigtigt: psykedelika må ikke bare hjælpe mennesker, hvis andre behandlinger fejler—de kunne redde liv netop nu, i de farlige første uger, når mennesker har mest brug for lindring."
-      },
-      "added_at": "2026-10-01T14:16:59.644432+00:00"
-    },
-    {
-      "title": "Stroboscopic light stimulation as a controllable probe of the psilocybin state: a mechanistic framework and a falsifiable prediction",
-      "url": "https://doi.org/10.3389/fphar.2026.1852799",
-      "source": "OpenAlex",
-      "date": "2026-09-30",
-      "drug": "psilocybin",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "What if we could use flickering lights to fine-tune a psilocybin trip? New research suggests psilocybin and stroboscopic light create overlapping altered states, and that's no coincidence. Scientists propose that psilocybin loosens how strictly your brain holds onto its normal assumptions about reality, making you receptive to external rhythms in ways you normally aren't. When you're in that psilocybin window, the theory goes, a precisely timed flashing light could actually reshape your visual experience.\n\nResearchers tested this by comparing how people respond to rhythmic versus random flickering while on psilocybin, using brain imaging and questionnaires. This matters because it pins down exactly how psychedelics work—not just that they change your brain, but how they fundamentally shift what your brain pays attention to. It's a testable, falsifiable prediction in a field that usually deals with subjective experiences, representing the kind of mechanistic precision that psychedelic science needs to move forward.",
-        "da": "Hvad hvis vi kunne bruge blinkende lys til at finjustere en psykedelika-oplevelse? Ny forskning viser at psykedelika og stroboskopisk lys skaber overlappende ændrede bevidsthedstilstande—og det er ingen tilfældighed. Forskere foreslår at psykedelika løsner grebet på dine normale antagelser om virkeligheden, hvilket gør dig modtagelig for eksterne rytmer på måder, du normalt ikke er. Når du er i den psykedelika-tilstand, kunne en præcist tidssat blinkende lys faktisk omforme din visuelle oplevelse.\n\nForsker testede dette ved at sammenligne menneskers reaktion på rytmisk versus tilfældig blinkende lys mens på psykedelika, med hjælp fra hjernebilleder og spørgeskemaer. Det betyder noget fordi det præciserer præcis hvordan psykedelika virker—ikke blot at de ændrer din hjerne, men hvordan de fundamentalt skifter hvad din hjerne fokuserer på. Det er en testbar, falsificerbar forudsigelse i et felt der normalt handler om subjektive oplevelser—præcis den mekanistiske præcision som psykedelika-forskningen har brug for."
-      },
-      "added_at": "2026-10-01T14:16:59.644432+00:00"
-    },
-    {
-      "title": "Worsening of Depression and Anxiety With Psilocybin: A Case Report in Cyclothymia.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814595/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "psilocybin",
-      "context": "mental-health",
-      "summaries": {
-        "en": "A new case report raises an important caution: psilocybin, the active compound in magic mushrooms, made depression and anxiety worse in a person with cyclothymia—a mood disorder involving cycles of high and low moods. This isn't about dismissing psychedelics as medicine, but rather a reminder that they're powerful tools that don't work the same way for everyone. The case highlights why careful screening and personalised approaches matter hugely before anyone considers psychedelic-assisted therapy. As psychedelic research accelerates worldwide, these nuanced findings are just as crucial as the success stories—they help us understand who might benefit, who might struggle, and how to make this emerging field genuinely safe and effective for the people it aims to help.",
-        "da": "En ny casusrapport rejser en vigtig advarsel: psilocybin, det aktive stof i troldmandshat, gjorde depression og angst værre for en person med cyklotymi—en stemningsforstyrrelse med cyklusser af høje og lave humører. Det handler ikke om at afvise psykedelika som medicin, men snarere en påmindelse om, at de er kraftfulde værktøjer, der ikke virker på samme måde for alle. Sagen understreger, hvorfor omhyggelig screening og personlige tilgange betyder enormt meget, før nogen overvejer psykedelika-assisteret terapi. Når psykedelika-forskningen accelererer verden over, er disse nuancerede fund lige så vigtige som succeshistorierne—de hjælper os med at forstå, hvem der kan få gavn, hvem der kan få problemer, og hvordan vi gør denne nye feltudvikling virkelig sikker og effektiv."
-      },
-      "added_at": "2026-10-01T14:16:59.644432+00:00"
     }
   ]
 }
