@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-17T11:27:42.216570+00:00",
+  "generated_at": "2026-10-18T11:58:27.662305+00:00",
   "items": [
+    {
+      "title": "Ketamine in psychiatry: a systematic review of clinical applications, safety considerations, and emerging challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889292/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine is having a quiet revolution in psychiatry. Once used only as an anesthetic, it's now showing remarkable promise for treatment-resistant depression and chronic pain—often working within hours rather than weeks. What makes it special? It works differently than traditional antidepressants, triggering rapid changes in brain chemistry that literally rebuild neural connections. Researchers conducted a systematic review of 106 peer-reviewed studies to understand how ketamine actually works in the brain and where it's being used clinically. This fits into a broader shift happening right now: psychiatry is moving beyond older medications toward faster-acting, mechanism-based treatments. Ketamine's success is opening doors for how we think about mental health—but it also raises real questions about safety, recreational use, and access that the field is grappling with head-on.",
+        "da": "Ketamin gennemgår en stille revolution inden for psykiatrien. Det blev engang kun brugt som narkosemiddel, men viser nu bemærkelsesværdigt potentiale til behandling af depressioner, der ikke reagerer på andre medicin, og kroniske smerter—ofte med effekt inden for timer snarere end uger. Hvad gør det særligt? Det virker anderledes end traditionelle antidepressiva og udløser hurtige ændringer i hjernekemien, der bogstaveligt talt genopbygger nerveforbindelser. Forskere gennemgik systematisk 106 peer-reviewed studier for at forstå, hvordan ketamin virker i hjernen og hvor det bruges klinisk. Dette passer ind i en større skift, der sker lige nu: psykiatrien bevæger sig væk fra ældre medicin mod hurtigere virkende, mekanisme-baserede behandlinger. Ketamins succes åbner døre for, hvordan vi tænker om mental sundhed—men det rejser også reelle spørgsmål om sikkerhed, rekreativt misbrug og adgang, som området aktivt arbejder med."
+      },
+      "added_at": "2026-10-18T11:57:55.407972+00:00"
+    },
+    {
+      "title": "Serotonin 1B receptors expressed on forebrain excitatory neurons mediate the post-acute anxiolytic response to psilocybin in mice",
+      "url": "https://doi.org/10.1007/s00213-026-07184-8",
+      "source": "OpenAlex",
+      "date": "2026-10-17",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Scientists just figured out how psilocybin helps ease anxiety—and it's surprisingly specific. A new study in mice reveals that psilocybin's anxiety-busting effects don't happen during the trip itself, but *after*, through a particular type of serotonin receptor in the brain's excitatory neurons. This matters because it means the calming benefits might stick around even after the acute effects wear off—a genuine shift from trip to lasting relief.\n\nResearchers used genetic techniques to pinpoint exactly which brain cells and receptors were responsible, narrowing down a process that's been a mystery for years. This kind of precise mechanistic work is exactly what's pushing psychedelic science forward right now: moving beyond \"does it work?\" to \"how does it work, specifically?\" Understanding these neural pathways opens doors for developing better treatments and potentially creating compounds that capture the therapeutic benefits without requiring a full psychedelic experience.",
+        "da": "Videnskabsmænd har lige løst et puslespil omkring psykedelika og angst—og svaret er bemærkelsesværdigt præcist. Et nyt studie hos mus viser, at psykedelikas angstdæmpende effekter ikke sker under trippen selv, men *efter*, gennem en særlig type serotoninreceptor i hjernens excitatoriske neuroner. Det betyder, at den beroligende virkning kunne blive siddende længe efter, at det akutte forløber—et rigtigt skift fra trip til vedvarende lettelse.\n\nForskerne brugte genetiske teknikker til at pege nøjagtigt på, hvilke hjerneceller og receptorer der var ansvarlige, og løste dermed et mysterium, der har været uafklaret i årevis. Det her præcise arbejde er præcist det, der driver psykedelisk forskning fremad lige nu: at gå fra \"virker det?\" til \"hvordan virker det præcist?\" Når vi forstår disse neurale veje, åbner det døre for bedre behandlinger og potentielt stofforme, der fanger terapieffekterne uden at kræve en fuldstændig psykedelisk oplevelse."
+      },
+      "added_at": "2026-10-18T11:57:55.407972+00:00"
+    },
+    {
+      "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Traumatic memories can feel stuck, replaying over and over in people with PTSD. A new study shows ketamine might help unstick them—when memories are reactivated, ketamine seems to soften their grip, making them feel less threatening. Researchers used a simple organism called planaria to understand how: ketamine didn't erase the memory, but triggered the brain's natural ability to update and rewire it, boosting the proteins involved in neuroplasticity. This builds on growing evidence that ketamine works best when combined with memory reactivation, opening a genuinely new path for treating trauma—not by forgetting, but by helping the brain reprocess what happened.",
+        "da": "Traumatiske minder kan føles fastlåst, de gentager sig igen og igen for mennesker med PTSD. En ny undersøgelse viser, at psykedelika som ketamin kunne hjælpe med at løsne dem—når minder reaktiveres, ser ketamin ud til at mildne deres greb, så de føles mindre truende. Forskere brugte en simpel organisme kaldet planaria til at forstå hvordan: ketamin slettede ikke mindet, men udløste hjernens naturlige evne til at opdatere og omkablere det, og styrkede de proteiner, der er involveret i neuroplasticitet. Dette bygger på voksende evidens for, at ketamin virker bedst når det kombineres med mindeaktivering, og åbner en genuint ny vej for behandling af traumer—ikke ved at glemme, men ved at hjælpe hjernen med at genbearbejde det, der skete."
+      },
+      "added_at": "2026-10-18T11:57:55.407972+00:00"
+    },
+    {
+      "title": "What goes up must comedown: prevalence rates, characteristics, and coping strategies concerning MDMA aftereffects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891831/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "mdma",
+      "context": "harm-reduction",
+      "summaries": {
+        "en": "Three out of four MDMA users experience a rough comedown—and scientists just mapped exactly what that looks like. A new study of nearly 500 people found that most experience fatigue, brain fog, and restlessness starting about a day after use, typically lasting around 40 hours. The findings are sobering: some users report serious mood crashes, including suicidal thoughts. Researchers surveyed people about their real-world experiences and what actually helps them cope, from supplements to other strategies. As psychedelics move closer to becoming mainstream medicine, understanding what happens after the trip ends matters enormously—not just for recreational users, but for therapists and patients considering these compounds as treatments. This research fills a gap: we've focused heavily on psychedelics' potential benefits, but managing the harder days afterward is just as crucial to getting this right.",
+        "da": "Tre ud af fire personer, der bruger MDMA, oplever et hårdt nedtur—og nu har forskerne kortlagt præcist, hvad det ser ud til. Et nyt studie med næsten 500 personer viser, at de fleste oplever træthed, mentalt tåget og rastløshed omkring en dag efter brug, typisk varende omkring 40 timer. Resultaterne er alvorlige: nogle brugere rapporterer dybe humørfalд, herunder selvmordstanker. Forskerne spurgte mennesker om deres virkelige erfaringer og hvad der faktisk hjælper dem, fra kosttilskud til andre strategier. I takt med at psykedelika nærmer sig mainstream-medicin, betyder det enormt meget at forstå, hvad der sker efter tripet ender—ikke blot for rekreative brugere, men for terapeuter og patienter, der overvejer disse stoffer som behandlinger. Denne forskning udfylder et tomrum: vi har fokuseret stærkt på psykedelikas potentielle fordele, men at håndtere de sværere dage efter er lige så vigtig for at få det rigtigt."
+      },
+      "added_at": "2026-10-18T11:57:55.407972+00:00"
+    },
+    {
+      "title": "Beyond psychedelic exceptionalism: how people combine meditation with psychoactive substances, and how this relates to well-being",
+      "url": "https://doi.org/10.1007/s00213-026-07179-5",
+      "source": "OpenAlex",
+      "date": "2026-10-17",
+      "drug": "other",
+      "context": "anthropology",
+      "summaries": {
+        "en": "Most people combining meditation with substances aren't using classic psychedelics at all—they're meditating with alcohol, cannabis, and nicotine. A new study of nearly 1,400 people flips the script on what we thought we knew: only 6% paired meditation with classic psychedelics, while 29% combined it with alcohol. The research suggests that mixing mind-body practices with substances might be more mainstream than the psychedelic-focused narrative lets on.\n\nIn a detailed follow-up with 397 participants, researchers found something intriguing: people using harder drugs without meditation showed worse well-being outcomes, but those same people doing both showed no such decline. It's early evidence suggesting meditation might matter more than the substance itself. As psychedelic science matures beyond focusing solely on classic compounds, this work points to a bigger question: how do different practices and substances interact with our mental health in real life?",
+        "da": "De fleste mennesker, der kombinerer meditation med stoffer, bruger slet ikke klassiske psykedelika—de mediterer med alkohol, cannabis og nikotin. Et nyt studie af næsten 1.400 personer vendt op og ned på, hvad vi troede vi vidste: kun 6% kombinerede meditation med klassiske psykedelika, mens 29% gjorde det med alkohol. Forskningen tyder på, at blanding af mind-body-praksis med stoffer er mere almindelig, end psykedelika-fokuseret fortælling får det til at virke.\n\nI en detaljeret opfølgning med 397 deltagere opdagede forskerne noget fascinerende: mennesker, der brugte hårdere stoffer uden meditation, viste dårligere velbefindende, men de samme mennesker, der gjorde begge dele, viste ingen sådan nedgang. Det er tidlig evidens for, at meditation måske betyder mere end stoffet selv. Efterhånden som psykedelika-forskningen udvikler sig ud over klassiske forbindelser, peger dette arbejde på et større spørgsmål: hvordan interagerer forskellige praksisser og stoffer med vores mentale sundhed i virkeligheden?"
+      },
+      "added_at": "2026-10-18T11:57:55.407972+00:00"
+    },
     {
       "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
@@ -715,71 +780,6 @@
         "da": "Når mennesker med alvorlig depression, der ikke reagerer på normale behandlinger, får gentagne ketamininfusioner, falder deres selvmordstanker faktisk—selv moderat er det betydningsfuldt, når intet andet virker. Forskere gav patienter fire lave doser ketamin over to uger og fulgte både deres selvmordstanker og elleve forskellige biomarkører i blodet for at se, om nogle kunne forudsige, hvem der responderer bedst. Studiet fandt faktiske forbedringer i selvmordstanke-scoringer, og selvom blodmarkererne ikke afslørede noget afgørende endnu, er mønstrene interessante nok til at undersøge videre. Dette passer ind i et voksende billede: psykedelika viser sig at være et af vores hurtigst virkende værktøjer for mennesker i akut psykologisk krise, og at forstå biologien bag det kunne hjælpe os med bedre at matche patienter til de rigtige behandlinger."
       },
       "added_at": "2026-10-03T12:17:04.557184+00:00"
-    },
-    {
-      "title": "Reliability of self-reported real-world psychedelic use – A test-retest study in a population sample",
-      "url": "https://doi.org/10.1016/j.psyche.2026.100040",
-      "source": "CrossRef / Psychedelics",
-      "date": "2026-12",
-      "drug": "other",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "When people talk about their psychedelic experiences, can we actually trust what they're telling us? A new study tested exactly that—asking the same people about their psychedelic use twice and comparing the answers. The results matter because researchers worldwide are building our understanding of how psychedelics affect real people in real life, and that research only works if we know the data is reliable. The team used a test-retest approach on a general population sample to see how consistent people's reports were. This kind of foundational work is quietly essential right now: as psychedelic science moves from the lab into the clinic and into policy conversations, we need rock-solid methods for measuring what actually happens when people use these substances. Getting the basics right means the bigger discoveries ahead will stand on solid ground.",
-        "da": "Når mennesker fortæller om deres psykedelika-oplevelser, kan vi egentlig stole på det, de siger? Et nyt studie testede præcis det—ved at spørge de samme mennesker om deres psykedelika-brug to gange og sammenligne svarene. Resultaterne betyder noget, fordi forskere verden over er ved at opbygge vores forståelse af, hvordan psykedelika påvirker rigtige mennesker i virkelige liv, og den forskning fungerer kun, hvis vi ved, at dataene er pålidelige. Holdet brugte en test-retest-tilgang på en repræsentativ stikprøve af befolkningen for at se, hvor konsistente menneskers rapporter var. Sådan her grundlæggende arbejde er stille væsentligt lige nu: når psykedelika-forskning bevæger sig fra laboratoriet ind i klinikken og ind i politiske debatter, har vi brug for solide metoder til at måle, hvad der faktisk sker, når mennesker bruger disse stoffer. At få det grundlæggende rigtigt betyder, at større opdagelser fremover hviler på fast grund."
-      },
-      "added_at": "2026-10-03T12:17:04.557184+00:00"
-    },
-    {
-      "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When Oregon legalized psilocybin therapy in 2020, something unexpected happened: people started showing up at clinics asking for help preparing. A new study looked at who these patients were, and the results are striking. Most had experienced trauma, many had used psilocybin before, and surprisingly, they arrived already thinking carefully about what they were doing. This tells us something important: people aren't approaching psychedelics recklessly. They're seeking guidance.\n\nResearchers reviewed patient records from a specialized consultation service using a validated preparedness scale to measure how ready people felt. While early days, this pilot program reveals a gap in how we've been thinking about psychedelics—healthcare systems have a real opportunity to step in with evidence-based education and safety planning as interest grows. This isn't about stopping people; it's about supporting them thoughtfully.",
-        "da": "Da Oregon legaliserede psilocybin-terapi i 2020, skete noget uventet: mennesker begyndte at møde op på klinikker og spørge efter hjælp til at forberede sig. Et nyt studie kiggede på hvem disse patienter var, og resultaterne er slående. De fleste havde oplevet traume, mange havde brugt psykedelika før, og overraskende nok kom de allerede forberedt til samtalen. Det fortæller os noget vigtigt: mennesker benytter sig ikke hensynsløst af psykedelika. De søger vejledning.\n\nForskere gennemgik patientjournal fra en specialiseret rådgivningstjeneste ved hjælp af en valideret forberedelsesmåler. Selvom det er tidligt, afslører dette pilotprogram et hul i hvordan vi har tænkt på psykedelika—sundhedssystemerne har en rigtig mulighed for at gå ind med evidensbaseret undervisning og sikkerhedsplanlægning. Det handler ikke om at stoppe mennesker; det handler om at støtte dem målrettet."
-      },
-      "added_at": "2026-10-02T13:39:00.088414+00:00"
-    },
-    {
-      "title": "The New Mexico Medical Psilocybin Act and current trends in the United States psychedelic policy",
-      "url": "https://doi.org/10.1016/j.psyche.2026.100043",
-      "source": "OpenAlex",
-      "date": "2026-10-01",
-      "drug": "psilocybin",
-      "context": "policy",
-      "summaries": {
-        "en": "New Mexico just made history: it's the first state to create an actual medical psilocybin program with real infrastructure. Starting late 2026, licensed clinicians will be able to give psilocybin to patients with treatment-resistant depression, PTSD, addiction, and end-of-life distress in approved clinical settings. This isn't just symbolic—it's a working system with licensed producers, trained clinicians, and equity funding built in.\n\nResearchers tracked how this fits into America's evolving psychedelic landscape, from local decriminalization efforts to Oregon's service model to FDA breakthrough designations for depression and PTSD. New Mexico's approach is different: it's medical, regulated, and clinician-led. As the U.S. psychedelic field splinters into different policy models, this gives us a crucial experiment in how to do medical access responsibly—and it could become a template other states actually follow.",
-        "da": "New Mexico har netop skrevet historie: det er første amerikanske stat, der opretter et egentligt medicinsk psykedelika-program med reel infrastruktur. Fra slutningen af 2026 kan licenserede klinikere give psilocybin til patienter med behandlingsresistent depression, PTSD, misbrug og livets slutning-distress i godkendte kliniske omgivelser. Det er ikke bare symbolsk—det er et fungerende system med licenserede producenter, uddannede klinikere og indbygget ligestillingsfonden.\n\nForskere fulgte med i, hvordan dette passer ind i amerikanske psykedelika-landskabet, fra lokale dekriminaliserings-initiativer til Oregons servicemodel til FDA's gennembrud-betegnelser for depression og PTSD. New Mexicos tilgang er anderledes: det er medicinsk, reguleret og kliniker-ledet. Mens det amerikanske psykedelika-felt splitter sig i forskellige politiske modeller, giver dette os et afgørende eksperiment på, hvordan man tilbyder medicinsk adgang ansvarligt—og det kunne blive en skabelon, som andre stater faktisk følger."
-      },
-      "added_at": "2026-10-02T13:39:00.088414+00:00"
-    },
-    {
-      "title": "Quarterly Psychedelics Briefing: Q3 2026",
-      "url": "https://psychedelicalpha.com/news/quarterly-psychedelics-briefing-q3-2026/",
-      "source": "Psychedelic Alpha",
-      "date": "Fri, 02 Oc",
-      "drug": "other",
-      "context": "other",
-      "summaries": {
-        "en": "The psychedelic research landscape is moving fast—and Q3 2026 shows just how much is happening all at once. From breakthrough drug developments hitting key milestones to policy shifts opening new doors, the field is transforming at a pace that would've seemed impossible just a few years ago. This isn't hype; it's the concrete result of scientists, regulators, and advocates finally taking these molecules seriously as potential medicine.\n\nPsychedelic Alpha's quarterly briefing pulls together what actually matters across drug development, policy, and academic research—cutting through the noise so you can see where the momentum really is. Whether you're curious about what's coming next in clinical trials or wondering how regulation is evolving to catch up with the science, this comprehensive look shows why psychedelics have shifted from fringe topic to one of the most exciting frontiers in modern medicine.",
-        "da": "Psykedelika-forskningens landskab bevæger sig hurtigt—og Q3 2026 viser præcis hvor meget der sker på én gang. Fra gennembruds-lægemiddeludvikling der når vigtige milepæle til politiske skift der åbner nye døre, transformeres området i et tempo som ville have virket umuligt for bare få år siden. Det er ikke hyppe; det er det konkrete resultat af, at videnskabsmænd, tilsynsmyndigheder og fortalere endelig tager disse molekyler alvorligt som potentiel medicin.\n\nPsychedelic Alpha's kvartalsrapport samler hvad der reelt betyder noget inden for lægemiddelindvikling, politik og akademisk forskning—den fjerner støjen så du kan se hvor det rigtige momentum er. Uanset om du er nysgerrig efter hvad der kommer næste gang i kliniske forsøg eller undrer dig over hvordan regulering udvikler sig for at følge videnskaben, viser denne omfattende oversigt hvorfor psykedelika er gået fra niche-emne til en af modernitetens mest spændende forskningsgrænser."
-      },
-      "added_at": "2026-10-02T13:39:00.088414+00:00"
-    },
-    {
-      "title": "Epistemic Discipline in Psychedelic-Assisted Therapy: Memory, Therapy Dynamics, Attachment Patterns, and Sexual Abuse",
-      "url": "https://doi.org/10.1007/s12152-026-09672-2",
-      "source": "OpenAlex",
-      "date": "2026-10-01",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psychedelics can open profound doors to healing, but a new study warns that the intense experiences they create don't automatically mean we should trust them as accurate memories. Researchers found that during psychedelic-assisted therapy, people—especially trauma survivors—can feel absolutely certain about experiences that may not reflect what actually happened. The vivid, meaningful sensations feel real, but feelings aren't facts, and therapists need what the researchers call \"epistemic discipline\": the wisdom to hold space for powerful insights without treating them as historical truth.\n\nThis study, which examined how memory, attachment patterns, and past abuse shape our vulnerability during therapy, adds a crucial ethical layer to psychedelic research. As these medicines move toward mainstream clinical use, the field is learning that safety means more than physical well-being—it's about protecting people's ability to think clearly about their own experiences. The message isn't pessimistic; it's about doing this work responsibly, with therapists trained to guide people through uncertainty with compassion rather than false certainty.",
-        "da": "Psykedelika kan åbne dybe døre til healing, men en ny undersøgelse advarer om, at de intense oplevelser de skaber ikke automatisk betyder, at vi skal stole på dem som præcise minder. Forskere fandt ud af, at mennesker—især traumeoverlevere—under psykedelika-assisteret terapi kan være helt sikre på oplevelser, der måske ikke afspejler hvad der faktisk skete. De levende, meningsfulde fornemmelser føles rigtige, men følelser er ikke fakta, og terapeuter har brug for det, forskerne kalder \"epistemisk disciplin\": visdommen til at holde rum for kraftfulde indsigter uden at behandle dem som historiske sandheder.\n\nDenne undersøgelse, som undersøgte hvordan hukommelse, bindingsmønstre og tidligere misbrug former vores sårbarhed under terapi, tilføjer et afgørende etisk lag til psykedelika-forskningen. Mens disse mediciner bevæger sig mod klinisk mainstream-brug, lærer feltet, at sikkerhed betyder mere end fysisk velbefindende—det handler om at beskytte menneskers evne til at tænke klart om deres egne oplevelser. Budskabet er ikke pessimistisk; det handler om at gøre dette arbejde ansvarligt, med terapeuter trænet til at guide mennesker gennem usikkerhed med medfølelse i stedet for falsk sikkerhed."
-      },
-      "added_at": "2026-10-02T13:39:00.088414+00:00"
     }
   ]
 }
