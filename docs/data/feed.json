@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-18T11:58:27.662305+00:00",
+  "generated_at": "2026-10-19T14:25:41.470708+00:00",
   "items": [
+    {
+      "title": "Investigation of the pharmacological and circuit basis for psychedelic drug effects on interval timing in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894023/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Time feels weird on psychedelics — and now we know why. Researchers gave mice psilocin (the active ingredient in magic mushrooms) and found it scrambled their sense of time, making them less accurate at judging short intervals. The cool part? They traced this effect to a specific brain region and serotonin receptor, revealing the actual mechanism behind that trippy time-bending feeling. Using behavioural tests in mice, scientists discovered that blocking one type of serotonin receptor completely stopped the timing distortion, suggesting psychedelics hijack the brain's internal clock through a precise molecular pathway. This fits into a bigger picture: as researchers map out how psychedelics work at the circuit level, we're moving from \"they do something to your brain\" to understanding exactly what, where, and how — which could eventually help us use these substances more safely and effectively.",
+        "da": "Tiden føles underlig på psykedelika — og nu ved vi hvorfor. Forskere gav mus psilocin (det aktive stof i tryllepadder) og fandt ud af, at det forvirrede deres tidsopfattelse og gjorde dem mindre præcise til at bedømme korte tidsintervaller. Det spændende? De sporede denne effekt til en specifik hjernedel og serotoninreceptor, hvilket afslørede den egentlige mekanisme bag den trippy tidsvridning. Ved hjælp af adfærdstests hos mus opdagede forskerne, at blokering af én type serotoninreceptor helt stoppede tidsforvridningen — hvilket tyder på, at psykedelika kaprer hjernens indre ur gennem en præcis molekylær vej. Dette passer ind i et større billede: efterhånden som forskere kortlægger, hvordan psykedelika virker på kredsløbsniveauet, bevæger vi os fra \"de gør noget ved din hjerne\" til at forstå præcis hvad, hvor og hvordan — hvilket kunne hjælpe os til at bruge disse stoffer mere sikkert og effektivt."
+      },
+      "added_at": "2026-10-19T14:25:10.248767+00:00"
+    },
+    {
+      "title": "Buprenorphine Following Ketamine for Suicidal Ideation: A Bridge to Care from the Emergency Department.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894304/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if a single ketamine session in the emergency room could ease suicidal thoughts enough to let someone actually engage with treatment? New research suggests combining ketamine with buprenorphine might do exactly that — creating a critical window where people in crisis feel stable enough to accept help and stay connected to care. This isn't about a magic cure, but about giving people breathing room when they need it most.\n\nResearchers looked at how ketamine followed by buprenorphine works for people experiencing suicidal ideation in emergency settings. The findings fit into a growing picture: psychedelics and related compounds like ketamine aren't replacing traditional therapy, they're opening doors. They're bridging the gap between crisis and recovery, making it possible for people to actually show up for the longer work ahead.",
+        "da": "Hvad hvis en enkelt ketamin-behandling på skadestuen kunne lette selvmordstanker nok til, at nogen faktisk kunne modtage behandling? Ny forskning tyder på, at kombination af ketamin og buprenorphin gør præcis det — ved at skabe et kritisk tidsvindue, hvor mennesker i krise føler sig stabile nok til at acceptere hjælp og blive ved med at være del af behandlingen. Dette handler ikke om et vidunderkur, men om at give mennesker vejrtrækning, når de har mest brug for det.\n\nForsker undersøgte, hvordan ketamin fulgt af buprenorphin virker for mennesker med selvmordstanker på skadestuer. Resultaterne passer ind i et voksende billede: psykedelika og beslægtede stoffer som ketamin erstatter ikke traditionel terapi, de åbner døre. De bygger en bro mellem krise og bedring, hvilket gør det muligt for mennesker faktisk at møde op til det længere arbejde, der venter foran."
+      },
+      "added_at": "2026-10-19T14:25:10.248767+00:00"
+    },
+    {
+      "title": "Ketamine Extension or Buprenorphine Maintenance?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894303/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine is showing real promise in addiction treatment—but here's the catch: the effects might not last unless you keep using it. A new study compares what happens when you extend ketamine treatment versus switching to buprenorphine maintenance, and the results suggest we need to think differently about how we use these tools together. Researchers tracked patients through both approaches to see which strategy actually keeps people stable long-term. This fits into a bigger shift in psychedelic research: we're moving beyond just asking \"does this work?\" to the harder questions like \"how do we use it wisely?\" and \"what comes after?\" Ketamine's rapid anti-craving effects could be revolutionary for addiction, but the real breakthrough might be combining it with other treatments—something that could reshape how we think about recovery.",
+        "da": "Ketamin viser sig lovende i behandlingen af afhængighed—men her er sagen: effekterne holder måske ikke uden du fortsætter med at bruge det. Et nyt studie sammenligner hvad der sker når man forlænger ketaminbehandlingen versus skifter til buprenorfin-vedligeholdelse, og resultaterne tyder på at vi skal tænke anderledes om hvordan vi bruger disse værktøjer sammen. Forskere fulgte patienter gennem begge tilgange for at se hvilken strategi der rent faktisk holder mennesker stabile på længere sigt. Dette passer ind i et større skift inden for psykedelika-forskningen: vi bevæger os væk fra bare at spørge \"virker det?\" til de sværere spørgsmål som \"hvordan bruger vi det klogt?\" og \"hvad kommer efter?\" Ketamins hurtige anti-craving-effekter kunne være revolutionerende for afhængighed, men det rigtige gennembrud handler måske om at kombinere det med anden behandling—noget der kunne ændre hvordan vi tænker omkring recovery."
+      },
+      "added_at": "2026-10-19T14:25:10.248767+00:00"
+    },
+    {
+      "title": "Buprenorphine After Ketamine for Suicidal Ideation: Durability, Specificity, and Confounding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894302/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine has shown remarkable promise for people struggling with suicidal thoughts — offering rapid relief where traditional antidepressants often fall short. But a crucial question has lingered: how long does this effect actually last, and what happens next? A new study digs into this by examining what occurs when buprenorphine (an opioid medication) is given after ketamine treatment, exploring whether the benefits hold steady and what's really driving the improvement. This matters because understanding the durability and specifics of ketamine's effects is essential as researchers work toward making it a reliable part of suicide prevention. As psychedelics and novel compounds like ketamine move from fringe experiments into serious clinical consideration, studies like this help build the careful, detailed evidence base needed to transform how we treat mental health crises.",
+        "da": "Ketamin har vist bemærkelsesværdig potentiale for mennesker, der kæmper med selvmordstanker — det giver hurtig lindring, hvor traditionelle antidepressiver ofte svigter. Men ét afgørende spørgsmål har været ubesvaret: hvor længe varer virkningen egentlig, og hvad sker der derefter? Et nyt studie udforsker dette ved at undersøge, hvad der sker, når buprenorfin (et opioid) gives efter ketaminbehandling, og hvad der reelt driver forbedringen. Det er vigtig viden, fordi vi skal forstå ketamins varige effekt for at gøre det til en pålidelig del af selvmordsforebyggelse. Mens psykedelika og nye stoffer som ketamin bevæger sig fra marginale eksperimenter mod seriøs klinisk praksis, hjælper studier som dette med at bygge det grundige bevisgrundlag, som er nødvendigt for at transformere, hvordan vi behandler mental sundhedskriser."
+      },
+      "added_at": "2026-10-19T14:25:10.248767+00:00"
+    },
+    {
+      "title": "Low-Dose Buprenorphine Significantly Prolonging the Antisuicidal Effects of Ketamine Infusion in Major Depressive Disorder: Relationship Between Antidepressant and Antisuicidal Effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894301/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if a simple add-on could make ketamine's life-saving effects last way longer? New research suggests that combining low-dose buprenorphine with ketamine infusions dramatically extends how long people stay protected from suicidal thoughts—and it's not just because the depression lifts. Scientists gave some depressed patients ketamine alone, others with buprenorphine added to the mix, and tracked their suicidal urges over time. The results hint at something fascinating: buprenorphine seems to protect the brain's anti-suicide benefits even as other symptoms improve at different rates. This fits perfectly into where ketamine research is heading—moving beyond just \"does it work?\" toward \"how do we make it work better and longer?\" As ketamine clinics pop up around the world, finding ways to extend its protective window could be genuinely life-changing for people in crisis.",
+        "da": "Hvad hvis en simpel tilføjelse kunne få ketamins livsvigtige effekter til at vare meget længere? Ny forskning tyder på, at når man kombinerer lavdosis buprenorphin med ketamininfusioner, forlænges det betydeligt, hvor længe mennesker er beskyttet mod selvmordstanker—og det skyldes ikke bare, at depressionen forsvinder. Forskerne gav nogle deprimerede patienter ketamin alene, andre med buprenorphin tilføjet, og fulgte deres selvmordsuges over tid. Resultaterne peger på noget fascinerende: buprenorphin virker til at beskytte hjernens anti-selvmord-fordele selv når andre symptomer bedres i forskelligt tempo. Det passer perfekt ind i, hvor ketaminforskningen er på vej hen—væk fra bare \"virker det?\" hen imod \"hvordan får vi det til at virke bedre og længere?\" Mens ketaminklinikker dukker op verden over, kunne det at finde måder til at forlænge dets beskyttelsesvindue være virkelig livreddende for mennesker i krise."
+      },
+      "added_at": "2026-10-19T14:25:10.248767+00:00"
+    },
     {
       "title": "Ketamine in psychiatry: a systematic review of clinical applications, safety considerations, and emerging challenges.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42889292/",
@@ -715,71 +780,6 @@
         "da": "Hvad hvis helbredelse fra alkoholmisbrug betød faktisk at have det bedre—ikke bare at drikke mindre? En stor oversigt over 18 studier viste, at naltrexone forbedrede menneskers mentale og fysiske livskvalitet i behandlingen af alkoholforgiftning. Men det, som forskerne blev særligt opmærksomme på: psilocybin, det psykedeliske stof fra tryllehatte, viste også lovende resultater for at øge trivsel i tidlige forsøg. Videnskabsmænd analyserede data fra over 4.000 deltagere på tværs af randomiserede kontrollerede studier, der testede forskellige mediciner. Resultaterne betyder noget, fordi livskvalitet er det, der holder folk i bedring på længere sigt—det er ikke nok blot at reducere trang. Mens psykedelika træder ind i mainstream-samtalen om mental sundhedsbehandling, peger denne forskning på en spændende mulighed: kunne disse stoffer arbejde sammen med eller endda tilbyde nye veje for mennesker, der kæmper med misbrug? Beviserne er tidlige, men nok til at holde øje med udviklingen."
       },
       "added_at": "2026-10-05T15:37:33.045733+00:00"
-    },
-    {
-      "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Imagine being locked in your own body, aware but unable to respond—that's the reality for people in disorders of consciousness like coma or vegetative states. Scientists just discovered something unexpected: psychedelics like psilocybin and LSD might help wake up these dormant brain networks. These substances work by boosting neural plasticity and reshaping how different brain regions communicate, potentially offering hope where conventional medicine has hit a wall.\n\nResearchers reviewed how psychedelics interact with the brain's fundamental architecture, combined with new neuroimaging that can finally detect hidden activity in seemingly unresponsive patients. This opens a radical new direction for neurology—one that treats the brain's wiring itself rather than just symptoms. It's early days, but it signals a shift in how we might tackle one of medicine's hardest problems.",
-        "da": "Forestil dig at være låst inde i din egen krop, bevidst men ude af stand til at reagere—det er virkeligheden for mennesker med bevidsthedsforstyrrelser som koma eller vegetativ tilstand. Forskere har lige opdaget noget uventet: psykedelika som psilocybin og LSD kunne måske hjælpe med at væcke disse sovende hjernenetværk til live. Disse stoffer virker ved at øge neural plastisitet og omforme, hvordan forskellige hjernedele kommunikerer—potentielt en håbefuld vej der hvor traditionel medicin er gået i stå.\n\nForskere har undersøgt, hvordan psykedelika påvirker hjernens grundlæggende arkitektur, kombineret med ny hjernescanning, der endelig kan opdage skjult aktivitet hos tilsyneladende uresponsive patienter. Det åbner en radikalt ny retning for neurologi—en som behandler selve hjernens ledninger i stedet for bare symptomer. Det er tidlige dage, men det signalerer et skift i, hvordan vi kunne tackle et af medicinens sværeste problemer."
-      },
-      "added_at": "2026-10-04T13:04:30.492833+00:00"
-    },
-    {
-      "title": "Serotonergic Toxicity and Hyponatremia Associated with Antidepressant Therapy: The Pivotal Role of SIADH",
-      "url": "https://doi.org/10.1007/s40261-026-01599-z",
-      "source": "OpenAlex",
-      "date": "2026-10-03",
-      "drug": "psilocybin",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "When antidepressants flood your system with serotonin, they can accidentally trigger your body to hold onto too much water—a dangerous combination that doctors have often treated as two separate problems. New research reveals they're actually connected: excessive serotonin can mess with the hormones controlling water balance, leading to dangerously low sodium levels and brain swelling. This matters because it explains why some people on these medications get seriously ill, and it shows us how to spot and treat the problem better.\n\nScientists reviewed decades of research on antidepressants, ketamine, psilocybin, and other serotonergic drugs to map out exactly how this happens. As psychedelics move into clinical settings for treating depression and PTSD, understanding these hidden risks becomes crucial—not to scare anyone away, but to help doctors use these powerful tools safely and know what warning signs to watch for.",
-        "da": "Når antidepressiver oversvømmer din krop med serotonin, kan de ved et uheld få din krop til at holde på for meget vand—en farlig kombination som læger ofte har behandlet som to separate problemer. Ny forskning viser, at de faktisk er forbundne: for meget serotonin kan forstyrre hormonerne, der kontrollerer vandbalancen, hvilket fører til farligt lavt natriumindhold og hjernesvulst. Det betyder noget, fordi det forklarer, hvorfor nogle mennesker på disse lægemidler bliver alvorligt syge, og det viser os, hvordan vi kan få øje på og behandle problemet bedre.\n\nForskere gennemgik årtiers forskning på antidepressiver, ketamin, psilocybin og andre serotonin-aktive stoffer for at kortlægge præcis, hvordan det sker. Når psykedelika kommer ind i kliniske settings til behandling af depression og PTSD, bliver det afgørende at forstå disse skjulte risici—ikke for at skræmme folk væk, men for at hjælpe læger med at bruge disse kraftfulde værktøjer sikkert og vide, hvilke advarselstegn de skal passe på."
-      },
-      "added_at": "2026-10-04T13:04:30.492833+00:00"
-    },
-    {
-      "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics",
-      "url": "https://doi.org/10.1038/s41380-026-03918-4",
-      "source": "OpenAlex",
-      "date": "2026-10-03",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if psychedelics could help people wake up from disorders of consciousness? New research is exploring whether these substances might reach parts of the brain that traditional treatments can't, potentially offering hope to patients in minimally conscious states or emerging from comas. Scientists are investigating how psychedelics affect neural communication and brain reorganization in ways that could unlock dormant cognitive function.\n\nThis emerging field represents a bold expansion of psychedelic research beyond mental health into neurology and consciousness itself. As studies map how psychedelics interact with brain networks, we're discovering that these medicines might do far more than shift our mood or perspective—they could literally rewire how the brain communicates with itself. It's early days, but the implications are profound.",
-        "da": "Hvad hvis psykedelika kunne hjælpe mennesker med at vågne op fra bevidsthedsforstyrrelser? Ny forskning udforsker, om disse stoffer kan nå dele af hjernen, som traditionelle behandlinger ikke kan, og potentielt give håb til patienter i minimalt bevidste tilstande eller der vågner fra koma. Forskere undersøger, hvordan psykedelika påvirker neural kommunikation og hjernens reorganisering på måder, der kunne låse op for sovende kognitiv funktion.\n\nDette nye felt repræsenterer en dristig udvidelse af psykedelika-forskning ud over mental sundhed og ind i neurologi og bevidsthed selv. Når studier kortlægger, hvordan psykedelika interagerer med hjernenetværk, opdager vi, at disse mediciner måske gør meget mere end at ændre vores humør eller perspektiv—de kunne faktisk omstrukturere, hvordan hjernen kommunikerer med sig selv. Det er tidlige dage, men implikationerne er omfattende."
-      },
-      "added_at": "2026-10-04T13:04:30.492833+00:00"
-    },
-    {
-      "title": "Rapid pace of psychedelics development brings regulatory complexities",
-      "url": "https://doi.org/10.1002/pu.31507",
-      "source": "OpenAlex",
-      "date": "2026-10-02",
-      "drug": "other",
-      "context": "policy",
-      "summaries": {
-        "en": "Psychedelics are moving fast—maybe too fast for the rules to keep up. Right now, people are demanding access to these treatments way quicker than governments can write regulations, creating a messy gap between what's scientifically promising and what's actually legal. New commentaries in JAMA Psychiatry and the New England Journal of Medicine reveal how approval conditions, federal-state disagreements, and shifting policies could either open doors or slam them shut for patients who need these medicines.\n\nResearchers are sounding the alarm: we're at a crucial moment where how we regulate psychedelics over the next few years will shape everything—who gets access, how safe the treatments stay, and whether this scientific breakthrough becomes real medicine or gets tangled in bureaucracy. The conversation isn't just about whether psychedelics work anymore; it's about building a smart regulatory framework that keeps pace with the science.",
-        "da": "Psykedelika udvikler sig hurtigt—måske for hurtigt til at reglerne kan følge med. For tiden efterspørger mennesker adgang til disse behandlinger langt hurtigere, end regeringer kan skrive regulering, hvilket skaber et roddet hul mellem det, der er videnskabeligt lovende, og det, der faktisk er lovligt. Nye kommentarer i JAMA Psychiatry og New England Journal of Medicine afslører, hvordan godkendelsesvilkår, uenigheder mellem stat og føderale niveau, og skiftende politikker kunne åbne eller lukke døre for patienter, der har brug for disse mediciner.\n\nForsker advarer: vi er på et afgørende tidspunkt, hvor måden vi regulerer psykedelika på de næste år, vil forme alt—hvem der får adgang, hvor sikre behandlingerne forbliver, og om dette videnskabeligt gennembrud bliver rigtig medicin eller bliver viklet ind i bureaukrati. Samtalen handler ikke længere bare om, hvorvidt psykedelika virker; det handler om at bygge en smart reguleringsramme, der følger med videnskaben."
-      },
-      "added_at": "2026-10-04T13:04:30.492833+00:00"
-    },
-    {
-      "title": "Effects of Repeated Ketamine Infusions on Suicidal Ideation in Treatment-Resistant Depression and Associated Changes in Selected Plasma Biomarkers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826739/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When people with severe depression that won't respond to normal treatments get repeated ketamine infusions, their suicidal thoughts actually decrease—even modestly, that's significant when nothing else has worked. Researchers gave patients four low-dose ketamine treatments over two weeks and tracked both their suicide-related thoughts and eleven different biomarkers in their blood to see if any could predict who responds best. The study found real improvements in suicidal ideation scores, and while the blood markers didn't reveal a smoking gun yet, the patterns are intriguing enough to chase further. This fits into a growing picture: ketamine is proving to be one of the fastest-acting tools we have for people in acute psychological crisis, and understanding the biology behind it could help us get better at matching patients to the right treatments.",
-        "da": "Når mennesker med alvorlig depression, der ikke reagerer på normale behandlinger, får gentagne ketamininfusioner, falder deres selvmordstanker faktisk—selv moderat er det betydningsfuldt, når intet andet virker. Forskere gav patienter fire lave doser ketamin over to uger og fulgte både deres selvmordstanker og elleve forskellige biomarkører i blodet for at se, om nogle kunne forudsige, hvem der responderer bedst. Studiet fandt faktiske forbedringer i selvmordstanke-scoringer, og selvom blodmarkererne ikke afslørede noget afgørende endnu, er mønstrene interessante nok til at undersøge videre. Dette passer ind i et voksende billede: psykedelika viser sig at være et af vores hurtigst virkende værktøjer for mennesker i akut psykologisk krise, og at forstå biologien bag det kunne hjælpe os med bedre at matche patienter til de rigtige behandlinger."
-      },
-      "added_at": "2026-10-03T12:17:04.557184+00:00"
     }
   ]
 }
