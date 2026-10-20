@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-19T14:25:41.470708+00:00",
+  "generated_at": "2026-10-20T12:35:21.962882+00:00",
   "items": [
+    {
+      "title": "Depression: Ketamine quiets an unruly habenula.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896518/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "A single dose of ketamine can lift depression within 24 hours—and scientists just discovered why. New research shows that ketamine works by quieting a tiny brain region called the habenula, which normally keeps us stuck in negative thought patterns. When this \"worry hub\" calms down, our brains stop reinforcing the very things that make us feel bad. Researchers observed this effect in healthy volunteers, tracking how the habenula's activity dropped right when ketamine's antidepressant effects kicked in. This finding matters because it gives us a concrete target: rather than just knowing ketamine works, we're now understanding the actual mechanism, opening doors to develop safer treatments that could help millions without ketamine's risks or legal complications.",
+        "da": "En enkelt dosis ketamin kan løfte depression inden for 24 timer—og forskere har lige opdaget hvorfor. Ny forskning viser, at ketamin virker ved at dæmpe en winzig hjernedel kaldet habenula, som normalt holder os fanget i negative tankmønstre. Når dette \"bekymringscenter\" bliver stille, holder vores hjerner op med at forstærke præcis de ting, der får os til at føle os dårligt. Forskerne observerede denne effekt hos raske frivillige og sporrede, hvordan habenulas aktivitet faldt præcis når ketamins antidepressive virkning satte ind. Dette fund betyder noget, fordi det giver os et konkret mål: i stedet for bare at vide, at ketamin virker, forstår vi nu den faktiske mekanisme, hvilket åbner døre til at udvikle sikrere behandlinger, der kunne hjælpe millioner uden ketamins risici og juridiske komplikationer."
+      },
+      "added_at": "2026-10-20T12:34:50.780422+00:00"
+    },
+    {
+      "title": "Ketamine's mechanisms of action in major depressive disorder and treatment-resistant depression: Is brain topological change a candidate convergent systems-level pathway?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896406/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What if depression isn't just a chemical imbalance, but a brain stuck in rigid patterns? New research suggests ketamine works by literally rewiring how different brain regions communicate with each other—and it happens fast, within hours. Instead of just boosting neurotransmitters like traditional antidepressants, ketamine appears to break rigid network patterns and restore flexibility to the brain's communication system, allowing it to reorganize itself in healthier ways.\n\nScientists reviewed decades of brain imaging and electrical recordings to understand this breakthrough. The findings paint a striking picture: depressed brains show inflexible, disconnected networks, but ketamine rapidly increases connectivity and restores the brain's ability to switch between different states. This systems-level shift—how the whole brain reorganizes rather than isolated molecular changes—may be the real key to why ketamine works so fast for people who haven't responded to anything else. It's reshaping how we think about depression treatment entirely.",
+        "da": "Hvad hvis depression ikke kun handler om kemisk ubalance, men om en hjerne låst fast i stive mønstre? Ny forskning tyder på, at ketamin virker ved at omstille, hvordan forskellige hjernereioner kommunikerer med hinanden—og det sker hurtigt, inden for timer. I stedet for blot at øge signalstoffer som traditionelle antidepressiva, ser ketamin ud til at bryde stive netværksmønstre og genoprette fleksibilitet i hjernens kommunikationssystem, så den kan reorganisere sig selv på sundere måder.\n\nForskere gennemgik årtiers hjerneafbildning og elektriske målinger for at forstå dette gennembrud. Resultaterne tegner et slående billede: deprimerede hjerner viser ufleksible, afbrudt forbundne netværk, men ketamin øger hurtigt forbindelserne og genopretter hjernens evne til at skifte mellem forskellige tilstande. Denne hele-hjerne-skift—hvordan hele hjernen reorganiserer sig frem for isolerede molekylære ændringer—kan være den rigtige nøgle til, hvorfor ketamin virker så hurtigt for mennesker, der ikke har reageret på andet. Det omformer helt, hvordan vi tænker behandling af depression."
+      },
+      "added_at": "2026-10-20T12:34:50.780422+00:00"
+    },
+    {
+      "title": "Psilocybin in Treatment-Resistant Depression: Weighing Rapid Antidepressant Effects Against Uncertain Durability",
+      "url": "https://doi.org/10.3390/therapeutics3040021",
+      "source": "OpenAlex",
+      "date": "2026-10-19",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Imagine taking a single dose of psilocybin and feeling depression lift within weeks—even when nothing else has worked. That's what researchers are seeing in people with treatment-resistant depression, and it's genuinely striking. But here's the honest part: we still don't know how long this relief lasts, or exactly why it works so fast. Scientists reviewed all the latest psilocybin studies (including unpublished phase 3 trials) to figure out what's really happening. The picture emerging is hopeful but complicated—psilocybin paired with psychological support shows real promise, yet the research itself is still messy, with different studies designed so differently that it's hard to compare them. This moment matters because it shows psychedelics could transform how we treat depression, but we need clearer, more rigorous research to turn possibility into practice.",
+        "da": "Forestil dig at tage en enkelt dosis psykedelika og mærke depression løfte sig inden for uger—selv når ingenting andet har virket. Det er præcis hvad forskere ser hos mennesker med behandlingsresistent depression, og det er virkeligt slående. Men her er den ærlige del: vi ved stadig ikke hvor længe lettelsen varer, eller præcis hvorfor det virker så hurtigt. Videnskabsfolk gennemgik alle de seneste psykedelika-studier (også uofficielle fase 3-forsøg) for at finde ud af hvad der egentlig sker. Billedet der dukker op er håbefuldt men kompliceret—psykedelika sammen med psykologisk støtte viser reelt potentiale, men forskningen selv er stadig rodet, med så forskellige studiedesign at det er svært at sammenligne dem. Dette øjeblik betyder noget fordi det viser psykedelika kunne transformere hvordan vi behandler depression, men vi skal have klarere, mere grundig forskning for at gøre mulighed til praksis."
+      },
+      "added_at": "2026-10-20T12:34:50.780422+00:00"
+    },
+    {
+      "title": "Psychoplastogens to Reduce Persistent Cognitive Symptoms for Traumatic Brain Injury as a Chronic Condition",
+      "url": "https://doi.org/10.1177/08977151261495030",
+      "source": "OpenAlex",
+      "date": "2026-10-19",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Millions of people suffer lasting brain fog, memory problems, and cognitive struggles after traumatic brain injury — and right now, there's basically no medication that works. A new review suggests psychedelics like psilocybin and ketamine could be game-changers, because they appear to rewire brain connections in ways that might directly repair the damage TBI causes. Researchers looked at how psychoplastogens (compounds that enhance neuroplasticity) work in the brain and found they target multiple pathways damaged by trauma — from broken neural connections to cellular dysfunction. This emerging research area could finally offer hope to the millions stuck with chronic cognitive symptoms, especially as studies on psychedelics for psychiatric conditions show real promise. The convergence is fascinating: the same brain-repair mechanisms that help depression and PTSD might unlock recovery for people living with TBI's invisible aftermath.",
+        "da": "Millioner af mennesker lider af vedvarende hjernetus, hukommelsesproblemer og kognitive vanskeligheder efter traumatisk hjerneskade — og der findes stort set ingen medicin, der virker. Et nyt review foreslår, at psykedelika som psilocybin og ketamin kunne være game-changere, fordi de tilsyneladende kan omvire hjerneforbindelser på måder, der direkte kunne reparere TBI-skaden. Forskere undersøgte, hvordan psykoplastogener (stoffer som forbedrer neuroplasticitet) virker i hjernen, og fandt ud af, at de rammer flere banestier, som traumet beskadiger — fra ødelagte neurale forbindelser til celledysfunktion. Dette nye forskningsområde kunne endelig give håb til de millioner, der lever med kroniske kognitive symptomer fra TBI, især når studier af psykedelika til psykiatriske tilstande viser rigtig resultater. Konvergensen er fascinerende: de samme hjerne-reparationsmekanismer, der hjælper depression og PTSD, kunne låse op for recovery for mennesker, der lever med TBIs usynlige eftervirkninger."
+      },
+      "added_at": "2026-10-20T12:34:50.780422+00:00"
+    },
+    {
+      "title": "Biosynthesis of gold nanoparticles using Psilocybe cubensis extracts and their biostimulatory evaluation in Neuro2a cells",
+      "url": "https://doi.org/10.3389/fnano.2026.1939102",
+      "source": "OpenAlex",
+      "date": "2026-10-19",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Researchers just created tiny gold particles using psilocybin mushrooms—and they might help damaged brain cells recover. When applied to nerve cells in the lab, these nanoparticles sparked cell growth and kept them healthy at the right doses, while the mushroom's natural compounds acted like a protective shield around the gold. Scientists grew gold nanoparticles from Psilocybe cubensis extracts and tested them on neuronal cells, discovering a sweet spot where the particles boosted cell proliferation and viability without harm. This sits at the exciting intersection of green nanotechnology and neuroscience: as psychedelic research expands beyond psychology into biology and medicine, studies like this explore whether psilocybin mushrooms could offer entirely new tools for treating brain injuries and disorders—not just through the psychedelic experience itself, but through the molecules and materials they contain.",
+        "da": "Forskere har lige skabt små guldpartikler ved hjælp af psilocybin-svampe—og de kan måske hjælpe skadede hjerneceller til at komme sig. Når guldpartiklerne blev anvendt på nerveceller i laboratoriet, stimulerede de cellevækst og holdt dem raske ved de rigtige doser, mens svampens naturlige stoffer fungerede som et beskyttende skjold omkring guldet. Videnskabsmændene dyrkede guldnanopartikler fra Psilocybe cubensis-ekstrakter og testede dem på nerveceller, hvor de opdagede et ideelt område, hvor partiklerne øgede celleproliferation og levedygtighed uden skade. Dette befinder sig på grænsen mellem grøn nanoteknologi og neurovidenskab: når psykedelika-forskningen ekspanderer ud over psykologi og ind i biologi og medicin, udforsker studier som dette, om psilocybin-svampe kunne tilbyde helt nye værktøjer til behandling af hjerneskader og sygdomme—ikke blot gennem den psykedeliske oplevelse selv, men gennem de molekyler og materialer, de indeholder."
+      },
+      "added_at": "2026-10-20T12:34:50.780422+00:00"
+    },
     {
       "title": "Investigation of the pharmacological and circuit basis for psychedelic drug effects on interval timing in mice.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894023/",
@@ -715,71 +780,6 @@
         "da": "Her er noget overraskende: omkring 7% af amerikanere med depression brugte psykedelika sidste år, men de springede ikke deres almindelige læge eller terapi over. Faktisk viste psykedelika-brugere ingen forskel på at få professionel psykiatrisk behandling—uanset om det var terapi, medicin eller at tale med en læge om deres depression. Det underminerer en stor frygt for, at usuperviseret psykedelika-brug kunne erstatte ordentlig behandling.\n\nForskere analyserede data fra næsten 7.000 deprimerede amerikanere i en repræsentativ landsdelsundersøgelse for at kortlægge, hvordan psykedelika-brug hang sammen med behandlingsvalg. Fundet betyder noget, fordi det tyder på, at mennesker ikke behandler psykedelika som erstatning for konventionel hjælp. Efterhånden som kliniske forsøg i stigende grad viser psykedelikas potentiale for depression, giver dette øjebliksbillede fra den virkelige verden trøst: mennesker, der udforsker psykedelika, ser ud til at gøre det ved siden af—ikke i stedet for—traditionel psykiatrisk support."
       },
       "added_at": "2026-10-06T13:59:43.976549+00:00"
-    },
-    {
-      "title": "Subacute effects of ketamine on neural correlates of reward processing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42834034/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Here's a curveball from ketamine research: five hours after taking the drug, it doesn't seem to change how the brain processes rewards—at least not in ways we can measure with current brain imaging. Researchers gave 28 healthy people either ketamine or placebo, then scanned their brains while they played a money-reward game. Despite participants still feeling the drug's effects, the reward-processing regions showed no significant changes. This single-blind, placebo-controlled study suggests ketamine's influence on how we experience rewards might be fleeting—powerful during the acute \"trip\" phase, but harder to detect later. The finding adds an important piece to the puzzle: it hints that psychedelics' effects on reward circuits are time-sensitive, and that studying them in clinical populations or at different time windows might reveal effects this study missed.",
-        "da": "Overraskende nyhed fra ketaminforskningen: fem timer efter at have taget medicinen ser det ikke ud til at ændre, hvordan hjernen behandler belønninger—i hvert fald ikke på måder, vi kan måle med nuværende hjernescanning. Forskere gav 28 raske mennesker enten ketamin eller placebo og scannede derefter deres hjerner, mens de spillede et pengespil. På trods af at deltagerne stadig følte stoffets virkning, viste belønningsregionerne ingen væsentlige ændringer. Dette enkeltblindet, placebo-kontrolleret studie tyder på, at ketamins indflydelse på, hvordan vi oplever belønninger, måske er kortvarig—kraftig under det akutte \"trip\", men sværere at opdage senere. Fundet tilføjer et vigtigt puslespil: det antyder, at psykedelikas virkning på belønningskredsløb er tidsfølsom, og at undersøgelse i kliniske populationer eller på forskellige tidspunkter måske afslører effekter, som dette studie missede."
-      },
-      "added_at": "2026-10-06T13:59:43.976549+00:00"
-    },
-    {
-      "title": "Building the bridge-back: Dissociation as resource and resilience pathway in psychedelic-assisted therapy",
-      "url": "https://doi.org/10.1556/2054.2026.00552",
-      "source": "OpenAlex",
-      "date": "2026-10-05",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Your mind sometimes steps back when emotions get too intense—and that might actually be a feature, not a bug. New research shows that dissociation during psychedelic therapy isn't something to fear, but a protective mechanism your brain uses to handle overwhelming feelings. The study reframes dissociation as a resilience resource, introducing the 'bridge-back model' to help therapists recognize when someone needs to pause and when they're ready to re-engage with difficult material. Researchers analyzed dissociation theory through a resilience lens, identifying two key capacities that help people return and integrate: feeling authentic in relationships and finding meaning in their experience. As psychedelic-assisted therapy moves into mainstream medicine, this work offers clinicians a practical compass for pacing sessions and supporting genuine healing—shifting the question from 'what's wrong?' to 'where's the opportunity?'",
-        "da": "Dit sind træder nogle gange tilbage når følelserne bliver for intense—og det er måske faktisk en feature, ikke en fejl. Ny forskning viser, at dissociation under psykedelika-assisteret terapi ikke er noget at være bange for, men snarere en beskyttelsesmekanisme dit hjerne bruger til at håndtere overvældende følelser. Studiet genfortolker dissociation som en resiliens-ressource og introducerer 'bridge-back-modellen' til at hjælpe terapeuter med at genkende når nogen har brug for en pause, og når de er klar til at gå tilbage til svære materiale. Forskerne analyserede dissociation-teori gennem et resiliens-perspektiv og identificerede to vigtige kapaciteter der hjælper mennesker med at vende tilbage og integrere: at føle sig autentisk i forhold til andre og finde mening i deres erfaring. Mens psykedelika-assisteret terapi bevæger sig ind i mainstream-medicin, tilbyder dette arbejde terapeuter et praktisk kompas for at regulere sessioner og understøtte ægte helbredelse—skiftet fra 'hvad er galt?' til 'hvor ligger muligheden?'"
-      },
-      "added_at": "2026-10-06T13:59:43.976549+00:00"
-    },
-    {
-      "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
-      "url": "https://psychedelicalpha.com/news/oregon-backtracks-on-fee-hike-california-funds-psychedelic-research-dea-moves-to-schedule-5-tryptamines/",
-      "source": "Psychedelic Alpha",
-      "date": "Mon, 05 Oc",
-      "drug": "other",
-      "context": "policy",
-      "summaries": {
-        "en": "California just greenlit public funding for psychedelic research — a huge signal that governments are starting to see these substances as legitimate medicine, not just controversy. Meanwhile, the DEA is moving certain tryptamines to Schedule 5, the lowest restriction level, which could open doors for research that's been locked for decades. This podcast breaks down what these policy shifts actually mean for the scientists working to bring psychedelics into hospitals and clinics. As Oregon recalibrates its approach and funding starts flowing, we're watching the rules of the game change in real time — and it matters for anyone hoping these tools might help with depression, anxiety, and trauma.",
-        "da": "Californien har lige godkendt offentlig finansiering til psykedelika-forskning — et massivt signal om, at regeringer begynder at se disse stoffer som legitim medicin, ikke bare kontrovers. Samtidig flytter DEA visse tryptaminer til Schedule 5, det laveste restriktionsniveau, hvilket kunne åbne døre for forskning, der har været låst i årtier. Denne podcast gennemgår, hvad disse politiske skift egentlig betyder for de forskere, der arbejder på at få psykedelika ind i hospitaler og klinikker. Mens Oregon justerer sin tilgang og finansiering begynder at flyde, ser vi reglerne for spillet ændre sig i realtid — og det betyder noget for alle, der håber, at disse værktøjer kunne hjælpe med depression, angst og trauma."
-      },
-      "added_at": "2026-10-05T15:37:33.045733+00:00"
-    },
-    {
-      "title": "Novel Aminocyclohexenyl-6,6-bicyclic Compounds as 5-HT2A Receptor Agonists for Treating Depression, Anxiety, Substance Abuse, and Headaches",
-      "url": "https://doi.org/10.1021/acsmedchemlett.6c00490",
-      "source": "OpenAlex",
-      "date": "2026-10-02",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Scientists have designed entirely new molecules that could tackle depression, anxiety, addiction, and chronic headaches—all by activating the same brain receptor that psychedelics naturally target. These synthetic compounds are engineered to be more precise and controllable than traditional psychedelics, offering a potential path toward treatments that harness psychedelic science without requiring a full psychedelic experience. Researchers developed and tested these novel compounds in the lab, marking another step in how we're learning to work with the brain's serotonin system in smarter ways. This fits into a larger shift in medicine: instead of waiting for nature to provide the tools, we're now designing them ourselves, which could mean safer, more accessible options for millions of people struggling with conditions that don't respond well to existing treatments.",
-        "da": "Forskere har designet helt nye molekyler, der potentielt kan behandle depression, angst, afhængighed og kroniske hovedpine—ved at aktivere den samme hjernereceptor, som psykedelika naturligt påvirker. Disse syntetiske stoffer er konstrueret til at være mere præcise og kontrollable end traditionelle psykedelika, og de åbner mulighed for behandlinger, der udnytter psykedelikas kraft uden at kræve en fuld psykedelisk oplevelse. Forskerne udviklede og testede disse nye forbindelser i laboratoriet, og det er endnu et skridt i, hvordan vi lærer at arbejde klogere med hjernens serotoninssystem. Det passer ind i en større forandring inden for medicin: i stedet for at vente på, at naturen giver os værktøjerne, designer vi dem nu selv—hvilket kunne betyde sikrere, mere tilgængelige muligheder for millioner af mennesker, der kæmper med tilstande, som eksisterende behandlinger ikke virker på."
-      },
-      "added_at": "2026-10-05T15:37:33.045733+00:00"
-    },
-    {
-      "title": "Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42831801/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if recovery from alcohol addiction meant actually feeling better—not just drinking less? A major review of 18 studies found that naltrexone genuinely improved people's mental and physical quality of life while tackling alcohol use disorder. But here's what caught researchers' attention: psilocybin, the psychedelic compound from magic mushrooms, also showed promise for boosting wellbeing in early trials. Scientists analyzed data from over 4,000 participants across randomized controlled trials testing different medications. The findings matter because quality of life is what keeps people in recovery long-term—it's not enough to simply reduce cravings. As psychedelics enter the mainstream conversation about mental health treatment, this research hints at an exciting possibility: could these substances work alongside or even offer new pathways for people struggling with addiction? The evidence is early, but it's enough to keep watching.",
-        "da": "Hvad hvis helbredelse fra alkoholmisbrug betød faktisk at have det bedre—ikke bare at drikke mindre? En stor oversigt over 18 studier viste, at naltrexone forbedrede menneskers mentale og fysiske livskvalitet i behandlingen af alkoholforgiftning. Men det, som forskerne blev særligt opmærksomme på: psilocybin, det psykedeliske stof fra tryllehatte, viste også lovende resultater for at øge trivsel i tidlige forsøg. Videnskabsmænd analyserede data fra over 4.000 deltagere på tværs af randomiserede kontrollerede studier, der testede forskellige mediciner. Resultaterne betyder noget, fordi livskvalitet er det, der holder folk i bedring på længere sigt—det er ikke nok blot at reducere trang. Mens psykedelika træder ind i mainstream-samtalen om mental sundhedsbehandling, peger denne forskning på en spændende mulighed: kunne disse stoffer arbejde sammen med eller endda tilbyde nye veje for mennesker, der kæmper med misbrug? Beviserne er tidlige, men nok til at holde øje med udviklingen."
-      },
-      "added_at": "2026-10-05T15:37:33.045733+00:00"
     }
   ]
 }
