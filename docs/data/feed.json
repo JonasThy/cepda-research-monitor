@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-27T13:01:48.654988+00:00",
+  "generated_at": "2026-10-28T13:52:38.301840+00:00",
   "items": [
+    {
+      "title": "Quality of Life in Patients with Treatment-Resistant Depression Treated with Intranasal Esketamine as Add-On Therapy to an SSRI-A Prospective, Comparative Study in Real-World Clinical Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42943341/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When standard antidepressants stop working, people don't just feel stuck—they often can't work, connect with others, or enjoy life. A new study shows that esketamine, a psychedelic relative of ketamine given as a nasal spray alongside regular antidepressants, actually helps people get their lives back. Beyond just feeling less depressed, patients reported real improvements in daily functioning and overall quality of life—the stuff that actually matters.\n\nResearchers tracked real patients in actual clinics (not just lab conditions) to see how esketamine performed as an add-on treatment for treatment-resistant depression. The findings fit into an exciting bigger picture: psychedelics aren't just about symptom relief anymore. Science is discovering they can help people rebuild the capacity to work, relate, and thrive—opening a genuine new path for people who've exhausted other options.",
+        "da": "Når almindelige antidepressiva holder op med at virke, handler det ikke kun om at føle sig deprimeret—mange mennesker kan ikke arbejde, have næhe relationer eller nyde livet. Et nyt studie viser, at esketamin, en psykedelisk kusine til ketamin givet som næsespray sammen med almindelige antidepressiva, hjælper mennesker med at få deres liv tilbage. Ud over blot at føle sig mindre deprimeret rapporterede patienter om rigtige forbedringer i deres daglige funktionsevne og livskvalitet—de ting, der faktisk betyder noget.\n\nForskere fulgte rigtige patienter på rigtige klinikker (ikke blot laboratorieforhold) for at se, hvordan esketamin virkede som tillægtsbehandling for behandlingsresistent depression. Resultaterne passer ind i et spændende større billede: psykedelika handler ikke længere kun om symptomlindrering. Videnskaben opdager, at de kan hjælpe mennesker med at genvinde evnen til at arbejde, være sammen med andre og trives—hvilket åbner en ægte ny vej for mennesker, der har udtømt andre muligheder."
+      },
+      "added_at": "2026-10-28T13:52:08.400321+00:00"
+    },
+    {
+      "title": "Psychedelics in Psychiatry: A Wakeup Call for Clinicians in the Age of Policy Reform.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945450/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "Psychiatry is waking up to something remarkable: psychedelics might genuinely help people suffering from depression, anxiety, and trauma in ways traditional medicine hasn't cracked. As laws start shifting around the world—including Denmark—clinicians are racing to understand how to actually use these tools safely and effectively. This isn't hype; it's a serious moment where the science is moving faster than many doctors are prepared for, and that gap matters hugely for patients waiting for new options.",
+        "da": "Psykiatrien vågner op til noget bemærkelsesværdigt: psykedelika kan måske virkelig hjælpe mennesker, der lider af depression, angst og traumer på måder, som traditionel medicin ikke har løst. Mens love begynder at ændre sig verden over—også Danmark—kæmper klinikere for at forstå, hvordan man sikkert og effektivt bruger disse værktøjer. Det handler ikke om hype; det er et seriøst øjeblik, hvor videnskaben bevæger sig hurtigere end mange læger er forberedt på, og det betyder enormt meget for patienter, der venter på nye muligheder."
+      },
+      "added_at": "2026-10-28T13:52:08.400321+00:00"
+    },
+    {
+      "title": "Gut consciousness: a perspective on visceral phenomenal awareness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936312/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Your gut might actually feel things. A new perspective argues that the 400-600 million neurons lining your intestines could constitute a genuine form of consciousness—not just sending signals to your brain, but experiencing sensations themselves. This isn't mysticism: researchers point to the gut's ability to sense, discriminate between self and foreign invaders, and communicate through multiple channels, plus intriguing clinical patterns like psychedelic-induced nausea that don't fit traditional brain-centric models.\n\nScientists synthesized evidence from neurology, immunology, and evolutionary biology to make this case. This fits into a bigger shift in psychedelic research: as we study how these substances reshape our inner experience, we're realizing the whole body—not just the brain—is part of consciousness. Understanding gut awareness could reshape how we think about wellbeing, nausea, digestion, and what consciousness actually is.",
+        "da": "Din mave kan måske føle noget. Et nyt perspektiv argumenterer for, at de 400-600 millioner neuroner i dine tarme kunne udgøre en reel form for bevidsthed—ikke bare sender signaler til din hjerne, men oplever følelser selv. Det er ikke mystik: forskere peger på mavehulen evne til at føle, skelne mellem sig selv og fremmede angribere, og kommunikere gennem flere kanaler, plus fascinerende kliniske mønstre som psykedelika-induceret kvalme, der ikke passer til traditionelle hjerne-centrerede modeller.\n\nVidenskabsfolk syntetiserede beviser fra neurologi, immunologi og evolutionær biologi for at understøtte denne teori. Det passer ind i en større ændring inden for psykedelika-forskning: når vi studerer, hvordan disse stoffer omformer vores indre oplevelse, indser vi, at hele kroppen—ikke bare hjernen—er del af bevidstheden. At forstå mavebevidsthed kunne omforme, hvordan vi tænker om velvære, kvalme, fordøjelse og hvad bevidsthed egentlig er."
+      },
+      "added_at": "2026-10-28T13:52:08.400321+00:00"
+    },
+    {
+      "title": "Comparable Acute Antidepressant-like Effects of Two Subanesthetic Ketamine Doses Are Associated with Divergent Region-Specific Molecular Responses After Adolescent Chronic Stress",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42941897/",
+      "source": "EuropePMC (Denmark)",
+      "date": "2026-10-15",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Ketamine works fast. New research shows it can lift depression-like symptoms within 24 hours—even at lower doses. But here's what's really interesting: the brain doesn't respond the same way everywhere. Scientists gave depressed mice two different doses of ketamine and found both worked equally well at first, yet they triggered completely different molecular changes across different brain regions. A higher dose didn't mean better results—it just meant more activity happening in the background. The study, which examined how stress during adolescence shapes the brain's response to treatment, used molecular analysis to map these regional differences in detail. This finding is shifting how we think about psychedelics and ketamine: it's not just about how strong the dose is, but how the drug choreographs activity across the brain's interconnected regions. As researchers race to understand why some psychedelics work so rapidly for depression, this kind of precision mapping could help explain why one person's miracle treatment might not work the same way for someone else—and eventually help us predict who benefits most from what.",
+        "da": "Ketamin virker hurtigt. Ny forskning viser, at det kan løfte depressionslignende symptomer på bare 24 timer—selv ved lavere doser. Men her bliver det rigtig interessant: hjernen reagerer ikke ens alle steder. Forskere gav deprimerede mus to forskellige doser ketamin og fandt, at begge virkede lige godt i starten, men udløste helt forskellige molekylære reaktioner på tværs af forskellige hjernereioner. En højere dosis betød ikke bedre resultater—den betød blot mere aktivitet i baggrunden. Studiet, som undersøgte, hvordan stress i ungdommen påvirker hjernens reaktion på behandling, brugte molekylær analyse til at kortlægge disse regionale forskelle i detaljer. Dette fund ændrer, hvordan vi tænker på psykedelika og ketamin: det handler ikke bare om dosisstyrken, men om, hvordan stoffet orkestrerer aktivitet på tværs af hjernens forbundne regioner. Mens forskere arbejder på at forstå, hvorfor nogle psykedelika virker så hurtigt mod depression, kunne denne præcisionskortlægning hjælpe os med at forklare, hvorfor en persons mirakelbehanding måske ikke virker på samme måde for andre—og måske til sidst hjælpe os med at forudsige, hvem der har mest gavn af hvad."
+      },
+      "added_at": "2026-10-28T13:52:08.400321+00:00"
+    },
+    {
+      "title": "Comparable Acute Antidepressant-like Effects of Two Subanesthetic Ketamine Doses Are Associated with Divergent Region-Specific Molecular Responses After Adolescent Chronic Stress",
+      "url": "https://europepmc.org/article/PMC/PMC13704947",
+      "source": "EuropePMC (Denmark)",
+      "date": "2026-10-01",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Here's something hopeful: ketamine can lift depression quickly, even after severe teenage stress—and now we know it works the same way at different doses. Researchers gave stressed adolescents two different amounts of ketamine and found both triggered rapid mood improvements, though they activated different parts of the brain at the molecular level. This matters because it suggests ketamine's antidepressant punch isn't one-size-fits-all, and understanding these hidden mechanisms could help us personalize treatment and maybe even find new drugs that work similarly. As psychedelics and ketamine move from lab to clinic, studies like this are crucial—they're mapping the actual biology behind why these substances help people when traditional antidepressants don't.",
+        "da": "Her er noget håbefuldt: ketamin kan løfte depression hurtigt, selv efter alvorlig stress som teenager—og nu ved vi det virker på samme måde med forskellige doser. Forskere gav stressramte unge mennesker to forskellige mængder ketamin og fandt ud af, at begge udløste hurtige stemningsforbedringer, selvom de aktiverede forskellige dele af hjernen på molekylært niveau. Det betyder noget, fordi det tyder på, at ketamins antidepressive effekt ikke er én-størrelse-passer-alle, og at forstå disse skjulte mekanismer kunne hjælpe os med at personliggøre behandlingen og måske endda finde nye stoffer, der virker tilsvarende. Når psykedelika og ketamin bevæger sig fra lab til klinik, er studier som dette vigtige—de kortlægger den faktiske biologi bag, hvorfor disse substanser hjælper mennesker, når traditionelle antidepressiva ikke gør."
+      },
+      "added_at": "2026-10-28T13:52:08.400321+00:00"
+    },
     {
       "title": "Low-dose ketamine modulates brain entropy in treatment-resistant depression: Results from two neuroimaging clinical trials.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42933579/",
@@ -715,71 +780,6 @@
         "da": "Der findes nu over 400 kliniske forsøg, der tester psykedelika mod psykiske lidelser — og psilocybin fører an, med depression som det vigtigste mål. Forskere brugte kunstig intelligens til at kortlægge denne eksplosive vækst på ClinicalTrials.gov og fandt psilocybin i 244 forsøg, MDMA i 99, og LSD, DMT og andre stoffer udfylder landskabet. Et team forbandt en AI-sprogmodel direkte til forsøgsregistret for automatisk at trække og organisere denne rodet, spredt data — noget der ville tage mennesker måneder at gøre manuelt. Dette øjebliksbillede afslører, hvor psykedelisk medicin faktisk er på vej: depression og PTSD er de kliniske frontlinjer, og området udvikler sig så hurtigt, at AI nu er den eneste praktiske måde at følge med på. Velkommen til psykedelisk forskeringens nye æra."
       },
       "added_at": "2026-10-15T12:30:13.926164+00:00"
-    },
-    {
-      "title": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network",
-      "url": "https://doi.org/10.3389/fpsyt.2026.1682810",
-      "source": "OpenAlex",
-      "date": "2026-10-14",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network",
-        "da": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network"
-      },
-      "added_at": "2026-10-15T12:30:13.926164+00:00"
-    },
-    {
-      "title": "[Connectome and Depression: Towards Precision Psychiatry Based on Brain Networks].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858129/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists are mapping the brain's wiring to finally understand why depression hits different people in different ways—and more importantly, which treatments will actually work for *you*. A new review shows that brain scan patterns can reveal whether someone will respond to therapy, antidepressants, or even ketamine, opening a door to truly personalized mental healthcare instead of trial-and-error guessing. Researchers analyzed brain imaging studies looking at how depression disrupts key networks involved in mood, reward, and decision-making. The takeaway? We're moving toward \"precision psychiatry\"—medicine tailored to your brain, not a one-size-fits-all approach. It's still early, and real clinical challenges remain, but understanding these neural patterns is a fundamental shift that could transform how we treat depression.",
-        "da": "Forskere kortlægger hjernens forbindelser for endelig at forstå, hvorfor depression rammer forskellige mennesker på forskellige måder—og vigtigere: hvilken behandling der faktisk virker for *dig*. En ny oversigt viser, at hjernescans kan afsløre, om man reagerer på terapi, antidepressiva eller endda ketamin, og åbner døren til virkelig personaliseret psykisk sundhedssorg i stedet for prøve-og-fejl. Forskere analyserede hjernebillede-studier, der kiggede på, hvordan depression forstyrrer vigtige netværk involveret i stemning, belønning og beslutningstagning. Konklusionen? Vi bevæger os mod \"præcisions-psykiatri\"—medicin skræddersyet til din hjerne, ikke en løsning der passer alle. Det er stadig tidligt, og rigtige kliniske udfordringer består, men forståelsen af disse neurale mønstre er et fundamentalt skift, der kan transformere, hvordan vi behandler depression."
-      },
-      "added_at": "2026-10-15T12:30:13.926164+00:00"
-    },
-    {
-      "title": "Salud intercultural en Pastaza: regulación del uso de plantas medicinales y de la ayahuasca",
-      "url": "https://doi.org/10.62574/n08gyqka",
-      "source": "OpenAlex",
-      "date": "2026-10-14",
-      "drug": "ayahuasca",
-      "context": "policy",
-      "summaries": {
-        "en": "Ayahuasca has been used for centuries in Amazonian communities, but when taken outside that cultural context—like in retreat centers around the world—the risks multiply fast. A new study examining legal frameworks and scientific evidence in Ecuador's Pastaza region found a troubling gap: while indigenous medicine is constitutionally recognized, there are zero specific safety standards, dosing guidelines, or protections for traditional knowledge. The research reviewed international law, ethnobotanical data, and clinical evidence to understand how psychedelics like ayahuasca should actually be regulated. The conclusion? We need rules created *with* indigenous communities and knowledge keepers, not imposed from outside. This matters because it points toward a smarter future where psychedelics are respected both as powerful medicines and as part of living cultures.",
-        "da": "Ayahuasca er blevet brugt i århundreder i amazonske samfund, men når det tages uden for den kulturelle sammenhæng—som på retreats rundt omkring i verden—stiger risiciene hurtigt. Et nyt studie af juridiske rammer og videnskabelig evidens i Ecuadors Pastaza-region afslørede et bekymrende hul: selvom oprindelig medicin er forfatningsmæssigt anerkendt, findes der nul specifikke sikkerhedsstandarder, doseringsretningslinjer eller beskyttelse af traditionel viden. Forskningen gennemgik international lov, etnobotaniske data og klinisk evidens for at forstå, hvordan psykedelika som ayahuasca egentlig bør reguleres. Konklusionen? Vi har brug for regler skabt *sammen med* oprindelige samfund og videnskeepere, ikke påtvunget udefra. Dette betyder noget, fordi det peger mod en smartere fremtid, hvor psykedelika respekteres både som kraftfulde mediciner og som del af levende kulturer."
-      },
-      "added_at": "2026-10-15T12:30:13.926164+00:00"
-    },
-    {
-      "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When you take ketamine in a clinical setting, your mind opens up—but so does your vulnerability. A new study reveals something crucial: patients undergoing ketamine treatment need more than just medical safety; they need to *feel* safe. Researchers interviewed 14 patients and 10 clinicians across German psychiatric clinics to understand what actually makes people feel protected during these powerful experiences. The findings show that trust in your surroundings, understanding what's happening to you, and genuine connection with your care team aren't luxuries—they're essential ingredients for treatment to work. This research fits perfectly into where psychedelic science is heading: moving beyond \"does it work?\" to \"how do we create the best possible conditions for healing?\" As ketamine and other consciousness-altering treatments gain clinical traction, getting the human side of care right is just as important as the medicine itself.",
-        "da": "Når du tager ketamin i en klinisk setting, åbner dit sind sig—men det gør din sårbarhed også. Et nyt studie afslører noget afgørende: patienter i ketaminbehandling har brug for mere end bare medicinsk sikkerhed; de har brug for at *føle sig* sikre. Forskere interviewede 14 patienter og 10 klinikere på tværs af tyske psykiatriske klinikker for at forstå, hvad der faktisk gør mennesker beskyttet under disse kraftfulde oplevelser. Fundet viser, at tillid til dine omgivelser, forståelse for hvad der sker med dig, og ægte kontakt med dit behandlungsteam ikke er luksus—det er væsentlige ingredienser for, at behandlingen virker. Denne forskning passer perfekt ind i hvor psykedelika-forskningen er på vej hen: fra \"virker det?\" til \"hvordan skaber vi de bedst mulige betingelser for helbredelse?\" Når ketamin og andre bevidsthedsomdannende behandlinger vinder klinisk indpas, er det menneskelige aspekt af pleje lige så vigtig som medicinen selv."
-      },
-      "added_at": "2026-10-14T12:41:33.602654+00:00"
-    },
-    {
-      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Depression doesn't just make you sad—it fogs your thinking. A new review reveals that while traditional antidepressants can help clear that fog, they work differently for different people. Some drugs like vortioxetine show real promise for sharpening focus and memory, while others help specific thinking skills. The catch? We're still not sure if they're fixing your brain directly or just helping you think better once the depression lifts. Researchers looked at decades of studies to map out how antidepressants affect cognition through multiple pathways—from boosting brain chemicals to reducing inflammation. Here's what's exciting: the review hints at emerging treatments like ketamine and psychedelics as potential game-changers for the thinking problems that often stick around even after mood improves. This points toward a future where we match the right treatment to each person's specific needs.",
-        "da": "Depression påvirker ikke bare dit humør—det tåger også dit tænkning. Et nyt overblik viser, at selvom traditionelle antidepressiva kan hjælpe med at rydde denne tåge, virker de forskelligt for forskellige mennesker. Nogle lægemidler som vortioxetin viser rigtig potentiale for at skærpe fokus og hukommelse, mens andre hjælper bestemte kognitive evner. Øjet? Vi er stadig usikre på, om de reparerer din hjerne direkte eller bare hjælper dig til at tænke bedre, når depressionen Letter. Forskere gennemgik årtiers studier for at kortlægge, hvordan antidepressiva påvirker kognitionen gennem flere veje—fra styrkelse af hjernekemikalier til reduktion af inflammation. Her er det spændende: oversigten antyder, at kommende behandlinger som ketamin og psykedelika kunne være game-changere for tænkningsproblemer, der ofte hænger ved, selv efter humøret bliver bedre. Dette peger mod en fremtid, hvor vi matcher den rigtige behandling til hver persons specifikke behov."
-      },
-      "added_at": "2026-10-14T12:41:33.602654+00:00"
     }
   ]
 }
