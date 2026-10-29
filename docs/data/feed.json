@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-28T13:52:38.301840+00:00",
+  "generated_at": "2026-10-29T13:59:01.840564+00:00",
   "items": [
+    {
+      "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1924069",
+      "source": "OpenAlex",
+      "date": "2026-10-28",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "People who attended guided psilocybin retreats felt dramatically better a year later — and the secret ingredient wasn't mystical visions or spiritual awakening. Instead, it was something simpler and more human: feeling genuinely connected to others and the world around them. Researchers tracked 173 participants over 12 months and found that increased connectedness was the strongest predictor of lasting wellbeing improvements, followed by reduced anxiety and better emotional absorption. This naturalistic study followed real people through structured retreats with preparation, dosing, and integration support, measuring their mental health at multiple points. It's a fascinating shift for psychedelic research: moving beyond treating mental illness to understanding how these experiences can build deeper wellbeing in everyday life — and suggesting that the real work happens in how we relate to others.",
+        "da": "Folk der deltog i guidede psykedelika-retreats følte sig dramatisk bedre et år senere — og det vigtigste var ikke mystiske visioner eller åndelig opvågning, men noget simplere og mere menneskeligt: at føle sig virkelig forbundet med andre og verden omkring dem. Forskere fulgte 173 deltagere over 12 måneder og fandt, at øget forbundethed var den stærkeste forudsigelse for varige forbedringer i trivsel, efterfulgt af mindre angst og bedre følelsesmæssig absorption. Studiet fulgte rigtige mennesker gennem strukturerede retreats med forberedelse, dosering og integrationsopfølgning og målte deres mentale helbred flere gange. Det er et fascinerende skift i psykedelika-forskningen: at bevæge sig fra at behandle psykisk sygdom til at forstå, hvordan disse erfaringer kan opbygge dybere trivsel i hverdagen — og tyder på, at det vigtige arbejde sker i, hvordan vi forholdes til andre."
+      },
+      "added_at": "2026-10-29T13:58:32.426746+00:00"
+    },
+    {
+      "title": "Psychedelic assisted psychotherapy (2020–2025): a scoping review of clinical evidence, mechanisms, safety, and ethics",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1820860",
+      "source": "OpenAlex",
+      "date": "2026-10-27",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if the key to healing trauma and depression wasn't just the drug itself, but the whole experience around it? New research shows that psychedelic-assisted therapy works best when psilocybin, MDMA, LSD, or DMT are given in carefully designed therapeutic settings with proper psychological support before, during, and after. The magic isn't one-size-fits-all — your mindset, the therapist's presence, and the environment matter just as much as the substance.\n\nA major review of studies from 2020–2025 mapped out exactly how these treatments are being used clinically and what's actually working. The findings highlight that psychedelic research is moving beyond \"does this compound help?\" toward deeper questions: How do we optimize the therapy around it? What makes some people respond better than others? As this field grows rapidly with new trials launching constantly, the science is getting smarter about the human and relational side of healing.",
+        "da": "Hvad hvis nøglen til at hele traumer og depression ikke kun er stoffet selv, men hele oplevelsen omkring det? Ny forskning viser, at psykedelika-assisteret terapi virker bedst, når psilocybin, MDMA, LSD eller DMT gives i omhyggeligt designede terapeutiske omgivelser med ordentlig psykologisk støtte før, under og efter. Magien er ikke en-størrelse-passer-alle — dit sind, terapeutens nærvær og miljøet betyder lige så meget som stoffet.\n\nEn større gennemgang af studier fra 2020–2025 kortlagde præcis, hvordan disse behandlinger bruges klinisk og hvad der faktisk virker. Resultaterne viser, at psykedelika-forskningen bevæger sig væk fra \"hjælper dette stof?\" mod dybere spørgsmål: Hvordan optimerer vi terapien omkring det? Hvad får nogle mennesker til at reagere bedre end andre? Efterhånden som dette felt vokser hurtigt med nye forsøg i gang konstant, bliver videnskaben smartere omkring den menneskelige og relationelle side af healing."
+      },
+      "added_at": "2026-10-29T13:58:32.426746+00:00"
+    },
+    {
+      "title": "How personalization and psychedelics are revitalizing psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951954/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if your depression treatment could be tailored to who you actually are? A fascinating new piece explores how psychedelics and personalized medicine are shaking up psychiatry—moving us away from the one-size-fits-all approach that hasn't worked for millions of people. Instead of just giving everyone the same pill, researchers are asking: what does this person need, right now, in this moment?\n\nThis synthesis piece pulls together emerging evidence showing how psychedelics combined with tailored treatment plans could help reshape mental healthcare for the better. It's part of a bigger shift happening in the field—one where science is finally catching up to what many have suspected: that the most powerful healing happens when treatment meets the individual. Welcome to psychiatry's future.",
+        "da": "Hvad hvis din behandling for depression kunne tilpasses præcis til dig? Et fascinerende nyt perspektiv udforsker, hvordan psykedelika og personaliseret medicin er ved at revolutionere psykiatrien—og flytter os væk fra den one-size-fits-all-tilgang, der ikke virker for millioner af mennesker. I stedet for blot at give alle den samme pille spørger forskere: hvad har denne person brug for, lige nu, i dette øjeblik?\n\nDenne syntese samler emerging evidence, der viser hvordan psykedelika kombineret med skræddersyede behandlingsplaner kan hjælpe med at omforme mental sundhedsvæsenet. Det er en del af en større transformation i fagfeltet—en hvor videnskaben endelig indhenter det, mange længe har suspekteret: at den mest kraftfulde helbredelse sker når behandling møder individet. Velkommen til psykiatriens fremtid."
+      },
+      "added_at": "2026-10-29T13:58:32.426746+00:00"
+    },
+    {
+      "title": "Current Pharmaceutical Strategies for the Long-Term Management of Addiction",
+      "url": "https://doi.org/10.3390/ph19111699",
+      "source": "OpenAlex",
+      "date": "2026-10-28",
+      "drug": "ibogaine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Addiction isn't just about willpower—it's a brain disease that rewires how we respond to stress and craving, making relapse frustratingly common even after months sober. New research shows we've been thinking about treatment backwards: instead of just blocking drug effects, we need to actually repair and rebuild the brain's resilience systems. Scientists reviewed cutting-edge approaches targeting the root causes—from compounds that calm stress responses to therapies that spark neuroplasticity and healing. Psychedelic-assisted therapies are now part of this new roadmap, alongside emerging drugs designed to restore balance to damaged brain circuits. This represents a fundamental shift in addiction medicine: moving from suppression toward restoration, from quick fixes toward genuine long-term recovery.",
+        "da": "Misbrug er ikke bare et spørgsmål om vilje—det er en hjerncsygdom, der omprogrammerer, hvordan vi reagerer på stress og trang, og gør tilbagefald frustrerende almindeligt selv efter måneder edruelig tid. Ny forskning viser, at vi har tænkt på behandling helt baglæns: i stedet for bare at blokere stoffernes virkninger, skal vi faktisk reparere og genopbygge hjernens modstandssystemer. Forskere gennemgik banebrydende metoder, der målretter rodårsagerne—fra stoffer, der berolige stressreaktioner, til terapier, der vækker neuroplasticitet og helbredelse. Psykedelika-assisterede terapier er nu del af dette nye vejkort, sammen med nye lægemidler designet til at genoprette balance i beskadigede hjernekredse. Dette repræsenterer et fundamentalt skift inden for misbrug-medicin: fra undertrykkelse mod genoprættelse, fra hurtige løsninger mod ægte langtidsrestitution."
+      },
+      "added_at": "2026-10-29T13:58:32.426746+00:00"
+    },
+    {
+      "title": "How personalization and psychedelics are revitalizing psychiatry",
+      "url": "https://doi.org/10.1038/d41586-026-03402-7",
+      "source": "OpenAlex",
+      "date": "2026-10-28",
+      "drug": "other",
+      "context": "mental-health",
+      "summaries": {
+        "en": "What if your depression treatment could be tailored specifically to you instead of working on a one-size-fits-all guess? New research shows that psychedelics combined with personalized medicine approaches are changing how psychiatry actually works—moving beyond the trial-and-error of traditional antidepressants toward treatments that fit your unique biology and psychology. This isn't about a magic cure, but rather a fundamental shift in how we think about mental health: treating the individual rather than just the diagnosis.\n\nScientists are combining genetic insights, brain imaging, and psychological profiling with psychedelic-assisted therapy to understand why some people thrive on certain treatments while others don't. As psychedelics research accelerates globally, this personalization angle represents where the field is heading—smarter, more precise, and ultimately more compassionate mental healthcare that actually meets people where they are.",
+        "da": "Hvad hvis din depression kunne behandles helt specifikt tilpasset til dig i stedet for efter et generelt skema? Ny forskning viser, at psykedelika kombineret med personaliseret medicin forandrer psykiatrien—væk fra prøv-og-fejl med traditionelle antidepressiva og hen imod behandlinger, der passer til din helt unikke biologi og psykologi. Det handler ikke om en tryllekunst, men snarere en grundlæggende ændring i, hvordan vi forstår mental sundhed: at behandle det enkelte menneske i stedet for bare diagnosen.\n\nVidenskabsmænd kombinerer genetisk indsigt, hjernescanning og psykologisk profilering med psykedelika-assisteret terapi for at forstå, hvorfor nogle mennesker blomstrer på bestemte behandlinger, mens andre ikke gør. Efterhånden som psykedelika-forskningen accelererer globalt, repræsenterer denne personalisering hvor feltet er på vej hen—smartere, mere præcis og til sidst mere medfølende psykiatrisk behandling, der rent faktisk møder mennesker der, hvor de er."
+      },
+      "added_at": "2026-10-29T13:58:32.426746+00:00"
+    },
     {
       "title": "Quality of Life in Patients with Treatment-Resistant Depression Treated with Intranasal Esketamine as Add-On Therapy to an SSRI-A Prospective, Comparative Study in Real-World Clinical Practice.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42943341/",
@@ -715,71 +780,6 @@
         "da": "Ketamin og esketamin viser lovende resultater til at lindre selvmordstanker hos mennesker i krise—nogle gange inden for timer i stedet for dage. Men her er det vigtige: de er ikke tryllekuler. Forskningen viser, at de kan dæmpe den umiddelbare storm, men vi har endnu ikke solid bevis for, at de forhindrer faktiske selvmordsforsøg eller dødsfald. I nylige kliniske forsøg fungerede esketamin bedst kombineret med hospitalsindlæggelse, nye antidepressiva og fuld støttende behandling—hvilket tyder på, at det er et kraftfuldt første skridt, ikke en selvstændig løsning.\n\nForskere gennemgik årtiers bevis for at forstå præcis, hvad disse ketaminbehandlinger gør og ikke gør. Det, der opstår, er et klarere billede: psykedelika og lignende stoffer som ketamin passer ind i akut selvmordsbehandling som en del af en større værktøjskasse. Det virkelige gennembrud er ikke blot den hurtige lindring—det er at erkende, at det at få nogen gennem krisetidspunktet kun er begyndelsen. Fremtiden for psykisk sundhedsbehandling betyder at kombinere disse hurtigt virkende interventioner med solid efterbehandling, passende medicin og ægte støtte. Det er hvor den virkelige transformation sker."
       },
       "added_at": "2026-10-16T12:08:28.548216+00:00"
-    },
-    {
-      "title": "5-HT2A receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin",
-      "url": "https://doi.org/10.1038/s41593-026-02490-y",
-      "source": "OpenAlex",
-      "date": "2026-10-15",
-      "drug": "psilocybin",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists just discovered something wild: psilocybin's magic might work through two completely different mechanisms in your brain. The hallucinogenic visuals? That's one pathway. But the brain-healing benefits — the rewiring that helps with depression and trauma — might actually come from somewhere else entirely. Researchers isolated which brain cells and receptors drive each effect, opening the door to potentially separating the therapeutic gains from the trip itself. This finding challenges everything we thought we knew about how psychedelics work, suggesting the path to new treatments might be stranger than we imagined — and maybe more flexible too.",
-        "da": "Forskere har netop gjort en vildt vigtig opdagelse: psykedelikas virkemåde i hjernen er måske splittet op i to helt forskellige mekanismer. De hallucinogene oplevelser — de farverige syn og mærkelige tanker — det sker via én vej i hjernen. Men de terapeutiske effekter — den hjerneplasticitet der hjælper mod depression og traumer — det kan stammer fra noget helt tredje. Ved at isolere præcis hvilke hjerneceller og receptorer der styrer hver effekt, åbner denne forskning dørene til måske at kunne adskille lægeeffekterne fra turen selv. Det udfordrer alt hvad vi troede vi vidste om psykedelikas virkning, og antyder at vejen til nye behandlinger måske er mere fleksibel end vi havde håbet."
-      },
-      "added_at": "2026-10-16T12:08:28.548216+00:00"
-    },
-    {
-      "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases",
-      "url": "https://doi.org/10.1093/oncolo/oyag402",
-      "source": "OpenAlex",
-      "date": "2026-10-15",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if psychedelics could help cancer patients find peace not just by erasing symptoms, but by helping them reconnect with what matters most? A new study of psilocybin-assisted therapy in palliative care shows that the real measure of success goes beyond feeling better—it's about patients discovering deeper acceptance, courage, and meaning as they face their mortality. Researchers analyzed real cases from a clinical trial and found something striking: consent to this profound experience doesn't require patients to predict the unpredictable. Instead, it's about endorsing a supported journey toward personal values and understanding. The study maps out concrete ethical challenges oncologists need to navigate—managing expectations, working with ambiguity, and honoring limited time for reflection—while proposing who might benefit most. This work signals where psychedelic research is heading: toward recognizing that healing isn't one-size-fits-all, and that for some of our most vulnerable patients, these tools might offer something medicine hasn't quite managed before.",
-        "da": "Hvad hvis psykedelika kunne hjælpe kræftpatienter til at finde fred, ikke bare ved at udslette symptomer, men ved at hjælpe dem til at genopdage hvad der betyder mest? Et nyt studie af psilocybin-assisteret terapi i palliativ pleje viser, at succesmålet går langt ud over at føle sig bedre—det handler om, at patienterne finder dybere accept, mod og mening, mens de møder deres dødelighed. Forskere analyserede rigtige tilfælde fra et klinisk forsøg og fandt noget slående: samtykke til denne dybtgående oplevelse kræver ikke, at patienter kan forudsige det uforudsigelige. I stedet handler det om at bakke op om en støttet rejse mod personlige værdier og selvforståelse. Studiet kortlægger konkrete etiske udfordringer, som onkologer skal navigere—håndtering af forventninger, arbejde med tvetydighed og respekt for begrænset tid til eftertanke—samtidig med at det foreslår hvem der kunne få gavn heraf. Dette arbejde signalerer hvor psykedelika-forskningen er på vej hen: mod at anerkende, at helbredelse ikke er one-size-fits-all, og at disse værktøjer måske kan tilbyde noget for nogle af vores sårbareste patienter, som medicinen hidtil ikke helt har formået."
-      },
-      "added_at": "2026-10-16T12:08:28.548216+00:00"
-    },
-    {
-      "title": "Use of Electroconvulsive Therapy and Ketamine in a POLG-Related Disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879681/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What happens when standard treatments hit a wall? A fascinating case study shows how ketamine—a dissociative drug with psychedelic properties—helped a patient with a rare genetic disorder (POLG) when nothing else worked. The patient experienced severe depression and treatment-resistant symptoms, but ketamine offered relief where conventional antidepressants failed. This isn't just one person's story; it hints at something researchers are increasingly exploring: how psychedelics might reach people whose brains respond differently to traditional medicine, opening doors for patients who've exhausted other options.\n\nThe study combined ketamine with electroconvulsive therapy, examining how these two powerful tools worked together. While case reports like this are just one piece of the puzzle, they matter because they show real-world possibilities and guide where the next wave of rigorous trials should look. As psychedelic research expands beyond depression into rare and complex conditions, stories like these remind us that breakthrough treatments often come from asking unconventional questions—and listening when patients finally find relief.",
-        "da": "Hvad sker der, når standardbehandlinger ikke virker? Et fascinerende casestudie viser, hvordan ketamin—et dissociativt stof med psykedeliske egenskaber—hjalp en patient med en sjælden genetisk lidelse (POLG), da intet andet virkede. Patienten led af alvorlig depression og symptomer, som ikke reagerede på almindelig medicin, men ketamin gav lindring, hvor traditionelle antidepressiva svigtede. Det er ikke bare én persons historie; det peger på noget, forskere i stigende grad udforsker: hvordan psykedelika kan nå mennesker, hvis hjerner reagerer anderledes på traditionel medicin, og åbner døre for patienter, som har udtømt andre muligheder.\n\nStudiet kombinerede ketamin med elektrokonvulsiv terapi og undersøgte, hvordan disse to kraftfulde værktøjer arbejdede sammen. Selvom casestudier som dette kun er ét stykke af puslespillet, betyder de noget, fordi de viser virkelige muligheder og vejleder, hvor de næste strenge forsøg bør se hen. I takt med at psykedelika-forskningen udvides ud over depression til sjældne og komplekse tilstande, minder historier som denne os om, at gennembrud i behandling ofte kommer fra at stille ukonventionelle spørgsmål—og at lytte, når patienter endelig finder lindring."
-      },
-      "added_at": "2026-10-16T12:08:28.548216+00:00"
-    },
-    {
-      "title": "\"Am I a candidate for magic mushrooms?\" A mystery shopper study of Oregon psilocybin service centers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871231/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "psilocybin",
-      "context": "policy",
-      "summaries": {
-        "en": "Oregon just became the first US state to let people access supervised psilocybin services legally—and researchers wanted to know: what's actually happening? They called 22 licensed centers pretending to be people seeking help for depression. The good news? Every single center took safety seriously, asking detailed questions about psychiatric history and never pushing anyone to stop antidepressants. But here's the catch: the median cost is $1,900 per session, and many centers are struggling financially under licensing fees. This mystery shopper study reveals a system that's playing it cautious—which protects people—but might be pricing out those who need it most. As psychedelics move from underground to regulated spaces, Oregon's early experiment shows us both the promise and the real-world challenges ahead.",
-        "da": "Oregon blev lige det første amerikanske stat, der tillader lovlig, overvåget psykedelika-behandling—og forskere ville vide: hvad sker der egentlig? De ringede til 22 licenserede centre og udgav sig for at være mennesker, der søgte hjælp for depression. Den gode nyhed? Hvert eneste center tog sikkerhed seriøst, stillede detaljerede spørgsmål om psykiatrisk historie og pressede aldrig nogen til at stoppe antidepressiva. Men der er en hage: mediankostnaden er $1.900 pr. session, og mange centre kæmper økonomisk med licensgebyrer. Dette mystery shopper-studie viser os et system, der spiller det sikkert—som beskytter mennesker—men muligvis udelukker dem, der har størst brug for det. Mens psykedelika bevæger sig fra underjorden til regulerede rum, viser Oregons tidlige eksperiment både løftet og de virkelige udfordringer forude."
-      },
-      "added_at": "2026-10-15T12:30:13.926164+00:00"
-    },
-    {
-      "title": "AI-assisted characterization of psychedelic clinical trials from ClinicalTrials.gov",
-      "url": "https://doi.org/10.1186/s13063-026-10053-6",
-      "source": "OpenAlex",
-      "date": "2026-10-14",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "There are now over 400 clinical trials testing psychedelics for mental health — and psilocybin is leading the charge, with depression as the top target. Researchers used AI to map this explosive growth across ClinicalTrials.gov, finding psilocybin in 244 trials, MDMA in 99, and LSD, DMT, and other compounds filling out the landscape. A team connected an AI language model directly to the trial registry to pull and organize this messy, sprawling data automatically — something that would take humans months to do by hand. This snapshot reveals where psychedelic medicine is actually heading: depression and PTSD are the clinical frontlines, and the field is moving fast enough that AI is now the only practical way to keep track. Welcome to the new era of psychedelic research.",
-        "da": "Der findes nu over 400 kliniske forsøg, der tester psykedelika mod psykiske lidelser — og psilocybin fører an, med depression som det vigtigste mål. Forskere brugte kunstig intelligens til at kortlægge denne eksplosive vækst på ClinicalTrials.gov og fandt psilocybin i 244 forsøg, MDMA i 99, og LSD, DMT og andre stoffer udfylder landskabet. Et team forbandt en AI-sprogmodel direkte til forsøgsregistret for automatisk at trække og organisere denne rodet, spredt data — noget der ville tage mennesker måneder at gøre manuelt. Dette øjebliksbillede afslører, hvor psykedelisk medicin faktisk er på vej: depression og PTSD er de kliniske frontlinjer, og området udvikler sig så hurtigt, at AI nu er den eneste praktiske måde at følge med på. Velkommen til psykedelisk forskeringens nye æra."
-      },
-      "added_at": "2026-10-15T12:30:13.926164+00:00"
     }
   ]
 }
