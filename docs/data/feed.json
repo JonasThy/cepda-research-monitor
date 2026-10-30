@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-29T13:59:01.840564+00:00",
+  "generated_at": "2026-10-30T13:53:46.095956+00:00",
   "items": [
+    {
+      "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "lsd",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Psychedelics are making a comeback in psychiatry—and scientists are finally getting serious about understanding how they actually work. A major new review brings together evolutionary biology, neuroscience, and computational theory to crack the code: these compounds appear to reset how our brains process information and form beliefs, potentially explaining both the profound inner experiences people report and the rapid healing they're seeing in depression, anxiety, and PTSD. The team studied everything from simple organisms to primates, comparing how serotonin receptors trigger plasticity and reshape neural hierarchies across species. The verdict? Animal research isn't about copying human trips—it's about understanding the fundamental molecular machinery that all our brains share, giving us clearer windows into why psychedelics might unlock therapeutic doors that traditional psychiatry has struggled to open.",
+        "da": "Psykedelika er tilbage i psykiatrien—og videnskabsfolkene bliver alvorlige om at forstå, hvordan de virker. En stor ny oversigt samler evolutionbiologi, neurovidenskab og computerteorier for at løse gåden: disse stoffer ser ud til at nulstille, hvordan vores hjerner behandler information og danner overbevisninger, hvilket potentielt forklarer både de dybtgående indre oplevelser folk rapporterer og den hurtige helbredelse, vi ser ved depression, angst og PTSD. Forskerne studierede alt fra simple organismer til primater og sammenlignede, hvordan serotoninreceptorer udløser plasticititet og omformer neural hierarki på tværs af arter. Konklusionen? Dyreforskning handler ikke om at kopiere menneskes oplevelser—det handler om at forstå den fundamentale molekylære maskine, som alle vores hjerner deler, og give os klarere vinduer ind i, hvorfor psykedelika måske kan låse terapeutiske døre op, som traditionel psykiatri har kæmpet med."
+      },
+      "added_at": "2026-10-30T13:53:12.911010+00:00"
+    },
+    {
+      "title": "Cross-species mapping of acute psychedelic-responsive genes links HTR2A cortical expression, cell-type enrichment, and human cortical expression modules.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957634/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Scientists just mapped exactly which genes light up in the brain within hours of taking psychedelics — and found something fascinating: the changes are concentrated in our cortex, the thinking part of our brain, especially in areas tied to emotion and memory. This matters because it reveals the biological fingerprint of how psychedelics actually rewire our minds at a molecular level. Researchers combed through studies across animal models and lab cultures, then cross-referenced their findings with human brain maps to identify which genes spring to life after psychedelic use. What they discovered fits perfectly with emerging theories about how these substances work: they activate networks involved in neuroplasticity and connection-making between neurons. This research bridges a crucial gap — we've known psychedelics change consciousness, but now we're seeing the genetic blueprints behind those changes, laying groundwork for understanding why they show such promise for treating depression, anxiety, and PTSD.",
+        "da": "Forskere har netop kortlagt præcis, hvilke gener der tændes i hjernen inden for timer efter at tage psykedelika — og fandt noget fascinerende: ændringerne er koncentreret i vores cortex, vores tænkende hjerne, især i områder knyttet til følelser og hukommelse. Det betyder noget, fordi det afsløres den biologiske fingeraftryk for, hvordan psykedelika faktisk omstrukturerer vores sind på molekylært niveau. Forskere gennemgik studier på tværs af dyremodeller og labbkulturer, og sammenlignede derefter deres resultater med humane hjernekort for at identificere, hvilke gener der vågnede efter psykedelika-brug. Det de opdagede passer perfekt med nye teorier om, hvordan disse stoffer virker: de aktiverer netværk involveret i neuroplasticitet og forbindelsesdannelse mellem neuroner. Denne forskning bygger bro over et afgørende hul — vi har kendt til, at psykedelika ændrer bevidstheden, men nu ser vi de genetiske blueprints bag disse forandringer, hvilket lægger grundlaget for at forstå, hvorfor de viser så stort løfte for behandling af depression, angst og PTSD."
+      },
+      "added_at": "2026-10-30T13:53:12.911010+00:00"
+    },
+    {
+      "title": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952701/",
+      "source": "PubMed",
+      "date": "2026",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "People who've tried psychedelics in clinical trials have powerful stories to tell—and researchers are finally listening. A new study asked former participants about their experiences, from the moment they signed up through months after treatment ended. What they revealed is crucial: the clinical trial setup itself—the waiting, the uncertainty about which drug you're getting, the strict schedules—shapes your entire experience in ways that matter just as much as the psychedelic itself. This qualitative study spoke with four experienced participants from the Psychedelic Participant Advocacy Network who'd been in psilocybin and DMT trials for depression and eating disorders, asking them what worked, what didn't, and what needs to change. Their insights are now reshaping how researchers think about future trials and treatment delivery, moving the focus from just measuring outcomes to understanding the full human journey—because the context you're in, the people around you, and how you're supported before and after the experience all play a starring role in healing.",
+        "da": "Folk der har prøvet psykedelika i kliniske forsøg har vigtige historier at fortælle—og forskerne lytter endelig. Et nyt studie spurgte tidligere deltagere om deres oplevelser, fra ansøgningen blev godkendt til måneder efter behandlingen sluttede. Det de afslørede er afgørende: forsøgsopsætningen selv—ventningen, usikkerheden om hvilken stof du får, de strenge skemaer—former hele din oplevelse på måder der betyder lige så meget som psykedelikaet selv. Dette kvalitative studie talte med fire erfarne deltagere fra Psychedelic Participant Advocacy Network som havde været i psilocybin- og DMT-forsøg for depression og spiseforstyrrelser, og spurgte dem hvad der virkede, hvad der ikke gjorde, og hvad der skal ændres. Deres indsigter omformer nu hvordan forskere tænker på fremtidige forsøg og behandlingsudlevering—fokus flyttes fra blot at måle resultater til at forstå hele menneskets rejse, for konteksten du er i, mennesker omkring dig, og hvordan du bliver støttet før og efter oplevelsen spiller alle en hovedrolle i helbredelse."
+      },
+      "added_at": "2026-10-30T13:53:12.911010+00:00"
+    },
+    {
+      "title": "Feasibility and tolerability of psilocybin for phantom limb pain",
+      "url": "https://doi.org/10.1016/j.jpain.2026.106404",
+      "source": "CrossRef / The Journal of Pain",
+      "date": "2027-1",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Imagine losing a limb, only to feel pain where it no longer exists. For people living with phantom limb pain, this is daily reality — and nothing has worked very well. Now researchers are testing whether psilocybin, one of the most studied psychedelics, could help. Early results are promising: the treatment appears both feasible and well-tolerated, meaning people can actually do it and don't experience serious problems. This matters because phantom limb pain affects thousands and current treatments often fall short.\n\nScientists gave psilocybin to people with phantom limb pain and carefully tracked what happened. What we're seeing is psychedelics moving into territory we never thought possible — from treating depression and PTSD to potentially addressing pain conditions that have stumped medicine for years. This research fits into a larger shift: as we understand how psychedelics work in the brain, we're discovering they might help with far more than we initially imagined. It's early days, but it's the kind of hopeful finding that makes you wonder what else we've been missing.",
+        "da": "Forestil dig at miste en arm eller et ben, men stadig føle smerter hvor den ikke længere findes. For mennesker der lever med fantombedsmerte er det dagligdag — og intet fungerer særlig godt endnu. Nu tester forskere om psilocybin, et af de mest studerede psykedelika, kunne hjælpe. Første resultater ser lovende ud: behandlingen viser sig både mulig og godt tolereret, hvilket betyder at mennesker faktisk kan gennemgå den uden alvorlige bivirkninger. Det betyder noget, fordi fantombedsmerte rammer tusinder, og nuværende behandlinger falder ofte til kort.\n\nForskere gav psilocybin til mennesker med fantombedsmerte og fulgte nøje efter hvad der skete. Det vi ser er psykedelika bevæger sig ind på territorium vi aldrig troede muligt — fra depression og PTSD til potentielt smertetilstande som medicinsk videnskab har slået koldt vand i årene. Denne forskning passer ind i en større udvikling: efterhånden som vi forstår hvordan psykedelika virker i hjernen, opdager vi de måske kan hjælpe med meget mere end først antaget. Det er tidlige dage, men det er præcis den slags håbefuld forskning der får dig til at undre dig over hvad ellers vi har overset."
+      },
+      "added_at": "2026-10-30T13:53:12.911010+00:00"
+    },
+    {
+      "title": "FDA Approves NRx’s Preservative-Free Generic Ketamine, but Its Bid to Ban Rivals’ Products Remains Pending",
+      "url": "https://psychedelicalpha.com/news/fda-approves-nrxs-preservative-free-generic-ketamine-but-its-bid-to-ban-rivals-products-remains-pending/",
+      "source": "Psychedelic Alpha",
+      "date": "Fri, 30 Oc",
+      "drug": "ketamine",
+      "context": "policy",
+      "summaries": {
+        "en": "Ketamine just got a cleaner option: the FDA has approved a preservative-free version that could matter more than it sounds. Preservatives in medical ketamine have long been suspected of causing side effects like dissociation and nausea—things that make the experience harder for patients. This approval signals we're getting more serious about refining how we use these tools in medicine, not just whether we use them. NRx Pharmaceuticals developed this generic alternative through standard FDA pathways, and it's part of a bigger shift happening right now: psychedelics research is moving from \"does this work?\" to \"how do we make this work better?\" Getting the delivery method right matters as much as the molecule itself.",
+        "da": "Ketamin får nu et renere alternativ: FDA har godkendt en variant uden konserveringsmidler, og det betyder mere end man tror. Konserveringsmidler i medicinsk ketamin har længe været mistænkt for at forårsage bivirkninger som dissociation og kvalme—ting der gør oplevelsen sværere for patienter. Denne godkendelse viser, at vi bliver mere seriøse om at forbedre, hvordan vi bruger disse værktøjer i medicinen, ikke bare om vi bruger dem. NRx Pharmaceuticals udviklede dette generiske alternativ gennem normale FDA-processer, og det er del af et større skifte, der sker lige nu: psykedelika-forskningen går fra \"virker det?\" til \"hvordan gør vi det bedre?\" At få leveringsmetoden rigtig betyder lige så meget som molekylet selv."
+      },
+      "added_at": "2026-10-30T13:53:12.911010+00:00"
+    },
     {
       "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study",
       "url": "https://doi.org/10.3389/fpsyt.2026.1924069",
@@ -715,71 +780,6 @@
         "da": "Din krop føles anderledes på psykedelika—men måske ikke som du skulle tro. Ny forskning viser, at mennesker på psilocybin rapporterer overraskende blandede oplevelser med bevægelse: nogle føler sig klumset eller langsomme, andre føler sig mere flydende og forbundne med deres kroppe. Interessant nok synes disse motoriske skift at være dosisafhængige, hvilket betyder, at styrken af oplevelsen virkelig betyder noget. Forskerne interviewede 12 raske deltagere om deres fysiske fornemmelser efter at have udført bevægelsesopgaver ved forskellige mængder psilocybin og analyserede derefter omhyggeligt det, de sagde. Dette arbejde udfylder et reelt hul i psykedelika-forskningen—vi ved meget om de sindsbevægende aspekter, men mindre om, hvordan dit nervesystem faktisk oplever sin egen bevægelse. Når forskere arbejder mod terapeutiske anvendelser, betyder det at forstå disse fysiske dimensioner noget for sikkerhed og for at hjælpe mennesker med at få bedre oplevelser."
       },
       "added_at": "2026-10-17T11:27:11.568346+00:00"
-    },
-    {
-      "title": "Coding and Classification Errors in Study of Psilocybin Services",
-      "url": "https://doi.org/10.1001/jamanetworkopen.2026.44571",
-      "source": "OpenAlex",
-      "date": "2026-10-16",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "A new study has caught some important mistakes in how psilocybin services are being tracked and classified — and that matters more than you'd think. When researchers looked at the data, they found coding errors that could make it harder to actually understand what's working in these emerging treatment programmes. Getting the details right isn't boring bureaucracy; it's the foundation for knowing whether psilocybin therapy really helps people and how to do it better. The researchers reviewed existing datasets to spot these problems, shining a light on a gap in how we're documenting this rapidly growing field. As psilocybin services expand globally and research accelerates, having clear, consistent standards matters hugely — it's the difference between hype and solid science.",
-        "da": "En ny undersøgelse har afsløret vigtige fejl i, hvordan psilocybin-tjenester bliver registreret og klassificeret — og det betyder mere end du tror. Da forskere kiggede på dataene, fandt de kodningsfejl, der kunne gøre det sværere at forstå, hvad der virker i disse nye behandlingsprogrammer. At få detaljerne rigtigt er ikke kedeligt bureaukrati; det er grundlaget for at vide, om psilocybin-terapi virkelig hjælper mennesker og hvordan vi gør det bedre. Forskerne gennemgik eksisterende datasæt for at finde disse problemer og kastede lys på et hul i, hvordan vi dokumenterer dette hurtigt voksende felt. Efterhånden som psilocybin-tjenester ekspanderer globalt og forskningen accelererer, betyder klare, ensartede standarder enormt meget — det er forskellen mellem hype og solid videnskab."
-      },
-      "added_at": "2026-10-17T11:27:11.568346+00:00"
-    },
-    {
-      "title": "Adverse outcomes of psychedelics self‐reported: Survey",
-      "url": "https://doi.org/10.1002/adaw.35083",
-      "source": "OpenAlex",
-      "date": "2026-10-16",
-      "drug": "other",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "A major U.S. survey reveals which psychedelics cause the most problems: ibogaine and 5-MeO-DMT topped the list for adverse effects per dose, while psilocybin, LSD, and MDMA caused more total problems simply because more people use them. Ibogaine stood out for heart risks, which researchers already knew to watch for. This matters because these substances are now in serious clinical trials for depression, anxiety, and other psychiatric conditions—and we need honest data about what can go wrong to help doctors and patients make informed decisions.\n\nThe researchers surveyed nearly 2,000 American adults about their experiences over the past year, making this one of the first large-scale snapshots of real-world safety. While the study can't prove cause-and-effect, it adds crucial ground-truth to the conversation happening in labs and clinics right now: psychedelics show genuine promise, but they're not risk-free, and different substances carry different dangers.",
-        "da": "En stor amerikansk undersøgelse afslører, hvilke psykedelika der forårsager flest problemer: ibogain og 5-MeO-DMT toppede listen for bivirkninger pr. dosis, mens psilocybin, LSD og MDMA forårsagede flere samlede problemer, simpelthen fordi flere mennesker bruger dem. Ibogain skiller sig ud for hjertekomplikationer, som forskere allerede vidste, man skulle være opmærksom på. Det betyder noget, fordi disse stoffer nu er i seriøse kliniske forsøg for depression, angst og andre psykiatriske tilstande—og vi har brug for ærlig data om, hvad der kan gå galt, så læger og patienter kan træffe informerede beslutninger.\n\nForskerne adspurgte næsten 2.000 amerikanske voksne om deres erfaringer over det seneste år, hvilket gør dette til et af de første store øjebliksbilleder af sikkerhed i den virkelige verden. Selvom studiet ikke kan bevise årsag og virkning, tilføjer det vigtig indsigt til samtalen, der foregår på laboratorier og klinikker lige nu: psykedelika viser ægte løfte, men de er ikke risikofrie, og forskellige stoffer bærer forskellige farer."
-      },
-      "added_at": "2026-10-17T11:27:11.568346+00:00"
-    },
-    {
-      "title": "Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry and Gas Chromatography-Mass Spectrometry Screening of Classical Psychoactive Substances, Novel Psychoactive Substances, and Metabolites in Postmortem Urine Samples",
-      "url": "https://europepmc.org/article/PMC/PMC13666820",
-      "source": "EuropePMC (Denmark)",
-      "date": "2026-09-28",
-      "drug": "other",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "Researchers have developed a sophisticated new way to detect psychedelics and their metabolites in postmortem samples—a breakthrough that could transform how forensic scientists understand deaths involving these substances. Using advanced chemical analysis techniques, scientists can now identify not just what someone took, but also trace the byproducts their body created, painting a much clearer picture than ever before.\n\nThis Danish study represents a crucial shift in how we approach psychedelic research scientifically. By creating better forensic tools, researchers aren't just solving mysteries—they're building the foundation for understanding how these substances interact with human biology at the deepest level. As psychedelics move from underground into clinical trials and legitimate research, having this kind of precise analytical capability matters enormously for safety, regulation, and our growing knowledge of how these compounds actually work.",
-        "da": "Forskere har udviklet en sofistikeret ny metode til at opdage psykedelika og deres metabolitter i obduktionsprøver—et gennembrud, der kunne transformere, hvordan retsmedicinere forstår dødsfald involverende disse stoffer. Ved hjælp af avancerede kemiske analyseteknikker kan videnskabsmændene nu identificere ikke bare hvad nogen tog, men også spore de biprodukter deres krop dannede, hvilket giver et meget klarere billede end nogensinde før.\n\nDenne danske undersøgelse repræsenterer et afgørende skift i, hvordan vi behandler psykedelika-forskning videnskabeligt. Ved at skabe bedre retsmedicinske værktøjer bygger forskerne ikke bare på løsning af mysterier—de konstruerer fundamentet for at forstå, hvordan disse stoffer interagerer med menneskelig biologi på det dybeste niveau. Efterhånden som psykedelika bevæger sig fra underjorden ind i kliniske forsøg og legitim forskning, betyder denne præcise analytiske kapacitet enormt meget for sikkerhed, regulering og vores voksende kendskab til, hvordan disse forbindelser faktisk virker."
-      },
-      "added_at": "2026-10-17T11:27:11.568346+00:00"
-    },
-    {
-      "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the point of psychedelics for dying patients isn't just feeling better—but becoming who you want to be in your final chapter? New research on psilocybin-assisted therapy in advanced cancer shows that when it works, it's often because people find new clarity, courage, or peace with themselves and their lives. Not mystical experiences or symptom checklists, but real shifts in how patients relate to themselves and others. Researchers studied three patient cases from a clinical trial and found something important: meaningful consent for this kind of therapy doesn't require predicting the unpredictable. Instead, it's about patients choosing to embark on a supported journey of existential exploration. The work reveals practical challenges oncologists need to navigate—managing expectations, embracing uncertainty, and supporting integration when time is short. As psychedelics move closer to clinical reality for people facing end-of-life anxiety and distress, this research offers crucial guidance on who might benefit most and how to do this ethically.",
-        "da": "Hvad hvis pointen med psykedelika for døende patienter ikke bare er at føle sig bedre—men at blive den person, man gerne vil være i sin afsluttende tid? Ny forskning på psilocybin-assisteret terapi ved fremskreden kræft viser, at når det virker, skyldes det ofte, at mennesker finder ny klarhed, mod eller fred med sig selv og deres liv. Ikke mystiske oplevelser eller symptomreduktion, men ægte skift i, hvordan patienter forholder sig til sig selv og andre. Forskere studerede tre patienttilfælde fra et klinisk forsøg og fandt noget vigtigt: meningsfuld samtykke til denne type terapi kræver ikke, at man forudsiger det uforudsigelige. I stedet handler det om, at patienter vælger at begive sig på en understøttet rejse af eksistentiel udforskning. Arbejdet afslørede praktiske udfordringer, som onkologer skal navigere—håndtere forventninger, omfavne usikkerhed og støtte integration når tiden er knap. Efterhånden som psykedelika nærmer sig klinisk virkelighed for mennesker, der står over for angst og eksistentiel lidelse ved livets afslutning, giver denne forskning vigtig vejledning om, hvem der kunne have gavn heraf og hvordan man gør det etisk."
-      },
-      "added_at": "2026-10-16T12:08:28.548216+00:00"
-    },
-    {
-      "title": "Ketamine and Esketamine in Acute Suicidal Presentations: Evidence, Limits, and a Conceptual Recovery-Enabling Downstaging Framework.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877783/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Ketamine and esketamine show promise for rapidly easing suicidal thoughts in people in crisis—sometimes within hours rather than days. But here's what matters: these aren't magic bullets. The research shows they can calm the immediate storm, yet we don't yet have solid proof they prevent actual suicide attempts or deaths. In recent clinical trials, esketamine worked best when paired with hospitalization, new antidepressants, and full supportive care—suggesting it's a powerful first step, not a standalone solution.\n\nScientists reviewed decades of evidence to understand exactly what these ketamine treatments do and don't do. What's emerging is a clearer picture: psychedelics and related compounds like ketamine fit into emergency suicide care as part of a bigger toolkit. The real breakthrough isn't just the rapid relief—it's recognizing that getting someone through the crisis moment is only the beginning. The future of mental health emergency care means combining these fast-acting interventions with solid aftercare, proper medication, and genuine support. That's where the real transformation happens.",
-        "da": "Ketamin og esketamin viser lovende resultater til at lindre selvmordstanker hos mennesker i krise—nogle gange inden for timer i stedet for dage. Men her er det vigtige: de er ikke tryllekuler. Forskningen viser, at de kan dæmpe den umiddelbare storm, men vi har endnu ikke solid bevis for, at de forhindrer faktiske selvmordsforsøg eller dødsfald. I nylige kliniske forsøg fungerede esketamin bedst kombineret med hospitalsindlæggelse, nye antidepressiva og fuld støttende behandling—hvilket tyder på, at det er et kraftfuldt første skridt, ikke en selvstændig løsning.\n\nForskere gennemgik årtiers bevis for at forstå præcis, hvad disse ketaminbehandlinger gør og ikke gør. Det, der opstår, er et klarere billede: psykedelika og lignende stoffer som ketamin passer ind i akut selvmordsbehandling som en del af en større værktøjskasse. Det virkelige gennembrud er ikke blot den hurtige lindring—det er at erkende, at det at få nogen gennem krisetidspunktet kun er begyndelsen. Fremtiden for psykisk sundhedsbehandling betyder at kombinere disse hurtigt virkende interventioner med solid efterbehandling, passende medicin og ægte støtte. Det er hvor den virkelige transformation sker."
-      },
-      "added_at": "2026-10-16T12:08:28.548216+00:00"
     }
   ]
 }
