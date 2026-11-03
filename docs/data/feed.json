@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-02T16:53:32.746525+00:00",
+  "generated_at": "2026-11-03T14:53:46.729642+00:00",
   "items": [
+    {
+      "title": "A multi-institutional investigation of psilocybin's effects on mouse behavior.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972049/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Here's something scientists rarely talk about: most psychedelic studies on animals haven't been tested to see if they actually work the same way twice. Five independent labs just ran identical psilocybin experiments on mice to find out which effects are real and which might just be flukes. The result? Some behavioral changes held up across every single lab, while others disappeared—a crucial reality check for the field.\n\nThis kind of rigorous replication work might sound boring, but it's foundational. As psychedelic research scales up toward human clinical trials, we need to know exactly which animal findings we can trust. This study is like sharpening the tools before building the house—it's helping the whole field move forward with confidence and precision.",
+        "da": "Her er noget forskerne sjældent taler om: de fleste psykedelika-studier på dyr er aldrig blevet testet for at se, om de virker på samme måde to gange. Fem uafhængige laboratorier har netop kørt identiske psilocybin-eksperimenter på mus for at finde ud af, hvilke adfærdsændringer der er rigtige, og hvilke der måske bare er tilfældigheder. Resultatet? Nogle effekter holdt sig konsistent på tværs af hvert eneste lab, mens andre forsvandt—en afgørende virkelightstjek for feltet.\n\nDenne type grundig replikationsforskning lyder måske kedelig, men den er fundamental. Når psykedelika-forskningen skaleres op mod menneskelige kliniske forsøg, skal vi vide præcis hvilke dyrefund vi kan stole på. Dette studie er som at slibe værktøjerne inden man bygger huset—det hjælper hele feltet fremad med tillid og præcision."
+      },
+      "added_at": "2026-11-03T14:53:18.128321+00:00"
+    },
+    {
+      "title": "Effects of psilocybin with psychological support on anhedonia in treatment-resistant depression: A randomized controlled pilot trial",
+      "url": "https://doi.org/10.1016/j.jad.2026.122676",
+      "source": "CrossRef / Journal of Affective Disorders",
+      "date": "2027-1",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Imagine feeling nothing—no joy, no motivation, no spark. That's anhedonia, and it's devastating people with treatment-resistant depression who've exhausted traditional options. A new pilot study tested whether psilocybin, paired with psychological support, could restore that lost ability to feel pleasure. Early results are intriguing enough that researchers are digging deeper into how this psychedelic might rewire the brain's reward system in ways antidepressants alone haven't managed.\n\nThe study followed a randomized controlled design—the gold standard for testing whether something actually works. What's exciting is how this fits into a broader shift in mental health research: psychedelics aren't a magic bullet, but combined with therapy, they're revealing unexpected pathways to healing stubborn depression. We're witnessing science take seriously what many people have long suspected: sometimes the most stuck problems need the most unconventional solutions.",
+        "da": "Forestil dig at føle intet—ingen glæde, ingen motivation, ingen gnist. Det er anhedoni, og det ødelægger livet for mennesker med behandlingsresistent depression, som har prøvet alt traditionelt. Et nyt pilotforsøg testede, om psilocybin kombineret med psykologisk støtte kunne genoplive evnen til at føle nydelse. De indledende resultater er spændende nok til, at forskere graver dybere ned i, hvordan dette psykedelikum kunne omskabe hiernens belønningssystem på måder, som antidepressiva alene ikke har formået.\n\nStudiet fulgte et randomiseret kontrolleret design—guldstandarden for at teste, om noget virkeligt virker. Det spændende er, hvordan dette passer ind i et større skift inden for psykisk sundhedsforskning: psykedelika er ikke en universalmedicin, men kombineret med terapi åbner de uventede veje til helbredelse af håbløs depression. Vi er vidner til videnskab, der tager alvorligt, hvad mange længe har været overbevist om: nogle gange kræver de mest fastlåste problemer de mest ukonventionelle løsninger."
+      },
+      "added_at": "2026-11-03T14:53:18.128321+00:00"
+    },
+    {
+      "title": "A multi-institutional investigation of psilocybin’s effects on mouse behavior",
+      "url": "https://doi.org/10.1038/s41593-026-02500-z",
+      "source": "OpenAlex",
+      "date": "2026-11-02",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Five labs across multiple institutions just ran the same psilocybin experiment on mice to figure out what actually works—and the results are surprisingly humbling. The psychedelic boosted anxiety-related behaviors and reduced fear in the moment, which is interesting, but here's the catch: those lasting therapeutic effects everyone talks about? They didn't show up 24 hours later in a reliable way. No consistent help with anxiety, depression, or fear learning when they measured it days out. This matters because psychedelic research is moving fast, with exciting clinical trials happening in humans right now. This rigorous multi-lab study is exactly the kind of reality-check science needs: it pins down what actually replicates and what doesn't, helping researchers design better studies and manage expectations as we work toward real treatments.",
+        "da": "Fem laboratorier på tværs af flere institutioner gennemførte netop det samme psykedelika-eksperiment på mus for at finde ud af, hvad der virkeligt virker—og resultaterne er overraskende ydmygende. Psilocybin øgede angstrelerede adfærd og reducerede frygt i øjeblikket, hvilket er interessant, men her kommer ketchuppet: de vedvarende terapeutiske effekter, som alle snakker om? De dukkede ikke pålideligt op 24 timer senere. Ingen konsistent hjælp til angst, depression eller frygtelæring, da de målte det dage senere. Det betyder noget, fordi psykedelika-forskningen går stærkt med spændende kliniske forsøg på mennesker lige nu. Dette grundige multi-lab-studie er præcis den slags virkeligheds-tjek, som videnskaben har brug for: det præciserer hvad der faktisk gentages, og hvad der ikke gør, og hjælper forskere med at designe bedre studier og håndtere forventninger mens vi arbejder mod rigtige behandlinger."
+      },
+      "added_at": "2026-11-03T14:53:18.128321+00:00"
+    },
+    {
+      "title": "Making psychedelics researchable: science, medicine, and the social construction of legitimacy",
+      "url": "https://doi.org/10.1332/20437897y2026d000000135",
+      "source": "OpenAlex",
+      "date": "2026-11-02",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "Whether psychedelics get studied—and how—isn't just about the science. It's about power, politics, and money. A new analysis reveals how social forces shape what research happens at all: prohibition shut down decades of promising work, but today's \"psychedelic renaissance\" is reopening doors. Here's the catch: the research getting funded now tends to focus on things that are easy to measure, package, and sell—which might not be the same as what actually helps people most. Understanding this hidden architecture matters if we want psychedelic science to serve healing, not just markets.",
+        "da": "Om psykedelika bliver forsket i—og hvordan—handler ikke kun om videnskaben. Det handler om magt, politik og penge. En ny analyse afslører hvordan sociale kræfter former hvad der overhovedet bliver forsket i: Prohibition lukkede ned for årtiers lovende arbejde, men dagens \"psykedelika-renæssance\" åbner dørene igen. Men der er en hage: den forskning der får finansiering i dag fokuserer ofte på det, der er let at måle, pakke og sælge—hvilket måske ikke er det samme som det, der hjælper mennesker mest. At forstå denne skjulte arkitektur betyder noget, hvis vi vil have psykedelika-videnskaben til at tjene helbredelse, ikke kun markeder."
+      },
+      "added_at": "2026-11-03T14:53:18.128321+00:00"
+    },
+    {
+      "title": "The molecular and neurochemical basis of altered intrinsic neural timescales in major depressive disorder: a multimodal imaging-transcriptomic investigation of esketamine and sertraline treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972310/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Depression literally changes how your brain processes information — and new research shows that both esketamine and sertraline can reverse this at a molecular level. Scientists discovered that people with depression have altered neural timescales in key brain regions involved in emotion and thinking, and both treatments helped reset these patterns. In this study, researchers used brain imaging and genetic analysis to map exactly how these medications work, comparing 41 people with depression to healthy controls. The findings matter because they bridge a critical gap: we finally have concrete evidence of *how* these drugs change brain function, not just that they do. This is exactly where psychedelic research is heading — moving beyond 'does it work?' to 'here's the actual mechanism,' paving the way for smarter, more targeted treatments.",
+        "da": "Depression ændrer bogstaveligt talt, hvordan din hjerne behandler information — og ny forskning viser, at både esketamin og sertralin kan vende det ved på molekylært niveau. Forskere opdagede, at mennesker med depression har ændrede neurale tidsskalaer i vigtige hjerneregio­ner, der styrer følelser og tænkning, og begge behandlinger hjalp med at nulstille disse mønstre. I denne undersøgelse brugte videnskabsmænd hjerneafbildning og genetisk analyse til at kortlægge præcis, hvordan disse lægemidler virker, ved at sammenligne 41 mennesker med depression med raske kontroller. Fundet betyder noget, fordi det overbrygger et kritisk gab: vi har endelig konkrete beviser for *hvordan* disse stoffer ændrer hjernefunktion, ikke bare at de gør det. Det er præcis hvor psykedelika-forskningen bevæger sig hen — bort fra 'virker det?' til 'her er den faktiske mekanisme,' hvilket baner vej for smartere, mere målrettede behandlinger."
+      },
+      "added_at": "2026-11-03T14:53:18.128321+00:00"
+    },
     {
       "title": "Persisting psychological complications following the use of classic psychedelics: A qualitative study of help-seeking experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968473/",
@@ -715,71 +780,6 @@
         "da": "Psykedelika bliver præsenteret i medierne som et gennembrud for depression, PTSD og angst—men her er fangsten: medierne er på forhånd af videnskaben. En ny systematisk gennemgang viste, at selvom kliniske forsøg med psykedelika er vokset støt siden 2018, er nyhedsdækningen eksploderet endnu hurtigere og overdriver ofte løfterne, mens forsigtigheden negligeres. Depression dominerer både forskningen og nyhedscyklussen, men medierne er langt mere interesserede i PTSD og angst end de faktiske forsøgsdata understøtter. Dette gab mellem det, som videnskaben virkelig viser, og hvad mennesker læser, betyder noget—det former forventninger og forståelse på et kritisk tidspunkt i psykedelika-forskningen.\n\nVidenskabsfolk gennemgik 70 publicerede kliniske forsøg og 172 mediartikler fra 2014 og frem, og sammenlignede hvad hver sagde om effekt og sikkerhed. Resultaterne afsløring noget vigtigt, mens psykedelika bevæger sig mod mainstream-medicin: vi har brug for smartere samtaler mellem forskere, journalister og publikum. Videnskaben er virkelig lovende—men det er stadig tidligt, og det mest hjælpsomme vi kan gøre lige nu er at være ærlige om hvad vi ved, hvad vi stadig lærer, og hvorfor den forskel betyder noget."
       },
       "added_at": "2026-10-21T12:46:01.728163+00:00"
-    },
-    {
-      "title": "Caution before canonisation: a clinical and implementation science perspective on psychedelics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898320/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psilocybin and MDMA are showing real promise in clinical trials—patients with depression, PTSD, and addiction are experiencing rapid symptom improvements when these psychedelics are given within proper therapeutic settings. But here's the catch: most studies are small, follow people for short periods, and don't always tell us the full safety picture. Researchers gave 100+ studies a hard look through clinical, ethical, and practical lenses, and their conclusion is honest: we have proof these psychedelics *can* work under controlled conditions, but we're nowhere near ready to roll them out widely yet. The field needs stronger, longer-term evidence and better real-world testing before psychedelic therapies move from promise to standard practice—and that rigorous work is exactly what's happening right now.",
-        "da": "Psilocybin og MDMA viser rigtig potentiale i kliniske forsøg—patienter med depression, PTSD og afhængighed oplever hurtig forbedring når psykedelika gives inden for ordnede terapirammer. Men der er en hage: de fleste studier er små, følger mennesker kort tid, og fortæller ikke altid hele sikkerhedsbilledet. Forskere gennemgik 100+ studier fra flere vinkler—klinik, etik, praktisk gennemførelse—og deres konklusion er ærlig: vi har bevis på at psykedelika *kan* virke under kontrollerede forhold, men vi er langt fra parate til at rulle dem ud bredt endnu. Området har brug for stærkere, længerevarende beviser og bedre test i virkelighedens verden før psykedelika-terapi går fra løfte til standard praksis—og det grundige arbejde er præcis det der sker nu."
-      },
-      "added_at": "2026-10-21T12:46:01.728163+00:00"
-    },
-    {
-      "title": "Clinical Evidence on Psilocybin and Its Representation in Media Reporting",
-      "url": "https://doi.org/10.1001/jamanetworkopen.2026.38843",
-      "source": "OpenAlex",
-      "date": "2026-10-20",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psilocybin is getting a lot of buzz as a potential depression treatment, but a new study reveals a gap between what the science actually shows and what headlines are saying. Researchers found that while clinical trials have grown significantly since 2018, media coverage tends to emphasize benefits while downplaying safety concerns and uncertainties—creating a rosier picture than the evidence supports. The team analyzed 70 published clinical trials and 172 media articles over the past decade, tracking how efficacy and safety claims were reported. This matters because how the public understands psychedelics shapes policy, funding, and people's hopes. The findings highlight why clear, balanced science communication is crucial as psychedelic research accelerates—we need media that honors both the genuine promise and the honest limitations of what we know so far.",
-        "da": "Psykedelika får massive medieopmærksomhed som potentiel behandling mod depression, men ny forskning viser et gab mellem hvad videnskaben faktisk viser og hvad overskrifterne siger. Forskerne fandt at selvom kliniske forsøg er vokset markant siden 2018, har mediernes dækning tendens til at fremhæve fordele mens sikkerhed og usikkerhed nedtones—og skaber dermed et mere optimistisk billede end beviserne underbygger. Holdet analyserede 70 publicerede kliniske forsøg og 172 medieartiikler over det seneste årti og sporede hvordan effekt- og sikkerhedspåstande blev rapporteret. Det betyder noget fordi hvordan offentligheden forstår psykedelika påvirker politik, finansiering og menneskers håb. Fundet understreger hvor vigtig præcis, afbalanceret videnskabskommunikation er mens psykedelikaforskningen accelererer—vi skal have medier der respekterer både det reelle potentiale og de ægte begrænsninger af hvad vi ved indtil nu."
-      },
-      "added_at": "2026-10-21T12:46:01.728163+00:00"
-    },
-    {
-      "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes",
-      "url": "https://doi.org/10.1038/s41593-026-02488-6",
-      "source": "OpenAlex",
-      "date": "2026-10-19",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists have pinpointed the exact moment depression starts to take hold in the brain—and it's surprisingly specific. Using advanced imaging in mice exposed to chronic stress, researchers watched neurons in a tiny brain region called the lateral habenula begin firing excessively in response to negative events, triggering a cascade of molecular changes that led to depression-like behavior. The striking part? This whole process was reversed by ketamine, an antidepressant showing real promise in clinical trials. The study mapped out the precise timeline and geography of these changes using cutting-edge spatial transcriptomics, essentially creating a molecular map of where and when stress rewires the brain. This work fits perfectly into a growing picture: psychedelics and related compounds like ketamine don't just mask symptoms—they seem to interrupt the actual biological machinery driving depression right at its inception, opening doors to catching and treating the condition much earlier than we can now.",
-        "da": "Forskere har præcist identificeret det øjeblik, hvor depression begynder at tage fat i hjernen—og det er overraskende specifikt. Ved hjælp af avanceret billedbehandling hos mus udsat for kronisk stress observerede de neuroner i en minuscul hjernedel kaldet lateral habenula begynde at fyre overdrevent som reaktion på negative begivenheder, hvilket udløste en kaskade af molekylære ændringer, der førte til depressionsagtig adfærd. Det slående? Hele denne proces blev vendt ved ketamin, et antidepressivum, som viser real lovende resultater i kliniske forsøg. Studiet kortlagde det præcise tidspunkt og geografi for disse ændringer ved hjælp af banebrydende spatial transkriptomik—essensen at skabe et molekylært kort over, hvor og hvornår stress omstrukturerer hjernen. Dette arbejde passer perfekt ind i et voksende billede: psykedelika og relaterede forbindelser som ketamin masker ikke bare symptomer—de ser ud til at afbryde selve den biologiske mekanisme, der driver depression, netop ved dens begyndelse, hvilket åbner døre til at fange og behandle tilstanden meget tidligere end vi kan nu."
-      },
-      "added_at": "2026-10-21T12:46:01.728163+00:00"
-    },
-    {
-      "title": "Depression: Ketamine quiets an unruly habenula.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896518/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "A single dose of ketamine can lift depression within 24 hours—and scientists just discovered why. New research shows that ketamine works by quieting a tiny brain region called the habenula, which normally keeps us stuck in negative thought patterns. When this \"worry hub\" calms down, our brains stop reinforcing the very things that make us feel bad. Researchers observed this effect in healthy volunteers, tracking how the habenula's activity dropped right when ketamine's antidepressant effects kicked in. This finding matters because it gives us a concrete target: rather than just knowing ketamine works, we're now understanding the actual mechanism, opening doors to develop safer treatments that could help millions without ketamine's risks or legal complications.",
-        "da": "En enkelt dosis ketamin kan løfte depression inden for 24 timer—og forskere har lige opdaget hvorfor. Ny forskning viser, at ketamin virker ved at dæmpe en winzig hjernedel kaldet habenula, som normalt holder os fanget i negative tankmønstre. Når dette \"bekymringscenter\" bliver stille, holder vores hjerner op med at forstærke præcis de ting, der får os til at føle os dårligt. Forskerne observerede denne effekt hos raske frivillige og sporrede, hvordan habenulas aktivitet faldt præcis når ketamins antidepressive virkning satte ind. Dette fund betyder noget, fordi det giver os et konkret mål: i stedet for bare at vide, at ketamin virker, forstår vi nu den faktiske mekanisme, hvilket åbner døre til at udvikle sikrere behandlinger, der kunne hjælpe millioner uden ketamins risici og juridiske komplikationer."
-      },
-      "added_at": "2026-10-20T12:34:50.780422+00:00"
-    },
-    {
-      "title": "Ketamine's mechanisms of action in major depressive disorder and treatment-resistant depression: Is brain topological change a candidate convergent systems-level pathway?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896406/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "What if depression isn't just a chemical imbalance, but a brain stuck in rigid patterns? New research suggests ketamine works by literally rewiring how different brain regions communicate with each other—and it happens fast, within hours. Instead of just boosting neurotransmitters like traditional antidepressants, ketamine appears to break rigid network patterns and restore flexibility to the brain's communication system, allowing it to reorganize itself in healthier ways.\n\nScientists reviewed decades of brain imaging and electrical recordings to understand this breakthrough. The findings paint a striking picture: depressed brains show inflexible, disconnected networks, but ketamine rapidly increases connectivity and restores the brain's ability to switch between different states. This systems-level shift—how the whole brain reorganizes rather than isolated molecular changes—may be the real key to why ketamine works so fast for people who haven't responded to anything else. It's reshaping how we think about depression treatment entirely.",
-        "da": "Hvad hvis depression ikke kun handler om kemisk ubalance, men om en hjerne låst fast i stive mønstre? Ny forskning tyder på, at ketamin virker ved at omstille, hvordan forskellige hjernereioner kommunikerer med hinanden—og det sker hurtigt, inden for timer. I stedet for blot at øge signalstoffer som traditionelle antidepressiva, ser ketamin ud til at bryde stive netværksmønstre og genoprette fleksibilitet i hjernens kommunikationssystem, så den kan reorganisere sig selv på sundere måder.\n\nForskere gennemgik årtiers hjerneafbildning og elektriske målinger for at forstå dette gennembrud. Resultaterne tegner et slående billede: deprimerede hjerner viser ufleksible, afbrudt forbundne netværk, men ketamin øger hurtigt forbindelserne og genopretter hjernens evne til at skifte mellem forskellige tilstande. Denne hele-hjerne-skift—hvordan hele hjernen reorganiserer sig frem for isolerede molekylære ændringer—kan være den rigtige nøgle til, hvorfor ketamin virker så hurtigt for mennesker, der ikke har reageret på andet. Det omformer helt, hvordan vi tænker behandling af depression."
-      },
-      "added_at": "2026-10-20T12:34:50.780422+00:00"
     }
   ]
 }
