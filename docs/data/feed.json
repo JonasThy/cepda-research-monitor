@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07T13:47:02.034071+00:00",
+  "generated_at": "2026-11-08T14:07:24.531126+00:00",
   "items": [
+    {
+      "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine works fast against severe depression—but here's the surprise: it lifts mood without scrambling how your brain handles working memory. Researchers gave people with treatment-resistant depression either ketamine or a placebo, then scanned their brains while they did memory tasks. Depression scores dropped dramatically after ketamine, yet people performed just as well on the tasks as before. What changed was subtler: specific brain regions showed different activity patterns after ketamine, particularly in areas linked to attention and perception. This randomized, controlled study adds a crucial piece to the puzzle: ketamine's antidepressant magic doesn't come from fixing memory problems or broad cognitive damage—it's rewiring something more targeted in how the brain processes information during mood regulation.",
+        "da": "Psykedelika virker hurtigt mod svær depression—men her kommer overraskelsen: det løfter humøret uden at ødelægge, hvordan din hjerne håndterer arbejdshukommelse. Forskere gav mennesker med behandlingsresistent depression enten psykedelika eller placebo og skanende deres hjerner mens de udfyldte hukommelsesopgaver. Depressionsscore faldt dramatisk efter psykedelika, men mennesker klarede opgaverne lige så godt som før. Det, der ændrede sig, var mere subtilt: specifikke hjernebområder viste forskellige aktivitetsmønstre efter psykedelika, især områder forbundet med opmærksomhed og perception. Dette randomiserede, kontrolleret studie tilføjer et afgørende puslespil: psykedelikas antidepressive magi kommer ikke fra at reparere hukommelsesproblem eller bred kognitiv skade—det ændrer noget mere målrettet i, hvordan hjernen regulerer humør."
+      },
+      "added_at": "2026-11-08T14:07:18.756921+00:00"
+    },
     {
       "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42994762/",
@@ -767,19 +780,6 @@
         "da": "Hvad hvis en simpel blodprøve kunne fortælle dig, om ketamin virker for din depression, før du overhovedet starter behandlingen? Forskere kommer tættere på det ved at lede efter biologiske markører i blodet, som kan forudsige, hvem der vil reagere bedst på ketamin og esketamin. Det betyder noget, fordi depression er dybest individuelt—det, der løfter én persons humør, gør måske ingenting for en anden, og at vente uger på at finde ud af, om en behandling virker, er udtømmende. Et nyt reviewstudie kortlagde, hvad vi hidtil ved om disse blodbaserede tegn, ved at sammle resultater fra flere undersøgelser for at se det større billede. Denne forskning sker på et afgørende tidspunkt i psykiatrien: mens psykedelika-baserede behandlinger bevæger sig fra eksperimentelle til kliniske, løber fagfeltet en kappestreg mod at udvikle personaliseret medicin, der matcher mennesker med terapi, der rent faktisk passer til dem."
       },
       "added_at": "2026-10-27T13:01:19.784625+00:00"
-    },
-    {
-      "title": "Mostly Supportive, Somewhat Divided: Stakeholders Respond to FDA’s Psychedelics Docket",
-      "url": "https://psychedelicalpha.com/news/mostly-supportive-somewhat-divided-stakeholders-respond-to-fdas-psychedelics-docket/",
-      "source": "Psychedelic Alpha",
-      "date": "Mon, 26 Oc",
-      "drug": "other",
-      "context": "policy",
-      "summaries": {
-        "en": "The FDA threw open its doors to hear what people actually think about psychedelics research—and the response was overwhelmingly encouraging. Doctors, patients, researchers, and even some skeptics weighed in on how to move this science forward, with most backing the path toward clinical trials and potential treatments. But there's still real disagreement about the details: how fast should we move, who gets access first, and how do we keep things safe while staying flexible? The FDA gathered thousands of comments through its public hearing process, and the picture emerging is one of cautious optimism mixed with legitimate concerns about doing this right. This moment matters because it shows psychedelic research is moving from the fringes into mainstream institutions—and how we structure that transition now could shape medicine for decades.",
-        "da": "FDA åbnede døren for at høre hvad folk rigtig mener om psykedelika-forskning—og svaret var overvejende opmuntrende. Læger, patienter, forskere og selv nogle skeptikere meldte sig til ordet om hvordan man bevæger denne videnskab fremad, og de fleste støttede kursen mod kliniske forsøg og potentielle behandlinger. Men der er stadig rigtig uenighed om detaljerne: hvor hurtigt skal vi gå, hvem får adgang først, og hvordan sikrer vi tingene mens vi forbliver fleksible? FDA indsamlede tusindvis af kommentarer gennem sin offentlige høring, og billedet der tegner sig er både forsigtig optimisme og berettigede bekymringer for at gøre det rigtigt. Dette øjeblik betyder noget fordi det viser at psykedelika-forskning flytter fra margenen ind i mainstream-institutioner—og måden vi strukturerer denne overgang på nu kunne præge medicinen i årtier."
-      },
-      "added_at": "2026-10-26T13:57:52.214259+00:00"
     }
   ]
 }
