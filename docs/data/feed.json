@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T14:07:24.531126+00:00",
+  "generated_at": "2026-11-09T17:14:02.788635+00:00",
   "items": [
+    {
+      "title": "Adapted Massed Exposure Therapy Enhanced with MDMA for PTSD (aMETEMP): A randomized, double-masked protocol adapted for Veterans Affairs healthcare system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999641/",
+      "source": "PubMed",
+      "date": "2026-Dec",
+      "drug": "mdma",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Many veterans with PTSD don't get better with standard therapy alone — but a new study suggests adding MDMA to exposure therapy could change that. Researchers are testing whether MDMA helps people process trauma more deeply by making them less afraid and more emotionally open during treatment. This is a carefully designed pilot study with 20 veterans receiving a single MDMA session integrated into a focused 3-week therapy program, mostly delivered online to make it more accessible. It's a crucial next step: unlike earlier psychedelic PTSD research, this trial uses a proper control group and keeps participants genuinely blind to which treatment they're getting, making the results much more reliable and trustworthy for real-world use.",
+        "da": "Mange veteraner med PTSD bliver ikke bedre af almindelig terapi alene — men et nyt studie tyder på, at psykedelika som MDMA kunne ændre det. Forskere tester, om MDMA hjælper mennesker med at bearbejde traumer dybere ved at gøre dem mindre bange og mere følelsesmæssigt åbne under behandling. Dette er et grundigt planlagt pilotprojekt med 20 veteraner, der får en enkelt MDMA-session integreret i et fokuseret 3-ugers terapiprogram, mest afviklet online for at gøre det mere tilgængeligt. Det er et afgørende næste skridt: i modsætning til tidligere psykedelika-PTSD-forskning bruger dette studie en rigtig kontrolgruppe og holder deltagerne virkelig uvidende om, hvilken behandling de får, hvilket gør resultaterne meget mere pålidelige for real-world brug."
+      },
+      "added_at": "2026-11-09T17:13:51.651200+00:00"
+    },
+    {
+      "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA",
+      "url": "https://psychedelicalpha.com/news/breaking-compass-files-psilocybin-for-trd-new-drug-application-with-fda/",
+      "source": "Psychedelic Alpha",
+      "date": "Mon, 09 No",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Compass Pathways just filed psilocybin with the FDA as a potential treatment for treatment-resistant depression—a major milestone that could bring this psychedelic closer to becoming an actual medicine. For people whose depression hasn't budged despite trying multiple antidepressants, this represents real hope based on solid clinical research showing psilocybin can help where conventional drugs have failed.\n\nThe company submitted this New Drug Application after years of clinical trials testing psilocybin therapy in carefully controlled settings. This move signals that psychedelics are moving from the lab into the medical mainstream—we're watching the regulatory system begin to recognize what research has been showing: these substances, combined with proper therapy, might unlock treatment options for some of the hardest mental health challenges we face.",
+        "da": "Compass Pathways har netop indgivet ansøgning til FDA om at få psykedelika godkendt som behandling for behandlingsresistent depression—et kæmpe skridt, der kunne bringe denne substans tættere på at blive rigtig medicin. For mennesker hvis depression ikke har reageret på flere forskellige antidepressiva, betyder dette konkret håb baseret på solid forskning, der viser at psykedelika kan hjælpe hvor konventionelle lægemidler har slået fejl.\n\nSelskabet indgav denne ansøgning efter år med kliniske forsøg, der testede psykedelika-terapi under kontrolerede betingelser. Dette signal betyder, at psykedelika bevæger sig fra laboratoriet ind i medicinen som sådan—vi ser det regulatoriske system begynde at anerkende det, som forskningen længe har vist: disse stoffer kan, kombineret med ordentlig terapi, åbne behandlingsmuligheder for nogle af vores hårdeste psykiske sundhedsudfordringer."
+      },
+      "added_at": "2026-11-09T17:13:51.651200+00:00"
+    },
     {
       "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
@@ -752,32 +778,6 @@
       "summaries": {
         "en": "Women who took psilocybin in a recent study experienced notably lower anxiety than men — a finding that hints at sex-specific responses to psychedelics that we're only beginning to understand. Depression itself showed no meaningful difference between genders, but the anxiety result raises an intriguing question: do psychedelics work differently in women's brains? Researchers reanalyzed data from a controlled trial comparing psilocybin to escitalopram (a standard antidepressant) in 59 people with moderate-to-severe depression, carefully examining how men and women responded differently. This work matters because women are dramatically underrepresented in psychedelic trials despite experiencing depression at roughly twice the rate of men — and if treatments genuinely affect us differently, we need to know it. As psychedelic research scales up globally, paying attention to these sex-based nuances isn't just good science; it's essential for making sure this promising medicine actually works for everyone.",
         "da": "Kvinder, der fik psilocybin i et nyt studie, oplevede væsentligt mindre angst end mænd — en fund, der tyder på kønsspecifikke reaktioner på psykedelika, som vi først nu begynder at forstå. Depression selv viste ingen meningsfuld forskel mellem kønnene, men resultatet på angst rejser et fængslende spørgsmål: virker psykedelika forskelligt i kvinders hjerner? Forskere genanalyserede data fra et kontrolleret forsøg, hvor de sammenlignede psilocybin med escitalopram (et standardantidepressivt lægemiddel) hos 59 mennesker med moderat til alvorlig depression og undersøgte nøje, hvordan mænd og kvinder reagerede forskelligt. Dette arbejde betyder noget, fordi kvinder er dramatisk underrepræsenteret i psykedelika-forsøg, selvom de oplever depression med cirka dobbelt så høj hyppighed som mænd — og hvis behandlinger virkelig påvirker os forskelligt, skal vi vide det. Efterhånden som psykedelika-forskningen skaleres op globalt, er det ikke bare god videnskab at være opmærksom på disse kønsbaserede nuancer; det er afgørende for at sikre, at denne lovende medicin virkelig virker for alle."
-      },
-      "added_at": "2026-10-27T13:01:19.784625+00:00"
-    },
-    {
-      "title": "Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42931733/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "dmt",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if treating severe depression required just one quick nasal spray instead of hours in a clinic? A new trial suggests mebufotenin—a fast-acting psychedelic—could be a game-changer for people whose depression hasn't budged despite multiple antidepressants. Participants given higher doses showed significant improvement within weeks, and crucially, they went home the same day. The study involved nearly 200 people across Australia, Europe, and the US who tried everything else first. This matters because it addresses psychedelics' biggest practical problem: traditional psychedelics like psilocybin require lengthy supervised sessions. As we're learning that psychedelics can rewire depression, the real breakthrough is figuring out how to make them accessible to the millions who need them—and mebufotenin's quick, outpatient-friendly profile could be exactly that missing piece.",
-        "da": "Hvad hvis behandling af svær depression kun krævede en hurtig næsespray i stedet for timer på klinikken? Et nyt forsøg tyder på, at mebufotenin—et hurtigt virkende psykedelikum—kunne være et paradigmeskifte for mennesker, hvis depression ikke har reageret på flere antidepressiva. Deltagere, der fik højere doser, viste betydelig bedring inden for få uger, og vigtigt: de gik hjem samme dag. Studiet involverede næsten 200 mennesker på tværs af Australien, Europa og USA, som havde prøvet alt andet først. Dette betyder noget, fordi det løser psykedelikas største praktiske problem: traditionelle psykedelika som psilocybin kræver lange overvågede sessioner. Mens vi lærer, at psykedelika kan omstrukturere depression, er det rigtige gennembrud at finde ud af, hvordan vi gør dem tilgængelige for de millioner, der har brug for dem—og mebufotenins hurtige, ambulante profil kunne være præcis det manglende stykke."
-      },
-      "added_at": "2026-10-27T13:01:19.784625+00:00"
-    },
-    {
-      "title": "Peripheral Biomarkers of Response to Ketamine and Esketamine Treatment in Unipolar Depressive Disorder-A Scoping Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42930763/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if a simple blood test could tell us whether ketamine will actually work for your depression before you even start treatment? Researchers are getting closer to that reality by hunting for biological markers in our blood that predict who'll respond best to ketamine and esketamine. This matters because depression is deeply individual—what lifts one person's mood might do nothing for another, and waiting weeks to find out if a treatment works is exhausting. A new review mapped out what we know so far about these blood-based clues, pulling together findings from multiple studies to see the bigger picture. This research sits at a crucial moment in psychiatry: as ketamine-based treatments move from experimental to clinical, the field is racing to develop personalized medicine approaches that match people with therapies that actually fit them.",
-        "da": "Hvad hvis en simpel blodprøve kunne fortælle dig, om ketamin virker for din depression, før du overhovedet starter behandlingen? Forskere kommer tættere på det ved at lede efter biologiske markører i blodet, som kan forudsige, hvem der vil reagere bedst på ketamin og esketamin. Det betyder noget, fordi depression er dybest individuelt—det, der løfter én persons humør, gør måske ingenting for en anden, og at vente uger på at finde ud af, om en behandling virker, er udtømmende. Et nyt reviewstudie kortlagde, hvad vi hidtil ved om disse blodbaserede tegn, ved at sammle resultater fra flere undersøgelser for at se det større billede. Denne forskning sker på et afgørende tidspunkt i psykiatrien: mens psykedelika-baserede behandlinger bevæger sig fra eksperimentelle til kliniske, løber fagfeltet en kappestreg mod at udvikle personaliseret medicin, der matcher mennesker med terapi, der rent faktisk passer til dem."
       },
       "added_at": "2026-10-27T13:01:19.784625+00:00"
     }
