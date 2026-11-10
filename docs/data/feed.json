@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T17:14:02.788635+00:00",
+  "generated_at": "2026-11-10T15:27:30.507347+00:00",
   "items": [
+    {
+      "title": "Ketamine for Co-occurring Chronic Pain and Depression: A Scoping Review fing the Dual-Outcome Evidence Gap and Its Treatment and Research Implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003322/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When chronic pain and depression show up together—which happens surprisingly often—they're actually tangled up in the brain in ways we're just beginning to understand. A new review found that ketamine, a drug already known to lift depression, might also ease chronic pain at the same time. This matters because treating both conditions with one medicine could be genuinely transformative for people stuck in that painful, heavy place. Researchers looked at 12 studies from the past two decades where patients got ketamine and had both their pain and mood measured afterward. Most showed improvement in both, though the studies varied wildly in how they worked and who they treated. This gap—the fact that we don't yet have clear, standardized evidence—actually points to something exciting: psychedelics research is moving beyond single-symptom solutions toward understanding how these medicines might rewire multiple problems at once. That's the frontier we're heading into.",
+        "da": "Når kronisk smerte og depression dukker op sammen—hvilket sker oftere end man tror—er de faktisk sammenvævet i hjernen på måder, vi først nu begynder at forstå. En ny gennemgang fandt, at ketamin, et stof der allerede vides at løfte depression, måske også kan lindre kronisk smerte samtidigt. Det betyder noget, fordi at behandle begge tilstande med én medicin kunne være rigtig transformativt for mennesker fanget i det smertefulde, tunge sted. Forskere kiggede på 12 studier fra de seneste to årtier, hvor patienter fik ketamin og fik målt både deres smerte og sindstilstand bagefter. De fleste viste forbedring i begge dele, selvom studierne varierede vildt i deres tilgang og hvem de behandlede. Det hul—det faktum at vi endnu ikke har klare, standardiserede beviser—peger faktisk på noget spændende: psykedelika-forskningen bevæger sig ud over enkelt-symptom-løsninger mod at forstå, hvordan disse stoffer kan omstrukturere flere problemer på én gang. Det er grænselandet, vi bevæger os ind i."
+      },
+      "added_at": "2026-11-10T15:27:16.968241+00:00"
+    },
+    {
+      "title": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002438/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Gambling disorder traps people in a cycle that existing medications can't reliably break—but researchers are getting closer. A new review reveals that psychedelics like psilocybin and MDMA, along with ketamine, show real promise for rewiring the brain patterns that drive compulsive gambling, particularly the rigid thinking and dysregulated reward system that keeps people hooked. Scientists analyzed over a decade of pharmacological research to map out what actually works: while older drug approaches have limitations, these neuroplasticity-focused treatments target the root mechanisms differently—essentially helping the brain \"unstick\" from its addictive pathways. This research signals an important shift in how we think about behavioral addictions, moving beyond band-aid symptom relief toward genuine brain-level healing. As psychedelic science matures, we're watching addiction treatment evolve in real time.",
+        "da": "Spilleafhængighed fanger mennesker i en cykel, som eksisterende medicin ikke pålideligt kan bryde—men forskere kommer tættere på løsningen. En ny oversigt viser, at psykedelika som psilocybin og MDMA, sammen med ketamin, viser reelt løfte for at omplante hjernens mønstre, der driver tvangsmæssigt gambling, især den stive tænkning og dysreguleret belønningssystem, der holder folk faste. Forskere analyserede over et årti af farmakologisk forskning for at kortlægge, hvad der virker: mens gamle medikamentelle tilgange har begrænsninger, retter disse neuroplasticitet-fokuserede behandlinger sig mod grundmekanismerne anderledes—og hjælper hjernens væsen med at \"slippe fri\" fra sine afhængighedsmønstre. Denne forskning signalerer et vigtigt skift i, hvordan vi tænker på adfærdsmæssige afhængigheder, væk fra plejestrips symptomletlindring mod ægte helbredelse på hjernens niveau. Når psykedelisk videnskab modnes, ser vi afhængighedsbehandling udvikle sig i realtid."
+      },
+      "added_at": "2026-11-10T15:27:16.968241+00:00"
+    },
     {
       "title": "Adapted Massed Exposure Therapy Enhanced with MDMA for PTSD (aMETEMP): A randomized, double-masked protocol adapted for Veterans Affairs healthcare system.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42999641/",
@@ -754,32 +780,6 @@
         "da": "Her er noget håbefuldt: ketamin kan løfte depression hurtigt, selv efter alvorlig stress som teenager—og nu ved vi det virker på samme måde med forskellige doser. Forskere gav stressramte unge mennesker to forskellige mængder ketamin og fandt ud af, at begge udløste hurtige stemningsforbedringer, selvom de aktiverede forskellige dele af hjernen på molekylært niveau. Det betyder noget, fordi det tyder på, at ketamins antidepressive effekt ikke er én-størrelse-passer-alle, og at forstå disse skjulte mekanismer kunne hjælpe os med at personliggøre behandlingen og måske endda finde nye stoffer, der virker tilsvarende. Når psykedelika og ketamin bevæger sig fra lab til klinik, er studier som dette vigtige—de kortlægger den faktiske biologi bag, hvorfor disse substanser hjælper mennesker, når traditionelle antidepressiva ikke gør."
       },
       "added_at": "2026-10-28T13:52:08.400321+00:00"
-    },
-    {
-      "title": "Low-dose ketamine modulates brain entropy in treatment-resistant depression: Results from two neuroimaging clinical trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42933579/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When depression won't budge despite medication, a single low-dose ketamine infusion seems to wake up key areas of the brain that had gone quiet. New research scanning brains before and after treatment shows ketamine rapidly increases activity in regions tied to mood, motivation, and emotional processing—essentially turning the volume back up on neural circuits that depression had dampened. Scientists compared two groups of patients with treatment-resistant depression using brain imaging, measuring how organized or chaotic activity patterns were across different regions. What they found fits an exciting new picture emerging in psychedelic research: these compounds don't just alter brain chemistry in one spot, they seem to help restore flexibility and communication across whole networks that depression had locked down. As researchers look deeper into how psychedelics work at the brain level, studies like this one are revealing the physical signature of how quickly these medicines can shift something that felt stuck.",
-        "da": "Når depression ikke vil vige selv med medicin, ser en enkelt lavdosis ketamin-infusion ud til at væcke vigtige hjernesteder, der var gået i dvale. Ny forskning, der scannede hjerner før og efter behandling, viser at ketamin hurtigt øger aktiviteten i områder, der er knyttet til stemning, motivation og følelsesmæssig behandling—den slår stort set lydstyrken op på neurale kredsløb, som depression havde dæmpet. Forskerne sammenlignede to grupper patienter med behandlingsresistent depression ved hjælp af hjernebilleder og målte hvor organiseret eller kaotisk aktiviteten var på tværs af forskellige områder. Det de fandt, passer ind i et spændende nyt billede, der opstår inden for psykedelika-forskning: disse stoffer ser ikke bare ud til at ændre hjernekemi ét sted, de ser ud til at hjælpe med at genoprette fleksibilitet og kommunikation på tværs af hele netværk, som depression havde låst. Når forskere giver sig mere i kast med at forstå, hvordan psykedelika virker på hjernens niveau, afslører studier som dette det fysiske billede af hvor hurtigt disse mediciner kan ændre noget, der føles fastlåst."
-      },
-      "added_at": "2026-10-27T13:01:19.784625+00:00"
-    },
-    {
-      "title": "Sex-related differences in outcomes following psilocybin or escitalopram: a Bayesian secondary analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42931904/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Women who took psilocybin in a recent study experienced notably lower anxiety than men — a finding that hints at sex-specific responses to psychedelics that we're only beginning to understand. Depression itself showed no meaningful difference between genders, but the anxiety result raises an intriguing question: do psychedelics work differently in women's brains? Researchers reanalyzed data from a controlled trial comparing psilocybin to escitalopram (a standard antidepressant) in 59 people with moderate-to-severe depression, carefully examining how men and women responded differently. This work matters because women are dramatically underrepresented in psychedelic trials despite experiencing depression at roughly twice the rate of men — and if treatments genuinely affect us differently, we need to know it. As psychedelic research scales up globally, paying attention to these sex-based nuances isn't just good science; it's essential for making sure this promising medicine actually works for everyone.",
-        "da": "Kvinder, der fik psilocybin i et nyt studie, oplevede væsentligt mindre angst end mænd — en fund, der tyder på kønsspecifikke reaktioner på psykedelika, som vi først nu begynder at forstå. Depression selv viste ingen meningsfuld forskel mellem kønnene, men resultatet på angst rejser et fængslende spørgsmål: virker psykedelika forskelligt i kvinders hjerner? Forskere genanalyserede data fra et kontrolleret forsøg, hvor de sammenlignede psilocybin med escitalopram (et standardantidepressivt lægemiddel) hos 59 mennesker med moderat til alvorlig depression og undersøgte nøje, hvordan mænd og kvinder reagerede forskelligt. Dette arbejde betyder noget, fordi kvinder er dramatisk underrepræsenteret i psykedelika-forsøg, selvom de oplever depression med cirka dobbelt så høj hyppighed som mænd — og hvis behandlinger virkelig påvirker os forskelligt, skal vi vide det. Efterhånden som psykedelika-forskningen skaleres op globalt, er det ikke bare god videnskab at være opmærksom på disse kønsbaserede nuancer; det er afgørende for at sikre, at denne lovende medicin virkelig virker for alle."
-      },
-      "added_at": "2026-10-27T13:01:19.784625+00:00"
     }
   ]
 }
