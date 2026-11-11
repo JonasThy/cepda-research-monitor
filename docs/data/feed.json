@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-10T15:27:30.507347+00:00",
+  "generated_at": "2026-11-11T14:58:07.213526+00:00",
   "items": [
+    {
+      "title": "Changes in self-related cognitive processes and depressive symptom severity following a single, moderate dose of psilocybin in depressed patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007824/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if feeling better after depression started with how you see yourself? A new study found that people who took a single dose of psilocybin showed significant drops in depression symptoms and, crucially, developed a more positive view of themselves—changes that were directly linked to each other. Researchers gave 37 people with depression either psilocybin or a placebo, then tracked their brain activity and mood over two weeks. The results suggest that psychedelics may work by literally rewiring how our brains process thoughts about ourselves, shifting us away from the self-critical spirals that depression feeds on. This fits into a growing picture: psychedelics aren't just mood boosters, they're tools that help us relate to ourselves differently—and that shift in self-perception might be the real engine behind healing.",
+        "da": "Hvad hvis det at blive bedre fra depression startede med, hvordan du ser på dig selv? Et nyt studie viser, at mennesker, der tog en enkelt dosis psykedelika, oplevede betydelig mindre depression og fik på samme tid et mere positivt syn på sig selv—og disse forandringer hænger direkte sammen. Forskere gav 37 mennesker med depression enten psykedelika eller placebo og fulgte deres hjerneaktivitet og humør over to uger. Resultaterne tyder på, at psykedelika fungerer ved at omstrukturere, hvordan vores hjerner behandler tanker om os selv, og skubber os væk fra de selvkritiske spiraler, som depression lever af. Det passer ind i et voksende billede: psykedelika er ikke bare humørløftere—de er værktøjer, der hjælper os med at forholde os anderledes til os selv. Og denne ændring i selvopfattelse kunne være den egentlige motor for helbredelse."
+      },
+      "added_at": "2026-11-11T14:57:36.661241+00:00"
+    },
+    {
+      "title": "Is ibogaine treatment durable? 12-month follow-up of magnesium-ibogaine therapy (MISTIC) in special operations veterans with traumatic brain injuries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003815/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "drug": "ibogaine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Here's something striking: veterans with traumatic brain injuries who received ibogaine treatment didn't just feel better for a week or two—they stayed better. A year later, they still showed major improvements in PTSD, depression, anxiety, and everyday functioning. Researchers tracked 25 Special Operations veterans over 12 months after a single treatment with magnesium-ibogaine, measuring their symptoms at regular intervals. The improvements weren't subtle; they had massive effect sizes, the kind of results that make researchers sit up and pay attention. This durability matters hugely because it suggests ibogaine isn't just offering temporary relief—it might be creating lasting change in how the brain processes trauma and regulates mood.",
+        "da": "Her er noget bemærkelsesværdigt: veteraner med traumatiske hjerneskader, der fik ibogain-behandling, blev ikke bare bedre for en uge eller to—de blev ved med at være bedre. Et år senere viste de stadig store forbedringer inden for PTSD, depression, angst og daglig funktionsevne. Forskere fulgte 25 Special Operations-veteraner over 12 måneder efter en enkelt behandling med magnesium-ibogain og målte deres symptomer med jævne mellemrum. Forbedringerne var ikke subtile; de havde massive effektstørrelser, det slags resultater der får forskere til at sidde op og tage notits. Denne varighed betyder enormt meget, fordi den tyder på, at ibogain ikke blot giver midlertidig lindring—det kunne være ved at skabe varig forandring i, hvordan hjernen behandler trauma og regulerer humør."
+      },
+      "added_at": "2026-11-11T14:57:36.661241+00:00"
+    },
+    {
+      "title": "Changes in wellbeing, self-compassion and alexithymia in a proof of principle trial with MDMA-assisted therapy for major depressive disorder",
+      "url": "https://doi.org/10.1016/j.jpsychires.2026.11.014",
+      "source": "CrossRef / Journal of Psychiatric Research",
+      "date": "2027-1",
+      "drug": "mdma",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if the key to breaking out of depression wasn't just about thinking differently, but about finally being kind to yourself? New research on MDMA-assisted therapy shows something remarkable: people didn't just feel better—they developed genuine self-compassion, and that shift seemed to stick around. The study tracked how participants' wellbeing changed alongside their ability to understand and express their own emotions, revealing that healing depression might involve rewiring how we relate to ourselves at a fundamental level. Researchers followed patients through MDMA-assisted therapy sessions, measuring these inner shifts over time. This fits perfectly into where psychedelic research is heading: moving beyond \"Does it work?\" to understanding *how* and *why* these experiences create lasting change. That's the real prize—not just symptom relief, but genuine transformation in how people experience themselves.",
+        "da": "Hvad hvis nøglen til at komme ud af depression ikke bare handler om at tænke anderledes, men om endelig at være venlig over for sig selv? Ny forskning på MDMA-assisteret terapi viser noget bemærkelsesværdigt: mennesker blev ikke bare bedre—de udvikled ægte selvmedlidenhihed, og den ændring holdt ved. Studiet fulgte, hvordan deltagernes velbefindende ændrede sig sammen med deres evne til at forstå og udtrykke deres egne følelser, og viste at helbredelse af depression måske handler om at omstrukturere, hvordan vi forholder os til os selv på grundlæggende plan. Forskere fulgte patienter gennem MDMA-assisterede terapisessioner og målte disse indre skift over tid. Det passer perfekt ind i, hvor psykedelika-forskningen er på vej hen: ud over \"Virker det?\" til at forstå *hvordan* og *hvorfor* disse oplevelser skaber varig forandring. Det er den rigtige gevinst—ikke bare symptomfrihed, men ægte transformation i, hvordan mennesker oplever sig selv."
+      },
+      "added_at": "2026-11-11T14:57:36.661241+00:00"
+    },
+    {
+      "title": "Changes in self-related cognitive processes and depressive symptom severity following a single, moderate dose of psilocybin in depressed patients",
+      "url": "https://doi.org/10.1098/rstb.2025.0168",
+      "source": "OpenAlex",
+      "date": "2026-11-10",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if depression's grip loosened by changing how you see yourself? New research shows that a single moderate dose of psilocybin helped depressed patients feel significantly better about themselves within two weeks—and crucially, this shift in self-perception directly correlated with their depression lifting. Researchers gave 37 people with depression either psilocybin or placebo, then tracked their symptoms, self-concept, and brain activity. The psilocybin group saw their depression scores drop and their positive self-image surge, while brain scans revealed the drug was rewiring how their brains processed self-related thoughts. This study adds a crucial piece to the puzzle: psychedelics don't just make you feel different—they seem to help you actually *think* differently about yourself, and that's where the healing begins. As clinical trials keep expanding, we're moving from 'does it work?' to understanding exactly how.",
+        "da": "Hvad hvis depressionen løsner grebet ved at ændre, hvordan du ser dig selv? Ny forskning viser, at en enkelt moderat dosis psykedelika hjalp deprimerede patienter med at føle sig betydeligt bedre om sig selv inden for to uger—og afgørende: dette skift i selvopfattelse korrelerede direkte med, at deres depression forsvandt. Forskere gav 37 mennesker med depression enten psykedelika eller placebo og fulgte derefter deres symptomer, selvkoncept og hjerneaktivitet. Psykedelika-gruppen oplevede faldende depressionsscore og øget positiv selvbillede, mens hjernescans afslørede, at stoffet genverkablede, hvordan deres hjerner behandlede selvrelaterede tanker. Dette studie tilføjer et afgørende puslespil: psykedelika gør ikke bare, at du føler dig anderledes—de hjælper dig tilsyneladende med at *tænke* anderledes om dig selv, og der begynder helbredelsen. Mens kliniske forsøg fortsætter med at ekspandere, bevæger vi os fra 'virker det?' til at forstå præcis hvordan."
+      },
+      "added_at": "2026-11-11T14:57:36.661241+00:00"
+    },
+    {
+      "title": "Exploring cancer neuroscience with psychedelics: Brain-body crosstalk, neuroimmune modulation, and implications from tumor biology to end-of-life support",
+      "url": "https://doi.org/10.61373/pp026w.0009",
+      "source": "OpenAlex",
+      "date": "2026-11-10",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if psychedelics could help rewire how cancer patients experience their illness—not by shrinking tumors, but by shifting their relationship to fear, anxiety, and existential dread? New research suggests serotonergic psychedelics like psilocybin and LSD may do more than ease the mind: they could actually influence the intricate conversation between tumors, nerves, and immune cells, opening unexpected doors for both treatment and end-of-life support. Scientists reviewed how psychedelics interact with neural circuits and immune pathways known to shape cancer progression, exploring mechanisms that range from tumor-nerve connections to systemic inflammation. Most of these mechanisms remain theoretical or early-stage, but the clinical evidence for psychedelic-assisted therapy in reducing cancer-related anxiety is already surprisingly solid. This research maps a genuinely novel frontier—one where ancient molecules meet cutting-edge cancer neuroscience to ask: how might expanding consciousness help us live better with illness?",
+        "da": "Hvad hvis psykedelika kunne hjælpe kræftpatienter med at omforme deres forhold til sygdommen—ikke ved at krympe tumorer, men ved at skifte deres relation til frygt, angst og eksistentiel angst? Ny forskning tyder på, at serotoninerge psykedelika som psilocybin og LSD kan gøre mere end at berolige sindet: de kunne faktisk påvirke den indviklede samtale mellem tumorer, nerver og immuneceller, hvilket åbner uventede døre for både behandling og palliativ pleje. Forskere gennemgik, hvordan psykedelika interagerer med neurale kredsløb og immuneveje, der er kendt for at forme kræftudvikling, og udforsker mekanismer fra tumor-nerve-forbindelser til systemisk betændelse. De fleste af disse mekanismer er stadig teoretiske eller i tidlige stadier, men det kliniske bevis for psykedelika-assisteret terapi til at reducere kræftrelateret angst er allerede bemærkelsesværdigt solidt. Denne forskning kortlægger et ægte nyt grænseland—et hvor gamle molekyler møder avanceret kræftneurovidenskab for at spørge: hvordan kunne udvidelse af bevidsthed hjælpe os til at leve bedre med sygdom?"
+      },
+      "added_at": "2026-11-11T14:57:36.661241+00:00"
+    },
     {
       "title": "Ketamine for Co-occurring Chronic Pain and Depression: A Scoping Review fing the Dual-Outcome Evidence Gap and Its Treatment and Research Implications.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43003322/",
@@ -715,71 +780,6 @@
         "da": "Hvad hvis din depression kunne behandles helt specifikt tilpasset til dig i stedet for efter et generelt skema? Ny forskning viser, at psykedelika kombineret med personaliseret medicin forandrer psykiatrien—væk fra prøv-og-fejl med traditionelle antidepressiva og hen imod behandlinger, der passer til din helt unikke biologi og psykologi. Det handler ikke om en tryllekunst, men snarere en grundlæggende ændring i, hvordan vi forstår mental sundhed: at behandle det enkelte menneske i stedet for bare diagnosen.\n\nVidenskabsmænd kombinerer genetisk indsigt, hjernescanning og psykologisk profilering med psykedelika-assisteret terapi for at forstå, hvorfor nogle mennesker blomstrer på bestemte behandlinger, mens andre ikke gør. Efterhånden som psykedelika-forskningen accelererer globalt, repræsenterer denne personalisering hvor feltet er på vej hen—smartere, mere præcis og til sidst mere medfølende psykiatrisk behandling, der rent faktisk møder mennesker der, hvor de er."
       },
       "added_at": "2026-10-29T13:58:32.426746+00:00"
-    },
-    {
-      "title": "Quality of Life in Patients with Treatment-Resistant Depression Treated with Intranasal Esketamine as Add-On Therapy to an SSRI-A Prospective, Comparative Study in Real-World Clinical Practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42943341/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When standard antidepressants stop working, people don't just feel stuck—they often can't work, connect with others, or enjoy life. A new study shows that esketamine, a psychedelic relative of ketamine given as a nasal spray alongside regular antidepressants, actually helps people get their lives back. Beyond just feeling less depressed, patients reported real improvements in daily functioning and overall quality of life—the stuff that actually matters.\n\nResearchers tracked real patients in actual clinics (not just lab conditions) to see how esketamine performed as an add-on treatment for treatment-resistant depression. The findings fit into an exciting bigger picture: psychedelics aren't just about symptom relief anymore. Science is discovering they can help people rebuild the capacity to work, relate, and thrive—opening a genuine new path for people who've exhausted other options.",
-        "da": "Når almindelige antidepressiva holder op med at virke, handler det ikke kun om at føle sig deprimeret—mange mennesker kan ikke arbejde, have næhe relationer eller nyde livet. Et nyt studie viser, at esketamin, en psykedelisk kusine til ketamin givet som næsespray sammen med almindelige antidepressiva, hjælper mennesker med at få deres liv tilbage. Ud over blot at føle sig mindre deprimeret rapporterede patienter om rigtige forbedringer i deres daglige funktionsevne og livskvalitet—de ting, der faktisk betyder noget.\n\nForskere fulgte rigtige patienter på rigtige klinikker (ikke blot laboratorieforhold) for at se, hvordan esketamin virkede som tillægtsbehandling for behandlingsresistent depression. Resultaterne passer ind i et spændende større billede: psykedelika handler ikke længere kun om symptomlindrering. Videnskaben opdager, at de kan hjælpe mennesker med at genvinde evnen til at arbejde, være sammen med andre og trives—hvilket åbner en ægte ny vej for mennesker, der har udtømt andre muligheder."
-      },
-      "added_at": "2026-10-28T13:52:08.400321+00:00"
-    },
-    {
-      "title": "Psychedelics in Psychiatry: A Wakeup Call for Clinicians in the Age of Policy Reform.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945450/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "other",
-      "context": "policy",
-      "summaries": {
-        "en": "Psychiatry is waking up to something remarkable: psychedelics might genuinely help people suffering from depression, anxiety, and trauma in ways traditional medicine hasn't cracked. As laws start shifting around the world—including Denmark—clinicians are racing to understand how to actually use these tools safely and effectively. This isn't hype; it's a serious moment where the science is moving faster than many doctors are prepared for, and that gap matters hugely for patients waiting for new options.",
-        "da": "Psykiatrien vågner op til noget bemærkelsesværdigt: psykedelika kan måske virkelig hjælpe mennesker, der lider af depression, angst og traumer på måder, som traditionel medicin ikke har løst. Mens love begynder at ændre sig verden over—også Danmark—kæmper klinikere for at forstå, hvordan man sikkert og effektivt bruger disse værktøjer. Det handler ikke om hype; det er et seriøst øjeblik, hvor videnskaben bevæger sig hurtigere end mange læger er forberedt på, og det betyder enormt meget for patienter, der venter på nye muligheder."
-      },
-      "added_at": "2026-10-28T13:52:08.400321+00:00"
-    },
-    {
-      "title": "Gut consciousness: a perspective on visceral phenomenal awareness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936312/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Your gut might actually feel things. A new perspective argues that the 400-600 million neurons lining your intestines could constitute a genuine form of consciousness—not just sending signals to your brain, but experiencing sensations themselves. This isn't mysticism: researchers point to the gut's ability to sense, discriminate between self and foreign invaders, and communicate through multiple channels, plus intriguing clinical patterns like psychedelic-induced nausea that don't fit traditional brain-centric models.\n\nScientists synthesized evidence from neurology, immunology, and evolutionary biology to make this case. This fits into a bigger shift in psychedelic research: as we study how these substances reshape our inner experience, we're realizing the whole body—not just the brain—is part of consciousness. Understanding gut awareness could reshape how we think about wellbeing, nausea, digestion, and what consciousness actually is.",
-        "da": "Din mave kan måske føle noget. Et nyt perspektiv argumenterer for, at de 400-600 millioner neuroner i dine tarme kunne udgøre en reel form for bevidsthed—ikke bare sender signaler til din hjerne, men oplever følelser selv. Det er ikke mystik: forskere peger på mavehulen evne til at føle, skelne mellem sig selv og fremmede angribere, og kommunikere gennem flere kanaler, plus fascinerende kliniske mønstre som psykedelika-induceret kvalme, der ikke passer til traditionelle hjerne-centrerede modeller.\n\nVidenskabsfolk syntetiserede beviser fra neurologi, immunologi og evolutionær biologi for at understøtte denne teori. Det passer ind i en større ændring inden for psykedelika-forskning: når vi studerer, hvordan disse stoffer omformer vores indre oplevelse, indser vi, at hele kroppen—ikke bare hjernen—er del af bevidstheden. At forstå mavebevidsthed kunne omforme, hvordan vi tænker om velvære, kvalme, fordøjelse og hvad bevidsthed egentlig er."
-      },
-      "added_at": "2026-10-28T13:52:08.400321+00:00"
-    },
-    {
-      "title": "Comparable Acute Antidepressant-like Effects of Two Subanesthetic Ketamine Doses Are Associated with Divergent Region-Specific Molecular Responses After Adolescent Chronic Stress",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42941897/",
-      "source": "EuropePMC (Denmark)",
-      "date": "2026-10-15",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Ketamine works fast. New research shows it can lift depression-like symptoms within 24 hours—even at lower doses. But here's what's really interesting: the brain doesn't respond the same way everywhere. Scientists gave depressed mice two different doses of ketamine and found both worked equally well at first, yet they triggered completely different molecular changes across different brain regions. A higher dose didn't mean better results—it just meant more activity happening in the background. The study, which examined how stress during adolescence shapes the brain's response to treatment, used molecular analysis to map these regional differences in detail. This finding is shifting how we think about psychedelics and ketamine: it's not just about how strong the dose is, but how the drug choreographs activity across the brain's interconnected regions. As researchers race to understand why some psychedelics work so rapidly for depression, this kind of precision mapping could help explain why one person's miracle treatment might not work the same way for someone else—and eventually help us predict who benefits most from what.",
-        "da": "Ketamin virker hurtigt. Ny forskning viser, at det kan løfte depressionslignende symptomer på bare 24 timer—selv ved lavere doser. Men her bliver det rigtig interessant: hjernen reagerer ikke ens alle steder. Forskere gav deprimerede mus to forskellige doser ketamin og fandt, at begge virkede lige godt i starten, men udløste helt forskellige molekylære reaktioner på tværs af forskellige hjernereioner. En højere dosis betød ikke bedre resultater—den betød blot mere aktivitet i baggrunden. Studiet, som undersøgte, hvordan stress i ungdommen påvirker hjernens reaktion på behandling, brugte molekylær analyse til at kortlægge disse regionale forskelle i detaljer. Dette fund ændrer, hvordan vi tænker på psykedelika og ketamin: det handler ikke bare om dosisstyrken, men om, hvordan stoffet orkestrerer aktivitet på tværs af hjernens forbundne regioner. Mens forskere arbejder på at forstå, hvorfor nogle psykedelika virker så hurtigt mod depression, kunne denne præcisionskortlægning hjælpe os med at forklare, hvorfor en persons mirakelbehanding måske ikke virker på samme måde for andre—og måske til sidst hjælpe os med at forudsige, hvem der har mest gavn af hvad."
-      },
-      "added_at": "2026-10-28T13:52:08.400321+00:00"
-    },
-    {
-      "title": "Comparable Acute Antidepressant-like Effects of Two Subanesthetic Ketamine Doses Are Associated with Divergent Region-Specific Molecular Responses After Adolescent Chronic Stress",
-      "url": "https://europepmc.org/article/PMC/PMC13704947",
-      "source": "EuropePMC (Denmark)",
-      "date": "2026-10-01",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Here's something hopeful: ketamine can lift depression quickly, even after severe teenage stress—and now we know it works the same way at different doses. Researchers gave stressed adolescents two different amounts of ketamine and found both triggered rapid mood improvements, though they activated different parts of the brain at the molecular level. This matters because it suggests ketamine's antidepressant punch isn't one-size-fits-all, and understanding these hidden mechanisms could help us personalize treatment and maybe even find new drugs that work similarly. As psychedelics and ketamine move from lab to clinic, studies like this are crucial—they're mapping the actual biology behind why these substances help people when traditional antidepressants don't.",
-        "da": "Her er noget håbefuldt: ketamin kan løfte depression hurtigt, selv efter alvorlig stress som teenager—og nu ved vi det virker på samme måde med forskellige doser. Forskere gav stressramte unge mennesker to forskellige mængder ketamin og fandt ud af, at begge udløste hurtige stemningsforbedringer, selvom de aktiverede forskellige dele af hjernen på molekylært niveau. Det betyder noget, fordi det tyder på, at ketamins antidepressive effekt ikke er én-størrelse-passer-alle, og at forstå disse skjulte mekanismer kunne hjælpe os med at personliggøre behandlingen og måske endda finde nye stoffer, der virker tilsvarende. Når psykedelika og ketamin bevæger sig fra lab til klinik, er studier som dette vigtige—de kortlægger den faktiske biologi bag, hvorfor disse substanser hjælper mennesker, når traditionelle antidepressiva ikke gør."
-      },
-      "added_at": "2026-10-28T13:52:08.400321+00:00"
     }
   ]
 }
