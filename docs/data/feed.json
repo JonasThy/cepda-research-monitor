@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-13T15:09:51.319291+00:00",
+  "generated_at": "2026-11-14T13:58:58.528812+00:00",
   "items": [
+    {
+      "title": "A Pharmacological Basis for Some Bad LSD “Trips”?",
+      "url": "https://doi.org/10.1177/28314425261505140",
+      "source": "OpenAlex",
+      "date": "2026-11-12",
+      "drug": "lsd",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Why do some LSD trips turn paranoid and unsettling? Scientists think they've found a clue: your body might be making a metabolite of LSD that hits dopamine receptors in a very different way than the initial trip. Early on, LSD activates serotonin pathways—that's the psychedelic magic. But hours later, a breakdown product called 13-hydroxy-LSD floods your dopamine system and could explain why things feel darker and more anxious. Researchers tested this hypothesis by synthesizing these metabolites and measuring their effects on human dopamine receptors—finding one was 380 times more potent than expected. This adds a fascinating piece to the puzzle of what makes \"bad trips\" happen, and it's part of a bigger shift in psychedelic research: moving beyond \"does it work?\" to \"how exactly does it work?\" Understanding the mechanics means better support for people exploring these medicines.",
+        "da": "Hvorfor bliver nogle psykedelika-oplevelser paranoid og ubehagelige? Forskere tror, de har fundet et svar: din krop producerer muligvis et nedbrydningsprodukt af LSD, som påvirker dopaminreceptorer på en helt anden måde end den indledende oplevelse. Først aktiverer LSD serotoninveje—det er den psykedeliske magi. Men timer senere kan et metabolit kaldet 13-hydroxy-LSD oversvømme dit dopaminsystem og forklare, hvorfor tingene føles mørkere og mere angstfyldte. Forskere testede denne hypotese ved at syntetisere disse metabolitter og måle deres effekter på humane dopaminreceptorer—og fandt at én var 380 gange mere potent end forventet. Det tilføjer et fascinerende stykke til puslespillet omkring \"dårlige ture\", og det er del af en større udvikling inden for psykedelika-forskning: at bevæge sig fra \"virker det?\" til \"hvordan virker det præcist?\" At forstå mekanikken betyder bedre støtte til mennesker, der udforsker disse mediciner."
+      },
+      "added_at": "2026-11-14T13:58:32.168655+00:00"
+    },
+    {
+      "title": "Domain-level symptom improvement after ketamine and TMS-based stimulation in treatment-resistant depression: a post hoc pooled analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025276/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "When depression hits hard enough that standard treatments fail, people need options—fast. New research comparing ketamine infusions and transcranial magnetic stimulation (TMS) in 159 people with treatment-resistant depression found something encouraging: both work, but they work differently. Ketamine proved particularly powerful for lifting core depression, while TMS showed stronger benefits across anxiety, insomnia, and physical symptoms like fatigue. Within two weeks, people experienced measurable relief—the kind that matters when you're stuck.\n\nScientists pooled data from three separate trials to spot these patterns, treating each symptom domain individually rather than lumping everything together. This matters because depression isn't one thing—it's tangled up with sleep problems, racing thoughts, and bodily aches. As psychedelics and brain-stimulation therapies move from fringe to mainstream medicine, understanding exactly what each tool does best helps doctors match treatments to what's actually troubling each person. This is precision psychiatry taking shape.",
+        "da": "Når depression slår så hårdt, at de sædvanlige behandlinger ikke virker, skal mennesker have muligheder—hurtigt. Ny forskning, der sammenlignede ketamin-infusioner og transkraniel magnetisk stimulation (TMS) hos 159 personer med behandlingsresistent depression, fandt noget opmuntrende: begge virker, men på forskellige måder. Ketamin viste sig særligt kraftfuldt til at løfte kernedepressionen, mens TMS havde stærkere effekt på angst, søvnproblemer og fysiske symptomer som træthed. Inden for to uger oplevede mennesker målbar lettelse—den slags, der betyder noget, når du sidder fast.\n\nForsker poolede data fra tre separate studier for at få øje på disse mønstre og behandlede hvert symptom-område individuelt i stedet for at blande alt sammen. Det betyder noget, fordi depression ikke er én ting—det er sammenvævet med søvnproblemer, urolige tanker og kroplige smerter. Mens psykedelika og hjernestimulationsbehandlinger bevæger sig fra marginalen til mainstream-medicin, hjælper det lægerne at forstå præcis, hvad hver metode gør bedst. Det er præcisionsterapi, der tager form."
+      },
+      "added_at": "2026-11-14T13:58:32.168655+00:00"
+    },
+    {
+      "title": "Oral Ketamine-Assisted Psychotherapy Leading to Prolonged Remission in Recurrent Dissociative Neurological Symptom Disorder With Mutism: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023124/",
+      "source": "PubMed",
+      "date": "2026-Oct",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "A woman who hadn't spoken in months—despite years of therapy and standard treatments—regained her voice after just six sessions of oral ketamine-assisted psychotherapy. The catch? Her silence wasn't neurological; it was her mind's way of protecting her from an unbearable family conflict she couldn't bring herself to discuss. Once the ketamine helped her access and talk through what was really bothering her, her speech came back and stayed back.\n\nThis case offers a glimpse at how psychedelics might unlock what traditional therapy alone cannot. Researchers used a moderate dose of oral ketamine (50–150 mg) paired with skilled psychotherapy to help her mind bypass the psychological walls keeping her trapped. It's a small but telling example of where psychedelic research is heading: not as a magic cure, but as a tool that can sometimes help people access the emotional truths they've been unable to speak—literally or figuratively—and find their way back to wholeness.",
+        "da": "En kvinde, der ikke havde sagt et ord på måneder—trods år med terapi og standard behandlinger—fik sin stemme tilbage efter blot seks sessioner med oral ketamin-assisteret psykoterapi. Pointen? Hendes stilhed var ikke neurologisk; det var hendes sinds måde at beskytte hende mod en uudholdelig familiekrise, hun ikke kunne få sig selv til at diskutere. Da ketaminen hjalp hende med at få adgang til og tale om, hvad der virkelig plagede hende, vendte hendes tale tilbage og blev væk.\n\nDenne case giver et glimt af, hvordan psykedelika kan låse op for, hvad traditionel terapi alene ikke kan. Forskere brugte en moderat dosis oral ketamin (50–150 mg) kombineret med dygtig psykoterapi til at hjælpe hendes sind med at omgå de psykologiske mure, der holdt hende fanget. Det er et lille, men talende eksempel på, hvor psykedelika-forskningen er på vej hen: ikke som en magisk kur, men som et værktøj, der nogle gange kan hjælpe mennesker med at få adgang til de følelsesmæssige sandheder, de ikke har kunnet tale om—bogstaveligt talt eller billedligt—og finde vej tilbage til helhed."
+      },
+      "added_at": "2026-11-14T13:58:32.168655+00:00"
+    },
+    {
+      "title": "Field Notes #6: Dispatches from D.C. as Three Psychedelics Land at FDA",
+      "url": "https://psychedelicalpha.com/news/field-notes-6-dispatches-from-d-c-as-three-psychedelics-land-at-fda/",
+      "source": "Psychedelic Alpha",
+      "date": "Fri, 13 No",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "Three psychedelics just crossed a major milestone: they're now on the FDA's radar for serious clinical development. This means real momentum toward getting these compounds into doctor's offices, not just research labs. We're talking about treatments that could actually help people with depression, anxiety, and PTSD—conditions that have resisted conventional medicine for decades. The shift happening in Washington D.C. right now suggests the regulatory landscape is finally catching up to what the science has been showing us. A new report breaks down what's actually happening behind closed doors as these molecules navigate the path to approval. This moment matters because it shows psychedelic research isn't stuck in the fringe anymore—it's becoming mainstream medicine, with all the scrutiny and promise that brings.",
+        "da": "Tre psykedelika har lige nået en kæmpe milepæl: de er nu på FDAs radar for seriøs klinisk udvikling. Det betyder rigtig momentum mod at få disse stoffer ind på lægers kontorer, ikke bare i forskningslaboratorier. Vi taler om behandlinger, der faktisk kunne hjælpe mennesker med depression, angst og PTSD—tilstande som traditionel medicin har kæmpet med i årtier. Skiftet, der sker i Washington D.C. lige nu, tyder på, at det regulatoriske landskab endelig indhenter hvad videnskaben har vist os. En ny rapport bryder ned hvad der faktisk sker bag lukkede døre, når disse molekyler navigerer vejen mod godkendelse. Dette øjeblik betyder noget, fordi det viser at psykedelika-forskning ikke længere er fanget på siden—det bliver mainstream medicin med al den kontrol og løfte, det medfører."
+      },
+      "added_at": "2026-11-14T13:58:32.168655+00:00"
+    },
     {
       "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43016926/",
@@ -728,58 +780,6 @@
         "da": "Hvad hvis det, der holder dig låst i depression—manglende evne til at føle lyst og glæde—faktisk kunne ændre sig? Et nyt pilotstudie giver os det første rigtige blik på, om psykedelika kunne hjælpe med anhedoni, det kernesymptom som almindelige antidepressiva ofte mister. Deltagere med behandlingsresistent depression som fik psykedelika (25 mg) plus psykologisk støtte viste betydelige forbedringer i deres evne til at opleve fryd efter otte uger, mens deres overordnede depressionsscorer faldt markant allerede efter en uge. Forskere gav 20 personer enten psykedelika eller placebo i et nøje kontrolleret forsøg og fulgte udviklingen over to måneder. Dette er præcis den slags målrettede undersøgelse, der omformer hvordan vi tænker på psykedelika inden for mental sundhed—ikke som vidunderlige løsninger, men som præcisionsværktøjer til symptomer som har besejret andre behandlinger. Tidlige resultater er lovende, selvom dette lille pilotstudie først er begyndelsen på en længere samtale."
       },
       "added_at": "2026-10-31T13:24:12.645854+00:00"
-    },
-    {
-      "title": "Rapid antidepressant effects of ketamine combined with selective serotonin reuptake inhibitors: Mechanisms and outlook.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962408/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the antidepressants millions take could work faster and better? New research shows that ketamine combined with standard SSRIs produces rapid relief from depression — sometimes within hours or days, rather than weeks. For people stuck in severe depression or seeing only partial improvement from their current medication, this could genuinely change lives. Scientists studied how this combination works in the brain and found evidence that ketamine and SSRIs work together synergistically, not just additively, using a framework they call GLIMPSE to explain the intricate dance between different neural circuits. This fits perfectly into where psychedelic research is heading: moving beyond asking \"do these substances work?\" to the harder, smarter question of \"how do we combine them strategically with existing medicine to help people faster?\" With proper safety monitoring in place, this research points toward a near future where depression treatment could be radically more effective.",
-        "da": "Hvad hvis de antidepressiva, millioner tager, kunne virke hurtigere og bedre? Ny forskning viser, at psykedelika kombineret med almindelige SSRI-præparater giver hurtig depression-lindring — nogle gange inden for timer eller dage i stedet for uger. For mennesker, der sidder fast i svær depression eller kun ser delvise forbedringer fra deres nuværende medicin, kunne dette virkelig ændre livet. Forskere undersøgte, hvordan kombinationen virker i hjernen, og fandt bevis for, at psykedelika og SSRI'er arbejder sammen synergistisk, ikke blot additivt, ved hjælp af en ramme kaldet GLIMPSE til at forklare den indviklede dans mellem forskellige neurale kredsløb. Dette passer perfekt ind i, hvor psykedelika-forskningen er på vej hen: ud over at spørge \"virker disse stoffer?\" til det sværere, smartere spørgsmål: \"hvordan kombinerer vi dem strategisk med eksisterende medicin for at hjælpe mennesker hurtigere?\" Med ordentlig sikkerhedsovervågning på plads peger denne forskning mod en nærmeste fremtid, hvor depressionbehandling kunne være radikalt mere effektiv."
-      },
-      "added_at": "2026-10-31T13:24:12.645854+00:00"
-    },
-    {
-      "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "lsd",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Psychedelics are making a comeback in psychiatry—and scientists are finally getting serious about understanding how they actually work. A major new review brings together evolutionary biology, neuroscience, and computational theory to crack the code: these compounds appear to reset how our brains process information and form beliefs, potentially explaining both the profound inner experiences people report and the rapid healing they're seeing in depression, anxiety, and PTSD. The team studied everything from simple organisms to primates, comparing how serotonin receptors trigger plasticity and reshape neural hierarchies across species. The verdict? Animal research isn't about copying human trips—it's about understanding the fundamental molecular machinery that all our brains share, giving us clearer windows into why psychedelics might unlock therapeutic doors that traditional psychiatry has struggled to open.",
-        "da": "Psykedelika er tilbage i psykiatrien—og videnskabsfolkene bliver alvorlige om at forstå, hvordan de virker. En stor ny oversigt samler evolutionbiologi, neurovidenskab og computerteorier for at løse gåden: disse stoffer ser ud til at nulstille, hvordan vores hjerner behandler information og danner overbevisninger, hvilket potentielt forklarer både de dybtgående indre oplevelser folk rapporterer og den hurtige helbredelse, vi ser ved depression, angst og PTSD. Forskerne studierede alt fra simple organismer til primater og sammenlignede, hvordan serotoninreceptorer udløser plasticititet og omformer neural hierarki på tværs af arter. Konklusionen? Dyreforskning handler ikke om at kopiere menneskes oplevelser—det handler om at forstå den fundamentale molekylære maskine, som alle vores hjerner deler, og give os klarere vinduer ind i, hvorfor psykedelika måske kan låse terapeutiske døre op, som traditionel psykiatri har kæmpet med."
-      },
-      "added_at": "2026-10-30T13:53:12.911010+00:00"
-    },
-    {
-      "title": "Cross-species mapping of acute psychedelic-responsive genes links HTR2A cortical expression, cell-type enrichment, and human cortical expression modules.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957634/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Scientists just mapped exactly which genes light up in the brain within hours of taking psychedelics — and found something fascinating: the changes are concentrated in our cortex, the thinking part of our brain, especially in areas tied to emotion and memory. This matters because it reveals the biological fingerprint of how psychedelics actually rewire our minds at a molecular level. Researchers combed through studies across animal models and lab cultures, then cross-referenced their findings with human brain maps to identify which genes spring to life after psychedelic use. What they discovered fits perfectly with emerging theories about how these substances work: they activate networks involved in neuroplasticity and connection-making between neurons. This research bridges a crucial gap — we've known psychedelics change consciousness, but now we're seeing the genetic blueprints behind those changes, laying groundwork for understanding why they show such promise for treating depression, anxiety, and PTSD.",
-        "da": "Forskere har netop kortlagt præcis, hvilke gener der tændes i hjernen inden for timer efter at tage psykedelika — og fandt noget fascinerende: ændringerne er koncentreret i vores cortex, vores tænkende hjerne, især i områder knyttet til følelser og hukommelse. Det betyder noget, fordi det afsløres den biologiske fingeraftryk for, hvordan psykedelika faktisk omstrukturerer vores sind på molekylært niveau. Forskere gennemgik studier på tværs af dyremodeller og labbkulturer, og sammenlignede derefter deres resultater med humane hjernekort for at identificere, hvilke gener der vågnede efter psykedelika-brug. Det de opdagede passer perfekt med nye teorier om, hvordan disse stoffer virker: de aktiverer netværk involveret i neuroplasticitet og forbindelsesdannelse mellem neuroner. Denne forskning bygger bro over et afgørende hul — vi har kendt til, at psykedelika ændrer bevidstheden, men nu ser vi de genetiske blueprints bag disse forandringer, hvilket lægger grundlaget for at forstå, hvorfor de viser så stort løfte for behandling af depression, angst og PTSD."
-      },
-      "added_at": "2026-10-30T13:53:12.911010+00:00"
-    },
-    {
-      "title": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952701/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "People who've tried psychedelics in clinical trials have powerful stories to tell—and researchers are finally listening. A new study asked former participants about their experiences, from the moment they signed up through months after treatment ended. What they revealed is crucial: the clinical trial setup itself—the waiting, the uncertainty about which drug you're getting, the strict schedules—shapes your entire experience in ways that matter just as much as the psychedelic itself. This qualitative study spoke with four experienced participants from the Psychedelic Participant Advocacy Network who'd been in psilocybin and DMT trials for depression and eating disorders, asking them what worked, what didn't, and what needs to change. Their insights are now reshaping how researchers think about future trials and treatment delivery, moving the focus from just measuring outcomes to understanding the full human journey—because the context you're in, the people around you, and how you're supported before and after the experience all play a starring role in healing.",
-        "da": "Folk der har prøvet psykedelika i kliniske forsøg har vigtige historier at fortælle—og forskerne lytter endelig. Et nyt studie spurgte tidligere deltagere om deres oplevelser, fra ansøgningen blev godkendt til måneder efter behandlingen sluttede. Det de afslørede er afgørende: forsøgsopsætningen selv—ventningen, usikkerheden om hvilken stof du får, de strenge skemaer—former hele din oplevelse på måder der betyder lige så meget som psykedelikaet selv. Dette kvalitative studie talte med fire erfarne deltagere fra Psychedelic Participant Advocacy Network som havde været i psilocybin- og DMT-forsøg for depression og spiseforstyrrelser, og spurgte dem hvad der virkede, hvad der ikke gjorde, og hvad der skal ændres. Deres indsigter omformer nu hvordan forskere tænker på fremtidige forsøg og behandlingsudlevering—fokus flyttes fra blot at måle resultater til at forstå hele menneskets rejse, for konteksten du er i, mennesker omkring dig, og hvordan du bliver støttet før og efter oplevelsen spiller alle en hovedrolle i helbredelse."
-      },
-      "added_at": "2026-10-30T13:53:12.911010+00:00"
     }
   ]
 }
