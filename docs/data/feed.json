@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-14T13:58:58.528812+00:00",
+  "generated_at": "2026-11-15T14:34:14.889986+00:00",
   "items": [
+    {
+      "title": "Roots to Thrive risk and readiness assessment: a practice-based intake and decision-support framework for psychedelic-assisted therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034062/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Before someone takes psychedelics in a therapeutic setting, how do you know if they're ready? A new framework called Roots to Thrive is helping therapists figure out exactly that—mapping out who might benefit most and who needs more preparation first. This practical tool looks at someone's psychological stability, support system, and readiness, turning what used to be guesswork into something more systematic and fair. The research describes how this intake assessment actually works in real therapy sessions, giving clinicians a concrete way to match people with the right timing and support. As psychedelic-assisted therapy moves from research labs into actual clinics, getting these gatekeeping decisions right matters enormously—it's about maximizing healing while keeping people safe.",
+        "da": "Før nogen tager psykedelika i en terapeutisk sammenhæng, hvordan ved man, om de er klar? En ny rammemodel kaldet Roots to Thrive hjælper terapeuter med netop det—den kortlægger hvem der kan få mest ud af det, og hvem der skal forberede sig mere. Dette praktiske værktøj ser på psykologisk stabilitet, støttesystem og parathed, og gør det til noget systematisk i stedet for gætteri. Forskningen beskriver, hvordan denne indledende vurdering faktisk fungerer i rigtige terapisessioner og giver klinikere en konkret måde at matche mennesker med rigtig timing og støtte. Nu hvor psykedelika-assisteret terapi flytter fra forskningslabs ind i rigtige klinikker, betyder disse afgørelser enormt—det handler om at maksimere helbredelse samtidig med at holde mennesker sikre."
+      },
+      "added_at": "2026-11-15T14:33:42.900109+00:00"
+    },
+    {
+      "title": "Mitochondrial respiratory chain activity in the brain of young male rats subjected to alloxan-induced diabetes and a ketamine-induced schizophrenia-like model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033722/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Your brain runs on energy, and when that system breaks down, mental health struggles can follow. New research shows that diabetes and ketamine (used to model schizophrenia-like symptoms) both affect how brain cells produce energy—but in surprising ways. When they occur together, they don't simply add up; instead, they interact in unexpected patterns, suggesting these conditions might share deeper biological roots than we thought. Scientists measured energy-production enzymes in rat brains across different scenarios, revealing specific vulnerabilities in regions tied to mood and cognition. This work matters because it hints at why people with diabetes face higher psychiatric risks, and it opens doors for researchers exploring whether targeting brain energy metabolism could help treat both conditions—a frontier where psychedelics are increasingly being studied for their ability to reshape neural function.",
+        "da": "Dit hjerne kører på energi, og når det system går i stykker, følger psykiske udfordringer ofte efter. Ny forskning viser, at diabetes og ketamin (brugt til at modellere skizofreni-lignende symptomer) begge påvirker, hvordan hjerneceller producerer energi—men på overraskende måder. Når de optræder sammen, erstatter de sig ikke blot; i stedet interagerer de på uventede måder, hvilket tyder på, at disse tilstande kan dele dybere biologiske rødder. Videnskabsfolk målte energiproducerende enzymer i rotte-hjerner på tværs af forskellige scenarier og afslørede specifikke sårbarhedspunkter i områder knyttet til humør og kognitiv funktion. Dette arbejde betyder noget, fordi det antyder, hvorfor mennesker med diabetes står over for højere psykiatriske risici—og det åbner døre for forskere, der udforsker, om målrettet behandling af hjernens energistofskifte kunne hjælpe med begge tilstande, en grænse hvor psykedelika i stigende grad bliver studeret for deres evne til at omforme neural funktion."
+      },
+      "added_at": "2026-11-15T14:33:42.900109+00:00"
+    },
+    {
+      "title": "California announces psychedelic treatment research funding to improve veterans' health",
+      "url": "https://doi.org/10.1002/mhw.35079",
+      "source": "OpenAlex",
+      "date": "2026-11-13",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "California just put $4 million toward something that could genuinely change veterans' lives: studying how psychedelics might treat PTSD, depression, and anxiety. Here's what makes this exciting—nearly 42% of veterans using VA healthcare deal with mental health or substance use issues, and early research suggests psychedelics could help where traditional treatments haven't. Researchers will work directly with veteran communities over the next few years to figure out which treatments work best for which people. This isn't just about throwing money at a problem; it's about precision medicine—matching the right psychedelic therapy to the right person. California's move signals that psychedelic research is moving from fringe curiosity into mainstream healthcare, with real funding and institutional backing. As more states and countries wake up to the science, we're seeing the beginning of a genuine shift in how we treat some of the toughest mental health challenges veterans face.",
+        "da": "Californien har netop sat $4 millioner af til noget, der kunne virkelig ændre veteraners liv: at undersøge, hvordan psykedelika kunne behandle PTSD, depression og angst. Her er det spændende—næsten 42% af veteraner, der bruger VA-sundhedsvæsenet, kæmper med psykiske helbredsproblemer eller misbrug, og tidlige studier tyder på, at psykedelika kunne hjælpe, hvor traditionelle behandlinger ikke har virket. Forskere skal arbejde direkte med veteransamfund i de næste par år for at finde ud af, hvilke behandlinger der virker bedst for hvilke mennesker. Det handler ikke bare om at smide penge efter et problem; det handler om præcisionsmedicin—at matche den rigtige psykedelika-terapi til den rigtige person. Californiens tiltag signalerer, at psykedelika-forskning går fra at være en randnotits til mainstream sundhedsvæsen med rigtig finansiering og institutionel opbakning. Når flere stater og lande vågnede op til videnskaben, ser vi begyndelsen på et ægte skift i, hvordan vi behandler nogle af de hårdeste psykiske sundhedsproblemer, veteraner står over for."
+      },
+      "added_at": "2026-11-15T14:33:42.900109+00:00"
+    },
+    {
+      "title": "O uso de ayahuasca para transtornos mentais: uma revisão integrativa da literatura",
+      "url": "https://doi.org/10.69849/hj0caz80",
+      "source": "OpenAlex",
+      "date": "2026-11-13",
+      "drug": "ayahuasca",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "People struggling with depression and anxiety are looking for new paths forward—and a new review of recent research suggests ayahuasca might offer something worth studying. Studies from 2022-2026 found associations between ayahuasca use and improvements in depressive symptoms, anxiety, stress, and overall well-being. But here's the honest part: the research is still early, and we don't yet have the controlled evidence needed to call it a proven treatment. Researchers reviewed 22 studies on ayahuasca's effects and safety in humans, noting that while some people report real benefits, others experience challenging physical effects like nausea or difficult psychological moments. The field is moving toward more rigorous trials that could clarify whether—and for whom—ayahuasca might become part of mental health care. Right now, this research sits at an exciting threshold: intriguing enough to warrant serious scientific attention, but honest enough to say we need more answers before drawing conclusions.",
+        "da": "Folk der kæmper med depression og angst søger nye veje—og en ny gennemgang af aktuel forskning tyder på, at psykadelika fra ayahuasca kunne være værd at undersøge nærmere. Studier fra 2022-2026 viste sammenhænge mellem brug af ayahuasca og forbedringer i depressive symptomer, angst, stress og generel trivsel. Men det vigtige: forskningen er stadig ung, og vi har endnu ikke de kontrollerede resultater, der skal til for at kalde det en bevist behandling. Forskere gennemgik 22 studier af ayahuascas virkninger og sikkerhed hos mennesker og noterede, at nogle mennesker rapporterer reelle forbedringer, mens andre oplever udfordrende fysiske effekter som kvalme eller svære psykiske oplevelser. Området bevæger sig mod mere stringente forsøg, der kunne præcisere om—og for hvem—psykadelika fra ayahuasca kunne blive en del af psykisk sundhedsomsorg. Lige nu ligger denne forskning ved en spændende grænse: interessant nok til seriøs videnskabelig opmærksomhed, men ærlig nok til at sige, at vi har brug for flere svar før konklusioner."
+      },
+      "added_at": "2026-11-15T14:33:42.900109+00:00"
+    },
+    {
+      "title": "Pain management for the twenty-first century – reports from the 2025 meeting",
+      "url": "https://doi.org/10.1080/17581869.2026.2753720",
+      "source": "OpenAlex",
+      "date": "2026-11-12",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Pain management is getting a serious rethink. At a major 2025 conference, experts presented cutting-edge approaches beyond traditional painkillers—including psychedelics alongside opioids, cannabinoids, and newer treatments. What makes this shift exciting? Researchers are finally looking at the whole picture: not just medications, but psychology, social factors, immune responses, and even combat injuries. A single study or pill won't solve chronic pain for most people, but this broader, more thoughtful approach suggests we're moving toward treatments that actually work for real lives.\n\nThe conference brought together top pain researchers to map where pain medicine is heading. It's a sign that the field is maturing—moving away from silver-bullet thinking toward integrated, evidence-based care. Psychedelics are part of this conversation now, sitting alongside other promising approaches in a landscape that's finally getting as complex as pain itself.",
+        "da": "Smertebehandling er under en alvorlig omvurdering. På en større konference i 2025 præsenterede eksperter avancerede tilgange langt ud over traditionelle smertestillende—herunder psykedelika ved siden af opioider, cannabinoider og nyere behandlinger. Hvad gør dette skift spændende? Forskere kigger endelig på det hele billede: ikke bare medicin, men også psykologi, sociale faktorer, immunrespons og selv skader fra kamp. En enkelt medicin løser ikke kroniske smerter for de fleste mennesker, men denne bredere, mere gennemtænkt tilgang antyder, at vi bevæger os mod behandlinger, der faktisk virker i rigtige liv.\n\nKonferencen samlede topforskere inden for smertebehandling for at kortlægge fremtiden. Det er et tegn på, at området modnes—væk fra forestillinger om vidundermedicin hen imod integreret, evidensbaseret behandling. Psykedelika er nu del af denne samtale, på linje med andre lovende tilgange i et landskap, der endelig bliver så komplekst som smerter selv."
+      },
+      "added_at": "2026-11-15T14:33:42.900109+00:00"
+    },
     {
       "title": "A Pharmacological Basis for Some Bad LSD “Trips”?",
       "url": "https://doi.org/10.1177/28314425261505140",
@@ -715,71 +780,6 @@
         "da": "Folk der arbejder med ayahuasca i Santo Daime-traditionen rapporterer om dybtgående skift i, hvordan de forstår sig selv, deres forhold og deres plads i verden. Et nyt studie med praktiserende i det nordøstlige Brasilien viser, at oplevelsen konsekvent udløste det, deltagerne beskrev som dyb omsorg og eksistentiel reorganisering—rigtige forandringer i deres liv og hvad der betyder noget for dem. Forskere gennemførte interviews med seks medlemmer af fællesskabet og integrerede sig i traditionen for at kortlægge disse erfaringer. Resultaterne bidrager med et vigtig stykke puslespil til voksende psykedelika-forskning: traditionelle kundskapssystemer er ikke bare interessante historiske artefakter, de er aktive tilgange til helbredelse og transformation som moderne videnskab stadig er ved at forstå."
       },
       "added_at": "2026-11-01T14:06:17.382798+00:00"
-    },
-    {
-      "title": "Set, setting and substance in ayahuasca ceremonies and their association with altered self-awareness experiences: An exploratory investigation",
-      "url": "https://doi.org/10.1007/s44192-026-00638-7",
-      "source": "OpenAlex",
-      "date": "2026-10-31",
-      "drug": "ayahuasca",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What you bring to an ayahuasca ceremony matters more than you might think. A new study of nearly 500 people found that your mindset going in—your psychological traits, spiritual beliefs, and how you tune into your own body—is the strongest predictor of whether you'll experience profound shifts in self-awareness like ego-dissolution. The dose intensity and what else you consume also play a role, but your inner landscape is the real game-changer.\n\nResearchers surveyed participants before and after ceremonies, tracking their self-awareness experiences using established psychological measures. This fills an important gap: while we know psychedelics can help with depression and that ego-dissolution is linked to healing, we've known surprisingly little about what actually shapes these inner experiences. As psychedelic science matures beyond just measuring brain scans, understanding how set, setting, and substance work together is becoming crucial—it's the foundation for using these tools more thoughtfully and safely.",
-        "da": "Det, du bringer med dig til en ayahuasca-ceremoni, betyder mere end du måske tror. En ny undersøgelse af næsten 500 mennesker viser, at dit mindset før du starter—dine psykologiske træk, spirituelle overbevisninger og hvordan du er i kontakt med din egen krop—er den stærkeste forudsigelse for, om du oplever dybe skift i selvbevidsthed som ego-opløsning. Dosisintensiteten og hvad ellers du bruger spiller også en rolle, men dit indre landskab er det rigtige spil-skift.\n\nForskere spurgte deltagerne før og efter ceremonier og sporede deres selvbevidsthed ved hjælp af etablerede psykologiske mål. Dette udfylder et vigtig hul: selvom vi ved, at psykedelika kan hjælpe med depression og at ego-opløsning er forbundet med helbredelse, har vi vidst overraskende lidt om, hvad der faktisk former disse indre oplevelser. Efterhånden som psykedelika-forskning bliver mere sofistikeret, bliver det afgørende at forstå, hvordan mindset, setting og substans virker sammen—det er grundlaget for at bruge disse værktøjer mere bevidst og sikkert."
-      },
-      "added_at": "2026-11-01T14:06:17.382798+00:00"
-    },
-    {
-      "title": "Real-world clinical outcomes under intravenous and subcutaneous esketamine protocols for treatment-resistant depression: a multicenter, retrospective study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964351/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When depression won't budge despite trying multiple medications, esketamine might offer real hope—and new research shows it works whether you get it through IV or under-the-skin injections. Scientists in Brazil tracked 72 patients over two years and found both delivery methods significantly reduced depression symptoms, with the injectable version potentially offering a simpler, more practical route for clinics. This matters because it suggests we're moving toward making cutting-edge psychedelic-assisted treatment more accessible and scalable in real-world settings, not just in controlled labs. As psychedelics continue proving themselves in clinical trials worldwide, studies like this one are quietly building the infrastructure that could bring these transformative therapies to far more people struggling with depression that standard treatments have failed.",
-        "da": "Når depression ikke vil reagere på almindelige medicin, kunne esketamin give rigtig håb—og ny forskning viser, at det virker både som infusion og som indsprøjtning under huden. Forskere i Brasilien fulgte 72 patienter over to år og fandt, at begge metoder reducerede depressioner markant, og indsprøjtningen kunne blive den praktiske vej frem for klinikker. Det betyder noget, fordi det tyder på, at vi bevæger os mod at gøre psykedelika-assisteret behandling mere tilgængelig og skalerbar i virkeligheden, ikke bare i kontrollerede forsøg. Mens psykedelika verden over fortsætter med at bevise deres værdi i kliniske studier, bygger undersøgelser som denne stille og roligt det fundament, der kunne bringe disse transformative behandlinger til langt flere mennesker, hvis depression traditionel medicin har svigtet."
-      },
-      "added_at": "2026-10-31T13:24:12.645854+00:00"
-    },
-    {
-      "title": "Oral Esketamine Maintenance Treatment for Treatment-Resistant Depression: Clinical Outcomes During an Off-Label Treatment Program.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964271/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the antidepressant effects of ketamine could actually stick around? New research tracking 93 patients with severe depression that hadn't responded to standard treatments found that taking oral esketamine at home twice weekly maintained their improvements for months. This isn't about a quick fix — it's about what happens when you keep going with the treatment, and the results suggest real, lasting relief is possible for people who've run out of other options.\n\nResearchers followed these patients over seven years as they self-administered doses at home after an initial clinical phase, tracking their symptoms carefully. This study adds crucial real-world data to psychedelics' expanding toolkit for depression — we're moving beyond asking \"does this work?\" to the harder question \"how do we keep it working?\" As ketamine and esketamine move closer to wider clinical use, understanding long-term maintenance is exactly what patients and doctors need to know.",
-        "da": "Hvad hvis psykedelikas antidepressive effekt faktisk kunne holde sig? Ny forskning fulgte 93 patienter med svær depression, som ikke havde reageret på almindelige behandlinger, og fandt at oral esketamin hjemme to gange ugentligt opretholdtes deres forbedringer i måneder. Det handler ikke om et hurtigt fix — det handler om hvad der sker når man fortsætter behandlingen, og resultaterne tyder på at rigtig, varig lindring er mulig for mennesker som har løbet tør for andre muligheder.\n\nForskerne fulgte patienterne over syv år mens de selv administrerede doser hjemme efter en indledende klinisk fase, idet de nøje fulgte deres symptomer. Dette studie tilføjer vigtig virkeligheds-data til psykedelikas voksende værktøjskasse mod depression — vi bevæger os væk fra \"virker det?\" til det sværere spørgsmål \"hvordan holder vi det ved?\" Efterhånden som ketamin og esketamin nærmer sig bredere klinisk anvendelse, er forståelse af langtidsbeholdelse præcis hvad patienter og læger har brug for at vide."
-      },
-      "added_at": "2026-10-31T13:24:12.645854+00:00"
-    },
-    {
-      "title": "MDMA-Assisted Therapy for Veterans with Comorbid Posttraumatic Stress Disorder and Alcohol Use Disorder: Clinical Outcomes from the First Open-Label Pilot Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962981/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "mdma",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "When trauma and alcohol addiction happen together, they hit harder and are notoriously difficult to treat. Now, a groundbreaking pilot study shows that MDMA-assisted therapy might offer real hope: ten veterans with both PTSD and alcohol use disorder saw their trauma symptoms drop significantly, and most dramatically cut their heavy drinking. Nine out of ten completed the full treatment—a retention rate that puts existing approaches to shame.\n\nResearchers combined MDMA sessions with careful therapy over eleven meetings, tracking participants for weeks after. While this is early-stage work with a small group, it's compelling enough to excite the field: we're seeing how psychedelics might unlock emotional processing in ways that help people escape cycles that have trapped them for years. This is the kind of rigorous, human-centered research that's reshaping how we think about treating our most complex mental health challenges.",
-        "da": "Når traumatiske oplevelser og alkoholafhængighed optræder sammen, bliver de værre og er notorisk svære at behandle. Nu viser en banebrydende pilotundersøgelse, at MDMA-assisteret terapi kunne være et reelt håb: ti veteraner med både PTSD og alkoholforbrug oplevede betydelig reduktion i traumesymptomer, og de fleste reducerede dramatisk deres kraftige alkoholforbrug. Ni ud af ti gennemførte den fulde behandling—en retention-rate, der stiller eksisterende tilgange helt i skyggen.\n\nForskere kombinerede MDMA-sessioner med omhyggelig terapi over elleve møder og fulgte deltagerne i ugerne efter. Selvom dette er tidligt arbejde med en lille gruppe, er det inspirerende nok til at begejstre fagmiljøet: vi ser, hvordan psykedelika kan låse følelsesbearbejdelse op på måder, der hjælper mennesker ud af cyklusser, der har fanget dem i årevis. Dette er den slags grundig, menneskecentreret forskning, der omformer vores tilgang til behandling af vores mest komplekse psykiske helbredsproblemer."
-      },
-      "added_at": "2026-10-31T13:24:12.645854+00:00"
-    },
-    {
-      "title": "Effects of psilocybin with psychological support on anhedonia in treatment-resistant depression: A randomized controlled pilot trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962721/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the thing keeping you stuck in depression—the inability to feel pleasure or joy—could actually shift? A new pilot study gives us a first real look at whether psilocybin might help with anhedonia, that core symptom that regular antidepressants often miss. Participants with treatment-resistant depression who received psilocybin (25 mg) plus psychological support showed meaningful improvements in their ability to experience pleasure by week 8, while their overall depression scores dropped significantly within just one week. Researchers gave 20 people either psilocybin or placebo in a carefully controlled trial, tracking changes over two months. This is exactly the kind of targeted investigation that's reshaping how we think about psychedelics in mental health—not as magic bullets, but as precision tools for symptoms that have defeated other treatments. Early results are promising, though this small pilot is just the beginning of what needs to be a longer conversation.",
-        "da": "Hvad hvis det, der holder dig låst i depression—manglende evne til at føle lyst og glæde—faktisk kunne ændre sig? Et nyt pilotstudie giver os det første rigtige blik på, om psykedelika kunne hjælpe med anhedoni, det kernesymptom som almindelige antidepressiva ofte mister. Deltagere med behandlingsresistent depression som fik psykedelika (25 mg) plus psykologisk støtte viste betydelige forbedringer i deres evne til at opleve fryd efter otte uger, mens deres overordnede depressionsscorer faldt markant allerede efter en uge. Forskere gav 20 personer enten psykedelika eller placebo i et nøje kontrolleret forsøg og fulgte udviklingen over to måneder. Dette er præcis den slags målrettede undersøgelse, der omformer hvordan vi tænker på psykedelika inden for mental sundhed—ikke som vidunderlige løsninger, men som præcisionsværktøjer til symptomer som har besejret andre behandlinger. Tidlige resultater er lovende, selvom dette lille pilotstudie først er begyndelsen på en længere samtale."
-      },
-      "added_at": "2026-10-31T13:24:12.645854+00:00"
     }
   ]
 }
