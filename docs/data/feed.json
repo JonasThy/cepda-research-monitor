@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-16T16:48:35.836790+00:00",
+  "generated_at": "2026-11-17T16:45:42.386084+00:00",
   "items": [
+    {
+      "title": "Ketamine after the hype: What are we actually treating?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040634/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine has sparked real excitement in depression research by working faster than traditional antidepressants through completely different brain mechanisms. But here's the thing: a new perspective argues we need to pump the brakes and ask a harder question — are we actually measuring what matters? The researchers examined how studies define treatment-resistant depression, who they recruit, and what outcomes they track, finding that small differences in these choices can dramatically change how effective ketamine appears to be. The study itself is a critical review of existing research. What matters now is that ketamine's unexpected success is pushing the entire field to get serious about one of its biggest blind spots: the gap between what works in clinical trials and what actually helps individual patients in real life. That's the real breakthrough we're after.",
+        "da": "Ketamin har skabt stor begejstring inden for depressionssforskning ved at virke hurtigere end traditionelle antidepressiva gennem helt andre mekanismer i hjernen. Men her er pointen: et nyt perspektiv argumenterer for, at vi skal holde pause og stille et vanskeligere spørgsmål — måler vi faktisk det, der betyder noget? Forskerne undersøgte, hvordan studier definerer behandlingsresistent depression, hvem de rekrutterer, og hvilke resultater de måler, og fandt at små forskelle i disse valg kan dramatisk ændre, hvor effektiv ketamin ser ud til at være. Selve studiet er en kritisk gennemgang af eksisterende forskning. Det vigtige nu er, at ketamins uventede succes tvinger hele feltet til at være seriøs omkring en af dets største svagpunkter: gabet mellem hvad der virker i kliniske forsøg og hvad der faktisk hjælper den enkelte patient i virkeligheden. Det er det rigtige gennembrud, vi jagter."
+      },
+      "added_at": "2026-11-17T16:45:10.804241+00:00"
+    },
+    {
+      "title": "From generalized to personalized treatments: the need for precision pharmacotherapy in addiction medicine",
+      "url": "https://doi.org/10.1515/dmpt-2026-0004",
+      "source": "OpenAlex",
+      "date": "2026-11-16",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if the addiction treatment that works for your friend doesn't work for you? New research shows it's time to stop treating everyone the same way. Scientists are discovering that our genes, hormones, and brain chemistry mean we respond totally differently to addiction medications — and women especially face unique challenges that standard treatments miss. By looking at individual biomarkers, doctors could soon match each person with their most effective therapy, whether that's conventional medication or emerging approaches like psychedelic-assisted treatment. This study, analyzing how precision medicine has transformed oncology and immunology, argues addiction medicine urgently needs the same personalized approach. The science is clear: one-size-fits-all treatment isn't cutting it. As psychedelics show real promise in addiction recovery, integrating precision pharmacotherapy could unlock breakthroughs we're currently missing.",
+        "da": "Hvad hvis den afhængighedsbehandling, der virker for din ven, ikke virker for dig? Ny forskning viser, at det er tid til at stoppe med at behandle alle på samme måde. Videnskabsfolk opdager, at vores gener, hormoner og hjernekemi betyder, at vi reagerer helt forskelligt på afhængighedsmedicin — og især kvinder står over for unikke udfordringer, som standardbehandlinger misser. Ved at kigge på individuelle biomarkører kunne læger snart matche hver person med deres mest effektive behandling, uanset om det er konventionel medicin eller emerging tilgange som psykedelika-assisteret terapi. Dette studie, som analyserer, hvordan præcisionsmedicin har transformeret onkologi og immunologi, argumenterer for, at afhængighedsmedicin akut har brug for samme personaliserede tilgang. Videnskaben er klar: én størrelse passer ikke alle. Efterhånden som psykedelika viser reel potentiale i afhængighedsbehandling, kunne integration af præcisions-farmakoterapy låse op for gennembrud, som vi i øjeblikket går glip af."
+      },
+      "added_at": "2026-11-17T16:45:10.804241+00:00"
+    },
+    {
+      "title": "Dimethyltryptamine improves early graft hemodynamic performance in a heterotopic rat heart transplantation model",
+      "url": "https://doi.org/10.1038/s41598-026-77366-z",
+      "source": "OpenAlex",
+      "date": "2026-11-14",
+      "drug": "dmt",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Imagine a donor heart waiting for transplant—it's in cold storage, oxygen running low, cells under stress. New research shows that DMT, a naturally occurring molecule in our bodies, could dramatically improve how that heart performs after surgery. In rat studies, hearts treated with DMT showed stronger contractions, better relaxation, and overall superior function compared to untreated controls. Scientists preserved hearts in standard solution or DMT-enriched solution, then tracked performance after transplant. The results suggest DMT's protective powers kick in exactly when organs need it most—during the vulnerable transition from storage to new blood supply. This fits neatly into psychedelics' emerging role in medicine: we're discovering these compounds do far more than alter consciousness. As transplant medicine races to solve the organ shortage crisis, every small improvement in graft survival matters enormously for patients waiting on lists.",
+        "da": "Forestil dig et donor-hjerte, der venter på transplantation—det ligger på køl, ilten bliver mindre, cellerne er under stress. Ny forskning viser, at DMT, et naturligt stof i vores kroppe, kan dramatisk forbedre hvordan hjertet fungerer efter operationen. I rotte-forsøg viste hjærter behandlet med DMT stærkere sammentrækninger, bedre afslapning og generelt bedre funktion end ubehandlede kontroller. Forskerne opbevarede hjærter i standard-opløsning eller DMT-beriget opløsning, derefter fulgte de hjerternes præstation efter transplantationen. Resultaterne tyder på, at DMT's beskyttelseseffekt aktiveres præcis når organer har mest brug for det—under den sårbare overgang fra opbevaring til nyt blodtilbud. Dette passer glimrende ind i psykedelikas voksende rolle i medicin: vi opdager, at disse stoffer gør meget mere end at påvirke bevidstheden. Når transplantationsmedicin løber for at løse organmangel-krisen, betyder hver lille forbedring i transplantats overlevelse enormt meget for patienter på ventelister."
+      },
+      "added_at": "2026-11-17T16:45:10.804241+00:00"
+    },
+    {
+      "title": "Single dose of psilocybin shows extended benefit in depression trial",
+      "url": "https://doi.org/10.1002/pu.31528",
+      "source": "OpenAlex",
+      "date": "2026-11-14",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "One dose of psilocybin, and people with depression felt better for weeks. In a new clinical trial, a single psychedelic experience produced lasting improvements in mood and wellbeing — not just during the trip, but long after the effects wore off. For people who've struggled with traditional antidepressants or spent years in therapy without breakthrough moments, this finding opens a genuinely new door. Researchers gave participants psilocybin in a controlled setting and tracked their symptoms over time, watching how a single session created ripples of change. This fits into a bigger shift happening right now: psychedelics are moving from counterculture to mainstream medicine, with study after study showing they can catalyse real healing in ways we're only beginning to understand.",
+        "da": "En enkelt dosis psykedelika, og mennesker med depression følte sig betydeligt bedre i uger efter. I et nyt klinisk forsøg producerede en enkelte psykedelisk oplevelse vedvarende forbedringer i humør og velbefindende — ikke blot under oplevelsen, men længe efter stoffet var forsvundet ud af kroppen. For mennesker, der har kæmpet med traditionelle antidepressiva eller brugt år på terapi uden gennembrud, åbner denne erfaring en helt ny mulighed. Forskerne gav deltagerne psykedelika i et kontrolleret miljø og fulgte deres symptomer over tid, og så hvordan en enkelt session satte vedvarende forandringer i gang. Det er en del af en større bevægelse, der sker lige nu: psykedelika bevæger sig fra modkultur til mainstream medicin, hvor undersøgelse efter undersøgelse viser, at de kan katalysere ægte helbredelse på måder, vi først er begyndt at forstå."
+      },
+      "added_at": "2026-11-17T16:45:10.804241+00:00"
+    },
+    {
+      "title": "Multishell diffusion MRI models have limited sensitivity to ketamine-induced microstructural changes in the mouse brain",
+      "url": "https://doi.org/10.1038/s41598-026-80048-5",
+      "source": "OpenAlex",
+      "date": "2026-11-14",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Ketamine works fast—it rewires brain cells in ways that seem crucial for treating depression and other psychiatric conditions. So scientists wondered: could we use brain imaging to watch these changes happen in real time? That would be game-changing for monitoring who benefits from treatment and developing better drugs. Unfortunately, a new study found that the current MRI scanning methods aren't quite sensitive enough to catch ketamine's subtle rewiring act, even though lab analysis confirmed the changes were actually there. The researchers tested three leading imaging approaches and simulated what should theoretically work—but the real-world signal was too faint. The good news? The same imaging tools *did* detect other differences in brain structure, so the technology itself isn't broken. This tells us we need smarter scanning strategies or new biomarkers as psychedelics and ketamine move deeper into psychiatric care.",
+        "da": "Ketamin virker hurtigt—det omstrukturerer hjerneceller på måder, der ser afgørende ud for behandling af depression og andre psykiatriske tilstande. Så forskere undrede sig: kan vi bruge hjernescanning til at se disse forandringer ske i realtid? Det ville være revolucionært for at overvåge, hvem der får gavn af behandlingen og udvikle bedre lægemidler. Desværre viste et nyt studie, at de nuværende MRI-scanningsmetoder ikke helt er følsomme nok til at fange ketamins subtile omstrukturering, selv om laboratorieanlyse bekræftede, at ændringerne faktisk fandt sted. Forskerne testede tre førende imagingmetoder og simulerede hvad der teoretisk burde virke—men det virkelige signal var for svagt. Det gode nyt? De samme scanningsværktøjer *kunne* godt påvise andre forskelle i hjernens struktur, så teknologien i sig selv er ikke ødelagt. Det fortæller os, at vi har brug for smartere scanningsstrategier eller nye biomarkører, når psykedelika og ketamin bevæger sig dybere ind i psykiatrisk behandling."
+      },
+      "added_at": "2026-11-17T16:45:10.804241+00:00"
+    },
     {
       "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
       "url": "https://psychedelicalpha.com/news/breaking-helus-deuterated-psilocin-hits-primary-endpoint-in-first-phase-3/",
@@ -715,71 +780,6 @@
         "da": "Når depression ikke reagerer på almindelige antidepressiva, kan ketamin og elektrokonvulsiv terapi (ECT) virke som en reset-knap—men indtil nu har vi ikke rigtig forstået hvorfor. Et nyt studie kiggede på blodprøver fra mennesker med behandlingsresistent depression før og efter ketamininfusioner eller ECT, på jagt efter genetiske spor om hvem der bliver bedre. Her er det slående: forskerne opdagede immunsystem-signaler, som kunne forudsige om ketamin faktisk hjælper dig, hvilket antyder at vores krops forsvar spiller en skjult rolle i depressionsgeneringen.\n\nVidenskabsfolkene analyserede tusindvis af gener hos 132 mennesker ved hjælp af avanceret netværksanalyse, hvilket grundlæggende handler om at kortlægge hvordan gener taler med hinanden under behandling. Selvom de ikke fandt en enkelt \"magisk markør\" der virker for alle, kunne disse immunfingeraftryk i dit blod eventuelt blive de personliggørte tests vi har ventet på—som giver læger mulighed for at forudsige behandlingssucces før du starter. Denne forskning sidder på det spændende grænseland hvor psykedelika og neurovidenskab bevæger sig: fra at spørge \"virker det?\" til \"hvorfor virker det for nogle mennesker og ikke andre?\""
       },
       "added_at": "2026-11-02T16:53:00.777289+00:00"
-    },
-    {
-      "title": "Podcast: Usona Files Psilocybin Application, We Review 610 Comments Submitted to FDA, and FDA Approves NRx’s Generic Ketamine",
-      "url": "https://psychedelicalpha.com/news/podcast-usona-files-psilocybin-application-we-review-610-comments-submitted-to-fda-and-fda-approves-nrxs-generic-ketamine/",
-      "source": "Psychedelic Alpha",
-      "date": "Mon, 02 No",
-      "drug": "psilocybin",
-      "context": "policy",
-      "summaries": {
-        "en": "Psychedelics just got a major regulatory push: Usona has filed for FDA approval of psilocybin as a depression treatment, and the FDA has already greenlit a generic version of ketamine. But here's what's really interesting—we reviewed 610 public comments submitted to the FDA, and they reveal what everyday people actually think about these medicines. The verdict? A lot of hope, mixed with real questions about access and safety.\n\nThis moment matters because it shows psychedelic research moving from lab curiosity into real-world policy. Researchers, patients, and regulators are all having the same conversation now, and the FDA is actually listening. We're watching the rules get written in real time—and that means understanding what people think about these treatments isn't just academic. It's shaping the future of mental healthcare.",
-        "da": "Psykedelika fik netop et stort fremskridt: Usona har indgivet ansøgning om FDA-godkendelse af psilocybin mod depression, og FDA har allerede godkendt en generisk version af ketamin. Men det mest interessante? Vi har gennemgået 610 offentlige kommentarer indsendt til FDA, og de afslører, hvad almindelige mennesker faktisk tænker om disse mediciner. Konklusionen er klar—masse håb blandet med reelle spørgsmål om tilgængelighed og sikkerhed.\n\nDette øjeblik betyder noget, fordi det viser psykedelikaforskning i færd med at blive reel politik, ikke blot laboratorieskepsis. Forskere, patienter og regulatorer har nu samme samtale, og FDA lytter faktisk til. Vi er vidne til, hvordan reglerne skrives lige nu—og det betyder, at forståelse af, hvad mennesker tænker om disse behandlinger, ikke bare er akademisk. Det former fremtiden for psykisk sundhedspleje."
-      },
-      "added_at": "2026-11-02T16:53:00.777289+00:00"
-    },
-    {
-      "title": "Usona Files Psilocybin for Depression NDA as Race With Compass Tightens",
-      "url": "https://psychedelicalpha.com/news/usona-files-psilocybin-for-depression-nda-as-race-with-compass-tightens/",
-      "source": "Psychedelic Alpha",
-      "date": "Mon, 02 No",
-      "drug": "psilocybin",
-      "context": "policy",
-      "summaries": {
-        "en": "We're watching history happen in real-time. Usona Institute just filed with the FDA to bring psilocybin to people struggling with severe depression—and it's only the second psychedelic compound ever to reach this stage. This means we're not just talking about potential anymore; regulators are seriously examining whether psychedelics could become legitimate medical treatments. Usona ran rigorous clinical trials to get here, and their move signals something bigger: we're in the middle of a genuine race to bring these molecules from underground to operating rooms. As more organizations push forward, the question isn't if psychedelics will transform mental healthcare—it's how quickly.",
-        "da": "Vi er vidne til historie, der bliver skrevet lige nu. Usona Institute har netop indsendt ansøgning til FDA om at få psykedelika til mennesker, der kæmper med alvorlig depression—og det er kun det andet psykedeliske stof, der når til dette stadie. Det betyder, vi ikke længere bare taler om potentiale; regulatorer undersøger seriøst, om psykedelika kunne blive legitime medicinske behandlinger. Usona gennemførte strenge kliniske forsøg for at komme hertil, og deres skridt signalerer noget større: vi er midt i et ægte løb om at få disse molekyler fra underjorden til operationsstuer. Når flere organisationer fortsætter, handler spørgsmålet ikke længere om psykedelika vil transformere psykisk sundhed—det handler om hvor hurtigt det sker."
-      },
-      "added_at": "2026-11-02T16:53:00.777289+00:00"
-    },
-    {
-      "title": "Furthering the Understanding of Psilocybin Use and Molecules Relevant to Depression and Schizophrenia",
-      "url": "https://doi.org/10.1176/appi.ajp.20260960",
-      "source": "OpenAlex",
-      "date": "2026-11-01",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if a single dose of psilocybin could help rewire the brain patterns that keep depression locked in place? New research is digging into exactly how psilocybin works at the molecular level, exploring connections that might also matter for schizophrenia. The findings suggest psychedelics don't just create a brief mystical experience—they may trigger deeper, lasting changes in how your brain processes emotion and meaning. Scientists analyzed psilocybin's effects on specific molecular pathways linked to depression and psychosis. This work is part of a bigger shift in psychiatry: moving from treating symptoms with daily pills to understanding whether a few carefully-guided psychedelic experiences could reset brain systems that have gone awry. We're still early, but the science keeps pointing toward something genuinely different.",
-        "da": "Hvad hvis en enkelt dosis psilocybin kunne hjælpe med at omstille de hjernebaner, der holder depression på plads? Ny forskning dykker ned i præcis, hvordan psilocybin virker på molekylært niveau, og udforsker forbindelser, der måske også betyder noget for skizofreni. Fundet tyder på, at psykedelika ikke bare skaber en kort mystisk oplevelse—de kan udløse dybere, varige ændringer i, hvordan din hjerne behandler følelser og mening. Forskere analyserede psilocybins effekter på specifikke molekylære veje knyttet til depression og psykose. Dette arbejde er en del af et større skift inden for psykiatrien: væk fra at behandle symptomer med daglige piller, hen imod at forstå, om nogle få omhyggeligt vejledte psykedelika-oplevelser kunne nulstille hjernens systemer, der er gået i stykker. Vi er stadig tidligt inde, men videnskaben peger hele tiden på noget virkelig anderledes."
-      },
-      "added_at": "2026-11-02T16:53:00.777289+00:00"
-    },
-    {
-      "title": "Psilocybin Use in Psychiatry: Clinical Practice and Public Health Implications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966740/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Imagine a treatment that could help people with depression, anxiety, or PTSD in ways that traditional medicine sometimes can't—and without the side effects that come with many psychiatric drugs. New research is showing that psilocybin, the active compound in magic mushrooms, has real clinical potential in psychiatry. The evidence is compelling enough that doctors and researchers are seriously asking: how do we actually integrate this into mental healthcare? This isn't fringe thinking anymore—it's about figuring out the practical details of when, how, and for whom psychedelics should become part of standard treatment. As more clinical trials stack up, the conversation is shifting from \"does this work?\" to \"how do we do this safely and responsibly?\" That's where psychiatry is headed, and it could reshape mental health care for millions.",
-        "da": "Forestil dig en behandling, der kunne hjælpe mennesker med depression, angst eller PTSD på måder, som traditionel medicin nogle gange ikke kan—uden de bivirkninger, som følger med mange psykiatriske lægemidler. Ny forskning viser, at psilocybin, det aktive stof i tryllehatte, har reel klinisk potentiale inden for psykiatri. Beviserne er så overbevisende, at læger og forskere stiller sig alvorligt spørgsmålet: hvordan integrerer vi dette egentlig i mental sundhedsvæsen? Dette er ikke længere kantsnak—det handler om at finde ud af de praktiske detaljer for hvornår, hvordan og for hvem psykedelika bør blive en del af standardbehandling. Efterhånden som flere kliniske forsøg ophober sig, skifter samtalen fra \"virker det?\" til \"hvordan gør vi det sikkert og ansvarligt?\" Det er retningen psykiatrien går, og det kunne omforme psykisk sundhedsvæsen for millioner af mennesker."
-      },
-      "added_at": "2026-11-01T14:06:17.382798+00:00"
-    },
-    {
-      "title": "Therapeutic Potential of Classical Psychedelics and Non-Hallucinogenic Psychoplastogens in Psychiatric Disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964905/",
-      "source": "PubMed",
-      "date": "2026-Apr",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if depression could shift in a single session instead of weeks on traditional pills? New research shows classical psychedelics like psilocybin and LSD can produce rapid mood improvements—sometimes lasting—when given with proper support. This builds on what ketamine taught us: that we don't need to wait months for antidepressants to kick in. Scientists reviewed the latest clinical evidence and identified real challenges ahead: studies are still small, it's hard to truly blind participants, and we need to separate genuine healing from placebo effects. But here's what matters: as psychedelic research moves from fringe to mainstream science, we're learning how these substances might reshape depression treatment—not as a quick fix, but as a potential tool for people who haven't found relief elsewhere.",
-        "da": "Hvad hvis depression kunne skiftes på en enkelt session i stedet for uger på almindelige piller? Ny forskning viser, at klassiske psykedelika som psilocybin og LSD kan give hurtig stemningsforbedring—nogle gange varig—når de gives med ordentlig vejledning. Dette bygger på, hvad ketamin lærte os: at vi ikke skal vente måneder på, at antidepressiva virker. Forskere gennemgik de seneste kliniske beviser og identificerede rigtige udfordringer forude: studier er stadig små, det er svært at holde deltagere i mørke om hvad de får, og vi skal skelne ægte helbredelse fra placeboeffekter. Men her er det vigtige: mens psykedelika-forskning bevæger sig fra randzone til mainstream videnskab, lærer vi, hvordan disse stoffer kan omforme depressionbehandling—ikke som et hurtigt fix, men som et potentielt værktøj for mennesker, der ikke har fundet lindring andetsteds."
-      },
-      "added_at": "2026-11-01T14:06:17.382798+00:00"
     }
   ]
 }
