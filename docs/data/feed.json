@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-19T16:24:07.199128+00:00",
+  "generated_at": "2026-11-20T15:57:52.637284+00:00",
   "items": [
+    {
+      "title": "Animal models in psychedelic research - Tripping over translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058087/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Psykedelika are showing real promise for treating depression, anxiety, and PTSD—but here's the catch: the way we're testing them in labs might not reflect how they actually work in people. A major review of 266 rodent studies reveals a critical mismatch: most animal research includes stressful conditions (like physical restraint and isolation) that run counter to what makes psychedelics therapeutic in humans, where \"set and setting\"—your mindset and comfortable environment—are everything. Plus, the tests used barely scratch the surface of what a psychedelic experience actually involves.\n\nResearchers analysed how these studies measure effects and found they typically use brief, narrow behavioural markers that miss the rich, evolving nature of psychedelic states. This translational gap helps explain why lab findings have been so inconsistent and why we still don't fully understand how these substances work. The takeaway? As psychedelic science accelerates toward clinical breakthroughs, the field needs to rethink how we study these compounds from the ground up—designing animal research that actually mirrors the conditions that make therapy work.",
+        "da": "Psykedelika viser rigtigt løfte til behandling af depression, angst og PTSD—men der er en hage: måden vi tester dem på på laboratoriet, afspejler måske ikke hvordan de faktisk virker på mennesker. En stor gennemgang af 266 rodent-studier afdækker et kritisk misforhold: de fleste dyreforsøg indeholder stressende forhold (som fysisk fastholden og isolation), der går imod det, som gør psykedelika terapeutiske hos mennesker, hvor \"mindset og setting\"—dit sindsstemning og komfortable miljø—betyder alt. Desuden måler testene næppe overfladen af hvad en psykedelisk oplevelse egentlig indebærer.\n\nForskere analyserede hvordan disse studier måler effekter og fandt, at de typisk bruger korte, snævre adfærdsmål, der mister det rigt varierede og udviklings-dynamiske ved psykedeliske tilstande. Dette translationsgab hjælper med til at forklare hvorfor laboratoriefund har været så ukonsekvente, og hvorfor vi stadig ikke helt forstår hvordan disse stoffer virker. Konklusionen? Efterhånden som psykedelisk videnskab accelererer mod kliniske gennembrud, skal feltet genoverveje hvordan vi studerer disse forbindelser fra bunden af—ved at designe dyreforsøg som faktisk afspejler de forhold, der gør terapi virkelig."
+      },
+      "added_at": "2026-11-20T15:57:17.512826+00:00"
+    },
+    {
+      "title": "Psychedelic-assisted treatment for substance use disorders: Evidence and uncertainties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057215/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "New research is exploring how psychedelics might help people break free from addiction — and the early results are genuinely promising. Studies suggest that substances like psilocybin and MDMA, used alongside therapy, could help reset the patterns that keep people trapped in substance use disorders. The catch? We're still figuring out exactly how they work, who benefits most, and what the long-term effects really look like. Researchers reviewed existing evidence to map what we know and what we still need to understand. This fits into a bigger shift happening right now: psychedelics are moving from the fringes into serious medical research, offering a fresh angle on addiction when traditional treatments haven't worked. It's not a magic bullet, but it's a genuinely exciting door opening.",
+        "da": "Ny forskning udforsker, hvordan psykedelika kunne hjælpe mennesker til at bryde fri fra afhængighed — og de tidlige resultater er virkelig lovende. Studier tyder på, at stoffer som psilocybin og MDMA, brugt sammen med terapi, kunne hjælpe med at nulstille de mønstre, der holder mennesker fanget i stoffmisbrug. Hagen? Vi finder stadig ud af præcis hvordan de virker, hvem der får mest gavn, og hvad de langsigtede effekter egentlig er. Forskere gennemgik eksisterende evidens for at kortlægge hvad vi ved og hvad vi stadig skal forstå. Det passer ind i en større forsændring, der sker nu: psykedelika bevæger sig fra margenen ind i seriøs medicinsk forskning og tilbyder en frisk vinkel på afhængighed når traditionelle behandlinger ikke har virket. Det er ikke et tryllekunsttrick, men det er faktisk en spændende dør, der åbner sig."
+      },
+      "added_at": "2026-11-20T15:57:17.512826+00:00"
+    },
+    {
+      "title": "Animal models in psychedelic research – Tripping over translation",
+      "url": "https://doi.org/10.1038/s41398-026-04589-z",
+      "source": "OpenAlex",
+      "date": "2026-11-19",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Here's a wild thought: what if the way we're testing psychedelics in labs is completely missing what makes them work in humans? Researchers analysed 266 animal studies and found a major problem—most were stressing out the rodents during testing, using restraint-based drug delivery, and measuring only tiny fragments of behaviour, missing the whole rich experience that seems crucial to psychedelic therapy. This matters because humans benefit from psychedelics in carefully prepared, safe environments with psychological support, but animal research barely mirrors these conditions. This systematic audit reveals why lab findings aren't translating into real understanding. As psychedelic science races forward toward clinical breakthroughs, this study asks a crucial question: are we accidentally studying the wrong thing? Getting the preclinical foundation right could unlock faster progress.",
+        "da": "Her er en vild tanke: hvad hvis den måde, vi tester psykedelika på i laboratorier, komplet mister det, der gør dem virksomme for mennesker? Forskere analyserede 266 dyreforsøg og fandt et stort problem—de fleste stressede rotterne under testning, brugte tvangsbinding til stoffreducering, og målte kun små brudstykker af adfærd, mens de missede den rige helhedsoplevelse, der virker afgørende for psykedelisk terapi. Det betyder noget, fordi mennesker får gavn af psykedelika i omhyggeligt forberedte, sikre miljøer med psykologisk støtte, men dyreforsøg afspejler næppe disse forhold. Denne systematiske revision viser, hvorfor laboratoriefund ikke oversættes til rigtig forståelse. Mens psykedelisk forskning skynder sig mod kliniske gennembrud, stiller dette studie det kritiske spørgsmål: studerer vi utilsigtet det forkerte? At få det prækliniske fundament rigtigt kunne åbne dørene for hurtigere fremskridt."
+      },
+      "added_at": "2026-11-20T15:57:17.512826+00:00"
+    },
+    {
+      "title": "Novel quantification method for psilocin in brain tissues using liquid chromatography-tandem mass spectrometry",
+      "url": "https://doi.org/10.1039/d6ay01614f",
+      "source": "OpenAlex",
+      "date": "2026-11-18",
+      "drug": "psilocybin",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Scientists just developed a precise way to measure how psilocin (the active form of psilocybin) moves through the brain—and the results are revealing. When they compared regular psilocybin with a specially designed co-crystal version, they found something intriguing: the co-crystal stayed in the brain longer, potentially giving it a more sustained effect. Interestingly, the drug's concentration didn't differ between males and females or across different brain regions, suggesting psilocybin distributes quite evenly.\n\nUsing advanced lab techniques (liquid chromatography-tandem mass spectrometry), researchers mapped exactly what happens to psilocin in mouse brains over time. This breakthrough matters because understanding how psychedelics actually move through our nervous system is foundational—it helps scientists design better formulations and predict how different doses and delivery methods might affect us. As psychedelic research accelerates toward human trials, this kind of detailed pharmacological knowledge is becoming essential for unlocking the therapeutic potential we keep hearing about.",
+        "da": "Forskerne har netop udviklet en præcis metode til at måle, hvordan psilocin (den aktive form af psilocybin) bevæger sig gennem hjernen—og resultaterne afslører noget spændende. Da de sammenlignede almindelig psilocybin med en specialdesignet co-krystal-version, fandt de noget bemærkelsesværdigt: co-krystallen forblev længere i hjernen, hvilket potentielt kan give en mere vedvarende effekt. Interessant nok viste stoffets koncentration ingen forskel mellem mænd og kvinder eller på tværs af forskellige hjernregioner, hvilket tyder på, at psilocybin fordeler sig ret jævnt.\n\nVed hjælp af avancerede laboratorieteknikker kortlagde forskerne præcist, hvad der sker med psilocin i musehjerner over tid. Dette gennembrud betyder noget, fordi det at forstå, hvordan psykedelika faktisk bevæger sig gennem vores nervesystem, er grundlæggende—det hjælper videnskabsmænd med at designe bedre formuleringer og forudsige, hvordan forskellige doser og leveringsmetoder kan påvirke os. Når psykedelika-forskningen accelererer mod human-studier, bliver denne slags detaljeret farmakologisk viden afgørende for at låse op for det terapeutiske potentiale, vi hele tiden hører om."
+      },
+      "added_at": "2026-11-20T15:57:17.512826+00:00"
+    },
+    {
+      "title": "Psychedelic experience intensity during ketamine treatment and antidepressant outcomes",
+      "url": "https://doi.org/10.1007/s00213-026-07219-0",
+      "source": "OpenAlex",
+      "date": "2026-11-18",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Here's something counterintuitive: when people taking ketamine for depression experienced more intense psychedelic effects—vivid emotions, shifting thoughts, visual changes—they actually got better faster. A new study of 3,637 patients found that those with stronger subjective experiences at the two-week mark showed significantly greater drops in depression symptoms by week four. This flips the script on how we've traditionally viewed ketamine's effects, moving beyond seeing intensity as just a side effect to watch out for.\n\nResearchers measured the full range of what people actually experienced using a comprehensive scale, not just dissociation measures. The findings suggest that the subjective journey itself may be part of what makes ketamine work for depression—a reminder that psychedelics operate through complex, multifaceted mechanisms we're only beginning to understand. As depression treatment evolves, this opens new questions about how inner experience connects to healing.",
+        "da": "Her er noget kontraintuitivt: når mennesker tog ketamin mod depression og oplevede mere intense psykedelika-effekter—levende følelser, skiftende tanker, visuelle forandringer—blev de faktisk bedre hurtigere. Et nyt studie af 3.637 patienter viste, at dem med stærkere oplevelser ved touge-mærket fik betydeligt større fald i depressionsymptomer inden uge fire. Det vendte hele tilgangen op og ned—i stedet for at se intensitet som blot en bivirkning at holde øje med, foreslår det, at den indre oplevelse selv kan være afgørende.\n\nForskere målte det fulde spektrum af, hvad mennesker faktisk oplevede, ikke bare dissociation. Resultaterne tyder på, at den subjektive rejse kan være en del af det, der får ketamin til at virke mod depression—en påmindelse om, at psykedelika virker gennem komplekse mekanismer, vi først begynder at forstå. Når depressionbehandling udvikler sig, åbner det nye spørgsmål om forbindelsen mellem indre oplevelse og helbredelse."
+      },
+      "added_at": "2026-11-20T15:57:17.512826+00:00"
+    },
     {
       "title": "Maintenance ketamine infusions for treatment-resistant bipolar depression: An open-label extension trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43051162/",
@@ -715,71 +780,6 @@
         "da": "En kvinde med alvorlig depression, der ikke reagerede på andre behandlinger, oplevede at hendes symptomer styrtdykkede inden for blot 10 dage, hvis hun missede hendes ugentlige esketamin-klinikbesøg—hendes depressionsscore kunne stige fra næsten fuldstændig remission til alvorlig tilstand ved en enkelt forsinket time. Men her er det interessante: ved at kombinere to andre mediciner (et håndkøbsmiddel mod hoste og et antidepressivum) mellem esketamin-behandlingerne lykkedes det hende at strække behandlingerne til hver anden uge uden tilbagefald. Forskere tror, at de to stoffer virker på lignende hjernebaner, og det ene hjælper med at holde det andet på stabilt niveau i kroppen. Denne case study antyder noget større: når psykedelika bevæger sig ind i mainstream medicin, er logistikken omkring hyppige klinikbesøg en reel barriere. Disse tidlige resultater tyder på, at vi måske kan udvikle smarte kombinationer, der gør psykedelika-behandlinger mere praktiske og tilgængelige—selvom meget mere forskning er nødvendig for at vide, om denne fremgangsmåde virker for andre."
       },
       "added_at": "2026-11-05T15:13:24.753267+00:00"
-    },
-    {
-      "title": "Potent and Irreversible? Evaluating the In Vitro Monoamine Oxidase Inhibition Potential of Eight Psychedelics of the Cyclopropylamine Type",
-      "url": "https://doi.org/10.3390/metabo16110852",
-      "source": "OpenAlex",
-      "date": "2026-11-04",
-      "drug": "other",
-      "context": "harm-reduction",
-      "summaries": {
-        "en": "Scientists just tested eight psychedelics to see if they could dangerously interfere with how your brain breaks down mood-regulating chemicals. The good news? Most of them—including 25D-CPA, a compound chemically similar to an old psychiatric drug—showed surprisingly weak effects compared to what researchers feared. This matters because if psychedelics messed too much with these brain processes, it could cause serious problems. Researchers used lab-grown enzymes and advanced chemical analysis to measure exactly how much each psychedelic blocked these processes. This kind of detailed safety work is exactly what the field needs right now: as psychedelics move toward real clinical use, we need to understand not just whether they help people, but exactly how they work and what risks they carry. One study doesn't settle everything, but it's a solid piece of the puzzle.",
-        "da": "Forskere har netop testet otte psykedelika for at se, om de farligt kunne blande sig ind i, hvordan din hjerne nedbryder stemningsregulerende kemikalier. Det gode nyt? De fleste af dem—herunder 25D-CPA, en forbindelse der ligner et gammelt psykiatrisk lægemiddel—viste overraskende svage effekter sammenlignet med det, forskerne frygtede. Det betyder noget, fordi hvis psykedelika blokerede for meget af disse hjerneprocesrer, kunne det forårsage alvorlige problemer. Forskerne brugte laboratorieenzymer og avanceret kemisk analyse til at måle præcis, hvor meget hvert psykedelikum blokerede disse processer. Præcis denne slags sikkerhedsarbejde er netop hvad området har brug for nu: når psykedelika bevæger sig mod faktisk klinisk brug, skal vi forstå ikke blot om de hjælper mennesker, men præcis hvordan de virker og hvilke risici de bærer. Én undersøgelse afgør ikke alt, men det er et solidt puslespilsbrik."
-      },
-      "added_at": "2026-11-05T15:13:24.753267+00:00"
-    },
-    {
-      "title": "From Evidence to Practice: A Systematic Review of Implementation of Psychedelic-Assisted Psychotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978762/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "We know psychedelics can help people with trauma, depression, and other tough mental health struggles—the science is clear. But here's the catch: getting these treatments from the lab into actual clinics where patients need them is a whole different challenge. A new systematic review looked at everything we currently know about implementing psychedelic-assisted psychotherapy in real-world settings, examining six databases to find what actually works when it comes to rolling out these complex treatments. The findings matter because there's often a huge gap between discovering that something works and actually making it available to people. As psychedelics move closer to becoming approved treatments in more countries, understanding the practical hurdles—training therapists, setting up clinics, getting funding—becomes crucial. This review maps out what we know so far and what still needs figuring out, helping pave the way for smarter, more systematic implementation that could get help to people faster.",
-        "da": "Vi ved, at psykedelika kan hjælpe mennesker med traume, depression og andre svære psykiske lidelser—videnskaben er klar. Men her er kniben: at få disse behandlinger fra laboratoriet ind i rigtige klinikker, hvor patienter har brug for dem, er en helt anden udfordring. Et nyt systematisk review kiggede på alt, hvad vi i øjeblikket ved om implementeringen af psykedelika-assisteret psykoterapi i praksis, og undersøgte seks databaser for at finde ud af, hvad der fungerer, når det handler om at få disse komplekse behandlinger i gang. Fundet betyder noget, fordi der ofte er et enormt hul mellem at opdage, at noget virker, og faktisk at gøre det tilgængeligt for mennesker. Når psykedelika kommer tættere på at blive godkendt som behandlinger i flere lande, bliver det afgørende at forstå de praktiske forhindringer—uddannelse af terapeuter, etablering af klinikker, finansiering. Dette review kortlægger, hvad vi ved i dag, og hvad der stadig skal undersøges, og hjælper dermed med at forberede vejen for smartere og mere systematisk implementering."
-      },
-      "added_at": "2026-11-04T15:11:49.744196+00:00"
-    },
-    {
-      "title": "Psilocybin-Assisted Therapy for Cancer-Related Psychological and Existential Distress in Adults with Cancer: An Integrative Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975895/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Imagine facing a cancer diagnosis and finding that a single guided session with psilocybin could ease your depression, anxiety, and fear of death—sometimes for years. That's what this major review of six clinical studies found: people with cancer experienced rapid, lasting relief from psychological distress, with many reporting newfound acceptance, spiritual clarity, and a reconnection with what makes life meaningful. Researchers gave participants one moderate-to-high dose in a carefully structured setting and tracked outcomes over months and even years. The findings matter because they show psychedelics aren't just recreating earlier counterculture experiments—they're becoming a serious tool for end-of-life care and mental health support. As cancer therapies improve and people live longer with their diagnosis, this research points to a compassionate way to address the existential weight that often comes with the disease.",
-        "da": "Forestil dig at få diagnosen cancer og så opdage, at en enkelt guidet session med psykedelika kunne lette din depression, angst og dødsangst—nogle gange i år efter. Det er netop hvad denne omfattende gennemgang af seks kliniske studier viste: mennesker med cancer oplevede hurtig, varig lindring af psykisk belastning, og mange rapporterede øget accept, spirituel klarhed og en ny forbindelse til det, som gør livet meningsfuldt. Forskerne gav deltagerne én moderat-høj dosis i et omhyggeligt struktureret miljø og fulgte resultaterne over måneder og sågar år. Resultaterne betyder noget, fordi de viser, at psykedelika ikke blot genskaber gamle eksperimenter—de bliver et seriøst værktøj for palliativ omsorg og mental sundhed. Efterhånden som cancerbehandlinger forbedres og mennesker lever længere med deres diagnose, peger denne forskning på en medfølende måde at håndtere den eksistentielle vægt, som ofte følger med sygdommen."
-      },
-      "added_at": "2026-11-04T15:11:49.744196+00:00"
-    },
-    {
-      "title": "Compass Says NDA Will Be Filed Within Two Weeks, Declines to Comment on Usona",
-      "url": "https://psychedelicalpha.com/news/compass-says-nda-will-be-filed-within-two-weeks-declines-to-comment-on-usona/",
-      "source": "Psychedelic Alpha",
-      "date": "Tue, 03 No",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "We're inches away from a major milestone: Compass Pathways is filing its FDA application for COMP360, a psilocybin treatment for treatment-resistant depression, within the next two weeks. This isn't just corporate news—it's a sign that psychedelics are moving from underground experiments into the regulated medical system, potentially offering hope to people whose depression hasn't responded to anything else. The company shared this update in their latest quarterly results, marking real progress on a path that started years ago in research labs. This NDA filing represents a crucial moment for the whole field: if approved, it would be the first psilocybin therapy available by prescription, signalling to regulators, doctors, and patients that psychedelics deserve serious scientific consideration as medicine.",
-        "da": "Vi er på vej mod et stort gennembrud: Compass Pathways indgiver ansøgning til FDA om COMP360, en psilocybin-behandling for behandlingsresistent depression, inden for de næste to uger. Det er ikke bare virksomhedsnyt—det viser, at psykedelika bevæger sig fra underground-eksperimenter ind i det regulerede medicinsystem, og kan potentielt give håb til mennesker, hvis depression ikke har reageret på noget andet. Virksomheden delte denne opdatering i deres seneste kvartalsresultater, hvilket markerer konkret fremskridt på en vej, der startede for år siden i forskningstilsamlingen. Denne NDA-indgivelse er et afgørende øjeblik for hele området: hvis det godkendes, ville det være den første psilocybin-terapi tilgængelig på recept, hvilket signalerer til tilsynsmyndigheder, læger og patienter, at psykedelika fortjener seriøs videnskabelig overvejelse som medicin."
-      },
-      "added_at": "2026-11-04T15:11:49.744196+00:00"
-    },
-    {
-      "title": "Toxicological studies on the Inca frozen mummies from volcanoes in Peru and Argentina",
-      "url": "https://doi.org/10.15184/aqy.2026.10439",
-      "source": "OpenAlex",
-      "date": "2026-11-03",
-      "drug": "other",
-      "context": "anthropology",
-      "summaries": {
-        "en": "Ancient Inca sacrifices reveal a stunning secret: they were given cocaine and other psychoactive substances before their final ritual journey to the mountain gods. Researchers analyzed hair and nail samples from eight frozen mummies found high in the Andes, uncovering traces of cocaine, cocaethylene, and harmine—substances the Inca used to prepare these individuals for their sacred role as messengers to the deities. This toxicological detective work shows us that psychedelics and other mind-altering plants played a central part in Inca spiritual practice, not as casual use but as deliberate preparation for profound, life-changing moments. The findings reveal how different regions of the Inca Empire had their own ritual variations, and they add a crucial piece to our understanding of how ancient cultures integrated psychoactive substances into their worldview. As modern research explores psychedelics' potential for healing and spiritual insight, these 500-year-old mummies remind us that humans have always sought these substances for transformation—and that understanding this deep history matters.",
-        "da": "Gamle inkaofre afslører en forbløffende hemmelighed: de fik kokain og andre psykoaktive stoffer før deres sidste rituelle rejse til bjergeguderne. Forskere analyserede hår- og neglprøver fra otte frosne mumier fundet højt oppe i Anderne og opdagede spor af kokain, cocaethylen og harmin—stoffer som inkaerne brugte til at forberede disse mennesker til deres hellige rolle som budbringere til guderne. Dette toksikologiske detektivarbejde viser os, at psykedelika og andre sindsomdannende planter spillede en central rolle i inkaernes spirituelle praksis, ikke som tilfældig brug men som bevidst forberedelse til dybe, livsforandrende øjeblikke. Fundet afslører, hvordan forskellige dele af inkaeriget havde deres egen rituelle variation, og det tilføjer et afgørende puslespil til vores forståelse af, hvordan gamle kulturer integrerede psykoaktive stoffer i deres verdensopfattelse. Mens moderne forskning udforsker psykedelikas potentiale for helbredelse og åndelig indsigt, minder disse 500 år gamle mumier os om, at mennesker altid har søgt disse stoffer for transformation—og at det betyder noget at forstå denne dybe historie."
-      },
-      "added_at": "2026-11-04T15:11:49.744196+00:00"
     }
   ]
 }
