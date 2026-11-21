@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-20T15:57:52.637284+00:00",
+  "generated_at": "2026-11-21T15:08:33.458291+00:00",
   "items": [
+    {
+      "title": "Ketamine promotes strategic and efficient approach-avoidance conflict resolution.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064727/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "When facing a scary choice—like whether the reward is worth the risk—most people freeze up or give up entirely. But a new study shows ketamine helps people make smarter decisions in these moments. Participants on ketamine earned 57% more tokens in a risk-reward task than controls, and outperformed lorazepam (a standard anti-anxiety drug) by 33%. They moved faster and more strategically, actually engaging with difficult choices rather than retreating from them.\n\nResearchers at Freiburg tested 34 healthy people across three sessions, measuring how they balanced approach and avoidance when stakes varied. The finding matters because excessive avoidance—getting stuck in \"no, too risky\"—is a core feature of depression and anxiety disorders. While ketamine's dissociative effects fade within hours, this strategic flexibility lingered during decision-making, suggesting it works differently than anxiety drugs that just numb everything. It's one more piece of evidence that psychedelics and dissociatives might help people break out of rigid thinking patterns.",
+        "da": "Når du står over for et skræmmende valg—som når du skal veje risiko mod belønning—fryser de fleste mennesker eller giver op. Men en ny studie viser, at psykedelika hjælper folk med at træffe smartere beslutninger i disse øjeblikke. Deltagere på ketamin tjente 57% flere tokens i en risk-reward opgave end kontrolgruppen, og slog lorazepam (en standard angstdæmpende medicin) med 33%. De bevægede sig hurtigere og mere strategisk, og gav faktisk møde med vanskelige valg i stedet for at trække sig tilbage.\n\nForsker ved Freiburg testede 34 raske mennesker over tre sessioner og målte, hvordan de balancerede fremadrettethed og tilbagetrækning når indsatserne varierede. Resultatet betyder noget, fordi overdreven undvigelse—at blive hængende i \"nej, for risikabelt\"—er et kernetræk ved depression og angst. Selvom ketamins dissociative effekter forsvinder på timer, varede denne strategiske fleksibilitet ved under beslutningstagning, hvilket tyder på at det virker anderledes end angstmedicin, der bare numner alt. Det er endnu en brik i puslespillet om, hvordan psykedelika kan hjælpe folk med at bryde ud af stive tankemønstre."
+      },
+      "added_at": "2026-11-21T15:08:20.944907+00:00"
+    },
+    {
+      "title": "Corrigendum to \"Rapid antidepressant effects of ketamine combined with selective serotonin reuptake inhibitors: Mechanisms and outlook\" [J. Psychiatr. Res. 204, 380-385].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063586/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "What if one of psychiatry's most stubborn problems—treatment-resistant depression—could finally have an answer? New research is exploring how ketamine, combined with common antidepressants, might unlock rapid relief for people who haven't responded to traditional treatments. We're talking days or weeks instead of months. Scientists studied how these substances work together in the brain, revealing mechanisms that could reshape how we think about severe depression. This research fits into a broader shift: psychedelics and ketamine are moving from the margins into mainstream medicine, offering hope to millions who've hit dead ends with conventional therapy. The science is still young, but the possibilities are real.",
+        "da": "Hvad hvis psykiatrien endelig kunne få svar på et af sine mest stædige problemer—behandlingsresistent depression? Ny forskning udforsker, hvordan ketamin kombineret med almindelige antidepressiva kunne give hurtig lindring for mennesker, som ikke reagerer på traditionel behandling. Vi taler dage eller uger i stedet for måneder. Forskere undersøgte, hvordan disse stoffer arbejder sammen i hjernen og afslørede mekanismer, som kunne omforme vores forståelse af alvorlig depression. Denne forskning passer ind i en større tendens: psykedelika og ketamin bevæger sig fra marginalen ind i medicinens hovedstrøm og giver håb til millioner, der har prøvet alt traditionelt uden resultat. Videnskaben er stadig ung, men mulighederne er helt reelle."
+      },
+      "added_at": "2026-11-21T15:08:20.944907+00:00"
+    },
     {
       "title": "Animal models in psychedelic research - Tripping over translation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43058087/",
@@ -752,32 +778,6 @@
       "summaries": {
         "en": "Depression, anxiety, PTSD—psychedelics are showing real promise for treating conditions that have resisted traditional medicine for decades. But as researchers race to develop next-generation versions of these compounds, we're hitting an important moment: which approaches actually work, and how do we know? A new review digs into the science behind novel psychedelics and the tools we use to test them, laying bare what's working brilliantly and where we're still flying somewhat blind. This matters because psychedelic research is moving fast—new molecules, new protocols, new possibilities—and getting the fundamentals right now could shape the entire field for years to come.",
         "da": "Depression, angst, PTSD—psykedelika viser rigtig potentiale for at behandle tilstande, som traditionel medicin har kæmpet med i årtier. Men mens forskere løber af sted med at udvikle næste generations udgaver af disse stoffer, står vi over for et afgørende øjeblik: hvilke tilgange virker egentlig, og hvordan ved vi det? En ny gennemgang dykker ned i videnskaben bag nye psykedelika og de værktøjer, vi bruger til at teste dem, og blotlægger både hvad der virker glimrende og hvor vi stadig er ret uklare. Det betyder noget, fordi psykedelika-forskningen bevæger sig hurtigt—nye molekyler, nye protokoller, nye muligheder—og at få grundlaget på plads nu kunne præge hele feltet i mange år fremover."
-      },
-      "added_at": "2026-11-05T15:13:24.753267+00:00"
-    },
-    {
-      "title": "Ketamine/Esketamine in Clinical Practice: Areas of Consensus and Nonconsensus from an American Society of Clinical Psychopharmacology (ASCP) Delphi Panel Task Force.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981371/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Ketamine is becoming a real option for people with severe depression and suicidal thoughts — but experts still disagree on the best way to use it. A major panel of American clinical psychopharmacologists gathered to figure out where they actually agree on ketamine and esketamine in practice, and where the questions still linger. It turns out there's solid consensus on some things (it works fast, it can help when other treatments fail), but plenty of debate remains about dosing, how often people should receive it, and what happens after treatment stops.\n\nThis kind of expert consensus-building matters because ketamine represents something genuinely new in how we treat severe mental health crises — it works differently than traditional antidepressants and can offer relief within hours rather than weeks. As the psychedelic research field expands into examining how these compounds might heal the mind, understanding exactly how to use existing tools like ketamine in clinical settings becomes crucial. The honest disagreements documented here actually show the field taking itself seriously: there's real science happening, not hype.",
-        "da": "Ketamin bliver et reelt håb for mennesker med svær depression og selvmordstanker — men eksperter er stadig uenige om den bedste måde at bruge det på. Et stort panel af amerikanske kliniske psykofarmakologer mødte for at finde ud af, hvor de faktisk er enige om ketamin og esketamin i praksis, og hvor spørgsmålene stadig hænger i luften. Det viser sig, at der er solid enighed om nogle ting (det virker hurtigt, det kan hjælpe når andre behandlinger fejler), men der er rigelig debat om dosering, hvor ofte mennesker skal have det, og hvad der sker efter behandlingen slutter.\n\nDenne slags ekspertkonsensus betyder noget, fordi ketamin repræsenterer noget virkelig nyt i hvordan vi behandler alvorlige psykiske kriser — det virker anderledes end traditionelle antidepressiva og kan give lindring indenfor timer i stedet for uger. Når psykedelika-forskningsfeltet udvider sig til at undersøge hvordan disse stoffer kan helbrede sindet, bliver det afgørende at forstå præcis hvordan man bruger eksisterende værktøjer som ketamin klinisk. De ærlige uenigheder dokumenteret her viser faktisk, at feltet tager sig selv seriøst: der sker rigtig videnskab, ikke hype."
-      },
-      "added_at": "2026-11-05T15:13:24.753267+00:00"
-    },
-    {
-      "title": "Bridging Nonconsecutive Esketamine Weeks with Bupropion and Over-the-Counter Dextromethorphan.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42979585/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "A woman with severe depression that hadn't responded to other treatments found her symptoms would crash within just 10 days if she missed her weekly esketamine clinic visits—her depression score could spike from near-remission to severe in a single delayed appointment. But here's what's interesting: by combining two other medicines (an over-the-counter cough suppressant and an antidepressant) between esketamine sessions, she managed to stretch treatments to every other week without relapsing. Researchers think the two drugs work on similar brain pathways, and one helps keep the other at stable levels in her body. This case study hints at something bigger: as psychedelics move into mainstream medicine, the logistics of getting people to frequent clinic visits is a real barrier. These early findings suggest we might develop smart combinations that make psychedelic treatments more practical and accessible—though much more research is needed to know if this approach works for others.",
-        "da": "En kvinde med alvorlig depression, der ikke reagerede på andre behandlinger, oplevede at hendes symptomer styrtdykkede inden for blot 10 dage, hvis hun missede hendes ugentlige esketamin-klinikbesøg—hendes depressionsscore kunne stige fra næsten fuldstændig remission til alvorlig tilstand ved en enkelt forsinket time. Men her er det interessante: ved at kombinere to andre mediciner (et håndkøbsmiddel mod hoste og et antidepressivum) mellem esketamin-behandlingerne lykkedes det hende at strække behandlingerne til hver anden uge uden tilbagefald. Forskere tror, at de to stoffer virker på lignende hjernebaner, og det ene hjælper med at holde det andet på stabilt niveau i kroppen. Denne case study antyder noget større: når psykedelika bevæger sig ind i mainstream medicin, er logistikken omkring hyppige klinikbesøg en reel barriere. Disse tidlige resultater tyder på, at vi måske kan udvikle smarte kombinationer, der gør psykedelika-behandlinger mere praktiske og tilgængelige—selvom meget mere forskning er nødvendig for at vide, om denne fremgangsmåde virker for andre."
       },
       "added_at": "2026-11-05T15:13:24.753267+00:00"
     }
