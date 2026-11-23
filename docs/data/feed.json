@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-22T15:05:50.483328+00:00",
+  "generated_at": "2026-11-23T19:02:01.208312+00:00",
   "items": [
+    {
+      "title": "DMT-induced aberrant salience and suggestibility correlate with mystical experiences and positive emotionality",
+      "url": "https://doi.org/10.1038/s41598-026-79990-1",
+      "source": "OpenAlex",
+      "date": "2026-11-23",
+      "drug": "dmt",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What if the same brain mechanism that creates psychosis could also open the door to profound healing and spiritual insight? New research on DMT suggests that how our brains assign meaning to experiences—a process that goes haywire in psychosis—might actually be key to the mystical breakthroughs people report on psychedelics. When people on DMT became more suggestible and experienced stronger feelings of meaning and connection, they also felt more joy and bliss, not less. Researchers gave 25 volunteers either DMT or placebo in a controlled study, measuring everything from hallucinations to spiritual experiences. The findings add an important piece to the puzzle: psychedelics aren't just random chaos in the brain—they're reorganising how we find meaning, and when that reorganisation includes openness and wonder, something genuinely therapeutic might happen. This reframes a decades-old debate and suggests the path forward in psychedelic medicine might hinge on understanding not just the drugs, but the mindset people bring to them.",
+        "da": "Hvad hvis den samme hjernemekanisme, der skaber psykose, også kunne åbne døren til dyb helbredelse og åndelig indsigt? Ny forskning med DMT tyder på, at den måde vores hjerner tillægger oplevelser betydning—en proces der går helt galt ved psykose—kunne faktisk være nøglen til de profunde gennembrud, folk oplever med psykedelika. Når mennesker på DMT blev mere modtagelige og oplevede stærkere følelser af mening og forbindelse, blev de også mere glædelige og salige, ikke mindre. Forskere gav 25 frivillige enten DMT eller placebo under kontrollerede forhold og målte alt fra halluccinationer til åndelige oplevelser. Fundet tilføjer en vigtig brik til puslespillet: psykedelika er ikke bare tilfældig kaos i hjernen—de omarrangerer, hvordan vi finder betydning, og når denne omarrangering inkluderer åbenhed og undren, kan noget ægte terapeutisk ske. Dette omfortolker en årtiers lang debat og tyder på, at vejen fremad inden for psykedelika-medicin kunne afhænge af at forstå ikke blot medicinerne, men det sind mennesker bringer til dem."
+      },
+      "added_at": "2026-11-23T19:01:31.358267+00:00"
+    },
+    {
+      "title": "Beyond the Topline: Helus’ CMO on SAEs, Placebo Response and Support in First Phase 3",
+      "url": "https://psychedelicalpha.com/news/beyond-the-topline-helus-cmo-on-saes-placebo-response-and-support-in-first-phase-3/",
+      "source": "Psychedelic Alpha",
+      "date": "Mon, 23 No",
+      "drug": "psilocybin",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "A major clinical trial just showed that a modified form of psilocin can significantly help people with treatment-resistant depression—and the results held up even when accounting for placebo effects, which are notoriously powerful in mental health studies. Helus Pharma's Phase 3 trial gave patients two doses of their experimental drug alongside therapy, and it worked better than the control group. The company used a clever chemical tweak to make the molecule last longer in the body, potentially improving how it works. This is a big moment for psychedelic medicine: we're moving past just proving these substances have potential and into the nitty-gritty of how to make them safer, more reliable treatments that doctors can actually prescribe. It's the kind of rigorous, boring-but-crucial science that turns promising discoveries into real medicine.",
+        "da": "Et større klinisk forsøg viser netop, at en modificeret form for psilocin kan hjælpe mennesker med behandlingsresistent depression betydeligt—og resultaterne holdt stand selv når man tog højde for placeboeffekter, som notorisk er kraftige inden for psykisk sundhed. Helus Pharmas fase 3-forsøg gav patienter to doser af deres eksperimentelle medicin sammen med terapi, og det virkede bedre end kontrolgruppen. Virksomheden brugte et smart kemisk trick til at gøre molekylet mere længerevarende i kroppen, hvilket potentielt forbedrer, hvordan det virker. Dette er et stort øjeblik for psykedelisk medicin: vi flytter os væk fra bare at bevise, at disse stoffer har potentiale, og ind i det praktiske arbejde med at gøre dem til sikrere, mere pålidelige behandlinger, som læger faktisk kan ordinere. Det er den slags stringent, lidt kedelig men afgørende forskning, der omdanner lovende opdagelser til rigtig medicin."
+      },
+      "added_at": "2026-11-23T19:01:31.358267+00:00"
+    },
+    {
+      "title": "Computational Analysis of Visual Patterns in Convolutional Neural Networks as Models for Psychedelic Neuroplasticity: A Multi-Feature Image Analysis and Network Recovery Study †",
+      "url": "https://doi.org/10.13140/rg.2.2.35388.60805",
+      "source": "OpenAlex",
+      "date": "2026-11-22",
+      "drug": "other",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "What if the way your brain rewires itself on psychedelics could be understood through artificial intelligence? Researchers just used computational models to study how psychedelics reshape visual perception and neural connections — and the results suggest these substances trigger a kind of brain plasticity that's fundamentally different from ordinary thinking. This matters because it gives us a concrete scientific window into something that's been hard to measure: exactly how psychedelics reorganize our neural networks.\n\nThe team analyzed visual patterns using AI models designed to mimic how brains process information, essentially reverse-engineering the psychedelic experience to understand its mechanics. This kind of work is crucial right now, as psychedelic science moves from \"does this work?\" to \"how exactly does it work?\" — laying groundwork for better treatments for depression, trauma, and beyond.",
+        "da": "Hvad hvis vi kunne forstå den måde, din hjerne omstrukturerer sig selv på psykedelika, gennem kunstig intelligens? Forskere brugte netop computational modeller til at studere, hvordan psykedelika ændrer vores visuelle perception og neurale forbindelser — og resultaterne tyder på, at disse stoffer udløser en hjerneplasticitet, som er fundamentalt forskellig fra normal tankegang. Det betyder noget, fordi det giver os et konkret videnskabeligt vindue til noget, som har været svært at måle: præcis hvordan psykedelika omorganiserer vores neurale netværk.\n\nHoldet analyserede visuelle mønstre ved hjælp af AI-modeller designet til at efterligne, hvordan hjerner behandler information — faktisk omvendt-enginering af den psykedeliske oplevelse for at forstå dens mekanik. Den slags arbejde er afgørende lige nu, når psykedelisk forskning bevæger sig fra \"virker det?\" til \"hvordan virker det præcis?\" — og danner grundlag for bedre behandlinger af depression, trauma og meget mere."
+      },
+      "added_at": "2026-11-23T19:01:31.358267+00:00"
+    },
+    {
+      "title": "ANÁLISE DAS EXPERIÊNCIAS DE USUÁRIOS DE AYAHUASCA E SUAS POSSIBILIDADES TERAPÊUTICAS",
+      "url": "https://doi.org/10.66221/0qaasg36",
+      "source": "OpenAlex",
+      "date": "2026-11-22",
+      "drug": "ayahuasca",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "People who use ayahuasca outside religious contexts are reporting genuinely transformative experiences—and they're not expecting the plant medicine to do all the work alone. A new study found that participants consistently described their experiences as revelatory and deeply meaningful, but they emphasized that therapy was essential for actually processing what they encountered. The research involved surveys and interviews with mostly university-educated adults aged 25-44 who used ayahuasca therapeutically. What's emerging is a clearer picture of how psychedelics might work in mental health: not as magic bullets, but as catalysts that need skilled support to integrate. This fits perfectly into where psychedelic science is heading—away from romanticizing these substances and toward understanding them as tools that work best within a thoughtful, integrated care approach.",
+        "da": "Folk der bruger ayahuasca uden for religiøs sammenhæng rapporterer om virkelig transformative oplevelser—og de forventer ikke, at plantens medicin skal gøre alt arbejdet alene. Et nyt studie viser, at deltagerne konsekvent beskrev deres erfaringer som åbenbarende og dybt meningsfulde, men understreger, at terapi var væsentlig for faktisk at bearbejde det, de mødte. Forskningen byggede på spørgeskemaer og interviews med primært universitetsudannede voksne i alderen 25-44, der brugte ayahuasca terapeutisk. Billedet, der tegner sig, viser hvordan psykedelika måske virker inden for mental sundhed: ikke som vidundermidler, men som katalysatorer der virker bedst med faglig støtte til integration. Det passer perfekt til hvor psykedelika-forskningen går hen—væk fra at romantisere disse stoffer og mod at forstå dem som værktøjer der fungerer bedst inden for en velgennemtænkt, integreret behandlingstilgang."
+      },
+      "added_at": "2026-11-23T19:01:31.358267+00:00"
+    },
+    {
+      "title": "AYAHUASCA E FLEXIBILIZAÇÃO COGNITIVA: UMA ANÁLISE À LUZ DA TCC",
+      "url": "https://doi.org/10.66221/g3yqth46",
+      "source": "OpenAlex",
+      "date": "2026-11-22",
+      "drug": "ayahuasca",
+      "context": "mental-health",
+      "summaries": {
+        "en": "After drinking ayahuasca, people report profound shifts in how they think about themselves and their lives. A new study listened carefully to seven people's experiences and found they described rethinking old beliefs, feeling more in control, and noticing changes in how they relate to others—patterns that align with what therapists see in cognitive therapy. Researchers analyzed these accounts qualitatively and found five key areas of change: self-image, personal control, relationships, spirituality, and fulfillment. The study doesn't claim ayahuasca alone caused these shifts—other factors matter too—but it adds real human detail to our growing understanding of how psychedelics might reshape rigid thinking patterns, something neuroscience is only beginning to map.",
+        "da": "Efter at have drikket ayahuasca rapporterer mennesker om dybe skift i, hvordan de tænker om sig selv og deres liv. En ny undersøgelse lyttede grundigt til syv menneskers oplevelser og fandt, at de beskrev en genovervejelse af gamle overbevisninger, følelsen af større kontrol og ændringer i, hvordan de forholder sig til andre—mønstre som stemmer overens med, hvad terapeuter ser i kognitiv terapi. Forskerne analyserede disse beretninger kvalitativt og fandt fem centrale områder for forandring: selvbillede, personlig kontrol, relationer, spiritualitet og selvrealisering. Studiet hævder ikke, at psykedelika alene forårsagede disse skift—andre faktorer spiller også en rolle—men det tilføjer vigtige menneskelige detaljer til vores voksende forståelse af, hvordan psykedelika kan omforme stiv tænkning, noget neurovidenskaben først nu begynder at kortlægge."
+      },
+      "added_at": "2026-11-23T19:01:31.358267+00:00"
+    },
     {
       "title": "Similarly Situated? Anonymous Citizen Petition Takes Aim at Usona’s Psilocybin Application",
       "url": "https://psychedelicalpha.com/news/similarly-situated-anonymous-citizen-petition-takes-aim-at-usonas-psilocybin-application/",
@@ -715,71 +780,6 @@
         "da": "Her er noget markant: mennesker, der kæmper med opioidafhængighed og fik psykedelika sammen med mindfulness-træning, oplevede et hurtigt løft i kropsbevidsthed—de mærkede deres egne fysiske fornemmelser tydeligere—og denne skift reducerede direkte deres trang. Forskerne tror, at psykedelika kunne fungere som en bro, der gentelegrer hjernens behandling af indre signaler, så mindfulness-praksis kan få dybere rod. Denne analyse af 68 voksne sammenlignet otte uger med mindfulness-baseret genopretningsprogrammet med og uden psykedelika, og fulgte deres kropsbevidsthed og trang i realtid. Resultaterne tyder på, at vi ser en genuint ny mekanisme: psykedelika omkabler måske ikke bare bevidstheden, de træner vores forhold til vores egne kroppe—noget afhængighed aktivt ødelægger. Det er en ledetråd, der peger mod, hvordan psykedelika kunne forstærke terapi på måder, vi kun lige begynder at forstå."
       },
       "added_at": "2026-11-06T14:49:47.545458+00:00"
-    },
-    {
-      "title": "Intravenous Ketamine or Esketamine in Adolescents With Major Depressive Disorder: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985314/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Teen depression might respond to esketamine—a form of ketamine—better than we thought, but we're only starting to understand how. A new review of three small clinical trials found that intravenous esketamine showed real promise for reducing depression and even suicidal thoughts in adolescents, something that standard ketamine didn't consistently achieve. The catch? Both forms caused dissociative experiences (feeling detached from your body or surroundings), and esketamine triggered more psychological side effects—raising real questions about what's worth tolerating.\n\nHere's what makes this important: depression in teens is serious, and current treatments don't work for everyone. Researchers gave adolescents these substances under controlled medical conditions to see what happened. The evidence is still sparse and messy—only three studies, small groups, and gaps in how side effects were reported—but it hints that psychedelics like esketamine could eventually offer new hope for young people in real crisis. We're nowhere near recommending this as routine treatment, but the direction of the science is worth watching closely.",
-        "da": "Teenage depression kunne måske reagere bedre på esketamin—en form af ketamin—end vi troede, men vi er kun ved at forstå hvordan. En ny gennemgang af tre små kliniske forsøg viste, at intravenøs esketamin havde stort løfte til at reducere depression og selv selvmordstanker hos unge, noget som standard ketamin ikke konsekvent præsterede. Men der er en pris: begge former forårsagede dissociative oplevelser (følelse af at være løsrevet fra kroppen eller omgivelserne), og esketamin udløste flere psykologiske bivirkninger—hvilket rejser rigtige spørgsmål om, hvad det er værd at tåle.\n\nHer er, hvorfor det betyder noget: depression hos unge er alvorlig, og nuværende behandlinger virker ikke for alle. Forskere gav unge mennesker disse stoffer under kontrollerede medicinske forhold for at se, hvad der skete. Beviserne er stadig sparsomme og rodet—kun tre studier, små grupper og huller i, hvordan bivirkninger blev rapporteret—men det antyder, at psykedelika som esketamin måske kunne give håb til unge mennesker i virkelig krise. Vi er langt fra at anbefale det som rutinemæssig behandling, men retningen af videnskaben er værd at følge nøje."
-      },
-      "added_at": "2026-11-06T14:49:47.545458+00:00"
-    },
-    {
-      "title": "Integrating multi-receptor and neuron-glia mechanisms of ketamine's antidepressant action: a convergence framework for understanding efficacy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985291/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "ketamine",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Ketamine works fast against depression—sometimes within hours—but scientists have been puzzled about exactly how. New research reveals it's not just one mechanism at play: ketamine simultaneously flips switches across multiple receptor systems in the brain, from glutamate signaling to growth factors, while also recruiting immune cells called glia to support the process. This explains why it's so effective where traditional antidepressants often fail.\n\nResearchers combined decades of findings into a unified model showing how ketamine's various effects converge to rewire depressed brains. This matters because it moves us beyond simplistic explanations and opens doors to designing better, faster-acting treatments—and potentially understanding how other psychedelics might work similarly. We're watching psychiatry shift from treating symptoms to actually understanding the biology beneath depression.",
-        "da": "Ketamin virker hurtigt mod depression—nogle gange inden for timer—men forskere har længe været forundret over præcis hvordan. Ny forskning viser at det ikke blot er én mekanisme: ketamin aktiverer samtidigt flere systemer i hjernen, fra glutamat-signalering til vækststoffer, og rekrutterer samtidig immunceller kaldet glia til at støtte processen. Det forklarer hvorfor det virker hvor traditionelle antidepressiva ofte fejler.\n\nForskere har kombineret årtiers resultater til en samlet model, der viser hvordan ketamins forskellige effekter konvergerer og omkoder deprimerede hjerner. Det betyder noget fordi det flytter os bort fra simple forklaringer og åbner døre til bedre, hurtigere virkende behandlinger—og potentielt forståelse af hvordan andre psykedelika måske virker på samme måde. Vi ser psykiatrien skifte fra at behandle symptomer til faktisk at forstå biologien bag depression."
-      },
-      "added_at": "2026-11-06T14:49:47.545458+00:00"
-    },
-    {
-      "title": "Intermittent theta burst stimulation to extend early ketamine response in treatment-resistant depression: A preliminary enriched randomized, double-blind, sham-controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983941/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Ketamine works fast for depression—but the relief fades within days. New research shows that combining it with a non-invasive brain stimulation technique called theta-burst stimulation might extend that benefit. In a trial with people who hadn't responded to other treatments, those who received five days of this stimulation after ketamine maintained their improvements better than those who didn't. Scientists also spotted changes in how different brain regions connected to each other. While the results are promising, they're still early-stage—but they hint at a practical way to make ketamine's rapid-onset effects stick around longer.",
-        "da": "Ketamin virker hurtigt mod depression—men lettelsen forsvinder inden for få dage. Ny forskning viser, at det at kombinere det med en ikke-invasiv hjernestimulationsteknik kaldet theta-burst-stimulation måske kan forlænge effekten. I et forsøg med mennesker, der ikke havde reageret på andre behandlinger, bibeholdt de, der fik fem dages stimulation efter ketamin, deres forbedringer bedre end de andre. Forskerne opdagede også ændringer i, hvordan forskellige hjerneregiactualoner forbandt sig til hinanden. Resultaterne er lovende, men stadig i en tidlig fase—men de peger på en praktisk måde at få ketamins hurtige virkning til at vare længere."
-      },
-      "added_at": "2026-11-06T14:49:47.545458+00:00"
-    },
-    {
-      "title": "From Toad Venom to Drug Development: The Clinical Pharmacology of Mebufotenin (5-MeO-DMT) in Treatment-Resistant Depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42983054/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "dmt",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "One in three people with depression don't respond to standard medication—and researchers are now exploring an unexpected solution: a compound from toad venom and Amazonian plants called mebufotenin (5-MeO-DMT). Early evidence suggests this psychedelic could help where conventional drugs fail, offering real hope for treatment-resistant depression. Scientists conducted a comprehensive review of mebufotenin's pharmacology and clinical development to understand how it works in the brain and body. This research fits into a broader shift: psychedelics are moving from fringe curiosity to serious pharmaceutical development, with multiple trials now investigating how these compounds might unlock new pathways for people who've exhausted other options. It's a reminder that sometimes healing comes from unexpected places.",
-        "da": "En af tre mennesker med depression reagerer ikke på almindelig medicin—og forskere udforsker nu en usandsynlig løsning: et stof fra tudekryller og amazonske planter kaldet mebufotenin (5-MeO-DMT). Tidlige tegn tyder på, at dette psykedelikum kunne hjælpe dér, hvor konventionelle lægemidler svigter, og giver håb til mennesker med behandlingsresistent depression. Forskere gennemgik omhyggeligt mebufotenins farmakologi og kliniske udvikling for at forstå, hvordan det virker i hjerne og krop. Denne forskning passer ind i en større forandring: psykedelika bevæger sig fra marginalt kuriøsitet til seriøs lægemiddelacceleration, hvor flere forsøg nu udforsker, hvordan disse stoffer kan åbne nye veje for mennesker, der har udtømt andre muligheder. Det minder os om, at healing nogle gange kommer fra uventede steder."
-      },
-      "added_at": "2026-11-06T14:49:47.545458+00:00"
-    },
-    {
-      "title": "Exploring the durability of esketamine and ketamine's antidepressant effects in the maintenance phase of treatment: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981896/",
-      "source": "PubMed",
-      "date": "2026-Oct",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Ketamine works fast for depression that won't respond to other treatments — but here's the crucial question: does the magic last? A new review of 43 studies reveals that yes, the benefits stick around *if you keep taking it*. But stop treatment, and relapse often follows. The research shows repeated ketamine and esketamine doses maintain improvement during ongoing care, though results vary depending on how the studies were designed. This matters because it shifts how we think about ketamine: not as a quick fix, but as a maintenance therapy that may need to continue over time. As psychedelics move from breakthrough hype into real clinical practice, understanding what *durability* actually looks like — the unglamorous but essential question of 'does this actually work long-term?' — is exactly the kind of grounded science that will shape how these tools get used in hospitals and clinics.",
-        "da": "Ketamin virker hurtigt på depression, som andre behandlinger ikke kan løse — men her er det afgørende spørgsmål: holder magien ved? Et nyt overblik over 43 studier afslører, at ja, effekten bliver ved *hvis du bliver ved med at tage det*. Men stop behandlingen, og tilbagefald følger ofte. Forskningen viser, at gentagne doser ketamin og esketamin opretholder forbedring under løbende behandling, selvom resultaterne varierer afhængigt af, hvordan studierne var designet. Det betyder noget, fordi det ændrer, hvordan vi tænker på ketamin: ikke som en lynløsning, men som en vedligeholdelsesterapi, der muligvis skal fortsætte over tid. Når psykedelika bevæger sig fra revolutionær hype hen imod virkelig klinisk praksis, er det præcis denne jordnære forskning — det usexy men væsentlige spørgsmål 'virker det faktisk længere tid?' — der skal forme, hvordan disse værktøjer bruges på hospitaler og klinikker."
-      },
-      "added_at": "2026-11-05T15:13:24.753267+00:00"
     }
   ]
 }
