@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-23T19:02:01.208312+00:00",
+  "generated_at": "2026-11-24T18:42:17.032650+00:00",
   "items": [
+    {
+      "title": "Pharmacological Inhibition of MAPK Signaling Attenuates LSD-Induced Hallucinogenic-like Effects and Differentially Modulates Persistent Behavioral and Structural Plasticity in Mice",
+      "url": "https://doi.org/10.1021/acschemneuro.6c00716",
+      "source": "OpenAlex",
+      "date": "2026-11-23",
+      "drug": "lsd",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "New research reveals that LSD's hallucinogenic kick and its longer-lasting effects on mood and brain structure might work through different mechanisms. Scientists blocked a specific brain pathway in mice and found it wiped out the acute trip-like effects—but here's the intriguing part: it didn't stop the persistent changes in mood and brain cell connections that showed up a week later. This suggests psychedelics might be doing something genuinely transformative at a deeper level than just the immediate experience.\n\nThe study used a targeted molecular approach to untangle how LSD works in the brain, isolating the role of a signaling pathway called MAPK/ERK. It's the kind of mechanistic legwork that matters as psychedelic science matures beyond asking whether these substances help, toward understanding exactly how they help. As clinical trials expand globally, knowing that the therapeutic effects operate independently from the hallucinations opens fascinating possibilities for how we might eventually use these tools in medicine.",
+        "da": "Ny forskning viser at LSD's hallucinogene effekt og de længerevarende ændringer i humør og hjernens opbygning sandsynligvis virker gennem forskellige mekanismer. Forskere blokerede en specifik hjernebane hos mus og fandt at den fjernede de akutte tripagtige effekter—men her bliver det interessant: det stoppede ikke de vedvarende ændringer i humør og hjernecellers forbindelser som dukkede op en uge senere. Det tyder på at psykedelika måske udfører noget ægte transformativt på et dybere niveau end blot den øjeblikkelige oplevelse.\n\nStudiet brugte en målrettet molekylær tilgang til at udrede hvordan LSD virker i hjernen og isolerede rollen af en signalvej kaldet MAPK/ERK. Det er præcis det slags mekanistisk grundarbejde der betyder noget når psykedelikaforskningen udvikler sig fra at spørge om disse stoffer hjælper til at forstå præcis hvordan de hjælper. Efterhånden som kliniske forsøg ekspanderer globalt åbner erkendelsen af at de terapeutiske effekter fungerer uafhængigt af hallucinationerne fascinerende muligheder for hvordan vi eventuelt kan bruge disse værktøjer i medicin."
+      },
+      "added_at": "2026-11-24T18:41:49.506631+00:00"
+    },
+    {
+      "title": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety",
+      "url": "https://doi.org/10.6084/m9.figshare.35094181",
+      "source": "OpenAlex",
+      "date": "2026-11-23",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine works fast for severe depression—but here's the catch. A major review of real-world data shows it can lift depression symptoms in about half of patients, yet benefits often fade within weeks and many people relapse. The good news? These results match what we see in controlled trials. The concerning part? Most clinics aren't systematically tracking long-term safety, side effects pile up with repeated doses, and we barely know how it compares head-to-head with other emerging treatments like esketamine or psychedelics. As ketamine clinics expand globally, we need rigorous monitoring systems and direct comparisons to understand what works best and for whom.",
+        "da": "Ketamin virker hurtigt mod svær depression—men der er en hage. En stor gennemgang af data fra klinisk praksis viser, at det kan lindre depressionssymptomer hos omkring halvdelen af patienterne, men fordelene forsvinder ofte inden for få uger, og mange får tilbagefald. Det gode nyt? Resultaterne matcher det, vi ser i kontrollerede forsøg. Det bekymrende? De fleste klinikker sporer ikke systematisk langtidssikkerhed, bivirkninger hober sig op ved gentagne doser, og vi ved næsten ikke, hvordan det sammenlignes direkte med andre nye behandlinger som esketamin eller psykedelika. Efterhånden som ketaminklinikker spreder sig globalt, har vi brug for stramme overvågningssystemer og direkte sammenligninger for at forstå, hvad der virker bedst og for hvem."
+      },
+      "added_at": "2026-11-24T18:41:49.506631+00:00"
+    },
+    {
+      "title": "Integrating implementation science in psychedelic-assisted therapy research: translational research methods and design considerations",
+      "url": "https://doi.org/10.1007/s00213-026-07217-2",
+      "source": "OpenAlex",
+      "date": "2026-11-23",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Psychedelics are showing real promise for depression and trauma—but there's a problem. We know they work in controlled research settings, but we don't actually know how to roll them out into regular hospitals and clinics without losing that magic. This new research proposes a clever solution: design clinical trials that do double duty, testing whether the treatments work *and* collecting data on how to actually implement them in the real world. By combining clinical and implementation research from day one, researchers can gather the practical insights needed to turn these breakthroughs into accessible treatments. It's a small shift in how we approach trials, but it could be the difference between psychedelics remaining a promising experiment and becoming standard care.",
+        "da": "Psykedelika viser rigtig potentiale for depression og traumer—men der er et problem. Vi ved, de virker i kontrollerede forsøg, men vi ved ikke, hvordan vi får dem ind i almindelige hospitaler og klinikker uden at miste deres kraft. Denne nye forskning foreslår en smart løsning: designet kliniske trials, der udfører dobbelt arbejde, tester om behandlingerne virker *og* indsamler data om, hvordan de faktisk implementeres i den virkelige verden. Ved at kombinere klinisk og implementeringsforskning fra starten kan forskere samle praktisk indsigt, der skal til for at gøre disse gennembrud til tilgængelige behandlinger. Det er et lille skift i, hvordan vi nærmer os trials, men det kunne være forskellen på, om psykedelika forbliver et lovende eksperiment, eller bliver standard behandling."
+      },
+      "added_at": "2026-11-24T18:41:49.506631+00:00"
+    },
+    {
+      "title": "Advancing women-centered psychedelic research in the United States: a translational public health agenda",
+      "url": "https://doi.org/10.3389/fpubh.2026.1955149",
+      "source": "OpenAlex",
+      "date": "2026-11-23",
+      "drug": "other",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Women experience depression, anxiety, and addiction at higher rates than men, yet they're almost invisible in psychedelic research. A new analysis reveals the gap: most trials don't even report whether treatments work differently for women, despite clear biological differences that could affect safety and effectiveness. This isn't just a research problem—it's urgent now that psychedelics are moving toward legal access in the US. Researchers used public health frameworks to map where the pipeline breaks down and found that the fix is within reach. By adopting consistent reporting standards and tracking key health variables, the field can finally build the evidence women deserve. The next phase of psychedelic science needs to include the people who could benefit most.",
+        "da": "Kvinder oplever depression, angst og misbrug oftere end mænd, men de er næsten usynlige i psykedelika-forskningen. En ny analyse afslører problemet: de fleste studier rapporterer ikke engang, om behandlinger virker forskelligt for kvinder, selvom biologiske forskelle klart kan påvirke sikkerhed og effektivitet. Det er ikke bare et forskningsproblem—det er presserende nu, hvor psykedelika bevæger sig mod legal tilgang i USA. Forskerne brugte folkesundhedsmodeller til at kortlægge, hvor systemet bryder sammen, og fandt at løsningen er inden rækkevidde. Ved at vedtage ensartede rapporteringsstandarder og registrere vigtige sundhedsvariabler kan området endelig opbygge det bevis, kvinder fortjener. Næste fase af psykedelika-videnskaben skal inkludere de mennesker, der kunne få mest gavn."
+      },
+      "added_at": "2026-11-24T18:41:49.506631+00:00"
+    },
+    {
+      "title": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071461/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Ketamine shows real promise for severe depression—studies show up to 71% of patients respond and over half enter remission. But here's the catch: for many, the benefits fade within weeks, and we're still in the dark about what happens with repeated doses over time. Researchers reviewed 56 real-world studies of intravenous ketamine and found something troubling: safety data is scattered and incomplete, with some clinics not reporting serious side effects at all. This matters because as ketamine becomes mainstream treatment, we need to know the full picture—not just whether it works acutely, but whether it's truly safe and effective as ongoing therapy. The field is moving fast, and head-to-head comparisons with esketamine, psychedelics, and other emerging treatments could reshape how we think about treating depression.",
+        "da": "Ketamin viser stort potentiale for alvorlig depression—studier viser, at op til 71% af patienterne responderer og over halvdelen opnår remission. Men der er en hage: for mange falmer fordelene inden for få uger, og vi ved stadig ikke, hvad der sker med gentagne doser over tid. Forskere analyserede 56 virkeligheds-studier af intravenøs ketamin og fandt noget bekymrende: sikkerhedsdata er spredt og ufuldstændigt, og nogle klinikker rapporterer overhovedet ikke alvorlige bivirkninger. Det betyder noget, fordi når ketamin bliver standardbehandling for depression, skal vi kende hele billedet—ikke bare om det virker akut, men om det er virkelig sikkert og effektivt som vedvarende terapi. Området udvikler sig hurtigt, og direkte sammenligninger med esketamin, psykedelika og andre nye behandlinger kunne omforme, hvordan vi behandler depression."
+      },
+      "added_at": "2026-11-24T18:41:49.506631+00:00"
+    },
     {
       "title": "DMT-induced aberrant salience and suggestibility correlate with mystical experiences and positive emotionality",
       "url": "https://doi.org/10.1038/s41598-026-79990-1",
@@ -715,71 +780,6 @@
         "da": "Hvad hvis det, der får dig til at føle dig forbundet på en koncert, kunne hele social angst? Et nyt studie viser, at mennesker med social angst, der fik MDMA-assisteret terapi, oplevede dramatiske forbedringer — deres angstscorer faldt med næsten 43 point på en standardmåling, med effekter langt ud over hvad der typisk sker med ventelister. Ingen alvorlige bivirkninger opstod. Forskerne gav 20 deltagere tre forberedelsessessioner, to doser MDMA med en terapeut og opfølgende integrationsøkter over flere måneder. Dette bygger på tidligere lovende resultater og repræsenterer et afgørende skridt: psykedelika er ikke tryllekunst, men når de kombineres med dygtig terapi i det rigtige miljø, hjælper de mennesker med at få adgang til dele af sig selv, der tidligere var låst af frygt. Vi ser fagfeltet bevæge sig fra \"virker det?\" til \"hvordan gør vi det sikkert og effektivt?\" — og det er virkelig spændende."
       },
       "added_at": "2026-11-07T13:46:28.508983+00:00"
-    },
-    {
-      "title": "Psychedelic modulation of excitation–inhibition balance and the Affective Core Self: A multilevel mechanistic framework",
-      "url": "https://doi.org/10.1556/2054.2026.00557",
-      "source": "OpenAlex",
-      "date": "2026-11-06",
-      "drug": "lsd",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "What if the key to psychedelics' lasting effects on mood and self-perception lies in how they rebalance the brain's basic wiring? New research proposes that psychedelics work by fine-tuning the equilibrium between excitation and inhibition across multiple levels of the brain—from your nervous system's automatic responses to your deepest sense of self. This isn't just abstract neuroscience; it means psychedelics may literally reshape how your brain regulates emotions and processes who you are, potentially explaining why people report such profound shifts in wellbeing long after the experience ends.\n\nScientists integrated evidence from neuroimaging and pharmacology studies to build this mechanistic framework, mapping how a single molecular action (5-HT2A receptor activation) cascades through interconnected brain circuits. The finding fits squarely into where psychedelic research is heading: moving beyond describing what happens in the brain during a trip, toward actually understanding *why* these substances create lasting changes in how people feel and think about themselves. That's the kind of clarity that could transform how we use psychedelics therapeutically.",
-        "da": "Hvad hvis nøglen til psykedelikas langvarige effekter på humør og selvopfattelse ligger i, hvordan de genopretter hiernens grundlæggende balance? Ny forskning foreslår, at psykedelika virker ved at fintjustere ligevægten mellem aktivering og hæmning på flere niveauer i hjernen—fra dine autonome reaktioner til din dybeste selvfølelse. Dette er ikke blot abstrakt neurovidenskab; det betyder, at psykedelika kan bogstaveligt talt omforme, hvordan din hjerne regulerer følelser og opfatter, hvem du er—hvilket potentielt forklarer, hvorfor mennesker oplever så dybe forandringer i trivsel længe efter oplevelsen er forbi.\n\nVidenskabsmænd integrerede fund fra hjernebilledning og farmakologistudier for at udvikle denne mekanistiske model, som kortlægger, hvordan en enkelt molekylær handling (5-HT2A receptoraktivering) bølger gennem sammenkoblede hjernekredse. Resultatet passer perfekt ind i, hvor psykedelikaforskningen er på vej: væk fra blot at beskrive hvad der sker i hjernen under en tur, hen imod faktisk at forstå *hvorfor* disse stoffer skaber vedvarende ændringer i, hvordan mennesker har det og tænker om sig selv. Dét er den klarhed, som kan transformere, hvordan vi bruger psykedelika terapeutisk."
-      },
-      "added_at": "2026-11-07T13:46:28.508983+00:00"
-    },
-    {
-      "title": "Researchers' Experiences with IRB Oversight of Psychedelic Research.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42995154/",
-      "source": "PubMed",
-      "date": "2026",
-      "drug": "other",
-      "context": "policy",
-      "summaries": {
-        "en": "Safety boards reviewing psychedelic research sometimes don't fully grasp what these substances actually do—but that's changing. Researchers who've navigated IRB approvals report that while review boards initially raised valid questions about participant safety and consent, many had misconceptions about psychedelics' risks. The good news? When researchers took time to educate their IRBs and build relationships, approvals moved forward smoothly. This matters because as psychedelic science accelerates toward real treatments for depression and PTSD, we need review systems that understand the science rather than fear the stigma. The study interviewed 20 US researchers about their IRB experiences, showing that knowledge-sharing between science and oversight bodies isn't just helpful—it's essential for getting promising research into the world.",
-        "da": "Etikkomitéer, der godkender psykedelika-forskning, forstår ikke altid helt, hvad disse stoffer gør—men det er ved at ændre sig. Forskere, der har navigeret gennem godkendelsesprocesser, fortæller, at selvom komitéerne stillede vigtige spørgsmål om sikkerhed og samtykke, havde mange fejlagtige opfattelser af psykedelikas risici. Det gode nyt? Når forskere brugte tid på at uddanne deres komitéer og opbygge relationer, gik godkendelser gnidningsløst. Det er vigtigt, fordi når psykedelika-videnskaben accelererer mod rigtige behandlinger for depression og PTSD, skal vi have kontrolsystemer, der forstår videnskaben i stedet for at frygte stigmaet. Studiet interviewede 20 amerikanske forskere om deres erfaringer og viser, at vidensdelingen mellem videnskab og godkendelsesmyndigheder ikke bare er hjælpsom—det er væsentligt."
-      },
-      "added_at": "2026-11-07T13:46:28.508983+00:00"
-    },
-    {
-      "title": "Mechanisms involved in the sex-dependent dopaminergic neurodegeneration induced by MDMA in a mouse model of adolescent drug exposure",
-      "url": "https://doi.org/10.3389/fphar.2026.1964354",
-      "source": "OpenAlex",
-      "date": "2026-11-06",
-      "drug": "mdma",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Here's a striking finding: MDMA affects male and female adolescent brains differently. Researchers gave young mice a dose of MDMA and discovered that the damage to a key dopamine-producing brain region (crucial for movement and motivation) unfolded differently depending on sex—revealing that biology matters when it comes to drug toxicity. This matters because adolescence is when the brain is still developing, and understanding these sex-specific risks could help us better protect young people.\n\nScientists tracked what happens in the brain at different time points after MDMA exposure, measuring antioxidant defenses, inflammation, and cell damage markers. The work zooms in on the molecular mechanisms driving MDMA's harmful effects—exactly the kind of detailed mechanistic research that's pushing psychedelic science forward. As researchers explore both the therapeutic potential and safety profiles of psychedelics, studies like this remind us why rigorous, nuanced science matters: it keeps the conversation honest and grounded.",
-        "da": "Her er et slående fund: MDMA påvirker mandlige og kvindelige adolescentes hjerner forskelligt. Forskere gav unge mus en dosis MDMA og opdagede, at skaden på en vigtig dopamin-producerende hjernedel (afgørende for bevægelse og motivation) forløb sig forskelligt afhængigt af køn—og viser, at biologi betyder noget for stoffets giftighed. Det betyder noget, fordi puberteten er når hjernen stadig udvikler sig, og at forstå disse kønsspecifikke risici kan hjælpe os med bedre at beskytte unge mennesker.\n\nForskerne fulgte, hvad der sker i hjernen på forskellige tidspunkter efter MDMA-eksponering og målte antioxidant-forsvaret, betændelse og celleskadesmarkører. Arbejdet zoomer ind på de molekylære mekanismer bag MDMAs skadelige effekter—præcis den slags detaljeret mekanistisk forskning, der driver psykedelika-forskningen fremad. Mens forskere udforsker både det terapeutiske potentiale og sikkerhedsprofilen af psykedelika, minder studier som dette os om, hvorfor stringent, nuanceret videnskab betyder noget: det holder samtalen ærlig og jordnær."
-      },
-      "added_at": "2026-11-07T13:46:28.508983+00:00"
-    },
-    {
-      "title": "Beyond self, time, and space: exceptional experiences and altered states of consciousness",
-      "url": "https://doi.org/10.3389/fpsyg.2026.1980354",
-      "source": "OpenAlex",
-      "date": "2026-11-06",
-      "drug": "other",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Ever felt like you knew something before it happened? Or experienced a moment that felt cosmically meaningful? These aren't just personal quirks—they're widespread across cultures, and science is taking them seriously. New research explores how exceptional experiences like precognition and meaningful coincidences might reveal something profound about consciousness itself, especially when they happen during altered states like meditation or psychedelic trips.\n\nThe challenge? Most of these experiences occur in deeply personal, emotionally charged moments that labs can't easily recreate. Researchers are now combining traditional experiments with qualitative methods—actually listening to people's stories—to understand these phenomena better. As psychedelics move into mainstream research, studying how they unlock these exceptional experiences could reshape our understanding of what consciousness really is.",
-        "da": "Har du nogensinde haft en følelse af at vide noget før det skete? Eller oplevet et øjeblik, der føltes kosmisk meningsfuldt? Det er ikke bare personlige særheder—det er udbredt på tværs af kulturer, og videnskaben tager det alvorligt. Ny forskning udforsker, hvordan ekstraordinære oplevelser som præmonitioner og meningsfulde tilfældigheder kunne afsløre noget dybt om bevidstheden, især når de opstår under forandrede bevidsthedstilstande som meditation eller psykedelika-oplevelser.\n\nUdfordringen? De fleste af disse oplevelser opstår i dybt personlige, følelsesmæssigt ladede øjeblikke, som laboratorier ikke let kan efterligne. Forskere kombinerer nu traditionelle eksperimenter med kvalitative metoder—faktisk at høre på menneskers historier—for at forstå disse fænomener bedre. Mens psykedelika moves ind i mainstream-forskning, kunne at studere hvordan de åbner disse ekstraordinære oplevelser omforme vores forståelse af hvad bevidsthed egentlig er."
-      },
-      "added_at": "2026-11-07T13:46:28.508983+00:00"
-    },
-    {
-      "title": "Ketamine, an interoceptive associative agent? Evidence from ketamine-assisted Mindfulness-Oriented Recovery Enhancement for opioid use disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989695/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "ketamine",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Here's something striking: people struggling with opioid addiction who received ketamine alongside mindfulness training showed a rapid boost in body awareness—noticing their own physical sensations more clearly—and this shift directly helped reduce their cravings. Researchers think ketamine might act like a bridge, rewiring how the brain processes internal signals so that mindfulness practice can take deeper root. This secondary analysis of 68 adults on buprenorphine compared eight weeks of mindfulness-based recovery training with and without ketamine assistance, tracking real-time body awareness and cravings. The results suggest we're looking at a genuinely new mechanism: psychedelics may not just shift consciousness, they might retrain our relationship with our own bodies—something addiction actively disrupts. It's a clue pointing toward how ketamine could amplify therapy in ways we're only beginning to understand.",
-        "da": "Her er noget markant: mennesker, der kæmper med opioidafhængighed og fik psykedelika sammen med mindfulness-træning, oplevede et hurtigt løft i kropsbevidsthed—de mærkede deres egne fysiske fornemmelser tydeligere—og denne skift reducerede direkte deres trang. Forskerne tror, at psykedelika kunne fungere som en bro, der gentelegrer hjernens behandling af indre signaler, så mindfulness-praksis kan få dybere rod. Denne analyse af 68 voksne sammenlignet otte uger med mindfulness-baseret genopretningsprogrammet med og uden psykedelika, og fulgte deres kropsbevidsthed og trang i realtid. Resultaterne tyder på, at vi ser en genuint ny mekanisme: psykedelika omkabler måske ikke bare bevidstheden, de træner vores forhold til vores egne kroppe—noget afhængighed aktivt ødelægger. Det er en ledetråd, der peger mod, hvordan psykedelika kunne forstærke terapi på måder, vi kun lige begynder at forstå."
-      },
-      "added_at": "2026-11-06T14:49:47.545458+00:00"
     }
   ]
 }
