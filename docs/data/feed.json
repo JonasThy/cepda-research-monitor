@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-26T17:36:25.211708+00:00",
+  "generated_at": "2026-11-27T17:17:20.172375+00:00",
   "items": [
+    {
+      "title": "Efficacy, location and kinetics at the 5-HT₂A receptor: A narrative review and testable framework for psychoplastogen design.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098249/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "lsd",
+      "context": "neuroscience",
+      "summaries": {
+        "en": "Depression that doesn't respond to normal antidepressants affects millions, and psychedelics like psilocybin show real promise for rapid relief—but their trippy effects and safety concerns make them tricky to develop as mainstream medicines. A new review explores whether we can harness the healing part of psychedelics (the neuroplasticity boost that rewires your brain) while ditching the hallucinations. Scientists are hunting for compounds that target specific brain receptors in just the right way, potentially creating new treatments without the intense psychological effects. This research maps out what we still need to learn—most evidence is early-stage lab work, not yet human trials—but it's charting a path toward psychedelic-inspired medicines that work like antidepressants you could take at home.",
+        "da": "Depression, som ikke reagerer på normale antidepressiva, rammer millioner af mennesker, og psykedelika som psilocybin viser reel løfte om hurtig lindring—men deres trippy effekter og sikkerhedsproblemer gør dem svære at udvikle som mainstream-medicin. Et nyt review undersøger, om vi kan høste det helende fra psykedelika (det neuroplasticitet-boost, som genskaber din hjerne) uden hallucina­tionerne. Videnskabsmænd søger stoffer, som rammer specifikke hjernereceptorer på præcis den rigtige måde, potentielt skabt nye behandlinger uden de intense psykologiske effekter. Denne forskning kortlægger, hvad vi stadig skal lære—mest evidens er tidlig fase lab-arbejde, ikke endnu menneske-studier—men den tegner vejen mod psykedelika-inspireret medicin, som virker som antidepressiva, du kunne tage derhjemme."
+      },
+      "added_at": "2026-11-27T17:16:47.726889+00:00"
+    },
+    {
+      "title": "A longitudinal data-driven approach to cluster tnreatment-resistant depressed patients treated with ketamine using immunomethylomics with 12 estimated immunological cell types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098226/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Your immune system might hold the key to whether ketamine will help your depression. Researchers found that patients with treatment-resistant depression show distinct immune fingerprints in their blood—and these patterns can predict who will actually respond to ketamine treatment. This isn't about blaming your body; it's about finally understanding why the same treatment works brilliantly for some people and not at all for others.\n\nScientists tracked immune cell changes in 91 depressed patients over four weeks, comparing those who received ketamine to those who didn't. By analyzing DNA patterns in blood, they identified three distinct immune profiles that told different stories about treatment response. This research points toward a future where doctors won't just guess which antidepressant to try—they'll use biological markers to match you with treatments actually designed for your unique biology. That's precision medicine for mental health.",
+        "da": "Dit immunsystem kan være nøglen til, om ketamin hjælper din depression. Forskere fandt ud af, at patienter med behandlingsresistent depression viser særlige immunfingertryk i blodet—og disse mønstre kan forudsige, hvem der rent faktisk vil reagere på ketaminbehandling. Det handler ikke om at give din krop skylden; det handler om endelig at forstå, hvorfor samme behandling virker glimrende for nogle og slet ikke for andre.\n\nForsker fulgte ændringer i immunceller hos 91 deprimerede patienter over fire uger og sammenlignede dem, der fik ketamin, med dem, der ikke gjorde. Ved at analysere DNA-mønstre i blodet identificerede de tre forskellige immunprofile, der fortalte forskellige historier om behandlingsrespons. Denne forskning peger mod en fremtid, hvor læger ikke bare gætter på, hvilken antidepressiv medicin der skal prøves—de bruger biologiske markører til at matche dig med behandlinger, der faktisk er designet til din unikke biologi. Det er præcisionsmedicin for mental sundhed."
+      },
+      "added_at": "2026-11-27T17:16:47.726889+00:00"
+    },
+    {
+      "title": "Esketamine for treatment-resistant depression: Comparing two maintenance schedules in an exploratory observational real-world study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099795/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Esketamine—a fast-acting psychedelic treatment—is showing real promise for people with depression that hasn't responded to traditional antidepressants. A new real-world study examined how often patients need to receive it to stay well, comparing different maintenance schedules. The findings suggest that tailoring the dosing frequency to individual needs might be key to keeping people stable long-term without unnecessary treatments.\n\nResearchers tracked actual patients in clinical settings rather than running a controlled lab experiment, giving us a clearer picture of how esketamine works in everyday practice. This fits into an exciting shift in mental health: psychedelics are moving from fringe experiments into serious medicine, with studies now focused on the practical questions that matter most—like how to use them sustainably and effectively for real people struggling with severe depression.",
+        "da": "Esketamin—en hurtigt virkende psykedelisk behandling—viser lovende resultater for mennesker med depression, som ikke responderer på traditionelle antidepressiva. Et nyt studie fra klinisk praksis undersøgte, hvor ofte patienter skal behandles for at blive ved med at være stabile, og sammenlignede forskellige behandlingsplaner. Resultaterne tyder på, at det kan være afgørende at tilpasse behandlingens hyppighed til den enkelte patients behov for at opretholde langsigtet stabilitet.\n\nForskerne fulgte patienter i rigtige kliniske settings i stedet for at køre kontrollerede laboratorieeksperimenter, hvilket giver os et mere klart billede af, hvordan esketamin fungerer i hverdagspraksis. Dette passer ind i en spændende udvikling inden for psykisk sundhed: psykedelika bevæger sig fra eksperimentelt territorium over mod alvorlig medicin, med studier der nu fokuserer på de praktiske spørgsmål, der betyder mest—som hvordan man bruger dem bæredygtigt og effektivt for mennesker, der kæmper med alvorlig depression."
+      },
+      "added_at": "2026-11-27T17:16:47.726889+00:00"
+    },
+    {
+      "title": "A license to use? Evaluating consumer licensure for psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097936/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "other",
+      "context": "policy",
+      "summaries": {
+        "en": "What if you needed a license to try psychedelics—like proving you know how to swim before entering the pool? A new study examines this idea as jurisdictions worldwide start opening doors to psychedelic therapy. The question sounds simple: could a quick safety course reduce harm and keep people protected? But the researchers uncover a tangle of real problems. Does education actually prevent bad trips or risky situations? Could licensing accidentally lock out people who need it most? Who designs the curriculum, and does it work fairly for everyone?\n\nThe study analyzed how policymakers might balance keeping people safe with respecting their freedom to choose. As more places legalize or decriminalize psychedelics for medical and personal use, these questions become urgent. The research doesn't say yes or no to licensing—instead, it maps out the hard choices ahead, helping societies think carefully about what good policy actually looks like.",
+        "da": "Hvad hvis man skulle have kørekort for at prøve psykedelika—som at skulle bevise man kan svømme før man går i bassinet? Et nyt studie undersøger denne ide, mens jurisdiktioner verden over åbner døre til psykedelisk terapi. Spørgsmålet virker simpelt: kunne et kort sikkerhedskursus reducere skade og holde mennesker beskyttet? Men forskerne afslører en masse rigtige problemer. Reducerer undervisning faktisk dårlige trips eller risikable situationer? Kunne licensering utilsigtet låse mennesker ude, som har mest brug for det? Hvem designer pensum, og virker det retfærdigt for alle?\n\nStudiet analyserede, hvordan politikere kan balancere sikkerhed med respekt for menneskers frihed til at vælge. Efterhånden som flere steder legaliserer eller dekriminaliserer psykedelika til medicinsk og personligt brug, bliver disse spørgsmål presserende. Forskningen siger ikke ja eller nej til licensering—i stedet kortlægger den de svære valg, som ligger foran, og hjælper samfund til at tænke grundigt over, hvad god politik egentlig ser ud til."
+      },
+      "added_at": "2026-11-27T17:16:47.726889+00:00"
+    },
+    {
+      "title": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097803/",
+      "source": "PubMed",
+      "date": "2026-Nov",
+      "drug": "ketamine",
+      "context": "clinical-research",
+      "summaries": {
+        "en": "Three-quarters of people with treatment-resistant depression saw their symptoms improve dramatically within just eight days of taking extended-release oral ketamine—and nearly 60% hit remission. That's remarkable. Researchers wanted to know if they could predict early on who would respond best by looking at baseline measurements and other patient data. They tested this on 224 people using statistical models, but here's the honest finding: while predicting remission showed some promise, predicting response was weak, and routine measures didn't add much beyond just knowing how severe someone's depression was at the start.\n\nThis analysis of the BEDROC trial reveals something important about where psychedelic and ketamine research is heading: we're moving beyond just celebrating that these treatments work, and asking harder questions about *how* to use them smartly in real clinics. Can we identify who'll benefit most before they start? Not yet—at least not reliably. That means more independent research is needed to build better prediction tools, but it also shows the field's maturity. We're being rigorous, honest about limitations, and laying groundwork for personalized treatment decisions down the line.",
+        "da": "Tre ud af fire mennesker med behandlingsresistent depression oplevede markant forbedring af deres symptomer på blot otte dage med extended-release oral ketamin—og næsten 60% opnåede fuldstændig remission. Det er bemærkelsesværdigt. Forskere ville vide, om de kunne forudsige tidligt, hvem der ville reagere bedst ved at kigge på baseline-målinger og andre patientdata. De testede dette på 224 personer ved hjælp af statistiske modeller, men her er det ærlige svar: mens forudsigelse af remission viste noget potentiale, var forudsigelse af respons svag, og rutinedata tilføjede ikke meget ud over at kende depressionsalvoren fra start.\n\nDenne analyse af BEDROC-studiet afslører noget vigtig om, hvor psykedelika- og ketaminforskningen går hen: vi bevæger os ud over blot at fejre, at disse behandlinger virker, og stiller sværere spørgsmål om, *hvordan* man bruger dem klogt i rigtige klinikker. Kan vi identificere, hvem der vil få gavn, før de starter? Ikke endnu—i hvert fald ikke pålideligt. Det betyder mere uafhængig forskning er nødvendig, men det viser også forskningens modenhed. Vi er grundig, ærlig om begrænsninger, og lægger grundlag for personaliseret behandling senere."
+      },
+      "added_at": "2026-11-27T17:16:47.726889+00:00"
+    },
     {
       "title": "Psychedelics and Psychedelic-Inspired Compounds for Substance Use Disorders: Are We Treating the Disease or Opening a Learning Window?",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43088300/",
@@ -715,71 +780,6 @@
         "da": "Her er noget som omformer depressionsbehandlingen: ketamin og psykedelika kan løfte humør på dage eller uger, ikke måneder. Det er enormt—og det tvinger forskerne til at gentænke hvordan antidepressiva rent faktisk virker. I årtier troede vi, man skulle tage piller dagligt for gradvist at genfinde balance i hjernen. Men disse stoffer virker anderledes og udløser hurtig omstrukturering af nerveforbindelser, som skabes ved varige ændringer. Et stort neuroforskning-review undersøgte præcis hvordan det sker: både ketamin og psykedelika sætter en kaskade af molekylære begivenheder i gang, der styrker synapser og hjælper hjernenetværk med at genvinde fleksibilitet, især i områder knyttet til humør, motivation og hvordan vi håndterer stress. Det fascinerende? De når samme destination gennem helt forskellige kemiske veje. Som psykedelika-forskningen accelererer, er det at forstå disse mekanismer ikke bare akademisk—det åbner døre til helt nye behandlinger for depression og potentielt andre tilstande som har modstået traditionel medicin."
       },
       "added_at": "2026-11-12T15:50:00.668013+00:00"
-    },
-    {
-      "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial",
-      "url": "https://doi.org/10.1016/j.jad.2026.122710",
-      "source": "CrossRef / Journal of Affective Disorders",
-      "date": "2027-2",
-      "drug": "mdma",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if the thing holding you back from connecting with others could shift in just a few sessions? A new study shows that MDMA-assisted therapy might do exactly that for people with social anxiety — creating measurable improvements in how they relate to themselves and to others. Researchers gave participants MDMA alongside therapy in a controlled setting, and the results suggest something genuinely different is happening compared to therapy alone.\n\nThis fits into a bigger picture: we're learning that psychedelics aren't just about intense experiences, but about breaking stubborn patterns that talk therapy alone sometimes can't budge. As MDMA-assisted therapy moves closer to clinical availability, studies like this are mapping exactly who benefits most and how the combination of the drug and skilled therapy actually works. It's cautious, rigorous science — and it's pointing toward real options for people who've felt stuck.",
-        "da": "Hvad hvis det, der holder dig tilbage fra at forbinde dig med andre mennesker, kunne ændre sig på bare nogle få sessioner? Et nyt studie viser, at MDMA-assisteret terapi kunne gøre præcis det for mennesker med social angst — og skabe målbare forbedringer i måden, de forholder sig til sig selv og til andre på. Forskerne gav deltagerne MDMA sammen med terapi i et kontrolleret miljø, og resultaterne tyder på, at der sker noget genuint anderledes sammenlignet med terapi alene.\n\nDet passer ind i et større billede: vi lærer, at psykedelika ikke kun handler om intense oplevelser, men om at bryde stive mønstre, som samtale-terapi alene nogle gange ikke kan knække. Efterhånden som MDMA-assisteret terapi bevæger sig tættere på klinisk anvendelse, kortlægger studier som dette præcis, hvem der får mest ud af det, og hvordan kombinationen af stoffer og dygtig terapi virker. Det er forsigtig, grundig videnskab — og den peger mod rigtige muligheder for mennesker, der har følt sig fastlåst."
-      },
-      "added_at": "2026-11-12T15:50:00.668013+00:00"
-    },
-    {
-      "title": "220 Patients or 20,000? Clinics Split on Psychedelics’ First Year",
-      "url": "https://psychedelicalpha.com/news/220-patients-or-20000-clinics-split-on-psychedelics-first-year/",
-      "source": "Psychedelic Alpha",
-      "date": "Thu, 12 No",
-      "drug": "other",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "Psychedelic clinics across the world are seeing wildly different patient numbers in their first year—some treating just 220 people while others are reaching 20,000. The gap isn't just about luck or location; it reveals how differently clinics are approaching psychedelic-assisted therapy and who they're actually reaching. For someone struggling with depression or PTSD, this scattered landscape means access to treatment depends heavily on where you live and how a clinic chooses to operate.\n\nAs psychedelic research explodes from labs into real-world clinics, these early results show we're at a crucial fork in the road. The question isn't just whether psychedelics work—studies already tell us they often do—but how we scale them responsibly and equitably. The clinics treating far more patients might be onto something about efficiency and reach, or they might be moving too fast. Either way, their different strategies are teaching the field what actually works when thousands of real people show up looking for help.",
-        "da": "Psykedelika-klinikker rundt omkring i verden behandler et vildt forskelligt antal patienter i deres første år—nogle behandler blot 220 mennesker, mens andre når op til 20.000. Forskellen handler ikke bare om held eller geografi; den afslører hvordan klinikker meget forskelligt griber psykedelika-assisteret terapi an og hvem de faktisk når ud til. For nogen som kæmper med depression eller PTSD betyder dette spredte landskab, at adgangen til behandling i høj grad afhænger af hvor du bor og hvordan en klinik vælger at arbejde.\n\nSom psykedelika-forskningen eksploderer fra laboratorier ud i rigtige klinikker, viser disse tidlige resultater at vi står ved en vigtig skillevej. Spørgsmålet er ikke bare om psykedelika virker—studier fortæller os allerede at de ofte gør—men hvordan vi skalerer dem ansvarligt og retfærdigt. De klinikker som behandler langt flere patienter kan være på sporet af noget vigtig om effektivitet og omfang, eller de kan flytte for hurtigt. Uanset hvad lærer deres forskellige strategier området hvad der faktisk virker når tusinder af rigtige mennesker møder op på søgende efter hjælp."
-      },
-      "added_at": "2026-11-12T15:50:00.668013+00:00"
-    },
-    {
-      "title": "Serotonin signaling in the rat prefrontal cortex is required for Retrieval-Induced Forgetting",
-      "url": "https://doi.org/10.1523/eneuro.0293-26.2026",
-      "source": "OpenAlex",
-      "date": "2026-11-11",
-      "drug": "lsd",
-      "context": "neuroscience",
-      "summaries": {
-        "en": "Your brain actively forgets things — and now scientists have discovered that psychedelics might play a role in controlling this process. A new study found that serotonin signaling in the prefrontal cortex (the brain's decision-making hub) is essential for retrieval-induced forgetting: the phenomenon where recalling one memory can suppress competing memories. Researchers worked with rats performing memory tasks, manipulating different serotonin receptors to see what happened. They discovered that blocking one type of serotonin receptor (5-HT2A) stopped forgetting entirely, while activating another (5-HT1A) had similar effects.\n\nThis might sound obscure, but it opens fascinating doors. Classic psychedelics like psilocybin and LSD directly interact with these same serotonin systems, which is why researchers are increasingly interested in how they reshape memory and cognition. Understanding the mechanics of active forgetting could help explain psychedelics' effects on the brain — and potentially inform therapies for conditions where faulty memory processing causes suffering. We're watching the invisible wiring of the mind come into focus.",
-        "da": "Dit hjerne glemmer aktivt ting — og nu har forskere opdaget, at psykedelika måske spiller en rolle i at kontrollere denne proces. Et nyt studie viser, at serotoninaktivitet i præfrontale cortex (hjernens beslutningstagning-hub) er afgørende for retrieval-induced forgetting: fænomenet hvor genkaldelsen af en erindring kan undertrykke konkurrerende minder. Forskere arbejdede med rotter i hukommelsesopgaver og manipulerede forskellige serotoninreceptorer for at se hvad der skete. De opdagede, at blokeringen af en type serotoninreceptor (5-HT2A) helt stoppede glemsel, mens aktivering af en anden (5-HT1A) havde samme effekt.\n\nDet lyder måske uskyldigt, men det åbner fascinerende døre. Klassiske psykedelika som psilocybin og LSD interagerer direkte med disse samme serotoninsystemer, hvilket er grunden til at forskere er stigende interesserede i hvordan de omformer hukommelse og kognition. At forstå mekanikken bag aktiv glemsel kunne hjælpe med at forklare psykedelikas effekter på hjernen — og potentielt informere terapi for tilstande hvor defekt hukommelsesbehandling forårsager lidelse. Vi ser hjernens usynlige ledninger komme til syne."
-      },
-      "added_at": "2026-11-12T15:50:00.668013+00:00"
-    },
-    {
-      "title": "Sexuality, gender, and the transformative potential of ayahuasca: a naturalistic inquiry",
-      "url": "https://doi.org/10.1080/19419899.2026.2755809",
-      "source": "OpenAlex",
-      "date": "2026-11-11",
-      "drug": "ayahuasca",
-      "context": "anthropology",
-      "summaries": {
-        "en": "What happens to your sense of self when you drink ayahuasca? New research is exploring how this traditional plant medicine shapes the way people experience their sexuality and gender identity. Participants reported profound shifts in how they understood themselves—sometimes questioning long-held beliefs about who they are. This naturalistic study tracked real people in genuine settings, capturing the messy, transformative reality that lab conditions often miss. As psychedelics move back into serious scientific study, this work highlights something crucial: these experiences don't just affect mood or creativity. They can reshape fundamental aspects of identity in ways that might matter deeply to how we think about psychological healing and self-discovery.",
-        "da": "Hvad sker der med dit selvbillede, når du drikker ayahuasca? Ny forskning udforsker, hvordan dette traditionelle plantemiddel påvirker måden, mennesker erfarer deres seksualitet og kønsidentitet på. Deltagerne rapporterede dybe skift i deres selvforståelse—nogle gang satte spørgsmålstegn ved længe holdte overbevisninger om, hvem de er. Dette naturalistiske studie fulgte rigtige mennesker i ægte sammenhænge og fangede den rodet, transformative virkelighed, som laboratorieforhold ofte mister. Mens psykedelika vender tilbage til seriøs videnskabelig forskning, understreger dette arbejde noget afgørende: disse oplevelser påvirker ikke blot stemning eller kreativitet. De kan omforme grundlæggende aspekter af identitet på måder, der kan være dybt vigtige for, hvordan vi tænker på psykologisk helbredelse og selvudvikling."
-      },
-      "added_at": "2026-11-12T15:50:00.668013+00:00"
-    },
-    {
-      "title": "Changes in self-related cognitive processes and depressive symptom severity following a single, moderate dose of psilocybin in depressed patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43007824/",
-      "source": "PubMed",
-      "date": "2026-Nov",
-      "drug": "psilocybin",
-      "context": "clinical-research",
-      "summaries": {
-        "en": "What if feeling better after depression started with how you see yourself? A new study found that people who took a single dose of psilocybin showed significant drops in depression symptoms and, crucially, developed a more positive view of themselves—changes that were directly linked to each other. Researchers gave 37 people with depression either psilocybin or a placebo, then tracked their brain activity and mood over two weeks. The results suggest that psychedelics may work by literally rewiring how our brains process thoughts about ourselves, shifting us away from the self-critical spirals that depression feeds on. This fits into a growing picture: psychedelics aren't just mood boosters, they're tools that help us relate to ourselves differently—and that shift in self-perception might be the real engine behind healing.",
-        "da": "Hvad hvis det at blive bedre fra depression startede med, hvordan du ser på dig selv? Et nyt studie viser, at mennesker, der tog en enkelt dosis psykedelika, oplevede betydelig mindre depression og fik på samme tid et mere positivt syn på sig selv—og disse forandringer hænger direkte sammen. Forskere gav 37 mennesker med depression enten psykedelika eller placebo og fulgte deres hjerneaktivitet og humør over to uger. Resultaterne tyder på, at psykedelika fungerer ved at omstrukturere, hvordan vores hjerner behandler tanker om os selv, og skubber os væk fra de selvkritiske spiraler, som depression lever af. Det passer ind i et voksende billede: psykedelika er ikke bare humørløftere—de er værktøjer, der hjælper os med at forholde os anderledes til os selv. Og denne ændring i selvopfattelse kunne være den egentlige motor for helbredelse."
-      },
-      "added_at": "2026-11-11T14:57:36.661241+00:00"
     }
   ]
 }
